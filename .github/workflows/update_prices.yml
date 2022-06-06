@@ -1,0 +1,32 @@
+name: join prices with anagrafe italian fuel stations
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 8 * * *'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: check out this repo
+      uses: actions/checkout@v2
+    - name: Get the data and analyze
+      run: |
+         chmod +x ./fuel_prices.sh
+#        chmod +x ./build-index.sh
+#        ./CAI_mods.sh val && ./CAI_mods.sh abr && ./CAI_mods.sh mar && ./CAI_mods.sh sic && ./CAI_mods.sh fri && ./CAI_mods.sh ven && ./CAI_mods.sh emr && ./CAI_mods.sh lom && ./CAI_mods.sh pie && ./CAI_mods.sh lig && ./CAI_mods.sh tos && ./build-index.sh
+      shell: bash
+    - name: Commit and push if changed
+      run: |-
+         git config user.name "Automated"
+         git config user.email "actions@users.noreply.github.com"
+         git add -A
+         timestamp=$(date -u)
+         git commit -m "Latest data: ${timestamp}" || exit 0
+         git push
