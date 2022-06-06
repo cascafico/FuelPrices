@@ -1,4 +1,5 @@
-name: join prices with anagrafe italian fuel stations
+name: generate_fuel_prices 
+# joins prices with anagrafe italian fuel stations
 
 # Controls when the action will run. 
 on:
