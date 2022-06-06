@@ -19,7 +19,7 @@ jobs:
     - name: Get the data and analyze
       run: |
          chmod +x ./update_prices.sh
-#        chmod +x ./build-index.sh
+         ./update_prices.sh
 #        ./CAI_mods.sh val && ./CAI_mods.sh abr && ./CAI_mods.sh mar && ./CAI_mods.sh sic && ./CAI_mods.sh fri && ./CAI_mods.sh ven && ./CAI_mods.sh emr && ./CAI_mods.sh lom && ./CAI_mods.sh pie && ./CAI_mods.sh lig && ./CAI_mods.sh tos && ./build-index.sh
       shell: bash
     - name: Commit and push if changed
