@@ -30,6 +30,3 @@ cat fuel.csv | grep ";Benzin\|;Blue Super" >> benzina.csv
 cat fuel.csv | grep ";Gasol\|;Blue Diesel" >> gasolio.csv
 cat fuel.csv | grep ";GPL" >> gpl.csv
 cat fuel.csv | grep ";Metano" >> metano.csv
-
-sleep 1
-mv -f *.csv /var/www/html/data/.
