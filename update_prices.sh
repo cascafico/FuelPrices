@@ -27,6 +27,18 @@ sed -i 's/;1;/;SelfService;/g' fuel.csv
 sed -i 's/;0;/;Servito;/g' fuel.csv
 
 cat fuel.csv | grep ";Benzin\|;Blue Super" >> benzina.csv
+max=`awk  '($9+0 > price+0 || price == "") && $1+0 > 0 { price = $9 } END { print price } ' FS=";" benzina.csv`
+awk -i inplace -v max=$max ' {printf "%s;%02d\n",$0,10*$9/max} '  FS=";" benzina.csv
+
 cat fuel.csv | grep ";Gasol\|;Blue Diesel" >> gasolio.csv
+max=`awk  '($9+0 > price+0 || price == "") && $1+0 > 0 { price = $9 } END { print price } ' FS=";" gasolio.csv`
+awk -i inplace -v max=$max ' {printf "%s;%02d\n",$0,10*$9/max} '  FS=";" gasolio.csv
+
 cat fuel.csv | grep ";GPL" >> gpl.csv
+max=`awk  '($9+0 > price+0 || price == "") && $1+0 > 0 { price = $9 } END { print price } ' FS=";" gpl.csv`
+awk -i inplace -v max=$max ' {printf "%s;%02d\n",$0,10*$9/max} '  FS=";" gpl.csv
+
+
 cat fuel.csv | grep ";Metano" >> metano.csv
+max=`awk  '($9+0 > price+0 || price == "") && $1+0 > 0 { price = $9 } END { print price } ' FS=";" metano.csv`
+awk -i inplace -v max=$max ' {printf "%s;%02d\n",$0,10*$9/max} '  FS=";" metano.csv
