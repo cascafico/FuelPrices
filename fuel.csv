@@ -9,6 +9,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 10355;Shell;46.1092319;12.8885239;;;Powerservice S.N.C. Area di Servizi Carburanti di Marzio Daniel & Tambosso Stefano;GPL;0.799;Servito;06/06/2022 06:15:55
 10355;Shell;46.1092319;12.8885239;;;Powerservice S.N.C. Area di Servizi Carburanti di Marzio Daniel & Tambosso Stefano;Gasolio;1.834;SelfService;06/06/2022 06:15:55
 10355;Shell;46.1092319;12.8885239;;;Powerservice S.N.C. Area di Servizi Carburanti di Marzio Daniel & Tambosso Stefano;Gasolio;2.044;Servito;06/06/2022 06:15:55
+10477;Agip;45.6668648;12.5344042;;;Benzina;2.109;Servito;07/06/2022 07:30:59
+10477;Agip;45.6668648;12.5344042;;;Blue Diesel;2.149;Servito;07/06/2022 07:30:59
+10477;Agip;45.6668648;12.5344042;;;Blue Super;2.259;Servito;07/06/2022 07:30:59
+10477;Agip;45.6668648;12.5344042;;;Gasolio;2.049;Servito;07/06/2022 07:30:59
+10566;Q8;45.4802422;12.5501616;;;Benzina;1.969;SelfService;03/06/2022 08:31:15
+10566;Q8;45.4802422;12.5501616;;;Gasolio;1.939;SelfService;03/06/2022 08:31:15
+10566;Q8;45.4802422;12.5501616;;;Hi-Q Diesel;2.099;SelfService;03/06/2022 08:31:15
+10566;Q8;45.4802422;12.5501616;;;HiQ Perform+;2.069;SelfService;03/06/2022 08:31:15
 10567;Agip;46.2125925;13.2127712;;;Astolfi Marco;Benzina;1.959;SelfService;04/06/2022 18:57:15
 10567;Agip;46.2125925;13.2127712;;;Astolfi Marco;Benzina;2.169;Servito;04/06/2022 18:57:15
 10567;Agip;46.2125925;13.2127712;;;Astolfi Marco;Gasolio;1.879;SelfService;04/06/2022 18:57:15
@@ -17,6 +25,15 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 10570;IP;46.5273540;13.1192850;;;Matiz Alberto;Benzina;1.939;SelfService;06/06/2022 17:14:36
 10570;IP;46.5273540;13.1192850;;;Matiz Alberto;Gasolio;1.849;Servito;06/06/2022 17:14:36
 10570;IP;46.5273540;13.1192850;;;Matiz Alberto;Gasolio;1.849;SelfService;06/06/2022 17:14:36
+10605;;45.2273041;12.1800977;;;Benzina speciale;2.107;SelfService;04/06/2022 11:39:55
+10605;;45.2273041;12.1800977;;;Benzina speciale;2.157;Servito;04/06/2022 11:39:55
+10605;;45.2273041;12.1800977;;;Benzina;1.957;SelfService;04/06/2022 11:39:55
+10605;;45.2273041;12.1800977;;;Benzina;2.007;Servito;04/06/2022 11:39:55
+10605;;45.2273041;12.1800977;;;Gasolio;1.837;SelfService;04/06/2022 11:39:55
+10605;;45.2273041;12.1800977;;;Gasolio;1.887;Servito;04/06/2022 11:39:55
+10676;;45.5503705;12.6608520;;;Benzina;1.989;SelfService;04/06/2022 12:38:13
+10676;;45.5503705;12.6608520;;;Gasolio speciale;1.969;SelfService;04/06/2022 12:38:13
+10676;;45.5503705;12.6608520;;;Gasolio;1.869;SelfService;04/06/2022 12:38:13
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;2.009;SelfService;07/06/2022 07:49:21
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;2.229;Servito;07/06/2022 07:49:21
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Blue Diesel;2.029;SelfService;07/06/2022 07:49:21
@@ -25,6 +42,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Blue Super;2.379;Servito;07/06/2022 07:49:21
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.929;SelfService;07/06/2022 07:49:21
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;2.149;Servito;07/06/2022 07:49:21
+10826;Agip;45.6479395;12.7947555;;;Benzina;1.959;SelfService;06/06/2022 12:44:13
+10826;Agip;45.6479395;12.7947555;;;Blue Diesel;1.979;SelfService;06/06/2022 12:44:13
+10826;Agip;45.6479395;12.7947555;;;Blue Super;2.109;SelfService;06/06/2022 12:44:13
+10826;Agip;45.6479395;12.7947555;;;Gasolio;1.879;SelfService;06/06/2022 12:44:13
+10929;IP;45.5240458;12.6402843;;;Benzina;1.999;SelfService;06/06/2022 20:05:58
+10929;IP;45.5240458;12.6402843;;;Benzina;2.079;Servito;06/06/2022 20:05:58
+10929;IP;45.5240458;12.6402843;;;Gasolio;1.899;SelfService;06/06/2022 20:05:58
+10929;IP;45.5240458;12.6402843;;;Gasolio;1.979;Servito;06/06/2022 20:05:58
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.929;SelfService;03/06/2022 09:09:13
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio Premium;1.989;SelfService;03/06/2022 09:09:13
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.859;SelfService;03/06/2022 09:09:13
@@ -145,12 +170,60 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11916;Q8;45.8437462;13.3263188;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.889;SelfService;01/06/2022 07:09:34
 11916;Q8;45.8437462;13.3263188;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;1.889;SelfService;01/06/2022 07:09:34
 11916;Q8;45.8437462;13.3263188;;;Servizi & Gestioni Italia S.R.L.;HiQ Perform+;1.999;SelfService;01/06/2022 07:09:34
+11939;Q8 Easy;45.7751530;12.8453037;;;Benzina;1.999;SelfService;02/06/2022 07:11:14
+11939;Q8 Easy;45.7751530;12.8453037;;;Gasolio;1.899;SelfService;02/06/2022 07:11:14
+11939;Q8 Easy;45.7751530;12.8453037;;;Hi-Q Diesel;2.199;SelfService;02/06/2022 07:11:14
+11939;Q8 Easy;45.7751530;12.8453037;;;HiQ Perform+;2.299;SelfService;02/06/2022 07:11:14
+11940;Q8;45.5095787;12.6441671;;;Benzina;2.019;SelfService;02/06/2022 07:11:14
+11940;Q8;45.5095787;12.6441671;;;Gasolio;1.919;SelfService;02/06/2022 07:11:14
+11940;Q8;45.5095787;12.6441671;;;Hi-Q Diesel;2.169;SelfService;02/06/2022 07:11:14
+11940;Q8;45.5095787;12.6441671;;;HiQ Perform+;2.269;SelfService;02/06/2022 07:11:14
+11941;Q8 Easy;45.4912720;12.2281570;;;Benzina;1.999;SelfService;02/06/2022 01:42:54
+11941;Q8 Easy;45.4912720;12.2281570;;;Gasolio;1.899;SelfService;02/06/2022 01:42:54
+11942;Q8;45.6504094;13.0610619;;;Benzina;1.999;SelfService;02/06/2022 07:11:15
+11942;Q8;45.6504094;13.0610619;;;Gasolio;1.919;SelfService;02/06/2022 07:11:15
+11942;Q8;45.6504094;13.0610619;;;Hi-Q Diesel;2.169;SelfService;02/06/2022 07:11:15
+11942;Q8;45.6504094;13.0610619;;;HiQ Perform+;2.249;SelfService;02/06/2022 07:11:15
+11943;Q8;45.6305230;12.5786700;;;Benzina;1.959;SelfService;02/06/2022 07:11:14
+11943;Q8;45.6305230;12.5786700;;;Gasolio;1.889;SelfService;02/06/2022 07:11:14
+11943;Q8;45.6305230;12.5786700;;;Hi-Q Diesel;2.189;SelfService;02/06/2022 07:11:14
+11943;Q8;45.6305230;12.5786700;;;HiQ Perform+;2.259;SelfService;02/06/2022 07:11:14
+11944;Q8;45.5548183;12.2983835;;;Benzina;2.019;SelfService;07/06/2022 07:07:24
+11944;Q8;45.5548183;12.2983835;;;Gasolio;1.929;SelfService;07/06/2022 07:07:24
+11944;Q8;45.5548183;12.2983835;;;Hi-Q Diesel;2.229;SelfService;07/06/2022 07:07:24
+11944;Q8;45.5548183;12.2983835;;;HiQ Perform+;2.319;SelfService;07/06/2022 07:07:24
+11945;;45.6018025;12.8709370;;;Benzina;2.009;SelfService;02/06/2022 07:11:14
+11945;;45.6018025;12.8709370;;;Gasolio;1.959;SelfService;02/06/2022 07:11:14
+11945;;45.6018025;12.8709370;;;Hi-Q Diesel;2.259;SelfService;02/06/2022 07:11:14
+11945;;45.6018025;12.8709370;;;HiQ Perform+;2.309;SelfService;02/06/2022 07:11:14
+11946;Q8 easy;45.4671500;12.2154270;;;Benzina;1.999;SelfService;07/06/2022 02:05:50
+11946;Q8 easy;45.4671500;12.2154270;;;Gasolio;1.889;SelfService;07/06/2022 02:05:50
+11947;Q8;45.5205730;12.1711055;;;Benzina;1.999;SelfService;07/06/2022 02:05:49
+11947;Q8;45.5205730;12.1711055;;;Gasolio;1.889;SelfService;07/06/2022 02:05:49
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.988;Servito;06/06/2022 10:12:54
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.888;Servito;06/06/2022 10:12:54
 12383;Agip;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.949;SelfService;04/06/2022 17:44:13
 12383;Agip;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.789;Servito;04/06/2022 17:44:13
 12383;Agip;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.899;SelfService;04/06/2022 17:44:13
 12383;Agip;46.1118909;13.0310080;;;D'Angelo Ivan;Hi-Q Diesel;2.149;SelfService;04/06/2022 17:44:13
+12561;Trivengas;45.5838954;12.6820749;;;Benzina;1.989;SelfService;07/06/2022 07:44:15
+12561;Trivengas;45.5838954;12.6820749;;;Benzina;2.029;Servito;07/06/2022 07:44:15
+12561;Trivengas;45.5838954;12.6820749;;;GPL;0.799;Servito;07/06/2022 07:44:15
+12561;Trivengas;45.5838954;12.6820749;;;Gasolio speciale;1.959;Servito;07/06/2022 07:44:15
+12561;Trivengas;45.5838954;12.6820749;;;Gasolio speciale;1.959;SelfService;07/06/2022 07:44:15
+12561;Trivengas;45.5838954;12.6820749;;;Gasolio;1.889;SelfService;07/06/2022 07:44:15
+12561;Trivengas;45.5838954;12.6820749;;;Gasolio;1.929;Servito;07/06/2022 07:44:15
+12735;;45.4622069;12.1676213;;;Benzina;1.899;SelfService;30/05/2022 07:19:34
+12735;;45.4622069;12.1676213;;;Benzina;2.099;Servito;30/05/2022 07:19:34
+12735;;45.4622069;12.1676213;;;Gasolio;1.819;SelfService;30/05/2022 07:19:34
+12735;;45.4622069;12.1676213;;;Gasolio;2.019;Servito;30/05/2022 07:19:34
+12877;TotalErg;45.7126945;13.0126603;;;Benzina;1.999;Servito;01/06/2022 11:47:11
+12877;TotalErg;45.7126945;13.0126603;;;Benzina;1.999;SelfService;01/06/2022 11:47:11
+12877;TotalErg;45.7126945;13.0126603;;;GPL;0.859;Servito;01/06/2022 11:47:11
+12877;TotalErg;45.7126945;13.0126603;;;Gasolio;1.899;Servito;01/06/2022 11:47:11
+12877;TotalErg;45.7126945;13.0126603;;;Gasolio;1.899;SelfService;01/06/2022 11:47:11
+12906;Europam;45.4917557;12.1193673;;;Benzina;1.979;SelfService;06/06/2022 13:22:30
+12906;Europam;45.4917557;12.1193673;;;Gasolio;1.869;SelfService;06/06/2022 13:22:30
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.988;SelfService;06/06/2022 11:09:18
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;GP DIESEL;1.998;SelfService;06/06/2022 11:09:18
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.898;SelfService;06/06/2022 11:09:18
@@ -209,6 +282,19 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.;Blue Super;2.314;Servito;07/06/2022 07:30:08
 14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.;Gasolio;1.874;SelfService;07/06/2022 07:30:08
 14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.;Gasolio;2.084;Servito;07/06/2022 07:30:08
+14227;Bolgan;45.5191727;12.1102516;;;Benzina;1.918;Servito;04/06/2022 09:08:21
+14227;Bolgan;45.5191727;12.1102516;;;Benzina;1.918;SelfService;04/06/2022 09:08:21
+14227;Bolgan;45.5191727;12.1102516;;;Gasolio;1.848;Servito;04/06/2022 09:08:21
+14227;Bolgan;45.5191727;12.1102516;;;Gasolio;1.848;SelfService;04/06/2022 09:08:21
+14268;;45.1365811;12.0758705;;;Benzina;1.974;SelfService;01/06/2022 00:58:58
+14268;;45.1365811;12.0758705;;;Benzina;2.184;Servito;01/06/2022 00:58:58
+14268;;45.1365811;12.0758705;;;Gasolio;1.894;SelfService;01/06/2022 00:58:58
+14268;;45.1365811;12.0758705;;;Gasolio;2.104;Servito;01/06/2022 00:58:58
+14268;;45.1365811;12.0758705;;;Hi-Q Diesel;1.994;SelfService;01/06/2022 00:58:58
+14268;;45.1365811;12.0758705;;;Hi-Q Diesel;2.204;Servito;01/06/2022 00:58:58
+14467;IP;45.1681590;12.2742528;;;Benzina;1.938;SelfService;06/06/2022 18:09:47
+14467;IP;45.1681590;12.2742528;;;GPL;0.779;Servito;06/06/2022 18:09:47
+14467;IP;45.1681590;12.2742528;;;Gasolio;1.828;SelfService;06/06/2022 18:09:47
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.968;SelfService;06/06/2022 07:23:49
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;2.178;Servito;06/06/2022 07:23:49
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Blue Diesel;2.010;SelfService;06/06/2022 07:23:49
@@ -244,6 +330,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Hi-Q Diesel;2.219;SelfService;06/06/2022 20:06:39
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.169;Servito;06/06/2022 20:06:39
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.169;SelfService;06/06/2022 20:06:39
+15360;Esso;45.7224388;12.7021906;;;Benzina WR 100;1.943;Servito;07/06/2022 07:46:09
+15360;Esso;45.7224388;12.7021906;;;Benzina WR 100;1.943;SelfService;07/06/2022 07:46:09
+15360;Esso;45.7224388;12.7021906;;;Benzina;1.969;Servito;07/06/2022 07:46:09
+15360;Esso;45.7224388;12.7021906;;;Benzina;1.969;SelfService;07/06/2022 07:46:09
+15360;Esso;45.7224388;12.7021906;;;GPL;0.799;Servito;07/06/2022 07:46:09
+15360;Esso;45.7224388;12.7021906;;;Gasolio;1.889;Servito;07/06/2022 07:46:09
+15360;Esso;45.7224388;12.7021906;;;Gasolio;1.889;SelfService;07/06/2022 07:46:09
+15360;Esso;45.7224388;12.7021906;;;Metano;1.829;Servito;07/06/2022 07:46:09
+15474;Agip;45.4572710;11.9932940;;;Benzina;1.959;SelfService;01/06/2022 13:59:03
+15474;Agip;45.4572710;11.9932940;;;Blue Diesel;2.029;SelfService;01/06/2022 13:59:03
+15474;Agip;45.4572710;11.9932940;;;Blue Super;2.139;SelfService;01/06/2022 13:59:03
+15474;Agip;45.4572710;11.9932940;;;Gasolio;1.879;SelfService;01/06/2022 13:59:03
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;2.019;Servito;06/06/2022 11:34:03
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Gasolio;1.959;Servito;06/06/2022 11:34:03
 15517;Q8;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.979;Servito;07/06/2022 07:42:08
@@ -259,10 +357,22 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;2.094;Servito;03/06/2022 08:06:01
 15835;;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.924;Servito;06/06/2022 08:21:42
 15835;;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.864;Servito;06/06/2022 08:21:42
+15872;Esso;45.5114817;12.6560659;;;Benzina;1.979;SelfService;06/06/2022 07:53:47
+15872;Esso;45.5114817;12.6560659;;;Gasolio Premium;2.029;SelfService;06/06/2022 07:53:47
+15872;Esso;45.5114817;12.6560659;;;Gasolio;1.909;SelfService;06/06/2022 07:53:47
+15964;;45.7293506;12.6836535;;;Benzina;1.999;SelfService;04/06/2022 13:24:01
+15964;;45.7293506;12.6836535;;;Benzina;2.179;Servito;04/06/2022 13:24:01
+15964;;45.7293506;12.6836535;;;Gasolio;1.889;SelfService;04/06/2022 13:24:01
+15964;;45.7293506;12.6836535;;;Gasolio;2.049;Servito;04/06/2022 13:24:01
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.879;Servito;24/05/2022 19:17:56
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.879;SelfService;24/05/2022 19:17:56
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.799;Servito;24/05/2022 19:17:56
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.799;SelfService;24/05/2022 19:17:56
+16235;;45.4873379;12.4176728;;;Benzina;2.224;Servito;06/06/2022 17:55:31
+16235;;45.4873379;12.4176728;;;Gasolio;2.138;Servito;06/06/2022 17:55:31
+16297;Esso;45.1970788;12.2868867;;;Benzina;1.919;Servito;04/06/2022 07:27:45
+16297;Esso;45.1970788;12.2868867;;;Gasolio;1.859;Servito;04/06/2022 07:27:45
+16297;Esso;45.1970788;12.2868867;;;Supreme Diesel;1.979;Servito;04/06/2022 07:27:45
 16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Benzina;1.969;SelfService;06/06/2022 07:15:00
 16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Gasolio;1.869;SelfService;06/06/2022 07:15:00
 16450;Eni;45.6734704;13.0883052;;;Torresan Massimo;Benzina;2.179;Servito;31/05/2022 14:40:58
@@ -290,8 +400,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Blue Super;2.399;Servito;07/06/2022 06:26:18
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.969;SelfService;07/06/2022 06:26:18
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;2.189;Servito;07/06/2022 06:26:18
+16725;;45.4449890;12.3370678;;;Benzina;2.194;Servito;03/06/2022 13:44:26
+16725;;45.4449890;12.3370678;;;Benzina;2.194;SelfService;03/06/2022 13:44:26
+16725;;45.4449890;12.3370678;;;Gasolio;2.166;Servito;03/06/2022 13:44:26
+16725;;45.4449890;12.3370678;;;Gasolio;2.166;SelfService;03/06/2022 13:44:26
+16813;Agip;45.5815673;12.3669729;;;Benzina;1.959;SelfService;01/06/2022 13:24:25
+16813;Agip;45.5815673;12.3669729;;;Gasolio;1.879;SelfService;01/06/2022 13:24:25
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.959;Servito;04/06/2022 12:01:17
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.889;Servito;04/06/2022 12:01:17
+16889;IP;45.7955036;12.6819489;;;Benzina;1.959;SelfService;06/06/2022 22:59:46
+16889;IP;45.7955036;12.6819489;;;Benzina;2.129;Servito;06/06/2022 22:59:46
+16889;IP;45.7955036;12.6819489;;;Gasolio;1.859;SelfService;06/06/2022 22:59:46
+16889;IP;45.7955036;12.6819489;;;Gasolio;2.029;Servito;06/06/2022 22:59:46
 16933;Total;46.5007150;13.3016832;;;Agnola Mario;Benzina;2.034;Servito;04/06/2022 08:57:25
 16933;Total;46.5007150;13.3016832;;;Agnola Mario;Benzina;2.034;SelfService;04/06/2022 08:57:25
 16933;Total;46.5007150;13.3016832;;;Agnola Mario;Gasolio;1.976;Servito;04/06/2022 08:57:25
@@ -315,6 +435,16 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Blue Diesel;1.979;SelfService;31/05/2022 14:40:19
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;1.879;SelfService;31/05/2022 14:40:19
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;2.089;Servito;31/05/2022 14:40:19
+17194;Eni;45.4718737;12.0273165;;;Benzina;2.009;SelfService;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Benzina;2.229;Servito;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Blue Diesel;2.029;SelfService;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Blue Diesel;2.249;Servito;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Blue Super;2.159;SelfService;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Blue Super;2.379;Servito;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;GPL;0.832;Servito;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Gasolio;1.929;SelfService;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Gasolio;2.149;Servito;07/06/2022 06:23:09
+17194;Eni;45.4718737;12.0273165;;;Metano;2.032;Servito;07/06/2022 06:23:09
 17483;Api;46.0015368;13.2066810;;;Piccini Leonardo;Benzina;1.939;SelfService;06/06/2022 19:10:37
 17483;Api;46.0015368;13.2066810;;;Piccini Leonardo;Benzina;2.179;Servito;06/06/2022 19:10:37
 17483;Api;46.0015368;13.2066810;;;Piccini Leonardo;Gasolio;1.869;SelfService;06/06/2022 19:10:37
@@ -328,16 +458,39 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio Premium;2.019;Servito;03/06/2022 07:28:50
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio artico;2.019;Servito;03/06/2022 07:28:50
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.899;Servito;03/06/2022 07:28:50
+17593;;45.4198550;12.1535490;;;Benzina;1.989;Servito;06/06/2022 23:03:02
+17593;;45.4198550;12.1535490;;;Benzina;1.989;SelfService;06/06/2022 23:03:02
+17593;;45.4198550;12.1535490;;;GPL;0.799;Servito;06/06/2022 23:03:02
+17593;;45.4198550;12.1535490;;;Gasolio;1.879;Servito;06/06/2022 23:03:02
+17593;;45.4198550;12.1535490;;;Gasolio;1.879;SelfService;06/06/2022 23:03:02
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.939;SelfService;03/06/2022 14:37:29
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.989;SelfService;03/06/2022 14:37:29
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Super;2.089;SelfService;03/06/2022 14:37:29
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.879;SelfService;03/06/2022 14:37:29
 17693;;45.7934010;13.4061100;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.999;SelfService;04/06/2022 06:55:21
 17693;;45.7934010;13.4061100;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.889;SelfService;04/06/2022 06:55:21
+18211;Tamoil;45.4485033;12.1941118;;;Benzina;2.029;Servito;06/06/2022 08:56:06
+18211;Tamoil;45.4485033;12.1941118;;;Benzina;2.029;SelfService;06/06/2022 08:56:06
+18211;Tamoil;45.4485033;12.1941118;;;GPL;0.609;Servito;06/06/2022 08:56:06
+18211;Tamoil;45.4485033;12.1941118;;;Gasolio;1.949;Servito;06/06/2022 08:56:06
+18211;Tamoil;45.4485033;12.1941118;;;Gasolio;1.949;SelfService;06/06/2022 08:56:06
+18279;Esso;45.6306040;12.5802470;;;Benzina;1.929;SelfService;03/06/2022 08:18:28
+18279;Esso;45.6306040;12.5802470;;;Benzina;2.049;Servito;03/06/2022 08:18:28
+18279;Esso;45.6306040;12.5802470;;;Gasolio Premium;1.979;SelfService;03/06/2022 08:18:28
+18279;Esso;45.6306040;12.5802470;;;Gasolio;1.859;SelfService;03/06/2022 08:18:28
+18279;Esso;45.6306040;12.5802470;;;Gasolio;1.979;Servito;03/06/2022 08:18:28
+18476;IP;45.4793170;12.2279600;;;Benzina;1.969;SelfService;07/06/2022 07:05:39
+18476;IP;45.4793170;12.2279600;;;Benzina;2.149;Servito;07/06/2022 07:05:39
+18476;IP;45.4793170;12.2279600;;;Gasolio;1.889;SelfService;07/06/2022 07:05:39
+18476;IP;45.4793170;12.2279600;;;Gasolio;2.069;Servito;07/06/2022 07:05:39
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.998;Servito;06/06/2022 07:38:43
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.929;SelfService;07/06/2022 07:11:12
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio Premium;2.029;SelfService;07/06/2022 07:11:12
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio;1.909;SelfService;07/06/2022 07:11:12
+18651;Eni;45.6395267;13.0615360;;;Benzina;1.959;SelfService;01/06/2022 10:11:09
+18651;Eni;45.6395267;13.0615360;;;Blue Diesel;1.979;SelfService;01/06/2022 10:11:09
+18651;Eni;45.6395267;13.0615360;;;Blue Super;2.109;SelfService;01/06/2022 10:11:09
+18651;Eni;45.6395267;13.0615360;;;Gasolio;1.879;SelfService;01/06/2022 10:11:09
 18677;Agip Eni;46.2109172;12.9546179;;;Dean Mirko;Benzina;1.967;Servito;07/06/2022 07:02:53
 18677;Agip Eni;46.2109172;12.9546179;;;Dean Mirko;Blue Diesel;1.985;Servito;07/06/2022 07:02:53
 18677;Agip Eni;46.2109172;12.9546179;;;Dean Mirko;Gasolio;1.867;Servito;07/06/2022 07:02:53
@@ -352,6 +505,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Blue Super;2.199;SelfService;07/06/2022 06:50:17
 18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Gasolio;1.899;SelfService;07/06/2022 06:50:17
 18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Gasolio;2.119;Servito;07/06/2022 06:50:17
+18937;IP;45.4777382;12.2324659;;;Benzina;1.969;SelfService;06/06/2022 22:46:07
+18937;IP;45.4777382;12.2324659;;;Gasolio;1.889;SelfService;06/06/2022 22:46:07
+18950;IP;45.1972460;12.2890784;;;Benzina;1.959;Servito;30/05/2022 10:43:03
+18950;IP;45.1972460;12.2890784;;;Gasolio;1.849;Servito;30/05/2022 10:43:03
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;Benzina;1.979;SelfService;06/06/2022 18:20:32
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;GPL;0.895;Servito;06/06/2022 18:20:32
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;Gasolio;1.899;SelfService;06/06/2022 18:20:32
@@ -371,6 +528,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Blue Super;2.349;Servito;06/06/2022 09:51:03
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.919;SelfService;06/06/2022 09:51:03
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;2.139;Servito;06/06/2022 09:51:03
+19577;Q8;45.4743543;12.0276266;;;Benzina;1.999;SelfService;04/06/2022 06:35:45
+19577;Q8;45.4743543;12.0276266;;;Benzina;2.309;Servito;04/06/2022 06:35:45
+19577;Q8;45.4743543;12.0276266;;;Gasolio;1.879;SelfService;04/06/2022 06:35:45
+19577;Q8;45.4743543;12.0276266;;;Gasolio;2.189;Servito;04/06/2022 06:35:45
+19577;Q8;45.4743543;12.0276266;;;Hi-Q Diesel;2.399;SelfService;04/06/2022 06:35:45
+19577;Q8;45.4743543;12.0276266;;;Hi-Q Diesel;2.579;Servito;04/06/2022 06:35:45
 19689;Agip;45.8054850;13.5091920;;;Bernardi di Bernardi G. & C. S.N.C.;Benzina;1.974;SelfService;01/06/2022 09:11:31
 19689;Agip;45.8054850;13.5091920;;;Bernardi di Bernardi G. & C. S.N.C.;Benzina;2.192;Servito;01/06/2022 09:11:31
 19689;Agip;45.8054850;13.5091920;;;Bernardi di Bernardi G. & C. S.N.C.;Gasolio;1.894;SelfService;01/06/2022 09:11:31
@@ -380,8 +543,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Blue Super;2.104;SelfService;01/06/2022 11:16:45
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;GPL;0.839;Servito;01/06/2022 11:16:45
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Gasolio;1.854;SelfService;01/06/2022 11:16:45
+20117;IP;45.6561744;12.5353173;;;Benzina;1.989;SelfService;06/06/2022 12:05:24
+20117;IP;45.6561744;12.5353173;;;Excellium Diesel;1.869;SelfService;06/06/2022 12:05:24
+20117;IP;45.6561744;12.5353173;;;Gasolio;1.869;SelfService;06/06/2022 12:05:24
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.939;Servito;06/06/2022 07:12:48
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Gasolio;1.879;Servito;06/06/2022 07:12:48
+20423;ENI;45.3628794;12.0927940;;;Benzina;1.959;SelfService;03/06/2022 17:48:21
+20423;ENI;45.3628794;12.0927940;;;Benzina;2.169;Servito;03/06/2022 17:48:21
+20423;ENI;45.3628794;12.0927940;;;Blue Diesel;1.979;SelfService;03/06/2022 17:48:21
+20423;ENI;45.3628794;12.0927940;;;Blue Diesel;2.189;Servito;03/06/2022 17:48:21
+20423;ENI;45.3628794;12.0927940;;;Blue Super;2.159;SelfService;03/06/2022 17:48:21
+20423;ENI;45.3628794;12.0927940;;;Gasolio;1.879;SelfService;03/06/2022 17:48:21
+20423;ENI;45.3628794;12.0927940;;;Gasolio;2.089;Servito;03/06/2022 17:48:21
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.899;SelfService;06/06/2022 11:34:49
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;2.099;Servito;06/06/2022 11:34:49
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio artico;1.819;SelfService;06/06/2022 11:34:49
@@ -391,6 +564,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.979;SelfService;05/06/2022 11:21:37
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Blue Diesel;1.979;SelfService;05/06/2022 11:21:37
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Gasolio;1.879;SelfService;05/06/2022 11:21:37
+20768;;45.1151094;12.1881420;;;Benzina;1.999;Servito;03/06/2022 12:17:01
+20768;;45.1151094;12.1881420;;;Benzina;1.999;SelfService;03/06/2022 12:17:01
+20768;;45.1151094;12.1881420;;;Gasolio;1.899;Servito;03/06/2022 12:17:01
+20768;;45.1151094;12.1881420;;;Gasolio;1.899;SelfService;03/06/2022 12:17:01
+20967;Erg;45.5203510;12.1502890;;;Benzina;1.959;SelfService;04/06/2022 08:32:41
+20967;Erg;45.5203510;12.1502890;;;Benzina;2.379;Servito;04/06/2022 08:32:41
+20967;Erg;45.5203510;12.1502890;;;Gasolio;2.339;SelfService;04/06/2022 08:32:41
+20967;Erg;45.5203510;12.1502890;;;Gasolio;2.379;Servito;04/06/2022 08:32:41
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.934;SelfService;01/06/2022 14:39:28
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;2.144;Servito;01/06/2022 14:39:28
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Blue Diesel;1.974;SelfService;01/06/2022 14:39:28
@@ -411,21 +592,56 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 21045;IP;46.0938289;12.5957715;;;Ule' De Riva di Mellina-Gottardo Sara;Gasolio;1.954;SelfService;07/06/2022 07:46:02
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Benzina;1.959;SelfService;06/06/2022 19:05:06
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Gasolio;1.879;SelfService;06/06/2022 19:05:06
+21254;Esso;45.4770210;12.2067504;;;Benzina;1.969;SelfService;03/06/2022 08:49:18
+21254;Esso;45.4770210;12.2067504;;;Gasolio Premium;2.019;SelfService;03/06/2022 08:49:18
+21254;Esso;45.4770210;12.2067504;;;Gasolio;1.899;SelfService;03/06/2022 08:49:18
+21358;Tamoil;45.4718540;12.2290760;;;Benzina;1.950;Servito;01/06/2022 09:14:54
+21358;Tamoil;45.4718540;12.2290760;;;Benzina;1.950;SelfService;01/06/2022 09:14:54
+21358;Tamoil;45.4718540;12.2290760;;;Gasolio;1.870;Servito;01/06/2022 09:14:54
+21358;Tamoil;45.4718540;12.2290760;;;Gasolio;1.870;SelfService;01/06/2022 09:14:54
+21422;IP;45.6321144;12.5926118;;;Benzina;1.939;SelfService;06/06/2022 18:29:42
+21422;IP;45.6321144;12.5926118;;;Benzina;2.194;Servito;06/06/2022 18:29:42
+21422;IP;45.6321144;12.5926118;;;Gasolio;1.869;SelfService;06/06/2022 18:29:42
+21422;IP;45.6321144;12.5926118;;;Gasolio;2.166;Servito;06/06/2022 18:29:42
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.924;SelfService;31/05/2022 18:09:29
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;2.145;Servito;31/05/2022 18:09:29
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.864;SelfService;31/05/2022 18:09:29
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;2.127;Servito;31/05/2022 18:09:29
+21464;ENI;45.4923287;12.1214365;;;Benzina;1.954;SelfService;06/06/2022 07:50:03
+21464;ENI;45.4923287;12.1214365;;;Blue Diesel;1.974;SelfService;06/06/2022 07:50:03
+21464;ENI;45.4923287;12.1214365;;;Blue Super;2.104;SelfService;06/06/2022 07:50:03
+21464;ENI;45.4923287;12.1214365;;;Gasolio;1.874;SelfService;06/06/2022 07:50:03
+21494;;45.5293226;12.6573349;;;Benzina;1.969;Servito;03/06/2022 08:28:32
+21494;;45.5293226;12.6573349;;;Gasolio Premium;2.019;Servito;03/06/2022 08:28:32
+21494;;45.5293226;12.6573349;;;Gasolio;1.899;Servito;03/06/2022 08:28:32
 21505;Total;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.999;Servito;06/06/2022 15:19:44
 21505;Total;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.999;SelfService;06/06/2022 15:19:44
 21505;Total;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.899;Servito;06/06/2022 15:19:44
 21505;Total;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.899;SelfService;06/06/2022 15:19:44
+21531;Eni;45.4005072;12.3604859;;;Benzina;1.979;SelfService;01/06/2022 16:12:31
+21531;Eni;45.4005072;12.3604859;;;Benzina;2.189;Servito;01/06/2022 16:12:31
+21531;Eni;45.4005072;12.3604859;;;Blue Diesel;2.019;SelfService;01/06/2022 16:12:31
+21531;Eni;45.4005072;12.3604859;;;Blue Diesel;2.229;Servito;01/06/2022 16:12:31
+21531;Eni;45.4005072;12.3604859;;;Gasolio;1.919;SelfService;01/06/2022 16:12:31
+21531;Eni;45.4005072;12.3604859;;;Gasolio;2.129;Servito;01/06/2022 16:12:31
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Benzina;2.199;SelfService;06/06/2022 11:33:47
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;GPL;0.869;Servito;06/06/2022 11:33:47
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Gasolio;2.259;SelfService;06/06/2022 11:33:47
+21554;;45.8137725;12.8863327;;;Benzina;1.859;SelfService;21/05/2022 17:22:12
+21554;;45.8137725;12.8863327;;;Benzina;2.064;Servito;21/05/2022 17:22:12
+21554;;45.8137725;12.8863327;;;Gasolio;1.809;SelfService;21/05/2022 17:22:12
+21554;;45.8137725;12.8863327;;;Gasolio;2.096;Servito;21/05/2022 17:22:12
+21922;Erg;45.5052190;12.6260160;;;Benzina;1.979;SelfService;06/06/2022 18:08:27
+21922;Erg;45.5052190;12.6260160;;;Benzina;2.194;Servito;06/06/2022 18:08:27
+21922;Erg;45.5052190;12.6260160;;;Gasolio;1.879;SelfService;06/06/2022 18:08:27
+21922;Erg;45.5052190;12.6260160;;;Gasolio;2.166;Servito;06/06/2022 18:08:27
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;1.899;SelfService;01/06/2022 11:18:26
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;2.179;Servito;01/06/2022 11:18:26
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Gasolio;1.819;SelfService;01/06/2022 11:18:26
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Gasolio;2.151;Servito;01/06/2022 11:18:26
+22086;;45.4633585;12.2240455;;;Benzina;1.999;Servito;06/06/2022 19:32:56
+22086;;45.4633585;12.2240455;;;GPL;0.799;Servito;06/06/2022 19:32:56
+22086;;45.4633585;12.2240455;;;Gasolio;1.899;Servito;06/06/2022 19:32:56
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Benzina;1.899;SelfService;26/05/2022 08:21:45
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Blue Diesel;1.919;SelfService;26/05/2022 08:21:45
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Gasolio;1.819;SelfService;26/05/2022 08:21:45
@@ -437,6 +653,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.949;SelfService;07/06/2022 07:41:18
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio Premium;2.069;SelfService;07/06/2022 07:41:18
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.949;SelfService;07/06/2022 07:41:18
+22468;ENI;45.6501985;12.5435121;;;Benzina;2.009;SelfService;07/06/2022 07:48:42
+22468;ENI;45.6501985;12.5435121;;;Benzina;2.224;Servito;07/06/2022 07:48:42
+22468;ENI;45.6501985;12.5435121;;;Blue Diesel;2.029;SelfService;07/06/2022 07:48:42
+22468;ENI;45.6501985;12.5435121;;;Blue Diesel;2.244;Servito;07/06/2022 07:48:42
+22468;ENI;45.6501985;12.5435121;;;GPL;0.832;Servito;07/06/2022 07:48:42
+22468;ENI;45.6501985;12.5435121;;;Gasolio;1.929;SelfService;07/06/2022 07:48:42
+22468;ENI;45.6501985;12.5435121;;;Gasolio;2.144;Servito;07/06/2022 07:48:42
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina speciale;2.109;Servito;01/06/2022 18:49:26
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina speciale;2.109;SelfService;01/06/2022 18:49:26
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina;1.979;Servito;01/06/2022 18:49:26
@@ -445,6 +668,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio speciale;1.899;SelfService;01/06/2022 18:49:26
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.849;Servito;01/06/2022 18:49:26
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.849;SelfService;01/06/2022 18:49:26
+22821;Esso;45.4986258;12.6066230;;;Benzina;1.929;SelfService;03/06/2022 07:41:25
+22821;Esso;45.4986258;12.6066230;;;Gasolio Premium;2.019;SelfService;03/06/2022 07:41:25
+22821;Esso;45.4986258;12.6066230;;;Gasolio;1.879;SelfService;03/06/2022 07:41:25
+22840;Petrol;45.7721737;12.9672226;;;Benzina;1.989;Servito;07/06/2022 07:31:34
+22840;Petrol;45.7721737;12.9672226;;;Benzina;1.989;SelfService;07/06/2022 07:31:34
+22840;Petrol;45.7721737;12.9672226;;;Gasolio;1.919;Servito;07/06/2022 07:31:34
+22840;Petrol;45.7721737;12.9672226;;;Gasolio;1.919;SelfService;07/06/2022 07:31:34
 22869;Esso;45.7716671;12.9978514;;;Pighin Attilio;Benzina;1.969;Servito;03/06/2022 08:06:04
 22869;Esso;45.7716671;12.9978514;;;Pighin Attilio;Gasolio Premium;2.029;Servito;03/06/2022 08:06:04
 22869;Esso;45.7716671;12.9978514;;;Pighin Attilio;Gasolio;1.909;Servito;03/06/2022 08:06:04
@@ -454,6 +684,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;2.199;Servito;06/06/2022 18:30:31
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Gasolio;1.899;SelfService;06/06/2022 18:30:31
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Gasolio;2.171;Servito;06/06/2022 18:30:31
+22931;Repsol;45.3906156;12.0668210;;;Benzina;1.903;Servito;23/05/2022 20:18:00
+22931;Repsol;45.3906156;12.0668210;;;Benzina;1.903;SelfService;23/05/2022 20:18:00
+22931;Repsol;45.3906156;12.0668210;;;Diesel e+10;1.903;Servito;23/05/2022 20:18:00
+22931;Repsol;45.3906156;12.0668210;;;Diesel e+10;1.903;SelfService;23/05/2022 20:18:00
+22931;Repsol;45.3906156;12.0668210;;;Gasolio;1.823;Servito;23/05/2022 20:18:00
+22931;Repsol;45.3906156;12.0668210;;;Gasolio;1.823;SelfService;23/05/2022 20:18:00
+23321;Q8;45.4851670;12.1846820;;;Benzina;1.979;SelfService;07/06/2022 02:05:48
+23321;Q8;45.4851670;12.1846820;;;Gasolio;1.879;SelfService;07/06/2022 02:05:48
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Benzina;2.019;SelfService;06/06/2022 08:04:10
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;GP DIESEL;2.069;SelfService;06/06/2022 08:04:10
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.939;SelfService;06/06/2022 08:04:10
@@ -472,13 +710,23 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;2.019;SelfService;02/06/2022 07:11:13
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.949;SelfService;02/06/2022 07:11:13
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;2.249;SelfService;02/06/2022 07:11:13
+23909;Q8;45.5398938;12.0643333;;;Benzina;2.214;Servito;12/03/2022 10:20:59
+23909;Q8;45.5398938;12.0643333;;;Gasolio;2.214;Servito;12/03/2022 10:20:59
+23909;Q8;45.5398938;12.0643333;;;Hi-Q Diesel;2.434;Servito;12/03/2022 10:20:59
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.959;SelfService;07/06/2022 05:16:07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;F101;2.109;SelfService;07/06/2022 05:16:07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;GP DIESEL;2.009;SelfService;07/06/2022 05:16:07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;GPL;0.829;Servito;07/06/2022 05:16:07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.879;SelfService;07/06/2022 05:16:07
+24230;Q8 Easy;45.6445161;12.5504982;;;Benzina;1.999;SelfService;07/06/2022 02:05:49
+24230;Q8 Easy;45.6445161;12.5504982;;;Gasolio;1.879;SelfService;07/06/2022 02:05:49
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;2.059;Servito;03/06/2022 19:06:30
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Gasolio;2.030;Servito;03/06/2022 19:06:30
+24313;;45.5882789;12.1378997;;;Benzina;1.969;SelfService;06/06/2022 23:04:42
+24313;;45.5882789;12.1378997;;;Gasolio;1.869;SelfService;06/06/2022 23:04:42
+24365;;45.6367213;12.6809702;;;Benzina;1.979;SelfService;04/06/2022 09:54:15
+24365;;45.6367213;12.6809702;;;GPL;0.789;Servito;04/06/2022 09:54:15
+24365;;45.6367213;12.6809702;;;Gasolio;1.869;SelfService;04/06/2022 09:54:15
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina speciale;2.199;Servito;06/06/2022 17:50:32
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.989;SelfService;06/06/2022 17:50:32
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;2.089;Servito;06/06/2022 17:50:32
@@ -486,6 +734,24 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio speciale;2.079;Servito;06/06/2022 17:50:32
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.879;SelfService;06/06/2022 17:50:32
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.979;Servito;06/06/2022 17:50:32
+24798;IP;45.4739511;12.2143492;;;Benzina;1.999;SelfService;07/06/2022 06:43:50
+24798;IP;45.4739511;12.2143492;;;Benzina;2.254;Servito;07/06/2022 06:43:50
+24798;IP;45.4739511;12.2143492;;;Gasolio;1.899;SelfService;07/06/2022 06:43:50
+24798;IP;45.4739511;12.2143492;;;Gasolio;2.226;Servito;07/06/2022 06:43:50
+24798;Ip;45.4739953;12.2142660;;;Benzina;1.999;SelfService;07/06/2022 06:43:50
+24798;Ip;45.4739953;12.2142660;;;Benzina;2.254;Servito;07/06/2022 06:43:50
+24798;Ip;45.4739953;12.2142660;;;Gasolio;1.899;SelfService;07/06/2022 06:43:50
+24798;Ip;45.4739953;12.2142660;;;Gasolio;2.226;Servito;07/06/2022 06:43:50
+24829;;45.4418459;12.0569114;;;Benzina;2.054;SelfService;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Benzina;2.271;Servito;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Blue Diesel;2.084;SelfService;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Blue Diesel;2.301;Servito;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Blue Super;2.204;SelfService;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Blue Super;2.421;Servito;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;GPL;0.914;Servito;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Gasolio;1.984;SelfService;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Gasolio;2.201;Servito;06/06/2022 23:52:10
+24829;;45.4418459;12.0569114;;;Metano;2.078;Servito;06/06/2022 23:52:10
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Benzina;1.939;SelfService;03/06/2022 19:39:27
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Gasolio Premium;1.989;SelfService;03/06/2022 19:39:27
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Gasolio;1.869;SelfService;03/06/2022 19:39:27
@@ -503,6 +769,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Gasolio;1.859;Servito;04/06/2022 07:22:01
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.989;SelfService;06/06/2022 07:54:06
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.899;SelfService;06/06/2022 07:54:06
+25135;;45.6025069;12.8841710;;;Benzina;1.969;SelfService;06/06/2022 18:31:13
+25135;;45.6025069;12.8841710;;;Benzina;2.169;Servito;06/06/2022 18:31:13
+25135;;45.6025069;12.8841710;;;Gasolio;1.879;SelfService;06/06/2022 18:31:13
+25135;;45.6025069;12.8841710;;;Gasolio;2.079;Servito;06/06/2022 18:31:13
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;2.004;SelfService;07/06/2022 04:52:05
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Blue Diesel;2.004;SelfService;07/06/2022 04:52:05
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Blue Super;2.154;SelfService;07/06/2022 04:52:05
@@ -516,6 +786,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Excellium Diesel;2.059;SelfService;03/06/2022 19:05:47
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Gasolio;1.899;Servito;03/06/2022 19:05:47
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Gasolio;1.899;SelfService;03/06/2022 19:05:47
+25561;Costantin;45.3961982;11.9866848;;;Benzina;1.997;Servito;06/06/2022 11:54:18
+25561;Costantin;45.3961982;11.9866848;;;Benzina;1.997;SelfService;06/06/2022 11:54:18
+25561;Costantin;45.3961982;11.9866848;;;Gasolio;1.897;Servito;06/06/2022 11:54:18
+25561;Costantin;45.3961982;11.9866848;;;Gasolio;1.897;SelfService;06/06/2022 11:54:18
 25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.;Benzina;1.979;Servito;04/06/2022 07:35:07
 25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.;Benzina;1.979;SelfService;04/06/2022 07:35:07
 25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.;Gasolio;1.869;Servito;04/06/2022 07:35:07
@@ -535,6 +809,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Gasolio;1.859;SelfService;06/06/2022 12:03:22
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.919;SelfService;06/06/2022 12:01:59
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Gasolio;1.849;SelfService;06/06/2022 12:01:59
+25845;IP;45.7745709;12.9441042;;;Benzina;1.959;SelfService;06/06/2022 12:05:07
+25845;IP;45.7745709;12.9441042;;;Excellium Diesel;1.869;SelfService;06/06/2022 12:05:07
+25845;IP;45.7745709;12.9441042;;;Gasolio;1.869;SelfService;06/06/2022 12:05:07
+25869;Eni Robegano;45.5423067;12.1198102;;;Benzina;2.009;SelfService;07/06/2022 06:04:11
+25869;Eni Robegano;45.5423067;12.1198102;;;Blue Diesel;2.009;SelfService;07/06/2022 06:04:11
+25869;Eni Robegano;45.5423067;12.1198102;;;Gasolio;1.909;SelfService;07/06/2022 06:04:11
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.914;SelfService;01/06/2022 08:56:15
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.136;Servito;01/06/2022 08:56:15
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;1.934;SelfService;01/06/2022 08:56:15
@@ -542,9 +822,58 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.851;Servito;01/06/2022 08:56:15
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.834;SelfService;01/06/2022 08:56:15
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;2.056;Servito;01/06/2022 08:56:15
+25900;;45.2249805;12.1897817;;;Benzina;2.009;SelfService;07/06/2022 06:02:09
+25900;;45.2249805;12.1897817;;;Blue Diesel;2.009;SelfService;07/06/2022 06:02:09
+25900;;45.2249805;12.1897817;;;Gasolio;1.909;SelfService;07/06/2022 06:02:09
+25901;Agip;45.4972582;12.2368211;;;Benzina;2.009;SelfService;07/06/2022 06:04:19
+25901;Agip;45.4972582;12.2368211;;;Blue Diesel;2.009;SelfService;07/06/2022 06:04:19
+25901;Agip;45.4972582;12.2368211;;;Gasolio;1.909;SelfService;07/06/2022 06:04:19
+25902;Agip;45.7680760;12.8340160;;;Benzina;2.009;SelfService;07/06/2022 06:02:09
+25902;Agip;45.7680760;12.8340160;;;Blue Diesel;2.009;SelfService;07/06/2022 06:02:09
+25902;Agip;45.7680760;12.8340160;;;Gasolio;1.909;SelfService;07/06/2022 06:02:09
+25903;Agip;45.1206840;12.0754930;;;Benzina;2.009;SelfService;07/06/2022 06:04:10
+25903;Agip;45.1206840;12.0754930;;;Blue Diesel;2.009;SelfService;07/06/2022 06:04:10
+25903;Agip;45.1206840;12.0754930;;;Gasolio;1.909;SelfService;07/06/2022 06:04:10
+25904;Agip;45.5516490;12.1435120;;;Benzina;2.009;SelfService;07/06/2022 06:04:10
+25904;Agip;45.5516490;12.1435120;;;Blue Diesel;2.009;SelfService;07/06/2022 06:04:10
+25904;Agip;45.5516490;12.1435120;;;Gasolio;1.909;SelfService;07/06/2022 06:04:10
+25905;Agip;45.5281860;12.2390216;;;Benzina;2.009;SelfService;07/06/2022 06:04:11
+25905;Agip;45.5281860;12.2390216;;;Blue Diesel;2.009;SelfService;07/06/2022 06:04:11
+25905;Agip;45.5281860;12.2390216;;;Gasolio;1.909;SelfService;07/06/2022 06:04:11
+25907;;45.3926131;12.0767029;;;Benzina;2.009;SelfService;07/06/2022 06:02:10
+25907;;45.3926131;12.0767029;;;Blue Diesel;2.009;SelfService;07/06/2022 06:02:10
+25907;;45.3926131;12.0767029;;;Gasolio;1.909;SelfService;07/06/2022 06:02:10
+25913;;45.5100616;12.2153702;;;Benzina;2.009;SelfService;07/06/2022 06:02:10
+25913;;45.5100616;12.2153702;;;Blue Diesel;2.009;SelfService;07/06/2022 06:02:10
+25913;;45.5100616;12.2153702;;;Gasolio;1.909;SelfService;07/06/2022 06:02:10
+26046;Benzina;45.4180313;12.0893260;;;Benzina;2.039;SelfService;07/06/2022 00:08:11
+26046;Benzina;45.4180313;12.0893260;;;Gasolio;1.949;SelfService;07/06/2022 00:08:11
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;2.399;Servito;01/06/2022 09:09:37
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio Premium;1.604;Servito;01/06/2022 09:09:37
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;2.419;Servito;01/06/2022 09:09:37
+26145;;45.5443085;12.0700264;;;Benzina;2.009;SelfService;07/06/2022 07:29:36
+26145;;45.5443085;12.0700264;;;Benzina;2.219;Servito;07/06/2022 07:29:36
+26145;;45.5443085;12.0700264;;;Blue Diesel;2.239;SelfService;07/06/2022 07:29:36
+26145;;45.5443085;12.0700264;;;Gasolio;1.929;SelfService;07/06/2022 07:29:36
+26145;;45.5443085;12.0700264;;;Gasolio;2.139;Servito;07/06/2022 07:29:36
+26157;;45.5143042;12.2085991;;;Benzina;1.959;Servito;06/06/2022 15:02:17
+26157;;45.5143042;12.2085991;;;Benzina;1.959;SelfService;06/06/2022 15:02:17
+26157;;45.5143042;12.2085991;;;Gasolio;1.859;Servito;06/06/2022 15:02:17
+26157;;45.5143042;12.2085991;;;Gasolio;1.859;SelfService;06/06/2022 15:02:17
+26157;;45.5143042;12.2085991;;;S-Diesel;1.959;Servito;06/06/2022 15:02:17
+26157;;45.5143042;12.2085991;;;S-Diesel;1.959;SelfService;06/06/2022 15:02:17
+26158;Sia Fuel;45.4653427;12.5159707;;;Benzina;1.979;Servito;06/06/2022 16:56:57
+26158;Sia Fuel;45.4653427;12.5159707;;;Benzina;1.979;SelfService;06/06/2022 16:56:57
+26158;Sia Fuel;45.4653427;12.5159707;;;Gasolio;1.879;Servito;06/06/2022 16:56:57
+26158;Sia Fuel;45.4653427;12.5159707;;;Gasolio;1.879;SelfService;06/06/2022 16:56:57
+26158;Sia Fuel;45.4653427;12.5159707;;;S-Diesel;1.979;Servito;06/06/2022 16:56:57
+26158;Sia Fuel;45.4653427;12.5159707;;;S-Diesel;1.979;SelfService;06/06/2022 16:56:57
+26159;Sia Fuel;45.6614336;12.8027381;;;Benzina;1.995;Servito;03/06/2022 15:42:30
+26159;Sia Fuel;45.6614336;12.8027381;;;Benzina;1.995;SelfService;03/06/2022 15:42:30
+26159;Sia Fuel;45.6614336;12.8027381;;;Gasolio;1.905;Servito;03/06/2022 15:42:30
+26159;Sia Fuel;45.6614336;12.8027381;;;Gasolio;1.905;SelfService;03/06/2022 15:42:30
+26159;Sia Fuel;45.6614336;12.8027381;;;S-Diesel;2.005;Servito;03/06/2022 15:42:30
+26159;Sia Fuel;45.6614336;12.8027381;;;S-Diesel;2.005;SelfService;03/06/2022 15:42:30
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.999;Servito;06/06/2022 12:00:44
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.999;SelfService;06/06/2022 12:00:44
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.875;Servito;06/06/2022 12:00:44
@@ -591,6 +920,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26915;Total;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.799;Servito;03/06/2022 13:02:48
 26915;Total;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.874;SelfService;03/06/2022 13:02:48
 26915;Total;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;2.084;Servito;03/06/2022 13:02:48
+26949;;45.5176777;12.2378513;;;Benzina;1.979;SelfService;06/06/2022 18:29:08
+26949;;45.5176777;12.2378513;;;Gasolio Energy D;1.929;SelfService;06/06/2022 18:29:08
+26949;;45.5176777;12.2378513;;;Gasolio;1.879;SelfService;06/06/2022 18:29:08
+26981;Indipend.;45.4184210;12.2579131;;;Benzina;2.099;SelfService;06/06/2022 18:20:12
+26981;Indipend.;45.4184210;12.2579131;;;Gasolio;1.684;SelfService;06/06/2022 18:20:12
 27141;Agip;46.1850793;13.0624972;;;Franzin Marco;Benzina;1.959;SelfService;06/06/2022 15:04:19
 27141;Agip;46.1850793;13.0624972;;;Franzin Marco;Blue Diesel;1.979;SelfService;06/06/2022 15:04:19
 27141;Agip;46.1850793;13.0624972;;;Franzin Marco;Blue Super;2.109;SelfService;06/06/2022 15:04:19
@@ -637,12 +971,22 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.989;SelfService;03/06/2022 18:16:01
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.780;Servito;03/06/2022 18:16:01
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.889;SelfService;03/06/2022 18:16:01
+28511;Q8;45.4801987;12.1497066;;;Benzina;1.979;SelfService;07/06/2022 02:05:48
+28511;Q8;45.4801987;12.1497066;;;Gasolio;1.889;SelfService;07/06/2022 02:05:48
+28688;;45.4587400;12.4084400;;;Benzina;2.099;Servito;27/05/2022 16:48:17
+28688;;45.4587400;12.4084400;;;Gasolio;2.049;Servito;27/05/2022 16:48:17
+28748;Europam;45.7669621;12.8964495;;;Benzina;1.917;SelfService;06/06/2022 18:02:56
+28748;Europam;45.7669621;12.8964495;;;Gasolio;1.817;SelfService;06/06/2022 18:02:56
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Benzina;1.919;SelfService;01/06/2022 18:32:18
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Benzina;2.129;Servito;01/06/2022 18:32:18
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Blue Diesel;1.959;SelfService;01/06/2022 18:32:18
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Blue Diesel;2.169;Servito;01/06/2022 18:32:18
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Gasolio;1.859;SelfService;01/06/2022 18:32:18
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Gasolio;2.069;Servito;01/06/2022 18:32:18
+28878;M Carburanti;45.3545146;12.0915849;;;Benzina;1.979;Servito;04/06/2022 08:19:18
+28878;M Carburanti;45.3545146;12.0915849;;;Benzina;1.979;SelfService;04/06/2022 08:19:18
+28878;M Carburanti;45.3545146;12.0915849;;;Gasolio;1.869;Servito;04/06/2022 08:19:18
+28878;M Carburanti;45.3545146;12.0915849;;;Gasolio;1.869;SelfService;04/06/2022 08:19:18
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;Benzina;1.979;Servito;07/06/2022 07:15:14
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;Benzina;1.979;SelfService;07/06/2022 07:15:14
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;GPL;0.809;Servito;07/06/2022 07:15:14
@@ -650,6 +994,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;Gasolio;1.879;SelfService;07/06/2022 07:15:14
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;Hi-Q Diesel;1.829;Servito;07/06/2022 07:15:14
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;Hi-Q Diesel;1.829;SelfService;07/06/2022 07:15:14
+29182;Esso;45.4343910;12.1909140;;;Benzina;1.939;SelfService;06/06/2022 11:06:03
+29182;Esso;45.4343910;12.1909140;;;GPL;0.849;Servito;06/06/2022 11:06:03
+29182;Esso;45.4343910;12.1909140;;;Gasolio;1.839;SelfService;06/06/2022 11:06:03
+29182;Esso;45.4343910;12.1909140;;;Supreme Diesel;1.959;SelfService;06/06/2022 11:06:03
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.949;SelfService;06/06/2022 12:03:19
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.899;SelfService;06/06/2022 12:03:19
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.999;SelfService;07/06/2022 07:38:05
@@ -676,10 +1024,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Benzina;2.139;Servito;26/05/2022 15:32:20
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.859;SelfService;26/05/2022 15:32:20
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;2.079;Servito;26/05/2022 15:32:20
+29943;Erg;45.4833940;12.2543260;;;Benzina;2.039;Servito;05/03/2022 08:17:43
+29943;Erg;45.4833940;12.2543260;;;Benzina;2.039;SelfService;05/03/2022 08:17:43
+29943;Erg;45.4833940;12.2543260;;;Gasolio;1.939;Servito;05/03/2022 08:17:43
+29943;Erg;45.4833940;12.2543260;;;Gasolio;1.939;SelfService;05/03/2022 08:17:43
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;2.010;Servito;06/06/2022 12:33:53
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;2.010;SelfService;06/06/2022 12:33:53
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;1.910;Servito;06/06/2022 12:33:53
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;1.910;SelfService;06/06/2022 12:33:53
+30024;;45.1396035;12.1194448;;;Benzina;1.777;Servito;06/06/2022 12:06:35
+30024;;45.1396035;12.1194448;;;Benzina;1.777;SelfService;06/06/2022 12:06:35
+30024;;45.1396035;12.1194448;;;Gasolio;1.777;Servito;06/06/2022 12:06:35
+30024;;45.1396035;12.1194448;;;Gasolio;1.777;SelfService;06/06/2022 12:06:35
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.988;Servito;06/06/2022 16:00:19
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.988;SelfService;06/06/2022 16:00:19
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Gasolio;1.899;Servito;06/06/2022 16:00:19
@@ -692,6 +1048,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.879;SelfService;06/06/2022 19:56:26
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;2.059;SelfService;06/06/2022 19:56:26
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;HiQ Perform+;1.111;SelfService;06/06/2022 19:56:26
+30485;IP;45.4849840;12.2106852;;;Benzina;1.949;SelfService;07/06/2022 07:06:05
+30485;IP;45.4849840;12.2106852;;;Gasolio;1.859;SelfService;07/06/2022 07:06:05
+30629;IP;45.4851821;12.2094311;;;Benzina;1.949;SelfService;06/06/2022 23:01:44
+30629;IP;45.4851821;12.2094311;;;Gasolio;1.859;SelfService;06/06/2022 23:01:44
+30686;;45.4375776;12.1329592;;;Benzina;2.009;SelfService;07/06/2022 07:38:39
+30686;;45.4375776;12.1329592;;;Benzina;2.229;Servito;07/06/2022 07:38:39
+30686;;45.4375776;12.1329592;;;Blue Diesel;2.029;SelfService;07/06/2022 07:38:39
+30686;;45.4375776;12.1329592;;;Blue Diesel;2.249;Servito;07/06/2022 07:38:39
+30686;;45.4375776;12.1329592;;;Blue Super;2.159;SelfService;07/06/2022 07:38:39
+30686;;45.4375776;12.1329592;;;Blue Super;2.379;Servito;07/06/2022 07:38:39
+30686;;45.4375776;12.1329592;;;Gasolio;1.929;SelfService;07/06/2022 07:38:39
+30686;;45.4375776;12.1329592;;;Gasolio;2.149;Servito;07/06/2022 07:38:39
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.979;SelfService;06/06/2022 08:00:26
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;2.129;Servito;06/06/2022 08:00:26
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.809;Servito;06/06/2022 08:00:26
@@ -709,10 +1077,22 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Benzina;2.129;Servito;03/06/2022 10:44:02
 30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.859;SelfService;03/06/2022 10:44:02
 30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;2.029;Servito;03/06/2022 10:44:02
+31090;;45.5900942;12.6884687;;;Benzina;1.979;Servito;03/06/2022 15:47:37
+31090;;45.5900942;12.6884687;;;Benzina;1.979;SelfService;03/06/2022 15:47:37
+31090;;45.5900942;12.6884687;;;Gasolio;1.949;Servito;03/06/2022 15:47:37
+31090;;45.5900942;12.6884687;;;Gasolio;1.949;SelfService;03/06/2022 15:47:37
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.919;Servito;01/06/2022 19:09:42
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.839;Servito;01/06/2022 19:09:42
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.949;SelfService;06/06/2022 12:02:01
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.879;SelfService;06/06/2022 12:02:01
+31184;Q8;45.6589310;12.5318010;;;Benzina;1.999;SelfService;07/06/2022 02:05:49
+31184;Q8;45.6589310;12.5318010;;;Gasolio;1.879;SelfService;07/06/2022 02:05:49
+31214;;45.5614499;12.0767051;;;Benzina;1.979;SelfService;06/06/2022 14:59:31
+31214;;45.5614499;12.0767051;;;Benzina;2.099;Servito;06/06/2022 14:59:31
+31214;;45.5614499;12.0767051;;;Gasolio;1.869;SelfService;06/06/2022 14:59:31
+31214;;45.5614499;12.0767051;;;Gasolio;1.989;Servito;06/06/2022 14:59:31
+31214;;45.5614499;12.0767051;;;S-Diesel;1.969;SelfService;06/06/2022 14:59:31
+31214;;45.5614499;12.0767051;;;S-Diesel;2.089;Servito;06/06/2022 14:59:31
 31262;Kerotris Duino Nord;45.7774149;13.6078218;;;Duino Nord S.A.S.;Benzina;2.175;SelfService;06/06/2022 15:53:35
 31262;Kerotris Duino Nord;45.7774149;13.6078218;;;Duino Nord S.A.S.;Benzina;2.375;Servito;06/06/2022 15:53:35
 31262;Kerotris Duino Nord;45.7774149;13.6078218;;;Duino Nord S.A.S.;Gasolio speciale;2.099;SelfService;06/06/2022 15:53:35
@@ -720,11 +1100,91 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 31262;Kerotris Duino Nord;45.7774149;13.6078218;;;Duino Nord S.A.S.;Gasolio;2.282;Servito;06/06/2022 15:53:35
 31331;IP;45.8018928;13.5461339;;;Ip Services S.R.L.;Benzina;1.919;SelfService;06/06/2022 12:06:50
 31331;IP;45.8018928;13.5461339;;;Ip Services S.R.L.;Gasolio;1.879;SelfService;06/06/2022 12:06:50
+31449;;45.4457311;12.0427017;;;Benzina;1.979;SelfService;07/06/2022 00:08:04
+31449;;45.4457311;12.0427017;;;DieselMax;1.949;SelfService;07/06/2022 00:08:04
+31449;;45.4457311;12.0427017;;;DieselMax;2.019;Servito;07/06/2022 00:08:04
+31449;;45.4457311;12.0427017;;;Gasolio;1.879;SelfService;07/06/2022 00:08:04
+31450;Vega;45.4450461;12.2047487;;;Benzina;1.969;SelfService;07/06/2022 00:07:31
+31450;Vega;45.4450461;12.2047487;;;DieselMax;1.939;SelfService;07/06/2022 00:07:31
+31450;Vega;45.4450461;12.2047487;;;DieselMax;2.009;Servito;07/06/2022 00:07:31
+31450;Vega;45.4450461;12.2047487;;;GNL;2.099;Servito;07/06/2022 00:07:31
+31450;Vega;45.4450461;12.2047487;;;GPL;0.799;Servito;07/06/2022 00:07:31
+31450;Vega;45.4450461;12.2047487;;;Gasolio;1.869;SelfService;07/06/2022 00:07:31
+31450;Vega;45.4450461;12.2047487;;;Metano;1.899;Servito;07/06/2022 00:07:31
+31451;Tatanka;45.5184168;12.2340038;;;Benzina;1.949;SelfService;05/06/2022 21:24:54
+31451;Tatanka;45.5184168;12.2340038;;;Benzina;2.019;Servito;05/06/2022 21:24:54
+31451;Tatanka;45.5184168;12.2340038;;;DieselMax;1.909;SelfService;05/06/2022 21:24:54
+31451;Tatanka;45.5184168;12.2340038;;;DieselMax;1.979;Servito;05/06/2022 21:24:54
+31451;Tatanka;45.5184168;12.2340038;;;Gasolio;1.839;SelfService;05/06/2022 21:24:54
+31451;Tatanka;45.5184168;12.2340038;;;Gasolio;1.909;Servito;05/06/2022 21:24:54
+31520;Vega;45.7808999;12.8906009;;;Benzina;1.969;SelfService;07/06/2022 00:07:24
+31520;Vega;45.7808999;12.8906009;;;DieselMax;1.939;SelfService;07/06/2022 00:07:24
+31520;Vega;45.7808999;12.8906009;;;DieselMax;2.009;Servito;07/06/2022 00:07:24
+31520;Vega;45.7808999;12.8906009;;;GPL;0.799;Servito;07/06/2022 00:07:24
+31520;Vega;45.7808999;12.8906009;;;Gasolio;1.869;SelfService;07/06/2022 00:07:24
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Benzina;1.979;SelfService;07/06/2022 00:08:00
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;DieselMax;1.949;SelfService;07/06/2022 00:08:00
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;DieselMax;2.019;Servito;07/06/2022 00:08:00
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;GPL;0.839;Servito;07/06/2022 00:08:00
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Gasolio;1.879;SelfService;07/06/2022 00:08:00
+31532;VEGA;45.4858310;12.1220180;;;Benzina;1.979;SelfService;05/06/2022 21:27:13
+31532;VEGA;45.4858310;12.1220180;;;Benzina;2.049;Servito;05/06/2022 21:27:13
+31532;VEGA;45.4858310;12.1220180;;;DieselMax;1.939;SelfService;05/06/2022 21:27:13
+31532;VEGA;45.4858310;12.1220180;;;DieselMax;2.009;Servito;05/06/2022 21:27:13
+31532;VEGA;45.4858310;12.1220180;;;GPL;0.799;Servito;05/06/2022 21:27:13
+31532;VEGA;45.4858310;12.1220180;;;Gasolio;1.869;SelfService;05/06/2022 21:27:13
+31532;VEGA;45.4858310;12.1220180;;;Gasolio;1.939;Servito;05/06/2022 21:27:13
+31533;;45.5667189;12.1716918;;;Benzina;1.969;SelfService;05/06/2022 21:26:53
+31533;;45.5667189;12.1716918;;;Benzina;2.039;Servito;05/06/2022 21:26:53
+31533;;45.5667189;12.1716918;;;DieselMax;1.939;SelfService;05/06/2022 21:26:53
+31533;;45.5667189;12.1716918;;;DieselMax;2.009;Servito;05/06/2022 21:26:53
+31533;;45.5667189;12.1716918;;;GPL;0.799;Servito;05/06/2022 21:26:53
+31533;;45.5667189;12.1716918;;;Gasolio;1.869;SelfService;05/06/2022 21:26:53
+31533;;45.5667189;12.1716918;;;Gasolio;1.939;Servito;05/06/2022 21:26:53
+31535;Vega;45.5104370;12.2218720;;;Benzina;1.969;SelfService;07/06/2022 00:07:39
+31535;Vega;45.5104370;12.2218720;;;DieselMax;1.929;SelfService;07/06/2022 00:07:39
+31535;Vega;45.5104370;12.2218720;;;Gasolio;1.859;SelfService;07/06/2022 00:07:39
+31536;Vega;45.7743978;12.8245515;;;Benzina;1.959;SelfService;05/06/2022 21:24:17
+31536;Vega;45.7743978;12.8245515;;;Benzina;2.029;Servito;05/06/2022 21:24:17
+31536;Vega;45.7743978;12.8245515;;;DieselMax;1.929;SelfService;05/06/2022 21:24:17
+31536;Vega;45.7743978;12.8245515;;;DieselMax;1.999;Servito;05/06/2022 21:24:17
+31536;Vega;45.7743978;12.8245515;;;GPL;0.799;Servito;05/06/2022 21:24:17
+31536;Vega;45.7743978;12.8245515;;;Gasolio;1.859;SelfService;05/06/2022 21:24:17
+31536;Vega;45.7743978;12.8245515;;;Gasolio;1.929;Servito;05/06/2022 21:24:17
+31537;Vega;45.5031870;12.2355884;;;Benzina;1.969;SelfService;05/06/2022 21:24:50
+31537;Vega;45.5031870;12.2355884;;;Benzina;2.039;Servito;05/06/2022 21:24:50
+31537;Vega;45.5031870;12.2355884;;;DieselMax;1.929;SelfService;05/06/2022 21:24:50
+31537;Vega;45.5031870;12.2355884;;;DieselMax;1.999;Servito;05/06/2022 21:24:50
+31537;Vega;45.5031870;12.2355884;;;GPL;0.809;Servito;05/06/2022 21:24:50
+31537;Vega;45.5031870;12.2355884;;;Gasolio;1.859;SelfService;05/06/2022 21:24:50
+31537;Vega;45.5031870;12.2355884;;;Gasolio;1.929;Servito;05/06/2022 21:24:50
+31538;Vega;45.5036927;12.2358352;;;Benzina;1.969;SelfService;07/06/2022 00:07:37
+31538;Vega;45.5036927;12.2358352;;;DieselMax;1.929;SelfService;07/06/2022 00:07:37
+31538;Vega;45.5036927;12.2358352;;;DieselMax;1.999;Servito;07/06/2022 00:07:37
+31538;Vega;45.5036927;12.2358352;;;Gasolio;1.859;SelfService;07/06/2022 00:07:37
+31539;Vega;45.5340913;12.1813971;;;Benzina;1.969;SelfService;07/06/2022 00:07:38
+31539;Vega;45.5340913;12.1813971;;;DieselMax;1.929;SelfService;07/06/2022 00:07:38
+31539;Vega;45.5340913;12.1813971;;;Gasolio;1.859;SelfService;07/06/2022 00:07:38
+31539;Vega;45.5340913;12.1813971;;;Metano;1.899;Servito;07/06/2022 00:07:38
+31540;Vega;45.6225820;12.5498680;;;Benzina;1.979;SelfService;07/06/2022 00:08:09
+31540;Vega;45.6225820;12.5498680;;;DieselMax;1.959;SelfService;07/06/2022 00:08:09
+31540;Vega;45.6225820;12.5498680;;;DieselMax;2.029;Servito;07/06/2022 00:08:09
+31540;Vega;45.6225820;12.5498680;;;GPL;0.788;Servito;07/06/2022 00:08:09
+31540;Vega;45.6225820;12.5498680;;;Gasolio;1.889;SelfService;07/06/2022 00:08:09
+31541;Vega;45.4178181;12.0482633;;;Benzina;1.979;SelfService;07/06/2022 00:08:05
+31541;Vega;45.4178181;12.0482633;;;DieselMax;1.949;SelfService;07/06/2022 00:08:05
+31541;Vega;45.4178181;12.0482633;;;DieselMax;2.019;Servito;07/06/2022 00:08:05
+31541;Vega;45.4178181;12.0482633;;;Gasolio;1.879;SelfService;07/06/2022 00:08:05
+31542;Vega;45.4457458;12.2059563;;;Benzina;1.969;SelfService;07/06/2022 00:07:32
+31542;Vega;45.4457458;12.2059563;;;DieselMax;1.939;SelfService;07/06/2022 00:07:32
+31542;Vega;45.4457458;12.2059563;;;DieselMax;2.009;Servito;07/06/2022 00:07:32
+31542;Vega;45.4457458;12.2059563;;;Gasolio;1.869;SelfService;07/06/2022 00:07:32
+31543;Vega;45.4287010;12.1075770;;;Benzina;1.979;SelfService;07/06/2022 00:08:05
+31543;Vega;45.4287010;12.1075770;;;DieselMax;1.949;SelfService;07/06/2022 00:08:05
+31543;Vega;45.4287010;12.1075770;;;DieselMax;2.019;Servito;07/06/2022 00:08:05
+31543;Vega;45.4287010;12.1075770;;;GPL;0.799;Servito;07/06/2022 00:08:05
+31543;Vega;45.4287010;12.1075770;;;Gasolio;1.879;SelfService;07/06/2022 00:08:05
+31543;Vega;45.4287010;12.1075770;;;Metano;1.899;Servito;07/06/2022 00:08:05
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina WR 100;2.199;SelfService;06/06/2022 09:00:06
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina WR 100;2.449;Servito;06/06/2022 09:00:06
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina;2.049;SelfService;06/06/2022 09:00:06
@@ -738,6 +1198,17 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;GPL;0.822;Servito;07/06/2022 07:50:08
 31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;Gasolio;1.949;SelfService;07/06/2022 07:50:08
 31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;Gasolio;2.159;Servito;07/06/2022 07:50:08
+31657;Agip;45.5686744;12.1136006;;;Benzina;1.959;SelfService;03/06/2022 10:11:24
+31657;Agip;45.5686744;12.1136006;;;Benzina;2.169;Servito;03/06/2022 10:11:24
+31657;Agip;45.5686744;12.1136006;;;Blue Diesel;1.979;SelfService;03/06/2022 10:11:24
+31657;Agip;45.5686744;12.1136006;;;Blue Diesel;2.189;Servito;03/06/2022 10:11:24
+31657;Agip;45.5686744;12.1136006;;;Blue Super;2.109;SelfService;03/06/2022 10:11:24
+31657;Agip;45.5686744;12.1136006;;;Gasolio;1.879;SelfService;03/06/2022 10:11:24
+31657;Agip;45.5686744;12.1136006;;;Gasolio;2.089;Servito;03/06/2022 10:11:24
+31659;Agip;45.4414285;12.3156126;;;Benzina;2.054;Servito;03/06/2022 10:10:32
+31659;Agip;45.4414285;12.3156126;;;Blue Diesel;2.094;Servito;03/06/2022 10:10:32
+31659;Agip;45.4414285;12.3156126;;;Gasolio;1.994;Servito;03/06/2022 10:10:32
+31670;Metano;45.6557900;12.5459720;;;Metano;1.599;Servito;04/06/2022 09:06:44
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.949;SelfService;06/06/2022 07:53:07
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;2.200;Servito;06/06/2022 07:53:07
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.849;SelfService;06/06/2022 07:53:07
@@ -749,6 +1220,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio Oro Diesel;1.799;Servito;03/06/2022 22:13:20
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.859;Servito;03/06/2022 22:13:20
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.543;Servito;03/06/2022 22:13:20
+32531;Api;45.4893292;12.3017670;;;Benzina;1.989;SelfService;06/06/2022 12:01:59
+32531;Api;45.4893292;12.3017670;;;Gasolio;1.889;SelfService;06/06/2022 12:01:59
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;Benzina;2.175;SelfService;06/06/2022 15:54:16
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;Benzina;2.375;Servito;06/06/2022 15:54:16
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;GPL;1.079;Servito;06/06/2022 15:54:16
@@ -756,9 +1229,36 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio speciale;2.299;Servito;06/06/2022 15:54:16
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio;2.082;SelfService;06/06/2022 15:54:16
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio;2.282;Servito;06/06/2022 15:54:16
+32882;Agip;45.5115616;12.6434317;;;Benzina;1.954;SelfService;01/06/2022 09:09:01
+32882;Agip;45.5115616;12.6434317;;;Benzina;2.164;Servito;01/06/2022 09:09:01
+32882;Agip;45.5115616;12.6434317;;;Blue Diesel;1.974;SelfService;01/06/2022 09:09:01
+32882;Agip;45.5115616;12.6434317;;;Blue Diesel;2.184;Servito;01/06/2022 09:09:01
+32882;Agip;45.5115616;12.6434317;;;Blue Super;2.074;SelfService;01/06/2022 09:09:01
+32882;Agip;45.5115616;12.6434317;;;Blue Super;2.284;Servito;01/06/2022 09:09:01
+32882;Agip;45.5115616;12.6434317;;;Gasolio;1.874;SelfService;01/06/2022 09:09:01
+32882;Agip;45.5115616;12.6434317;;;Gasolio;2.084;Servito;01/06/2022 09:09:01
+32883;Eni;45.6226378;12.5543530;;;Benzina;1.954;SelfService;01/06/2022 09:00:34
+32883;Eni;45.6226378;12.5543530;;;Benzina;2.164;Servito;01/06/2022 09:00:34
+32883;Eni;45.6226378;12.5543530;;;Blue Diesel;1.974;SelfService;01/06/2022 09:00:34
+32883;Eni;45.6226378;12.5543530;;;Blue Diesel;2.184;Servito;01/06/2022 09:00:34
+32883;Eni;45.6226378;12.5543530;;;Blue Super;2.094;SelfService;01/06/2022 09:00:34
+32883;Eni;45.6226378;12.5543530;;;Blue Super;2.304;Servito;01/06/2022 09:00:34
+32883;Eni;45.6226378;12.5543530;;;Gasolio;1.874;SelfService;01/06/2022 09:00:34
+32883;Eni;45.6226378;12.5543530;;;Gasolio;2.084;Servito;01/06/2022 09:00:34
+33073;Agip;45.3993096;12.1452161;;;Benzina;1.968;Servito;03/06/2022 11:15:25
+33073;Agip;45.3993096;12.1452161;;;Benzina;1.968;SelfService;03/06/2022 11:15:25
+33073;Agip;45.3993096;12.1452161;;;Gasolio;1.868;Servito;03/06/2022 11:15:25
+33073;Agip;45.3993096;12.1452161;;;Gasolio;1.868;SelfService;03/06/2022 11:15:25
+33074;P&R Carburanti;45.3320672;12.1346550;;;Benzina;1.968;Servito;03/06/2022 11:15:54
+33074;P&R Carburanti;45.3320672;12.1346550;;;Benzina;1.968;SelfService;03/06/2022 11:15:54
+33074;P&R Carburanti;45.3320672;12.1346550;;;Gasolio;1.868;Servito;03/06/2022 11:15:54
+33074;P&R Carburanti;45.3320672;12.1346550;;;Gasolio;1.868;SelfService;03/06/2022 11:15:54
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.959;Servito;03/06/2022 07:25:03
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.889;Servito;03/06/2022 07:25:03
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Supreme Diesel;2.009;Servito;03/06/2022 07:25:03
+33107;San Marco Petroli;45.4771657;12.2321657;;;Benzina;1.999;SelfService;07/06/2022 00:14:17
+33107;San Marco Petroli;45.4771657;12.2321657;;;GP DIESEL;2.029;SelfService;07/06/2022 00:14:17
+33107;San Marco Petroli;45.4771657;12.2321657;;;Gasolio;1.899;SelfService;07/06/2022 00:14:17
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.959;SelfService;01/06/2022 11:51:36
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;2.179;Servito;01/06/2022 11:51:36
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Blue Diesel;1.979;SelfService;01/06/2022 11:51:36
@@ -774,10 +1274,19 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 33385;Total;45.9423964;12.5620561;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio speciale;2.299;Servito;06/06/2022 15:54:49
 33385;Total;45.9423964;12.5620561;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio;2.082;SelfService;06/06/2022 15:54:49
 33385;Total;45.9423964;12.5620561;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio;2.282;Servito;06/06/2022 15:54:49
+33464;;45.5029018;12.2686614;;;Benzina;1.989;Servito;03/06/2022 15:46:27
+33464;;45.5029018;12.2686614;;;Benzina;1.989;SelfService;03/06/2022 15:46:27
+33464;;45.5029018;12.2686614;;;Gasolio;1.899;Servito;03/06/2022 15:46:27
+33464;;45.5029018;12.2686614;;;Gasolio;1.899;SelfService;03/06/2022 15:46:27
+33464;;45.5029018;12.2686614;;;S-Diesel;1.999;Servito;03/06/2022 15:46:27
+33464;;45.5029018;12.2686614;;;S-Diesel;1.999;SelfService;03/06/2022 15:46:27
 33487;;46.4034439;12.8238704;;;Bar Alla Posta di Pacelli Giovanni;Benzina;2.120;Servito;12/03/2022 10:10:54
 33487;;46.4034439;12.8238704;;;Bar Alla Posta di Pacelli Giovanni;Gasolio;2.190;Servito;12/03/2022 10:10:54
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Benzina;1.959;SelfService;06/06/2022 12:04:44
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Gasolio;1.839;SelfService;06/06/2022 12:04:44
+33677;;45.5382496;12.1533760;;;Benzina;1.999;SelfService;06/06/2022 17:53:42
+33677;;45.5382496;12.1533760;;;Gasolio speciale;1.969;SelfService;06/06/2022 17:53:42
+33677;;45.5382496;12.1533760;;;Gasolio;1.899;SelfService;06/06/2022 17:53:42
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.769;Servito;03/06/2022 16:49:40
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.769;SelfService;03/06/2022 16:49:40
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.;GPL;0.869;Servito;03/06/2022 16:49:40
@@ -820,10 +1329,21 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.899;SelfService;03/06/2022 15:06:50
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.999;Servito;03/06/2022 15:06:50
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.999;SelfService;03/06/2022 15:06:50
+34619;Oil Italia;45.5133333;12.1505556;;;Benzina;1.989;SelfService;06/06/2022 16:01:17
+34619;Oil Italia;45.5133333;12.1505556;;;Gasolio;1.889;SelfService;06/06/2022 16:01:17
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.999;Servito;06/06/2022 19:09:02
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.999;SelfService;06/06/2022 19:09:02
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.909;Servito;06/06/2022 19:09:02
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.909;SelfService;06/06/2022 19:09:02
+34901;Agip;45.5366276;12.6463336;;;Benzina;1.979;SelfService;01/06/2022 12:15:06
+34901;Agip;45.5366276;12.6463336;;;Benzina;2.198;Servito;01/06/2022 12:15:06
+34901;Agip;45.5366276;12.6463336;;;Blue Diesel;1.999;SelfService;01/06/2022 12:15:06
+34901;Agip;45.5366276;12.6463336;;;Blue Diesel;2.213;Servito;01/06/2022 12:15:06
+34901;Agip;45.5366276;12.6463336;;;Blue Super;2.129;SelfService;01/06/2022 12:15:06
+34901;Agip;45.5366276;12.6463336;;;Blue Super;2.348;Servito;01/06/2022 12:15:06
+34901;Agip;45.5366276;12.6463336;;;Gasolio;1.899;SelfService;01/06/2022 12:15:06
+34901;Agip;45.5366276;12.6463336;;;Gasolio;2.113;Servito;01/06/2022 12:15:06
+34955;Eni;45.4319781;12.3092588;;;Gasolio;1.796;Servito;01/06/2022 14:04:29
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;2.019;SelfService;07/06/2022 06:53:56
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;2.099;Servito;07/06/2022 06:53:56
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.939;SelfService;07/06/2022 06:53:56
@@ -832,6 +1352,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Hi-Q Diesel;2.269;Servito;07/06/2022 06:53:56
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;HiQ Perform+;2.269;SelfService;07/06/2022 06:53:56
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;HiQ Perform+;2.349;Servito;07/06/2022 06:53:56
+35231;Beyfin;45.7680500;12.8330880;;;Benzina;1.969;Servito;03/06/2022 18:52:42
+35231;Beyfin;45.7680500;12.8330880;;;Benzina;1.969;SelfService;03/06/2022 18:52:42
+35231;Beyfin;45.7680500;12.8330880;;;Gasolio;1.869;Servito;03/06/2022 18:52:42
+35231;Beyfin;45.7680500;12.8330880;;;Gasolio;1.869;SelfService;03/06/2022 18:52:42
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;1.959;SelfService;06/06/2022 09:04:33
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;2.179;Servito;06/06/2022 09:04:33
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Blue Diesel;1.979;SelfService;06/06/2022 09:04:33
@@ -868,14 +1392,32 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Gasolio;2.059;Servito;03/06/2022 07:47:09
 35586;;45.7993547;13.5277227;;;Ip Services S.R.L.;Benzina;1.989;SelfService;06/06/2022 12:02:52
 35586;;45.7993547;13.5277227;;;Ip Services S.R.L.;Gasolio;1.939;SelfService;06/06/2022 12:02:52
+35598;IES;45.3549800;12.0301370;;;Benzina;1.959;Servito;02/06/2022 06:56:03
+35598;IES;45.3549800;12.0301370;;;Benzina;1.959;SelfService;02/06/2022 06:56:03
+35598;IES;45.3549800;12.0301370;;;GPL;0.799;Servito;02/06/2022 06:56:03
+35598;IES;45.3549800;12.0301370;;;Gasolio;1.839;Servito;02/06/2022 06:56:03
+35598;IES;45.3549800;12.0301370;;;Gasolio;1.839;SelfService;02/06/2022 06:56:03
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.953;Servito;06/06/2022 19:01:36
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.953;SelfService;06/06/2022 19:01:36
 35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.821;Servito;06/06/2022 19:01:36
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.846;Servito;06/06/2022 19:01:36
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.846;SelfService;06/06/2022 19:01:36
+35743;Costantin;45.5176081;12.6356932;;;Benzina;1.988;Servito;06/06/2022 12:34:01
+35743;Costantin;45.5176081;12.6356932;;;Benzina;1.988;SelfService;06/06/2022 12:34:01
+35743;Costantin;45.5176081;12.6356932;;;GPL;0.818;Servito;06/06/2022 12:34:01
+35743;Costantin;45.5176081;12.6356932;;;Gasolio;1.878;Servito;06/06/2022 12:34:01
+35743;Costantin;45.5176081;12.6356932;;;Gasolio;1.878;SelfService;06/06/2022 12:34:01
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.979;Servito;06/06/2022 20:42:47
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;GPL;0.799;Servito;06/06/2022 20:42:47
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.879;Servito;06/06/2022 20:42:47
+35918;Tamoil;45.7848182;12.8311482;;;Benzina;1.999;Servito;07/06/2022 07:30:11
+35918;Tamoil;45.7848182;12.8311482;;;Benzina;1.999;SelfService;07/06/2022 07:30:11
+35918;Tamoil;45.7848182;12.8311482;;;Gasolio;1.899;Servito;07/06/2022 07:30:11
+35918;Tamoil;45.7848182;12.8311482;;;Gasolio;1.899;SelfService;07/06/2022 07:30:11
+35966;Esso;45.4354350;12.1298830;;;Benzina;1.929;SelfService;06/06/2022 08:09:59
+35966;Esso;45.4354350;12.1298830;;;Benzina;2.109;Servito;06/06/2022 08:09:59
+35966;Esso;45.4354350;12.1298830;;;Gasolio;1.859;SelfService;06/06/2022 08:09:59
+35966;Esso;45.4354350;12.1298830;;;Gasolio;2.039;Servito;06/06/2022 08:09:59
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.959;Servito;06/06/2022 12:34:28
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.959;SelfService;06/06/2022 12:34:28
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.829;Servito;06/06/2022 12:34:28
@@ -900,6 +1442,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio speciale;2.369;Servito;06/06/2022 06:30:22
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.989;SelfService;06/06/2022 06:30:22
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;2.179;Servito;06/06/2022 06:30:22
+36482;Agip;45.6789927;12.6302422;;;Benzina;1.959;SelfService;06/06/2022 12:45:40
+36482;Agip;45.6789927;12.6302422;;;Blue Diesel;1.979;SelfService;06/06/2022 12:45:40
+36482;Agip;45.6789927;12.6302422;;;Gasolio;1.879;SelfService;06/06/2022 12:45:40
 36502;;46.0302138;13.1028162;;;Singh Sandip;Benzina;1.949;Servito;03/06/2022 14:21:02
 36502;;46.0302138;13.1028162;;;Singh Sandip;GPL;0.809;Servito;03/06/2022 14:21:02
 36502;;46.0302138;13.1028162;;;Singh Sandip;Gasolio;1.839;Servito;03/06/2022 14:21:02
@@ -913,9 +1458,27 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 36541;Eni;45.6816659;13.3869755;;;Marchesan S.A.S. di Marchesan Massimiliano e C.;Blue Super;1.695;SelfService;06/06/2022 11:14:27
 36541;Eni;45.6816659;13.3869755;;;Marchesan S.A.S. di Marchesan Massimiliano e C.;Gasolio;1.899;SelfService;06/06/2022 11:14:27
 36541;Eni;45.6816659;13.3869755;;;Marchesan S.A.S. di Marchesan Massimiliano e C.;Gasolio;2.129;Servito;06/06/2022 11:14:27
+36604;;45.6874478;12.6960663;;;Benzina;1.904;SelfService;23/05/2022 11:48:34
+36604;;45.6874478;12.6960663;;;Benzina;2.084;Servito;23/05/2022 11:48:34
+36604;;45.6874478;12.6960663;;;Gasolio;1.849;SelfService;23/05/2022 11:48:34
+36604;;45.6874478;12.6960663;;;Gasolio;2.029;Servito;23/05/2022 11:48:34
+36604;;45.6874478;12.6960663;;;Hi-Q Diesel;2.129;SelfService;23/05/2022 11:48:34
+36604;;45.6874478;12.6960663;;;Hi-Q Diesel;2.309;Servito;23/05/2022 11:48:34
+36816;;45.8284634;12.7818751;;;Benzina;2.004;SelfService;07/06/2022 07:35:59
+36816;;45.8284634;12.7818751;;;Benzina;2.224;Servito;07/06/2022 07:35:59
+36816;;45.8284634;12.7818751;;;Blue Diesel;2.244;Servito;07/06/2022 07:35:59
+36816;;45.8284634;12.7818751;;;Gasolio;1.924;SelfService;07/06/2022 07:35:59
+36816;;45.8284634;12.7818751;;;Gasolio;2.144;Servito;07/06/2022 07:35:59
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.939;SelfService;06/06/2022 08:48:07
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio Premium;1.979;SelfService;06/06/2022 08:48:07
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.839;SelfService;06/06/2022 08:48:07
+36981;Agip;45.5264840;12.3794050;;;Benzina;1.974;SelfService;01/06/2022 15:30:29
+36981;Agip;45.5264840;12.3794050;;;Benzina;2.184;Servito;01/06/2022 15:30:29
+36981;Agip;45.5264840;12.3794050;;;Blue Diesel;1.974;SelfService;01/06/2022 15:30:29
+36981;Agip;45.5264840;12.3794050;;;Blue Diesel;2.184;Servito;01/06/2022 15:30:29
+36981;Agip;45.5264840;12.3794050;;;GPL;0.802;Servito;01/06/2022 15:30:29
+36981;Agip;45.5264840;12.3794050;;;Gasolio;1.874;SelfService;01/06/2022 15:30:29
+36981;Agip;45.5264840;12.3794050;;;Gasolio;2.084;Servito;01/06/2022 15:30:29
 36989;;45.9770955;13.1983666;;;Ip Services S.R.L.;Benzina;1.949;SelfService;06/06/2022 12:04:06
 36989;;45.9770955;13.1983666;;;Ip Services S.R.L.;Excellium Diesel;1.879;SelfService;06/06/2022 12:04:06
 36989;;45.9770955;13.1983666;;;Ip Services S.R.L.;Gasolio;1.879;SelfService;06/06/2022 12:04:06
@@ -923,9 +1486,37 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;2.039;SelfService;07/06/2022 07:34:14
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.939;Servito;07/06/2022 07:34:14
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.939;SelfService;07/06/2022 07:34:14
+37105;Esso;45.8042987;12.8881208;;;Benzina;1.988;SelfService;07/06/2022 06:16:04
+37105;Esso;45.8042987;12.8881208;;;Benzina;2.369;Servito;07/06/2022 06:16:04
+37105;Esso;45.8042987;12.8881208;;;GPL;0.899;Servito;07/06/2022 06:16:04
+37105;Esso;45.8042987;12.8881208;;;Gasolio;1.933;SelfService;07/06/2022 06:16:04
+37105;Esso;45.8042987;12.8881208;;;Gasolio;2.339;Servito;07/06/2022 06:16:04
+37105;Esso;45.8042987;12.8881208;;;Supreme Diesel;1.999;SelfService;07/06/2022 06:16:04
+37105;Esso;45.8042987;12.8881208;;;Supreme Diesel;2.439;Servito;07/06/2022 06:16:04
+37124;;45.7206706;12.7173829;;;Benzina;1.829;Servito;01/06/2022 11:47:31
+37124;;45.7206706;12.7173829;;;Benzina;1.829;SelfService;01/06/2022 11:47:31
+37124;;45.7206706;12.7173829;;;Gasolio;1.829;Servito;01/06/2022 11:47:31
+37124;;45.7206706;12.7173829;;;Gasolio;1.829;SelfService;01/06/2022 11:47:31
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.909;Servito;03/06/2022 07:10:04
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio Premium;2.049;Servito;03/06/2022 07:10:04
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio;1.889;Servito;03/06/2022 07:10:04
+37293;;45.6528980;12.8330610;;;Benzina;1.995;Servito;03/06/2022 15:44:13
+37293;;45.6528980;12.8330610;;;Benzina;1.995;SelfService;03/06/2022 15:44:13
+37293;;45.6528980;12.8330610;;;GPL;0.815;Servito;03/06/2022 15:44:13
+37293;;45.6528980;12.8330610;;;Gasolio;1.905;Servito;03/06/2022 15:44:13
+37293;;45.6528980;12.8330610;;;Gasolio;1.905;SelfService;03/06/2022 15:44:13
+37293;;45.6528980;12.8330610;;;S-Diesel;2.005;Servito;03/06/2022 15:44:13
+37293;;45.6528980;12.8330610;;;S-Diesel;2.005;SelfService;03/06/2022 15:44:13
+37311;;45.3836462;12.0379968;;;Benzina;1.957;SelfService;01/06/2022 09:19:30
+37311;;45.3836462;12.0379968;;;Blue Diesel;1.977;SelfService;01/06/2022 09:19:30
+37311;;45.3836462;12.0379968;;;Blue Super;2.107;SelfService;01/06/2022 09:19:30
+37311;;45.3836462;12.0379968;;;GPL;0.822;Servito;01/06/2022 09:19:30
+37311;;45.3836462;12.0379968;;;Gasolio;1.877;SelfService;01/06/2022 09:19:30
+37425;;45.4547814;12.0486814;;;Benzina;1.969;SelfService;07/06/2022 07:32:12
+37425;;45.4547814;12.0486814;;;Benzina;2.049;Servito;07/06/2022 07:32:12
+37425;;45.4547814;12.0486814;;;GPL;0.799;Servito;07/06/2022 07:32:12
+37425;;45.4547814;12.0486814;;;Gasolio;1.869;SelfService;07/06/2022 07:32:12
+37425;;45.4547814;12.0486814;;;Gasolio;1.949;Servito;07/06/2022 07:32:12
 37479;Agip Eni;45.9499930;13.0509910;;;Pasutti Marco;Benzina;1.959;SelfService;01/06/2022 13:56:49
 37479;Agip Eni;45.9499930;13.0509910;;;Pasutti Marco;Benzina;2.169;Servito;01/06/2022 13:56:49
 37479;Agip Eni;45.9499930;13.0509910;;;Pasutti Marco;Blue Diesel;1.479;SelfService;01/06/2022 13:56:49
@@ -947,6 +1538,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37581;Agip;45.6899857;13.1397273;;;Distributore Agip di Cardillo Vincenzo;Gasolio;2.104;Servito;02/06/2022 07:49:57
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.989;SelfService;07/06/2022 07:36:02
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.889;SelfService;07/06/2022 07:36:02
+37740;IP;45.4477589;12.3204380;;;Benzina;2.194;Servito;03/06/2022 13:42:44
+37740;IP;45.4477589;12.3204380;;;Benzina;2.194;SelfService;03/06/2022 13:42:44
+37740;IP;45.4477589;12.3204380;;;Gasolio;2.166;Servito;03/06/2022 13:42:44
+37740;IP;45.4477589;12.3204380;;;Gasolio;2.166;SelfService;03/06/2022 13:42:44
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.959;Servito;03/06/2022 20:29:33
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio Premium;1.999;Servito;03/06/2022 20:29:33
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.879;Servito;03/06/2022 20:29:33
@@ -956,9 +1551,20 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38031;Esso;45.6717090;13.0910509;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone;Gasolio Premium;2.049;SelfService;07/06/2022 07:28:40
 38031;Esso;45.6717090;13.0910509;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone;Gasolio;1.949;Servito;07/06/2022 07:28:40
 38031;Esso;45.6717090;13.0910509;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone;Gasolio;1.949;SelfService;07/06/2022 07:28:40
+38120;Total;45.5089123;12.2663516;;;Benzina;1.949;SelfService;06/06/2022 12:04:10
+38120;Total;45.5089123;12.2663516;;;Excellium Diesel;1.849;SelfService;06/06/2022 12:04:10
+38120;Total;45.5089123;12.2663516;;;GPL;0.799;Servito;06/06/2022 12:04:10
+38120;Total;45.5089123;12.2663516;;;Gasolio;1.849;SelfService;06/06/2022 12:04:10
 38130;Agip Eni;45.9746479;13.3234364;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;2.009;Servito;07/06/2022 07:07:13
 38130;Agip Eni;45.9746479;13.3234364;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Blue Diesel;2.039;Servito;07/06/2022 07:07:13
 38130;Agip Eni;45.9746479;13.3234364;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.939;Servito;07/06/2022 07:07:13
+38169;;45.1855358;12.0189491;;;Benzina;1.929;Servito;01/06/2022 09:30:07
+38169;;45.1855358;12.0189491;;;Gasolio;1.819;Servito;01/06/2022 09:30:07
+38209;Erg;45.5104526;12.1490730;;;Benzina;1.939;SelfService;04/06/2022 17:51:25
+38209;Erg;45.5104526;12.1490730;;;Benzina;2.139;Servito;04/06/2022 17:51:25
+38209;Erg;45.5104526;12.1490730;;;GPL;0.799;Servito;04/06/2022 17:51:25
+38209;Erg;45.5104526;12.1490730;;;Gasolio;1.839;SelfService;04/06/2022 17:51:25
+38209;Erg;45.5104526;12.1490730;;;Gasolio;2.039;Servito;04/06/2022 17:51:25
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.939;SelfService;07/06/2022 00:20:10
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.869;SelfService;07/06/2022 00:20:10
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Supreme Diesel;1.999;SelfService;07/06/2022 00:20:10
@@ -974,6 +1580,17 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio Ecoplus;2.299;Servito;06/06/2022 07:00:11
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.989;SelfService;06/06/2022 07:00:11
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;2.179;Servito;06/06/2022 07:00:11
+38543;R8;45.4005433;12.0017349;;;Benzina;1.976;SelfService;06/06/2022 11:59:52
+38543;R8;45.4005433;12.0017349;;;GPL;0.749;Servito;06/06/2022 11:59:52
+38543;R8;45.4005433;12.0017349;;;Gasolio;1.865;SelfService;06/06/2022 11:59:52
+38608;L'oasi;45.4501817;12.0775394;;;Benzina;1.959;SelfService;06/06/2022 08:58:55
+38608;L'oasi;45.4501817;12.0775394;;;Benzina;2.169;Servito;06/06/2022 08:58:55
+38608;L'oasi;45.4501817;12.0775394;;;Blue Diesel;1.979;SelfService;06/06/2022 08:58:55
+38608;L'oasi;45.4501817;12.0775394;;;Blue Diesel;2.189;Servito;06/06/2022 08:58:55
+38608;L'oasi;45.4501817;12.0775394;;;Blue Super;2.109;SelfService;06/06/2022 08:58:55
+38608;L'oasi;45.4501817;12.0775394;;;Blue Super;2.319;Servito;06/06/2022 08:58:55
+38608;L'oasi;45.4501817;12.0775394;;;Gasolio;1.879;SelfService;06/06/2022 08:58:55
+38608;L'oasi;45.4501817;12.0775394;;;Gasolio;2.089;Servito;06/06/2022 08:58:55
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.979;SelfService;03/06/2022 06:20:56
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;2.199;Servito;03/06/2022 06:20:56
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Blue Diesel;2.019;SelfService;03/06/2022 06:20:56
@@ -1019,9 +1636,17 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38733;Agip;45.6285979;13.7815055;;;Radin Davide;Blue Super;2.084;Servito;03/06/2022 07:06:30
 38733;Agip;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.814;SelfService;03/06/2022 07:06:30
 38733;Agip;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.944;Servito;03/06/2022 07:06:30
+38738;;45.8371825;12.8535332;;;Benzina;2.169;SelfService;03/06/2022 08:22:39
+38738;;45.8371825;12.8535332;;;Gasolio Premium;2.169;SelfService;03/06/2022 08:22:39
+38738;;45.8371825;12.8535332;;;Gasolio;2.169;SelfService;03/06/2022 08:22:39
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;2.009;Servito;01/06/2022 08:16:39
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Blue Diesel;1.427;Servito;01/06/2022 08:16:39
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.949;Servito;01/06/2022 08:16:39
+38934;Esso;45.5238470;12.0906070;;;Benzina;1.919;SelfService;03/06/2022 07:23:58
+38934;Esso;45.5238470;12.0906070;;;Benzina;2.099;Servito;03/06/2022 07:23:58
+38934;Esso;45.5238470;12.0906070;;;Gasolio;1.849;SelfService;03/06/2022 07:23:58
+38934;Esso;45.5238470;12.0906070;;;Gasolio;2.029;Servito;03/06/2022 07:23:58
+38934;Esso;45.5238470;12.0906070;;;Supreme Diesel;1.969;SelfService;03/06/2022 07:23:58
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.969;Servito;03/06/2022 16:06:30
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.969;SelfService;03/06/2022 16:06:30
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;GPL;0.809;Servito;03/06/2022 16:06:30
@@ -1030,9 +1655,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Benzina;2.029;SelfService;07/06/2022 07:58:02
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;F101;2.179;SelfService;07/06/2022 07:58:02
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.959;SelfService;07/06/2022 07:58:02
+39060;IP;45.4807881;12.2723005;;;Benzina;1.949;SelfService;06/06/2022 09:01:07
+39060;IP;45.4807881;12.2723005;;;Gasolio;1.849;SelfService;06/06/2022 09:01:07
+39123;Benzina;45.4213647;12.0805373;;;Benzina;1.999;SelfService;07/06/2022 07:54:55
+39123;Benzina;45.4213647;12.0805373;;;Gasolio speciale;2.047;SelfService;07/06/2022 07:54:55
+39123;Benzina;45.4213647;12.0805373;;;Gasolio;1.947;SelfService;07/06/2022 07:54:55
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Benzina;2.074;Servito;01/06/2022 06:52:16
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Blue Diesel;2.114;Servito;01/06/2022 06:52:16
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;2.014;Servito;01/06/2022 06:52:16
+39158;Vega;45.5498332;12.2948602;;;Benzina;1.969;SelfService;07/06/2022 00:08:21
+39158;Vega;45.5498332;12.2948602;;;DieselMax;1.949;SelfService;07/06/2022 00:08:21
+39158;Vega;45.5498332;12.2948602;;;GPL;0.809;Servito;07/06/2022 00:08:21
+39158;Vega;45.5498332;12.2948602;;;Gasolio;1.879;SelfService;07/06/2022 00:08:21
 39170;Eni;45.7739387;13.0027119;;;Servizi Innovativi Nord Est S.R.L.;Benzina;2.209;Servito;11/04/2022 00:16:12
 39170;Eni;45.7739387;13.0027119;;;Servizi Innovativi Nord Est S.R.L.;Benzina;2.209;SelfService;11/04/2022 00:16:12
 39170;Eni;45.7739387;13.0027119;;;Servizi Innovativi Nord Est S.R.L.;Blue Diesel;1.939;Servito;11/04/2022 00:16:12
@@ -1059,6 +1693,20 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.;Gasolio Premium;2.169;Servito;03/06/2022 12:05:53
 39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.;Gasolio;1.879;SelfService;03/06/2022 12:05:53
 39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.;Gasolio;2.049;Servito;03/06/2022 12:05:53
+39745;Q8;45.8053980;12.8183790;;;Benzina;2.175;SelfService;06/06/2022 15:55:22
+39745;Q8;45.8053980;12.8183790;;;Benzina;2.375;Servito;06/06/2022 15:55:22
+39745;Q8;45.8053980;12.8183790;;;GPL;1.079;Servito;06/06/2022 15:55:22
+39745;Q8;45.8053980;12.8183790;;;Gasolio speciale;2.099;SelfService;06/06/2022 15:55:22
+39745;Q8;45.8053980;12.8183790;;;Gasolio speciale;2.299;Servito;06/06/2022 15:55:22
+39745;Q8;45.8053980;12.8183790;;;Gasolio;2.082;SelfService;06/06/2022 15:55:22
+39745;Q8;45.8053980;12.8183790;;;Gasolio;2.282;Servito;06/06/2022 15:55:22
+39781;Q8;45.8037570;12.8180680;;;Benzina;2.175;SelfService;06/06/2022 15:56:09
+39781;Q8;45.8037570;12.8180680;;;Benzina;2.375;Servito;06/06/2022 15:56:09
+39781;Q8;45.8037570;12.8180680;;;GPL;1.079;Servito;06/06/2022 15:56:09
+39781;Q8;45.8037570;12.8180680;;;Gasolio speciale;2.099;SelfService;06/06/2022 15:56:09
+39781;Q8;45.8037570;12.8180680;;;Gasolio speciale;2.299;Servito;06/06/2022 15:56:09
+39781;Q8;45.8037570;12.8180680;;;Gasolio;2.082;SelfService;06/06/2022 15:56:09
+39781;Q8;45.8037570;12.8180680;;;Gasolio;2.282;Servito;06/06/2022 15:56:09
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;2.099;SelfService;03/06/2022 12:44:10
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;2.319;Servito;03/06/2022 12:44:10
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Blue Diesel;2.099;SelfService;03/06/2022 12:44:10
@@ -1072,6 +1720,19 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Blue Diesel;2.214;Servito;01/06/2022 08:39:31
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.904;SelfService;01/06/2022 08:39:31
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;2.114;Servito;01/06/2022 08:39:31
+40085;IES;45.5104758;12.1223321;;;Benzina;1.999;Servito;06/06/2022 18:29:50
+40085;IES;45.5104758;12.1223321;;;Gasolio;1.899;Servito;06/06/2022 18:29:50
+40091;San Marco Petroli;45.3361060;12.0819250;;;Benzina;1.959;SelfService;06/06/2022 14:32:03
+40091;San Marco Petroli;45.3361060;12.0819250;;;Gasolio;1.879;SelfService;06/06/2022 14:32:03
+40134;;45.5256070;12.2599858;;;Benzina;2.074;SelfService;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;Benzina;2.379;Servito;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;GPL;0.909;Servito;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;Gasolio;1.964;SelfService;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;Gasolio;2.269;Servito;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;Hi-Q Diesel;2.174;SelfService;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;Hi-Q Diesel;2.429;Servito;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;HiQ Perform+;2.129;SelfService;05/06/2022 07:12:54
+40134;;45.5256070;12.2599858;;;HiQ Perform+;2.384;Servito;05/06/2022 07:12:54
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Benzina;1.909;SelfService;31/05/2022 14:41:23
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio Premium;1.959;SelfService;31/05/2022 14:41:23
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio;1.839;SelfService;31/05/2022 14:41:23
@@ -1085,10 +1746,20 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;2.198;Servito;01/06/2022 13:01:48
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.888;SelfService;01/06/2022 13:01:48
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.099;Servito;01/06/2022 13:01:48
+40351;Tamoil;45.5012054;12.6145179;;;Benzina WR 100;2.149;Servito;06/06/2022 19:04:15
+40351;Tamoil;45.5012054;12.6145179;;;Benzina WR 100;2.149;SelfService;06/06/2022 19:04:15
+40351;Tamoil;45.5012054;12.6145179;;;Benzina;1.999;Servito;06/06/2022 19:04:15
+40351;Tamoil;45.5012054;12.6145179;;;Benzina;1.999;SelfService;06/06/2022 19:04:15
+40351;Tamoil;45.5012054;12.6145179;;;Gasolio;1.909;Servito;06/06/2022 19:04:15
+40351;Tamoil;45.5012054;12.6145179;;;Gasolio;1.909;SelfService;06/06/2022 19:04:15
 40409;IP;46.1535976;13.2187083;;;Gaidaros di Bonopera Andrea;Benzina;2.109;SelfService;06/06/2022 11:37:02
 40409;IP;46.1535976;13.2187083;;;Gaidaros di Bonopera Andrea;Gasolio;1.989;SelfService;06/06/2022 11:37:02
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.759;Servito;03/05/2022 21:00:05
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.789;Servito;03/05/2022 21:00:05
+40539;;45.5025645;12.2702734;;;Benzina;1.989;Servito;06/06/2022 17:06:11
+40539;;45.5025645;12.2702734;;;Benzina;1.989;SelfService;06/06/2022 17:06:11
+40539;;45.5025645;12.2702734;;;Gasolio;1.899;Servito;06/06/2022 17:06:11
+40539;;45.5025645;12.2702734;;;Gasolio;1.899;SelfService;06/06/2022 17:06:11
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;2.074;SelfService;06/06/2022 07:55:06
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.996;SelfService;06/06/2022 07:55:06
 40623;Agip;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.929;SelfService;06/06/2022 12:17:38
@@ -1117,6 +1788,15 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.819;SelfService;03/06/2022 17:27:00
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.844;SelfService;11/05/2022 07:49:58
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.894;SelfService;11/05/2022 07:49:58
+41111;;45.5030643;12.2913180;;;Benzina;1.979;SelfService;07/06/2022 00:08:17
+41111;;45.5030643;12.2913180;;;DieselMax;1.949;SelfService;07/06/2022 00:08:17
+41111;;45.5030643;12.2913180;;;DieselMax;2.019;Servito;07/06/2022 00:08:17
+41111;;45.5030643;12.2913180;;;GPL;0.799;Servito;07/06/2022 00:08:17
+41111;;45.5030643;12.2913180;;;Gasolio;1.879;SelfService;07/06/2022 00:08:17
+41112;Vega;45.6402900;12.6002240;;;Benzina;1.989;SelfService;07/06/2022 00:08:08
+41112;Vega;45.6402900;12.6002240;;;DieselMax;1.949;SelfService;07/06/2022 00:08:08
+41112;Vega;45.6402900;12.6002240;;;DieselMax;2.019;Servito;07/06/2022 00:08:08
+41112;Vega;45.6402900;12.6002240;;;Gasolio;1.879;SelfService;07/06/2022 00:08:08
 41120;IP;45.6835120;13.1195430;;;Zamarian Mario S.A.S. di Zamarian Mario & C.;Benzina;2.179;Servito;03/06/2022 12:13:32
 41120;IP;45.6835120;13.1195430;;;Zamarian Mario S.A.S. di Zamarian Mario & C.;Gasolio;2.119;Servito;03/06/2022 12:13:32
 41156;Agip;46.0923845;13.4202953;;;Costaperaria Monica;Benzina;1.919;SelfService;30/05/2022 19:25:47
@@ -1127,11 +1807,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41156;Agip;46.0923845;13.4202953;;;Costaperaria Monica;Blue Super;1.889;Servito;30/05/2022 19:25:47
 41156;Agip;46.0923845;13.4202953;;;Costaperaria Monica;Gasolio;1.889;SelfService;30/05/2022 19:25:47
 41156;Agip;46.0923845;13.4202953;;;Costaperaria Monica;Gasolio;2.109;Servito;30/05/2022 19:25:47
+41196;QR carburanti;45.3706970;12.0452894;;;Benzina;1.999;SelfService;07/06/2022 07:08:11
+41196;QR carburanti;45.3706970;12.0452894;;;F101;2.149;SelfService;07/06/2022 07:08:11
+41196;QR carburanti;45.3706970;12.0452894;;;GP DIESEL;2.029;SelfService;07/06/2022 07:08:11
+41196;QR carburanti;45.3706970;12.0452894;;;GPL;0.799;Servito;07/06/2022 07:08:11
+41196;QR carburanti;45.3706970;12.0452894;;;Gasolio;1.899;SelfService;07/06/2022 07:08:11
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.999;Servito;07/06/2022 07:14:27
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.999;SelfService;07/06/2022 07:14:27
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;GPL;0.809;Servito;07/06/2022 07:14:27
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.889;Servito;07/06/2022 07:14:27
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.889;SelfService;07/06/2022 07:14:27
+41257;Tamoil;45.3620298;12.0930703;;;Benzina;1.989;SelfService;06/06/2022 11:30:11
+41257;Tamoil;45.3620298;12.0930703;;;Gasolio;1.869;SelfService;06/06/2022 11:30:11
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.994;Servito;03/06/2022 12:41:00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.994;SelfService;03/06/2022 12:41:00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Diesel;2.014;Servito;03/06/2022 12:41:00
@@ -1140,6 +1827,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;2.144;SelfService;03/06/2022 12:41:00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.894;Servito;03/06/2022 12:41:00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.894;SelfService;03/06/2022 12:41:00
+41339;Eni;45.5905042;12.8538388;;;Benzina;1.959;SelfService;01/06/2022 09:17:20
+41339;Eni;45.5905042;12.8538388;;;Benzina;2.169;Servito;01/06/2022 09:17:20
+41339;Eni;45.5905042;12.8538388;;;Blue Diesel;1.979;SelfService;01/06/2022 09:17:20
+41339;Eni;45.5905042;12.8538388;;;Blue Diesel;2.189;Servito;01/06/2022 09:17:20
+41339;Eni;45.5905042;12.8538388;;;Gasolio;1.879;SelfService;01/06/2022 09:17:20
+41339;Eni;45.5905042;12.8538388;;;Gasolio;2.089;Servito;01/06/2022 09:17:20
 41414;Total;46.1071050;13.2202650;;;Talarico Monica;Benzina;1.989;Servito;06/06/2022 08:49:53
 41414;Total;46.1071050;13.2202650;;;Talarico Monica;Gasolio artico;1.700;Servito;06/06/2022 08:49:53
 41414;Total;46.1071050;13.2202650;;;Talarico Monica;Gasolio;1.879;Servito;06/06/2022 08:49:53
@@ -1149,6 +1842,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41666;Agip;45.6271067;13.7942276;;;Da.Le. S.A.S. di David Viola & C.;Blue Diesel;2.239;Servito;04/06/2022 14:14:50
 41666;Agip;45.6271067;13.7942276;;;Da.Le. S.A.S. di David Viola & C.;Gasolio;1.919;SelfService;04/06/2022 14:14:50
 41666;Agip;45.6271067;13.7942276;;;Da.Le. S.A.S. di David Viola & C.;Gasolio;2.139;Servito;04/06/2022 14:14:50
+41686;Euro Petrol;45.7886190;12.7512994;;;Benzina;1.949;SelfService;07/06/2022 07:11:05
+41686;Euro Petrol;45.7886190;12.7512994;;;Benzina;2.149;Servito;07/06/2022 07:11:05
+41686;Euro Petrol;45.7886190;12.7512994;;;GPL;0.756;Servito;07/06/2022 07:11:05
+41686;Euro Petrol;45.7886190;12.7512994;;;Gasolio speciale;1.868;SelfService;07/06/2022 07:11:05
+41686;Euro Petrol;45.7886190;12.7512994;;;Gasolio speciale;2.068;Servito;07/06/2022 07:11:05
+41686;Euro Petrol;45.7886190;12.7512994;;;Gasolio;1.868;SelfService;07/06/2022 07:11:05
+41686;Euro Petrol;45.7886190;12.7512994;;;Gasolio;2.068;Servito;07/06/2022 07:11:05
+41686;Euro Petrol;45.7886190;12.7512994;;;Metano;1.888;Servito;07/06/2022 07:11:05
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;2.199;Servito;09/03/2022 10:30:23
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.839;Servito;09/03/2022 10:30:23
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;2.259;Servito;09/03/2022 10:30:23
@@ -1168,13 +1869,27 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;2.149;Servito;03/06/2022 12:37:47
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.889;SelfService;03/06/2022 12:37:47
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;2.029;Servito;03/06/2022 12:37:47
+43228;;45.4992002;12.1395234;;;Metano;1.899;Servito;06/06/2022 12:41:49
+43243;;45.7640600;12.8080700;;;Benzina;1.915;SelfService;03/06/2022 14:44:27
+43243;;45.7640600;12.8080700;;;Gasolio;1.805;SelfService;03/06/2022 14:44:27
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.899;SelfService;07/06/2022 00:20:06
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.839;SelfService;07/06/2022 00:20:06
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Hi-Q Diesel;2.089;SelfService;07/06/2022 00:20:06
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;HiQ Perform+;2.029;SelfService;07/06/2022 00:20:06
+43429;;45.4463220;12.0430068;;;Benzina;2.029;SelfService;07/06/2022 00:08:07
+43429;;45.4463220;12.0430068;;;Blue Diesel;2.029;SelfService;07/06/2022 00:08:07
+43429;;45.4463220;12.0430068;;;Blue Super;2.179;SelfService;07/06/2022 00:08:07
+43429;;45.4463220;12.0430068;;;Gasolio;1.929;SelfService;07/06/2022 00:08:07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.959;Servito;02/06/2022 20:01:07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;GPL;0.809;Servito;02/06/2022 20:01:07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.849;Servito;02/06/2022 20:01:07
+43894;;45.4566405;12.4741161;;;Benzina;1.979;SelfService;01/06/2022 17:28:41
+43894;;45.4566405;12.4741161;;;Benzina;2.209;Servito;01/06/2022 17:28:41
+43894;;45.4566405;12.4741161;;;Blue Diesel;1.999;SelfService;01/06/2022 17:28:41
+43894;;45.4566405;12.4741161;;;Blue Diesel;2.214;Servito;01/06/2022 17:28:41
+43894;;45.4566405;12.4741161;;;GPL;0.858;Servito;01/06/2022 17:28:41
+43894;;45.4566405;12.4741161;;;Gasolio;1.899;SelfService;01/06/2022 17:28:41
+43894;;45.4566405;12.4741161;;;Gasolio;2.114;Servito;01/06/2022 17:28:41
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Benzina;1.949;SelfService;06/06/2022 12:36:12
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.879;SelfService;06/06/2022 12:36:12
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Supreme Diesel;1.999;SelfService;06/06/2022 12:36:12
@@ -1188,9 +1903,15 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 44550;IP;46.0746007;13.2724868;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;2.164;Servito;05/06/2022 13:19:31
 44550;IP;46.0746007;13.2724868;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.904;SelfService;05/06/2022 13:19:31
 44550;IP;46.0746007;13.2724868;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;2.074;Servito;05/06/2022 13:19:31
+44613;Tamoil;45.4170936;12.0367851;;;Benzina;1.999;SelfService;06/06/2022 11:28:07
+44613;Tamoil;45.4170936;12.0367851;;;Gasolio;1.909;SelfService;06/06/2022 11:28:07
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Benzina;1.939;SelfService;03/06/2022 16:17:58
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Excellium Diesel;1.579;SelfService;03/06/2022 16:17:58
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Gasolio;1.919;SelfService;03/06/2022 16:17:58
+4481;;45.5754774;12.0729844;;;Benzina;1.999;SelfService;06/06/2022 17:39:58
+4481;;45.5754774;12.0729844;;;GPL;0.799;Servito;06/06/2022 17:39:58
+4481;;45.5754774;12.0729844;;;Gasolio speciale;1.969;SelfService;06/06/2022 17:39:58
+4481;;45.5754774;12.0729844;;;Gasolio;1.899;SelfService;06/06/2022 17:39:58
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Benzina;1.939;SelfService;07/06/2022 07:28:11
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Benzina;2.109;Servito;07/06/2022 07:28:11
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Gasolio;1.869;SelfService;07/06/2022 07:28:11
@@ -1200,6 +1921,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.929;SelfService;06/06/2022 12:28:05
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio Premium;1.979;SelfService;06/06/2022 12:28:05
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio;1.859;SelfService;06/06/2022 12:28:05
+45155;Noaloil;45.3294054;12.1279647;;;Benzina;1.929;Servito;31/05/2022 15:44:23
+45155;Noaloil;45.3294054;12.1279647;;;Gasolio;1.829;Servito;31/05/2022 15:44:23
 45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.499;Servito;06/06/2022 16:05:23
 45229;IP;46.0355190;13.1526730;;;Geff S.R.L.;Benzina;1.200;SelfService;06/06/2022 15:52:08
 45229;IP;46.0355190;13.1526730;;;Geff S.R.L.;Gasolio;1.200;SelfService;06/06/2022 15:52:08
@@ -1223,6 +1946,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Blue Diesel;1.994;SelfService;06/06/2022 12:52:07
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Blue Super;2.144;SelfService;06/06/2022 12:52:07
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Gasolio;1.894;SelfService;06/06/2022 12:52:07
+45346;Tamoil;45.4062094;12.1536962;;;Benzina;1.989;SelfService;06/06/2022 11:28:07
+45346;Tamoil;45.4062094;12.1536962;;;Gasolio;1.889;SelfService;06/06/2022 11:28:07
 45355;IP;45.8892315;13.3092592;;;Geff S.R.L.;Benzina;1.954;SelfService;06/06/2022 19:02:13
 45355;IP;45.8892315;13.3092592;;;Geff S.R.L.;Gasolio;1.884;SelfService;06/06/2022 19:02:13
 45387;Ecotec;45.7596607;13.0300079;;;Smp Latisana;Benzina;2.019;SelfService;07/06/2022 07:40:15
@@ -1233,17 +1958,41 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 45405;Eni;46.1625490;13.1331470;;;Servizi Innovativi Nord Est S.R.L.;Benzina;1.604;SelfService;03/03/2022 13:11:33
 45405;Eni;46.1625490;13.1331470;;;Servizi Innovativi Nord Est S.R.L.;Blue Diesel;1.584;SelfService;03/03/2022 13:11:33
 45405;Eni;46.1625490;13.1331470;;;Servizi Innovativi Nord Est S.R.L.;Gasolio;1.484;SelfService;03/03/2022 13:11:33
+45449;;45.7550565;12.7962857;;;Benzina;1.969;SelfService;07/06/2022 05:36:07
+45449;;45.7550565;12.7962857;;;F101;2.119;SelfService;07/06/2022 05:36:07
+45449;;45.7550565;12.7962857;;;GP DIESEL;2.009;SelfService;07/06/2022 05:36:07
+45449;;45.7550565;12.7962857;;;Gasolio;1.879;SelfService;07/06/2022 05:36:07
+45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;Benzina;1.959;Servito;01/06/2022 18:58:09
+45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;Benzina;1.959;SelfService;01/06/2022 18:58:09
+45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;GPL;0.818;Servito;01/06/2022 18:58:09
+45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;Gasolio;1.839;Servito;01/06/2022 18:58:09
+45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;Gasolio;1.839;SelfService;01/06/2022 18:58:09
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni;Benzina;1.999;Servito;03/06/2022 19:19:38
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni;GPL;0.829;Servito;03/06/2022 19:19:38
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni;Gasolio;1.899;Servito;03/06/2022 19:19:38
+45670;Tap;45.6033242;12.5207739;;;Benzina speciale;1.918;SelfService;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;Benzina speciale;2.018;Servito;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;Benzina;2.039;SelfService;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;Benzina;2.139;Servito;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;GPL;0.787;Servito;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;Gasolio speciale;2.039;SelfService;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;Gasolio speciale;2.139;Servito;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;Gasolio;1.949;SelfService;03/06/2022 17:20:22
+45670;Tap;45.6033242;12.5207739;;;Gasolio;1.959;Servito;03/06/2022 17:20:22
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Benzina;1.979;Servito;06/06/2022 14:16:36
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;GPL;0.809;Servito;06/06/2022 14:16:36
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Gasolio;1.879;Servito;06/06/2022 14:16:36
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.543;Servito;06/06/2022 14:16:36
+45911;Q8;45.4872750;12.2544870;;;Benzina;1.969;SelfService;02/06/2022 01:42:43
+45911;Q8;45.4872750;12.2544870;;;Gasolio;1.889;SelfService;02/06/2022 01:42:43
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;1.954;SelfService;05/06/2022 19:52:46
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Blue Diesel;2.006;SelfService;05/06/2022 19:52:46
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Blue Super;2.104;SelfService;05/06/2022 19:52:46
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Gasolio;1.906;SelfService;05/06/2022 19:52:46
+46104;Tamoil;45.5044755;12.3355622;;;Benzina;1.989;Servito;06/06/2022 12:32:14
+46104;Tamoil;45.5044755;12.3355622;;;Benzina;1.989;SelfService;06/06/2022 12:32:14
+46104;Tamoil;45.5044755;12.3355622;;;Gasolio;1.909;Servito;06/06/2022 12:32:14
+46104;Tamoil;45.5044755;12.3355622;;;Gasolio;1.909;SelfService;06/06/2022 12:32:14
 46151;Total;45.7728172;12.9972777;;;Geff S.R.L.;Benzina;1.974;SelfService;06/06/2022 14:28:11
 46151;Total;45.7728172;12.9972777;;;Geff S.R.L.;Excellium Diesel;1.384;SelfService;06/06/2022 14:28:11
 46151;Total;45.7728172;12.9972777;;;Geff S.R.L.;Gasolio;1.914;SelfService;06/06/2022 14:28:11
@@ -1254,6 +2003,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46269;gdp;45.8143730;13.3401540;;;Gdp S.R.L.- Cervignano Del F.;Benzina;2.011;Servito;07/06/2022 07:58:41
 46269;gdp;45.8143730;13.3401540;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.869;SelfService;07/06/2022 07:58:41
 46269;gdp;45.8143730;13.3401540;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.921;Servito;07/06/2022 07:58:41
+46321;Esso;45.5756922;12.6757325;;;Benzina;1.929;SelfService;06/06/2022 08:18:08
+46321;Esso;45.5756922;12.6757325;;;Gasolio;1.859;SelfService;06/06/2022 08:18:08
+46321;Esso;45.5756922;12.6757325;;;Supreme Diesel;1.979;SelfService;06/06/2022 08:18:08
+46322;Esso;45.2108395;12.2907704;;;Benzina;1.909;SelfService;06/06/2022 08:08:02
+46322;Esso;45.2108395;12.2907704;;;Gasolio;1.839;SelfService;06/06/2022 08:08:02
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;1.949;SelfService;03/06/2022 06:26:53
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;2.099;Servito;03/06/2022 06:26:53
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio artico;1.879;SelfService;03/06/2022 06:26:53
@@ -1264,15 +2018,28 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;2.149;Servito;03/06/2022 06:26:53
 46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.937;SelfService;06/06/2022 11:32:54
 46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.867;SelfService;06/06/2022 11:32:54
+46695;Agip;45.1973819;12.2912540;;;Benzina;2.109;Servito;07/06/2022 06:46:46
+46695;Agip;45.1973819;12.2912540;;;Blue Diesel;2.149;Servito;07/06/2022 06:46:46
+46695;Agip;45.1973819;12.2912540;;;Gasolio;2.049;Servito;07/06/2022 06:46:46
 46821;Tamoil;45.6553831;13.7764184;;;T.D.M. S.R.L.;Benzina;1.989;Servito;06/06/2022 13:06:07
 46821;Tamoil;45.6553831;13.7764184;;;T.D.M. S.R.L.;Benzina;1.989;SelfService;06/06/2022 13:06:07
 46821;Tamoil;45.6553831;13.7764184;;;T.D.M. S.R.L.;Gasolio;1.979;Servito;06/06/2022 13:06:07
 46821;Tamoil;45.6553831;13.7764184;;;T.D.M. S.R.L.;Gasolio;1.979;SelfService;06/06/2022 13:06:07
+46981;Total;45.8001833;12.7279233;;;Benzina;1.979;SelfService;07/06/2022 07:57:49
+46981;Total;45.8001833;12.7279233;;;Benzina;2.214;Servito;07/06/2022 07:57:49
+46981;Total;45.8001833;12.7279233;;;Blue Diesel;2.024;SelfService;07/06/2022 07:57:49
+46981;Total;45.8001833;12.7279233;;;Blue Diesel;2.234;Servito;07/06/2022 07:57:49
+46981;Total;45.8001833;12.7279233;;;GPL;0.756;Servito;07/06/2022 07:57:49
+46981;Total;45.8001833;12.7279233;;;Gasolio;1.899;SelfService;07/06/2022 07:57:49
+46981;Total;45.8001833;12.7279233;;;Gasolio;2.134;Servito;07/06/2022 07:57:49
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Benzina;1.969;SelfService;03/06/2022 19:43:57
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;GPL;0.809;Servito;03/06/2022 19:43:57
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Gasolio;1.869;SelfService;03/06/2022 19:43:57
 47011;IP;45.9423453;13.0591338;;;Geff S.R.L.;Benzina;1.859;SelfService;07/06/2022 00:08:13
 47011;IP;45.9423453;13.0591338;;;Geff S.R.L.;Gasolio;1.799;SelfService;07/06/2022 00:08:13
+47013;Esso;45.7768810;12.8631290;;;Benzina;1.899;SelfService;06/06/2022 16:04:10
+47013;Esso;45.7768810;12.8631290;;;Gasolio;1.829;SelfService;06/06/2022 16:04:10
+47013;Esso;45.7768810;12.8631290;;;Supreme Diesel;1.569;SelfService;06/06/2022 16:04:10
 47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Benzina;1.909;SelfService;01/06/2022 19:38:54
 47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Gasolio;1.889;SelfService;01/06/2022 19:38:54
 47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Supreme Diesel;2.049;SelfService;01/06/2022 19:38:54
@@ -1281,12 +2048,21 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 47037;IP;46.5489890;12.8543690;;;Geff S.R.L.;Benzina;1.959;SelfService;07/06/2022 00:18:16
 47037;IP;46.5489890;12.8543690;;;Geff S.R.L.;Gasolio artico;1.814;SelfService;07/06/2022 00:18:16
 47037;IP;46.5489890;12.8543690;;;Geff S.R.L.;Gasolio;1.899;SelfService;07/06/2022 00:18:16
+47075;Esso;45.4851238;12.2003179;;;Benzina;1.939;Servito;04/06/2022 17:43:36
+47075;Esso;45.4851238;12.2003179;;;Gasolio;1.849;Servito;04/06/2022 17:43:36
+47075;Esso;45.4851238;12.2003179;;;Supreme Diesel;1.999;Servito;04/06/2022 17:43:36
 47089;Tamoil;45.6862791;13.7476404;;;T.D.M. S.R.L.;Benzina;1.979;Servito;06/06/2022 12:04:02
 47089;Tamoil;45.6862791;13.7476404;;;T.D.M. S.R.L.;Benzina;1.979;SelfService;06/06/2022 12:04:02
 47089;Tamoil;45.6862791;13.7476404;;;T.D.M. S.R.L.;Gasolio;1.969;Servito;06/06/2022 12:04:02
 47089;Tamoil;45.6862791;13.7476404;;;T.D.M. S.R.L.;Gasolio;1.969;SelfService;06/06/2022 12:04:02
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Benzina;1.879;SelfService;06/06/2022 12:19:08
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Gasolio;1.829;SelfService;06/06/2022 12:19:08
+47666;Repsol;45.4686180;11.9979180;;;Benzina;1.979;SelfService;07/06/2022 04:50:04
+47666;Repsol;45.4686180;11.9979180;;;Benzina;2.079;Servito;07/06/2022 04:50:04
+47666;Repsol;45.4686180;11.9979180;;;GPL;0.799;SelfService;07/06/2022 04:50:04
+47666;Repsol;45.4686180;11.9979180;;;GPL;0.829;Servito;07/06/2022 04:50:04
+47666;Repsol;45.4686180;11.9979180;;;Gasolio;1.879;SelfService;07/06/2022 04:50:04
+47666;Repsol;45.4686180;11.9979180;;;Gasolio;1.979;Servito;07/06/2022 04:50:04
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.899;SelfService;01/06/2022 12:33:08
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.879;SelfService;01/06/2022 12:33:08
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Supreme Diesel;2.039;SelfService;01/06/2022 12:33:08
@@ -1317,14 +2093,41 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.959;SelfService;02/06/2022 07:11:13
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;2.209;SelfService;02/06/2022 07:11:13
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;HiQ Perform+;2.239;SelfService;02/06/2022 07:11:13
+48173;Agip;45.5007700;12.0545320;;;Benzina;2.029;SelfService;07/06/2022 06:32:00
+48173;Agip;45.5007700;12.0545320;;;Benzina;2.249;Servito;07/06/2022 06:32:00
+48173;Agip;45.5007700;12.0545320;;;Blue Diesel;2.029;SelfService;07/06/2022 06:32:00
+48173;Agip;45.5007700;12.0545320;;;Blue Diesel;2.249;Servito;07/06/2022 06:32:00
+48173;Agip;45.5007700;12.0545320;;;GPL;0.859;Servito;07/06/2022 06:32:00
+48173;Agip;45.5007700;12.0545320;;;Gasolio;1.929;SelfService;07/06/2022 06:32:00
+48173;Agip;45.5007700;12.0545320;;;Gasolio;2.149;Servito;07/06/2022 06:32:00
+48226;Q8;45.5480253;12.3047463;;;Benzina;1.989;SelfService;07/06/2022 02:05:48
+48226;Q8;45.5480253;12.3047463;;;Gasolio;1.899;SelfService;07/06/2022 02:05:48
+48284;Beyfin;45.4847442;12.2862661;;;Benzina;1.989;SelfService;06/06/2022 16:38:59
+48284;Beyfin;45.4847442;12.2862661;;;Benzina;2.049;Servito;06/06/2022 16:38:59
+48284;Beyfin;45.4847442;12.2862661;;;GPL;0.799;Servito;06/06/2022 16:38:59
+48284;Beyfin;45.4847442;12.2862661;;;Gasolio;1.889;SelfService;06/06/2022 16:38:59
+48284;Beyfin;45.4847442;12.2862661;;;Gasolio;1.949;Servito;06/06/2022 16:38:59
 48406;IP;45.9365570;13.5845520;;;M 2 S.A.S. di Savino Aldrigo & C.;Benzina;1.899;SelfService;07/06/2022 07:50:11
 48406;IP;45.9365570;13.5845520;;;M 2 S.A.S. di Savino Aldrigo & C.;Gasolio;1.869;SelfService;07/06/2022 07:50:11
 48516;Sistiana Service S.n.c.;45.7712330;13.6371781;;;Gabriele Riva - Sistiana;Benzina;1.909;Servito;06/06/2022 19:11:30
 48516;Sistiana Service S.n.c.;45.7712330;13.6371781;;;Gabriele Riva - Sistiana;Benzina;1.909;SelfService;06/06/2022 19:11:30
 48516;Sistiana Service S.n.c.;45.7712330;13.6371781;;;Gabriele Riva - Sistiana;Gasolio;1.889;Servito;06/06/2022 19:11:30
 48516;Sistiana Service S.n.c.;45.7712330;13.6371781;;;Gabriele Riva - Sistiana;Gasolio;1.889;SelfService;06/06/2022 19:11:30
+48571;enercoop;45.1910519;12.2775165;;;Benzina;1.934;SelfService;05/06/2022 21:25:11
+48571;enercoop;45.1910519;12.2775165;;;GPL;0.759;Servito;05/06/2022 21:25:11
+48571;enercoop;45.1910519;12.2775165;;;Gasolio;1.824;SelfService;05/06/2022 21:25:11
+48571;enercoop;45.1910519;12.2775165;;;Metano;1.839;Servito;05/06/2022 21:25:11
 48573;Q8;46.1165724;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.989;SelfService;02/06/2022 01:43:54
 48573;Q8;46.1165724;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.869;SelfService;02/06/2022 01:43:54
+48736;;45.1435800;12.0687200;;;Benzina;1.974;SelfService;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;Benzina;2.189;Servito;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;Blue Diesel;1.994;SelfService;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;Blue Diesel;2.209;Servito;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;Blue Super;2.215;SelfService;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;Blue Super;2.334;Servito;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;GPL;0.822;Servito;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;Gasolio;1.894;SelfService;01/06/2022 10:50:42
+48736;;45.1435800;12.0687200;;;Gasolio;2.109;Servito;01/06/2022 10:50:42
 48899;Eni;46.0420044;13.2214918;;;Eni;Benzina;2.009;SelfService;07/06/2022 07:41:03
 48899;Eni;46.0420044;13.2214918;;;Eni;Blue Diesel;2.009;SelfService;07/06/2022 07:41:03
 48899;Eni;46.0420044;13.2214918;;;Eni;Gasolio;1.909;SelfService;07/06/2022 07:41:03
@@ -1332,13 +2135,29 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;2.159;Servito;06/06/2022 07:17:58
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Gasolio;1.869;SelfService;06/06/2022 07:17:58
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Gasolio;2.059;Servito;06/06/2022 07:17:58
+48914;Esso;45.5064223;12.1475056;;;Benzina;1.909;SelfService;02/06/2022 08:39:12
+48914;Esso;45.5064223;12.1475056;;;Benzina;2.109;Servito;02/06/2022 08:39:12
+48914;Esso;45.5064223;12.1475056;;;Gasolio;1.839;SelfService;02/06/2022 08:39:12
+48914;Esso;45.5064223;12.1475056;;;Gasolio;2.039;Servito;02/06/2022 08:39:12
+48914;Esso;45.5064223;12.1475056;;;Supreme Diesel;1.959;SelfService;02/06/2022 08:39:12
+48914;Esso;45.5064223;12.1475056;;;Supreme Diesel;2.159;Servito;02/06/2022 08:39:12
 49016;IP;46.0084830;13.4367940;;;V&c Carburanti S.N.C. di Mahmood Asad & C.;Benzina;1.979;Servito;03/06/2022 18:37:41
 49016;IP;46.0084830;13.4367940;;;V&c Carburanti S.N.C. di Mahmood Asad & C.;Gasolio;1.859;Servito;03/06/2022 18:37:41
 49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Benzina;1.979;Servito;03/06/2022 18:38:29
 49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;GPL;0.799;Servito;03/06/2022 18:38:29
 49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Gasolio;1.859;Servito;03/06/2022 18:38:29
+49209;Trivengas;45.6421623;12.5917078;;;Benzina speciale;2.069;SelfService;07/06/2022 07:04:11
+49209;Trivengas;45.6421623;12.5917078;;;Benzina;1.999;SelfService;07/06/2022 07:04:11
+49209;Trivengas;45.6421623;12.5917078;;;GPL;0.799;Servito;07/06/2022 07:04:11
+49209;Trivengas;45.6421623;12.5917078;;;Gasolio speciale;1.969;SelfService;07/06/2022 07:04:11
+49209;Trivengas;45.6421623;12.5917078;;;Gasolio;1.899;SelfService;07/06/2022 07:04:11
+49209;Trivengas;45.6421623;12.5917078;;;Metano;1.999;Servito;07/06/2022 07:04:11
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;1.954;Servito;03/06/2022 07:04:08
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Gasolio;1.874;Servito;03/06/2022 07:04:08
+49249;;45.5094325;12.2826686;;;Benzina;1.939;SelfService;01/06/2022 13:37:11
+49249;;45.5094325;12.2826686;;;Benzina;1.969;Servito;01/06/2022 13:37:11
+49249;;45.5094325;12.2826686;;;Gasolio;1.899;SelfService;01/06/2022 13:37:11
+49249;;45.5094325;12.2826686;;;Gasolio;1.939;Servito;01/06/2022 13:37:11
 49270;;45.8378802;13.2114657;;;Eni Station;Benzina;1.989;SelfService;07/06/2022 07:14:38
 49270;;45.8378802;13.2114657;;;Eni Station;Benzina;2.234;Servito;07/06/2022 07:14:38
 49270;;45.8378802;13.2114657;;;Eni Station;Blue Diesel;2.044;SelfService;07/06/2022 07:14:38
@@ -1359,6 +2178,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49322;Esso;46.0607119;13.3111516;;;Censani Fabrizio;Gasolio;2.049;Servito;03/06/2022 08:20:57
 49322;Esso;46.0607119;13.3111516;;;Censani Fabrizio;Supreme Diesel;1.999;SelfService;03/06/2022 08:20:57
 49322;Esso;46.0607119;13.3111516;;;Censani Fabrizio;Supreme Diesel;2.169;Servito;03/06/2022 08:20:57
+49387;Agip;45.5774381;12.0849625;;;Benzina;2.029;SelfService;07/06/2022 06:45:53
+49387;Agip;45.5774381;12.0849625;;;Benzina;2.249;Servito;07/06/2022 06:45:53
+49387;Agip;45.5774381;12.0849625;;;Blue Diesel;2.029;SelfService;07/06/2022 06:45:53
+49387;Agip;45.5774381;12.0849625;;;Blue Diesel;2.249;Servito;07/06/2022 06:45:53
+49387;Agip;45.5774381;12.0849625;;;GPL;0.799;Servito;07/06/2022 06:45:53
+49387;Agip;45.5774381;12.0849625;;;Gasolio;1.929;SelfService;07/06/2022 06:45:53
+49387;Agip;45.5774381;12.0849625;;;Gasolio;2.149;Servito;07/06/2022 06:45:53
 49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;2.009;SelfService;07/06/2022 07:20:08
 49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;2.229;Servito;07/06/2022 07:20:08
 49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Blue Diesel;2.029;SelfService;07/06/2022 07:20:08
@@ -1373,8 +2199,38 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Diesel;1.954;SelfService;04/06/2022 07:50:03
 49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Super;2.104;SelfService;04/06/2022 07:50:03
 49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.854;SelfService;04/06/2022 07:50:03
+49724;Esso;45.6536732;12.5383537;;;Benzina;1.929;SelfService;07/06/2022 07:04:10
+49724;Esso;45.6536732;12.5383537;;;Gasolio;1.859;SelfService;07/06/2022 07:04:10
+49724;Esso;45.6536732;12.5383537;;;Supreme Diesel;1.469;SelfService;07/06/2022 07:04:10
+49770;;45.6437111;12.4922052;;;Benzina;1.914;SelfService;06/06/2022 08:42:10
+49770;;45.6437111;12.4922052;;;Gasolio;1.854;SelfService;06/06/2022 08:42:10
+49878;Esso;45.7213895;12.9149083;;;Benzina;1.899;SelfService;06/06/2022 10:48:09
+49878;Esso;45.7213895;12.9149083;;;Gasolio;1.829;SelfService;06/06/2022 10:48:09
+49937;;45.4181700;12.3699000;;;Benzina;1.979;SelfService;01/06/2022 19:00:44
+49937;;45.4181700;12.3699000;;;Benzina;2.263;Servito;01/06/2022 19:00:44
+49937;;45.4181700;12.3699000;;;Gasolio;1.919;SelfService;01/06/2022 19:00:44
+49937;;45.4181700;12.3699000;;;Gasolio;2.205;Servito;01/06/2022 19:00:44
+49938;Total;45.4198876;12.3752573;;;Benzina;2.089;SelfService;01/06/2022 19:02:17
+49938;Total;45.4198876;12.3752573;;;Benzina;2.289;Servito;01/06/2022 19:02:17
+49938;Total;45.4198876;12.3752573;;;Gasolio;2.039;SelfService;01/06/2022 19:02:17
+49938;Total;45.4198876;12.3752573;;;Gasolio;2.239;Servito;01/06/2022 19:02:17
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.958;SelfService;06/06/2022 09:59:49
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.848;SelfService;06/06/2022 09:59:49
+50197;Api;45.4503075;12.1684541;;;Benzina;1.969;SelfService;03/06/2022 16:30:22
+50197;Api;45.4503075;12.1684541;;;Benzina;2.194;Servito;03/06/2022 16:30:22
+50197;Api;45.4503075;12.1684541;;;Gasolio;1.869;SelfService;03/06/2022 16:30:22
+50197;Api;45.4503075;12.1684541;;;Gasolio;2.166;Servito;03/06/2022 16:30:22
+50219;;45.4849809;12.2734411;;;Benzina;1.909;SelfService;03/06/2022 09:28:03
+50219;;45.4849809;12.2734411;;;Benzina;2.109;Servito;03/06/2022 09:28:03
+50219;;45.4849809;12.2734411;;;Gasolio;1.839;SelfService;03/06/2022 09:28:03
+50219;;45.4849809;12.2734411;;;Gasolio;2.039;Servito;03/06/2022 09:28:03
+50219;;45.4849809;12.2734411;;;Supreme Diesel;1.959;SelfService;03/06/2022 09:28:03
+50219;;45.4849809;12.2734411;;;Supreme Diesel;2.159;Servito;03/06/2022 09:28:03
+50308;;45.5167974;12.2362485;;;Benzina;1.939;SelfService;06/06/2022 18:18:02
+50308;;45.5167974;12.2362485;;;Gasolio;1.829;SelfService;06/06/2022 18:18:02
+50358;;45.5761100;12.6689800;;;Benzina;1.979;SelfService;06/06/2022 12:46:52
+50358;;45.5761100;12.6689800;;;Blue Diesel;1.999;SelfService;06/06/2022 12:46:52
+50358;;45.5761100;12.6689800;;;Gasolio;1.899;SelfService;06/06/2022 12:46:52
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.959;Servito;02/06/2022 15:12:19
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Gasolio;1.849;Servito;02/06/2022 15:12:19
 50445;Eni;46.0728368;13.2138243;;;Poci Kloris;Benzina;2.009;SelfService;07/06/2022 07:52:27
@@ -1389,6 +2245,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50484;Agip;45.9279270;13.6132190;;;04130;Blue Diesel;2.289;Servito;07/06/2022 07:26:08
 50484;Agip;45.9279270;13.6132190;;;04130;Gasolio;1.969;SelfService;07/06/2022 07:26:08
 50484;Agip;45.9279270;13.6132190;;;04130;Gasolio;2.189;Servito;07/06/2022 07:26:08
+50564;IP;45.5207345;12.6391739;;;Benzina;1.959;SelfService;03/06/2022 09:19:06
+50564;IP;45.5207345;12.6391739;;;Benzina;2.059;Servito;03/06/2022 09:19:06
+50564;IP;45.5207345;12.6391739;;;Gasolio;1.849;SelfService;03/06/2022 09:19:06
+50564;IP;45.5207345;12.6391739;;;Gasolio;1.949;Servito;03/06/2022 09:19:06
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.909;Servito;06/06/2022 18:43:31
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.909;SelfService;06/06/2022 18:43:31
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.889;Servito;06/06/2022 18:43:31
@@ -1401,6 +2261,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.;Gasolio;1.889;SelfService;06/06/2022 19:08:13
 50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.;Supreme Diesel;2.049;Servito;06/06/2022 19:08:13
 50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.;Supreme Diesel;2.049;SelfService;06/06/2022 19:08:13
+50673;Total;45.1206588;12.2543389;;;Benzina;1.969;Servito;06/06/2022 07:42:13
+50673;Total;45.1206588;12.2543389;;;Gasolio;1.869;Servito;06/06/2022 07:42:13
 50718;Fly;46.1441190;12.9788230;;;Geff S.R.L.;Benzina;1.959;SelfService;07/06/2022 07:30:14
 50718;Fly;46.1441190;12.9788230;;;Geff S.R.L.;Gasolio;1.889;SelfService;07/06/2022 07:30:14
 50747;DA.LE.;45.6152860;13.7908860;;;Eni Fuel S.P.A.;Benzina;2.179;SelfService;07/06/2022 07:30:08
@@ -1421,6 +2283,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.949;SelfService;06/06/2022 07:55:54
 50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;1.879;SelfService;06/06/2022 07:55:54
 50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Supreme Diesel;1.999;SelfService;06/06/2022 07:55:54
+50917;;45.5023750;12.2742760;;;Benzina;2.059;Servito;06/06/2022 07:57:33
+50917;;45.5023750;12.2742760;;;Blue Diesel;2.099;Servito;06/06/2022 07:57:33
+50917;;45.5023750;12.2742760;;;Blue Super;2.209;Servito;06/06/2022 07:57:33
+50917;;45.5023750;12.2742760;;;Gasolio;1.999;Servito;06/06/2022 07:57:33
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;2.009;SelfService;07/06/2022 07:42:26
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;2.229;Servito;07/06/2022 07:42:26
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Blue Diesel;2.009;SelfService;07/06/2022 07:42:26
@@ -1436,11 +2302,38 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 51194;IP;45.7885870;13.0131180;;;Scer S.N.C. di Beccaro Bellino & C.;Benzina;2.189;Servito;06/06/2022 18:54:12
 51194;IP;45.7885870;13.0131180;;;Scer S.N.C. di Beccaro Bellino & C.;Gasolio;1.889;SelfService;06/06/2022 18:54:12
 51194;IP;45.7885870;13.0131180;;;Scer S.N.C. di Beccaro Bellino & C.;Gasolio;2.129;Servito;06/06/2022 18:54:12
+51300;IP;45.7804284;12.8763464;;;Benzina;1.917;SelfService;06/06/2022 18:05:17
+51300;IP;45.7804284;12.8763464;;;Gasolio;1.817;SelfService;06/06/2022 18:05:17
 51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Benzina;1.909;SelfService;04/06/2022 13:50:26
 51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Gasolio;1.889;SelfService;04/06/2022 13:50:26
 51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Supreme Diesel;1.729;SelfService;04/06/2022 13:50:26
+51511;Q8;45.1561682;12.2719623;;;Benzina;1.979;Servito;04/06/2022 07:59:36
+51511;Q8;45.1561682;12.2719623;;;Benzina;1.979;SelfService;04/06/2022 07:59:36
+51511;Q8;45.1561682;12.2719623;;;Gasolio;1.879;Servito;04/06/2022 07:59:36
+51511;Q8;45.1561682;12.2719623;;;Gasolio;1.879;SelfService;04/06/2022 07:59:36
+51511;Q8;45.1561682;12.2719623;;;Hi-Q Diesel;2.039;Servito;04/06/2022 07:59:36
+51511;Q8;45.1561682;12.2719623;;;Hi-Q Diesel;2.039;SelfService;04/06/2022 07:59:36
+51556;Agip;45.6476325;12.5880838;;;Benzina;2.039;SelfService;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;Benzina;2.248;Servito;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;Blue Diesel;2.039;SelfService;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;Blue Diesel;2.248;Servito;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;Blue Super;1.959;SelfService;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;Blue Super;2.168;Servito;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;GPL;0.799;Servito;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;Gasolio;1.939;SelfService;03/06/2022 16:48:13
+51556;Agip;45.6476325;12.5880838;;;Gasolio;2.148;Servito;03/06/2022 16:48:13
 51577;;46.0239505;13.1923243;;;Kumar Rajinder;Benzina;2.070;Servito;07/06/2022 07:40:12
 51577;;46.0239505;13.1923243;;;Kumar Rajinder;Gasolio;1.969;Servito;07/06/2022 07:40:12
+51662;Metano;45.4695190;12.1990910;;;Benzina;1.999;SelfService;07/06/2022 02:29:05
+51662;Metano;45.4695190;12.1990910;;;GNL;2.099;Servito;07/06/2022 02:29:05
+51662;Metano;45.4695190;12.1990910;;;GPL;0.799;Servito;07/06/2022 02:29:05
+51662;Metano;45.4695190;12.1990910;;;Gasolio speciale;1.949;SelfService;07/06/2022 02:29:05
+51662;Metano;45.4695190;12.1990910;;;Gasolio;1.879;SelfService;07/06/2022 02:29:05
+51662;Metano;45.4695190;12.1990910;;;L-GNC;1.999;Servito;07/06/2022 02:29:05
+51662;Metano;45.4695190;12.1990910;;;Metano;1.999;Servito;07/06/2022 02:29:05
+51663;Esso;45.5518322;12.0719522;;;Benzina;1.899;SelfService;06/06/2022 12:04:04
+51663;Esso;45.5518322;12.0719522;;;Gasolio;1.829;SelfService;06/06/2022 12:04:04
+51663;Esso;45.5518322;12.0719522;;;Supreme Diesel;1.839;SelfService;06/06/2022 12:04:04
 51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Benzina;2.009;SelfService;07/06/2022 07:44:07
 51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Benzina;2.229;Servito;07/06/2022 07:44:07
 51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Blue Diesel;2.029;SelfService;07/06/2022 07:44:07
@@ -1454,12 +2347,42 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 51813;Q8;46.0080400;13.1214500;;;Q8;Gasolio;2.099;Servito;02/06/2022 22:51:30
 51813;Q8;46.0080400;13.1214500;;;Q8;Hi-Q Diesel;2.094;SelfService;02/06/2022 22:51:30
 51813;Q8;46.0080400;13.1214500;;;Q8;Hi-Q Diesel;2.314;Servito;02/06/2022 22:51:30
+51862;Eni;45.4750389;12.2112404;;;Benzina;2.009;SelfService;07/06/2022 06:14:04
+51862;Eni;45.4750389;12.2112404;;;Benzina;2.229;Servito;07/06/2022 06:14:04
+51862;Eni;45.4750389;12.2112404;;;Blue Diesel;2.009;SelfService;07/06/2022 06:14:04
+51862;Eni;45.4750389;12.2112404;;;Blue Diesel;2.229;Servito;07/06/2022 06:14:04
+51862;Eni;45.4750389;12.2112404;;;Blue Super;2.159;SelfService;07/06/2022 06:14:04
+51862;Eni;45.4750389;12.2112404;;;Blue Super;2.379;Servito;07/06/2022 06:14:04
+51862;Eni;45.4750389;12.2112404;;;Gasolio;1.909;SelfService;07/06/2022 06:14:04
+51862;Eni;45.4750389;12.2112404;;;Gasolio;2.129;Servito;07/06/2022 06:14:04
 51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Benzina;1.939;Servito;06/06/2022 16:00:26
 51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Benzina;1.939;SelfService;06/06/2022 16:00:26
 51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Gasolio;1.859;Servito;06/06/2022 16:00:26
 51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Gasolio;1.859;SelfService;06/06/2022 16:00:26
 52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Benzina;1.919;SelfService;06/06/2022 19:58:42
 52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.859;SelfService;06/06/2022 19:58:42
+52035;Trivengas;45.4883200;12.1012690;;;Benzina;1.999;SelfService;07/06/2022 07:35:23
+52035;Trivengas;45.4883200;12.1012690;;;GPL;0.799;Servito;07/06/2022 07:35:23
+52035;Trivengas;45.4883200;12.1012690;;;Gasolio speciale;1.979;SelfService;07/06/2022 07:35:23
+52035;Trivengas;45.4883200;12.1012690;;;Gasolio;1.899;SelfService;07/06/2022 07:35:23
+52077;Agip;45.2072246;12.2756647;;;Benzina;2.009;SelfService;07/06/2022 06:06:10
+52077;Agip;45.2072246;12.2756647;;;Blue Diesel;2.029;SelfService;07/06/2022 06:06:10
+52077;Agip;45.2072246;12.2756647;;;Gasolio;1.929;SelfService;07/06/2022 06:06:10
+52078;;45.4188547;12.0595785;;;Benzina;2.009;SelfService;07/06/2022 06:04:20
+52078;;45.4188547;12.0595785;;;Blue Diesel;2.029;SelfService;07/06/2022 06:04:20
+52078;;45.4188547;12.0595785;;;Gasolio;1.929;SelfService;07/06/2022 06:04:20
+52081;;45.5386088;12.3013026;;;Benzina;2.009;SelfService;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Benzina;2.219;Servito;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Blue Diesel;2.029;SelfService;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Blue Diesel;2.239;Servito;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Blue Super;2.159;SelfService;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Blue Super;2.369;Servito;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;GPL;0.822;Servito;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Gasolio;1.929;SelfService;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Gasolio;2.139;Servito;07/06/2022 07:38:04
+52081;;45.5386088;12.3013026;;;Metano;2.073;Servito;07/06/2022 07:38:04
+52103;Conad;45.7924662;12.8178755;;;Benzina;1.898;SelfService;06/06/2022 09:27:19
+52103;Conad;45.7924662;12.8178755;;;Gasolio;1.798;SelfService;06/06/2022 09:27:19
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;1.999;SelfService;07/06/2022 00:22:03
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;2.216;Servito;07/06/2022 00:22:03
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Blue Diesel;2.019;SelfService;07/06/2022 00:22:03
@@ -1469,6 +2392,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;GPL;0.849;Servito;07/06/2022 00:22:03
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Gasolio;1.919;SelfService;07/06/2022 00:22:03
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Gasolio;2.136;Servito;07/06/2022 00:22:03
+52235;;45.8013325;12.8137484;;;Benzina;1.959;SelfService;06/06/2022 19:02:10
+52235;;45.8013325;12.8137484;;;Gasolio;1.879;SelfService;06/06/2022 19:02:10
 52240;Agip;46.1539002;13.2912666;;;Carrozzeria La Motta di Pecile Maurizio;Benzina;1.914;SelfService;01/06/2022 10:45:38
 52240;Agip;46.1539002;13.2912666;;;Carrozzeria La Motta di Pecile Maurizio;Blue Diesel;1.954;SelfService;01/06/2022 10:45:38
 52240;Agip;46.1539002;13.2912666;;;Carrozzeria La Motta di Pecile Maurizio;Gasolio;1.854;SelfService;01/06/2022 10:45:38
@@ -1482,6 +2407,21 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.989;SelfService;07/06/2022 07:14:03
 52438;Tamoil;46.0283439;13.2588105;;;6979;Gasolio;1.909;Servito;07/06/2022 07:14:03
 52438;Tamoil;46.0283439;13.2588105;;;6979;Gasolio;1.909;SelfService;07/06/2022 07:14:03
+5243;OMV;45.5482840;12.6018310;;;Benzina;1.979;SelfService;06/06/2022 07:52:04
+5243;OMV;45.5482840;12.6018310;;;GPL;0.799;Servito;06/06/2022 07:52:04
+5243;OMV;45.5482840;12.6018310;;;Gasolio;1.879;SelfService;06/06/2022 07:52:04
+52505;Agip;45.2637321;12.3006957;;;Benzina;1.979;SelfService;07/06/2022 07:46:07
+52505;Agip;45.2637321;12.3006957;;;Benzina;2.009;Servito;07/06/2022 07:46:07
+52505;Agip;45.2637321;12.3006957;;;Gasolio;1.919;SelfService;07/06/2022 07:46:07
+52505;Agip;45.2637321;12.3006957;;;Gasolio;2.019;Servito;07/06/2022 07:46:07
+52530;;45.2237355;12.1971605;;;Benzina;1.959;SelfService;06/06/2022 06:57:46
+52530;;45.2237355;12.1971605;;;Benzina;2.179;Servito;06/06/2022 06:57:46
+52530;;45.2237355;12.1971605;;;Blue Diesel;1.979;SelfService;06/06/2022 06:57:46
+52530;;45.2237355;12.1971605;;;Blue Diesel;2.199;Servito;06/06/2022 06:57:46
+52530;;45.2237355;12.1971605;;;Blue Super;2.109;SelfService;06/06/2022 06:57:46
+52530;;45.2237355;12.1971605;;;Blue Super;2.329;Servito;06/06/2022 06:57:46
+52530;;45.2237355;12.1971605;;;Gasolio;1.879;SelfService;06/06/2022 06:57:46
+52530;;45.2237355;12.1971605;;;Gasolio;2.099;Servito;06/06/2022 06:57:46
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.919;SelfService;31/05/2022 07:41:46
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Benzina;2.144;Servito;31/05/2022 07:41:46
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Blue Diesel;1.964;SelfService;31/05/2022 07:41:46
@@ -1491,6 +2431,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;GPL;0.799;Servito;31/05/2022 07:41:46
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.819;SelfService;31/05/2022 07:41:46
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;2.044;Servito;31/05/2022 07:41:46
+52574;Ego;45.4249143;12.1769133;;;Benzina;1.939;Servito;02/06/2022 17:58:10
+52574;Ego;45.4249143;12.1769133;;;Benzina;1.939;SelfService;02/06/2022 17:58:10
+52574;Ego;45.4249143;12.1769133;;;Gasolio;1.839;Servito;02/06/2022 17:58:10
+52574;Ego;45.4249143;12.1769133;;;Gasolio;1.839;SelfService;02/06/2022 17:58:10
 52652;Esso;46.2687113;13.1075760;;;Cossa Enzo;Benzina;2.009;Servito;03/06/2022 07:13:14
 52652;Esso;46.2687113;13.1075760;;;Cossa Enzo;Supreme Diesel;2.059;Servito;03/06/2022 07:13:14
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Benzina;1.969;Servito;03/06/2022 11:16:28
@@ -1499,11 +2443,28 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Gasolio;1.807;SelfService;03/06/2022 11:16:28
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;1.799;Servito;03/06/2022 11:16:28
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;1.799;SelfService;03/06/2022 11:16:28
+52838;Costantin;45.5491368;12.7460788;;;Benzina;1.977;SelfService;07/06/2022 07:46:08
+52838;Costantin;45.5491368;12.7460788;;;Benzina;1.997;Servito;07/06/2022 07:46:08
+52838;Costantin;45.5491368;12.7460788;;;Gasolio;1.877;SelfService;07/06/2022 07:46:08
+52838;Costantin;45.5491368;12.7460788;;;Gasolio;1.897;Servito;07/06/2022 07:46:08
 52852;Repsol;45.9357748;13.1754332;;;Repsol;Benzina;1.951;SelfService;31/05/2022 09:40:51
 52852;Repsol;45.9357748;13.1754332;;;Repsol;Gasolio;1.818;SelfService;31/05/2022 09:40:51
+52910;Amico 14;45.1771759;12.2765281;;;Benzina speciale;2.133;SelfService;06/06/2022 10:42:48
+52910;Amico 14;45.1771759;12.2765281;;;Benzina;1.933;SelfService;06/06/2022 10:42:48
+52910;Amico 14;45.1771759;12.2765281;;;GNL;1.999;Servito;06/06/2022 10:42:48
+52910;Amico 14;45.1771759;12.2765281;;;GPL;0.758;Servito;06/06/2022 10:42:48
+52910;Amico 14;45.1771759;12.2765281;;;Gasolio speciale;1.949;SelfService;06/06/2022 10:42:48
+52910;Amico 14;45.1771759;12.2765281;;;Gasolio;1.849;SelfService;06/06/2022 10:42:48
+52910;Amico 14;45.1771759;12.2765281;;;Metano;1.838;Servito;06/06/2022 10:42:48
 53066;Repsol;45.7179771;13.0500352;;;T.D.M. S.R.L.;Benzina;1.859;SelfService;07/06/2022 07:54:10
 53066;Repsol;45.7179771;13.0500352;;;T.D.M. S.R.L.;GPL;0.782;Servito;07/06/2022 07:54:10
 53066;Repsol;45.7179771;13.0500352;;;T.D.M. S.R.L.;Gasolio;1.894;SelfService;07/06/2022 07:54:10
+53229;Major;45.2006590;12.2858512;;;Benzina;1.939;SelfService;03/06/2022 17:10:32
+53229;Major;45.2006590;12.2858512;;;Benzina;2.039;Servito;03/06/2022 17:10:32
+53229;Major;45.2006590;12.2858512;;;Gasolio speciale;2.089;SelfService;03/06/2022 17:10:32
+53229;Major;45.2006590;12.2858512;;;Gasolio speciale;2.189;Servito;03/06/2022 17:10:32
+53229;Major;45.2006590;12.2858512;;;Gasolio;1.859;SelfService;03/06/2022 17:10:32
+53229;Major;45.2006590;12.2858512;;;Gasolio;1.959;Servito;03/06/2022 17:10:32
 53341;;45.6393200;13.7603681;;;Geff S.R.L.;Benzina;1.979;SelfService;06/06/2022 12:40:20
 53341;;45.6393200;13.7603681;;;Geff S.R.L.;Gasolio;1.909;SelfService;06/06/2022 12:40:20
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Benzina;1.979;SelfService;02/06/2022 12:40:50
@@ -1512,6 +2473,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Blue Diesel;2.219;Servito;02/06/2022 12:40:50
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Gasolio;1.899;SelfService;02/06/2022 12:40:50
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Gasolio;2.119;Servito;02/06/2022 12:40:50
+53390;europam;45.5562670;12.6686310;;;Benzina;1.987;SelfService;06/06/2022 13:36:57
+53390;europam;45.5562670;12.6686310;;;GPL;0.877;Servito;06/06/2022 13:36:57
+53390;europam;45.5562670;12.6686310;;;Gasolio;1.867;SelfService;06/06/2022 13:36:57
 53483;Eni;45.8112130;13.5217240;;;Eni;Benzina;1.979;SelfService;01/06/2022 09:15:24
 53483;Eni;45.8112130;13.5217240;;;Eni;Benzina;2.199;Servito;01/06/2022 09:15:24
 53483;Eni;45.8112130;13.5217240;;;Eni;Blue Diesel;1.999;SelfService;01/06/2022 09:15:24
@@ -1522,12 +2486,29 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53483;Eni;45.8112130;13.5217240;;;Eni;Gasolio;2.119;Servito;01/06/2022 09:15:24
 53525;IP;46.1497874;13.3440433;;;Cg Service di Cattarossi Gianluca;Benzina;1.929;Servito;06/06/2022 10:55:26
 53525;IP;46.1497874;13.3440433;;;Cg Service di Cattarossi Gianluca;Gasolio;1.809;Servito;06/06/2022 10:55:26
+53583;;45.4422945;12.0511814;;;Benzina;2.079;SelfService;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Benzina;2.289;Servito;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Blue Diesel;2.109;SelfService;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Blue Diesel;2.319;Servito;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Blue Super;2.229;SelfService;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Blue Super;2.439;Servito;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;GPL;0.969;Servito;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Gasolio;2.009;SelfService;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Gasolio;2.219;Servito;01/06/2022 11:25:42
+53583;;45.4422945;12.0511814;;;Metano;2.078;Servito;01/06/2022 11:25:42
 53617;Repsol;46.0806061;13.2077095;;;Repsol;Benzina;1.969;SelfService;01/06/2022 12:43:21
 53617;Repsol;46.0806061;13.2077095;;;Repsol;Benzina;2.009;Servito;01/06/2022 12:43:21
 53617;Repsol;46.0806061;13.2077095;;;Repsol;Gasolio;1.842;SelfService;01/06/2022 12:43:21
 53617;Repsol;46.0806061;13.2077095;;;Repsol;Gasolio;1.882;Servito;01/06/2022 12:43:21
 53643;;46.1535669;13.2186863;;;Impianto Ip Tricesimo - Fuel Service S.A.S.;Benzina;1.959;SelfService;06/06/2022 21:32:47
 53643;;46.1535669;13.2186863;;;Impianto Ip Tricesimo - Fuel Service S.A.S.;Gasolio;1.859;SelfService;06/06/2022 21:32:47
+53683;;45.4781675;12.1524237;;;Benzina;1.954;SelfService;01/06/2022 15:15:33
+53683;;45.4781675;12.1524237;;;Benzina;2.164;Servito;01/06/2022 15:15:33
+53683;;45.4781675;12.1524237;;;Blue Diesel;1.974;SelfService;01/06/2022 15:15:33
+53683;;45.4781675;12.1524237;;;Blue Diesel;2.184;Servito;01/06/2022 15:15:33
+53683;;45.4781675;12.1524237;;;Blue Super;2.104;SelfService;01/06/2022 15:15:33
+53683;;45.4781675;12.1524237;;;Gasolio;1.874;SelfService;01/06/2022 15:15:33
+53683;;45.4781675;12.1524237;;;Gasolio;2.084;Servito;01/06/2022 15:15:33
 53727;;45.7185651;13.7299462;;;Esso Sgonico;Benzina;1.909;SelfService;07/06/2022 06:54:03
 53727;;45.7185651;13.7299462;;;Esso Sgonico;Benzina;2.099;Servito;07/06/2022 06:54:03
 53727;;45.7185651;13.7299462;;;Esso Sgonico;Gasolio;1.869;SelfService;07/06/2022 06:54:03
@@ -1538,14 +2519,55 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio Artico;1.701;SelfService;07/06/2022 07:28:46
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.701;SelfService;07/06/2022 07:28:46
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.771;Servito;07/06/2022 07:28:46
+53751;agip;45.7242197;12.7018664;;;Benzina;1.959;SelfService;06/06/2022 09:56:05
+53751;agip;45.7242197;12.7018664;;;Blue Diesel;1.979;SelfService;06/06/2022 09:56:05
+53751;agip;45.7242197;12.7018664;;;Blue Super;2.109;SelfService;06/06/2022 09:56:05
+53751;agip;45.7242197;12.7018664;;;Gasolio;1.879;SelfService;06/06/2022 09:56:05
+53759;;45.3275632;12.0459033;;;Benzina;1.999;SelfService;07/06/2022 00:14:17
+53759;;45.3275632;12.0459033;;;Gasolio;1.899;SelfService;07/06/2022 00:14:17
+53779;Esso;45.4982972;12.3180769;;;Benzina;1.969;Servito;06/06/2022 11:27:44
+53779;Esso;45.4982972;12.3180769;;;Benzina;1.969;SelfService;06/06/2022 11:27:44
+53779;Esso;45.4982972;12.3180769;;;Gasolio;1.869;Servito;06/06/2022 11:27:44
+53779;Esso;45.4982972;12.3180769;;;Gasolio;1.869;SelfService;06/06/2022 11:27:44
+53779;Esso;45.4982972;12.3180769;;;Supreme Diesel;1.869;Servito;06/06/2022 11:27:44
+53779;Esso;45.4982972;12.3180769;;;Supreme Diesel;1.869;SelfService;06/06/2022 11:27:44
+53799;Oil Italia;45.4692656;12.5355560;;;Benzina;1.988;Servito;06/06/2022 16:01:13
+53799;Oil Italia;45.4692656;12.5355560;;;Benzina;1.988;SelfService;06/06/2022 16:01:13
+53799;Oil Italia;45.4692656;12.5355560;;;Gasolio;1.878;Servito;06/06/2022 16:01:13
+53799;Oil Italia;45.4692656;12.5355560;;;Gasolio;1.878;SelfService;06/06/2022 16:01:13
+5981;;45.3834720;12.0970410;;;Benzina;1.969;SelfService;06/06/2022 12:04:58
+5981;;45.3834720;12.0970410;;;Excellium Diesel;1.949;SelfService;06/06/2022 12:04:58
+5981;;45.3834720;12.0970410;;;Gasolio;1.869;SelfService;06/06/2022 12:04:58
 6023;Tamoil;45.8609664;12.7687538;;;Fiorenergy S.R.L.;Benzina WR 100;2.099;SelfService;03/06/2022 16:08:33
 6023;Tamoil;45.8609664;12.7687538;;;Fiorenergy S.R.L.;Benzina;1.999;SelfService;03/06/2022 16:08:33
 6023;Tamoil;45.8609664;12.7687538;;;Fiorenergy S.R.L.;GPL;0.829;Servito;03/06/2022 16:08:33
 6023;Tamoil;45.8609664;12.7687538;;;Fiorenergy S.R.L.;Gasolio;1.899;SelfService;03/06/2022 16:08:33
+6154;Loro;45.1312159;12.0735352;;;Benzina;1.959;Servito;06/06/2022 12:48:42
+6154;Loro;45.1312159;12.0735352;;;Gasolio;1.854;Servito;06/06/2022 12:48:42
+6187;Eni;45.4795275;12.2705799;;;Benzina;1.954;SelfService;06/06/2022 17:26:11
+6187;Eni;45.4795275;12.2705799;;;Benzina;2.164;Servito;06/06/2022 17:26:11
+6187;Eni;45.4795275;12.2705799;;;Blue Diesel;1.954;SelfService;06/06/2022 17:26:11
+6187;Eni;45.4795275;12.2705799;;;Blue Diesel;2.164;Servito;06/06/2022 17:26:11
+6187;Eni;45.4795275;12.2705799;;;Blue Super;2.104;SelfService;06/06/2022 17:26:11
+6187;Eni;45.4795275;12.2705799;;;Blue Super;2.314;Servito;06/06/2022 17:26:11
+6187;Eni;45.4795275;12.2705799;;;Gasolio;1.854;SelfService;06/06/2022 17:26:11
+6187;Eni;45.4795275;12.2705799;;;Gasolio;2.064;Servito;06/06/2022 17:26:11
 6370;Api;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.999;Servito;03/06/2022 19:40:35
 6370;Api;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.999;SelfService;03/06/2022 19:40:35
 6370;Api;46.0489079;12.6580690;;;Martinel Franco;Gasolio;1.899;Servito;03/06/2022 19:40:35
 6370;Api;46.0489079;12.6580690;;;Martinel Franco;Gasolio;1.899;SelfService;03/06/2022 19:40:35
+6475;Q8;45.4800785;12.2222066;;;Benzina;1.957;SelfService;02/06/2022 01:42:37
+6475;Q8;45.4800785;12.2222066;;;Gasolio;1.887;SelfService;02/06/2022 01:42:37
+6476;Q8;45.1944410;12.2820870;;;Benzina;1.979;SelfService;07/06/2022 02:05:48
+6476;Q8;45.1944410;12.2820870;;;Gasolio;1.879;SelfService;07/06/2022 02:05:48
+6477;Q8;45.4990769;12.6204447;;;Benzina;1.989;SelfService;07/06/2022 02:05:48
+6477;Q8;45.4990769;12.6204447;;;Gasolio;1.889;SelfService;07/06/2022 02:05:48
+6478;Q8;45.5584750;12.5760840;;;Benzina;1.999;SelfService;02/06/2022 01:42:40
+6478;Q8;45.5584750;12.5760840;;;Gasolio;1.899;SelfService;02/06/2022 01:42:40
+6479;Q8;45.4426520;12.1489920;;;Benzina;1.979;SelfService;02/06/2022 01:42:44
+6479;Q8;45.4426520;12.1489920;;;Gasolio;1.889;SelfService;02/06/2022 01:42:44
+6480;Q8;45.5069356;12.0236290;;;Benzina;1.999;SelfService;07/06/2022 02:05:49
+6480;Q8;45.5069356;12.0236290;;;Gasolio;1.899;SelfService;07/06/2022 02:05:49
 6502;Q8;45.7713341;13.0234252;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.989;SelfService;07/06/2022 02:05:58
 6502;Q8;45.7713341;13.0234252;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.889;SelfService;07/06/2022 02:05:58
 6807;Total;45.9442569;12.8356969;;;Marinacci Renato;Benzina;1.989;Servito;06/06/2022 11:37:26
@@ -1595,6 +2617,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.899;SelfService;06/06/2022 00:34:19
 7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;2.199;SelfService;06/06/2022 00:34:19
 7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.;HiQ Perform+;2.299;SelfService;06/06/2022 00:34:19
+7284;Q8;45.7457293;12.9904216;;;Benzina;1.999;SelfService;07/06/2022 02:05:49
+7284;Q8;45.7457293;12.9904216;;;GPL;0.859;Servito;07/06/2022 02:05:49
+7284;Q8;45.7457293;12.9904216;;;Gasolio;1.919;SelfService;07/06/2022 02:05:49
 7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.967;SelfService;02/06/2022 01:43:53
 7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;GPL;0.809;Servito;02/06/2022 01:43:53
 7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.887;SelfService;02/06/2022 01:43:53
@@ -1609,8 +2634,39 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Benzina;1.929;SelfService;04/06/2022 12:45:06
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio Premium;1.979;SelfService;04/06/2022 12:45:06
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio;1.859;SelfService;04/06/2022 12:45:06
+7623;Eni;45.4772863;12.1989337;;;Benzina;2.004;SelfService;07/06/2022 07:42:05
+7623;Eni;45.4772863;12.1989337;;;Gasolio;1.904;SelfService;07/06/2022 07:42:05
+7929;Agip;45.4658551;12.1071883;;;Benzina;2.039;SelfService;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Benzina;2.258;Servito;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Blue Diesel;1.979;SelfService;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Blue Diesel;2.198;Servito;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Blue Super;2.269;SelfService;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Blue Super;2.488;Servito;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;GPL;0.799;Servito;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Gasolio;1.939;SelfService;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Gasolio;2.158;Servito;07/06/2022 07:14:02
+7929;Agip;45.4658551;12.1071883;;;Metano;1.999;Servito;07/06/2022 07:14:02
+8221;Api;45.4840071;12.2811913;;;Benzina;2.359;Servito;10/03/2022 08:46:04
+8221;Api;45.4840071;12.2811913;;;Benzina;2.359;SelfService;10/03/2022 08:46:04
+8221;Api;45.4840071;12.2811913;;;Gasolio;2.349;Servito;10/03/2022 08:46:04
+8221;Api;45.4840071;12.2811913;;;Gasolio;2.349;SelfService;10/03/2022 08:46:04
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;1.924;SelfService;03/06/2022 19:29:03
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.864;SelfService;03/06/2022 19:29:03
+8613;;45.5710045;12.1112787;;;Benzina;1.979;SelfService;06/06/2022 18:21:01
+8613;;45.5710045;12.1112787;;;Benzina;2.234;Servito;06/06/2022 18:21:01
+8613;;45.5710045;12.1112787;;;Gasolio;1.879;SelfService;06/06/2022 18:21:01
+8613;;45.5710045;12.1112787;;;Gasolio;2.169;Servito;06/06/2022 18:21:01
+8622;Erg;45.7749396;12.8484418;;;Benzina;1.949;SelfService;06/06/2022 12:06:16
+8622;Erg;45.7749396;12.8484418;;;Excellium Diesel;1.849;SelfService;06/06/2022 12:06:16
+8622;Erg;45.7749396;12.8484418;;;Gasolio;1.849;SelfService;06/06/2022 12:06:16
+8626;Eni;45.4851997;12.2017511;;;Benzina;1.954;SelfService;01/06/2022 11:41:30
+8626;Eni;45.4851997;12.2017511;;;Benzina;2.174;Servito;01/06/2022 11:41:30
+8626;Eni;45.4851997;12.2017511;;;Blue Diesel;1.954;SelfService;01/06/2022 11:41:30
+8626;Eni;45.4851997;12.2017511;;;Blue Diesel;2.174;Servito;01/06/2022 11:41:30
+8626;Eni;45.4851997;12.2017511;;;Blue Super;2.104;SelfService;01/06/2022 11:41:30
+8626;Eni;45.4851997;12.2017511;;;Blue Super;2.324;Servito;01/06/2022 11:41:30
+8626;Eni;45.4851997;12.2017511;;;Gasolio;1.854;SelfService;01/06/2022 11:41:30
+8626;Eni;45.4851997;12.2017511;;;Gasolio;2.074;Servito;01/06/2022 11:41:30
 8684;Eni;45.9600500;12.5121000;;;;Benzina;2.004;SelfService;07/06/2022 07:05:10
 8684;Eni;45.9600500;12.5121000;;;;Blue Diesel;2.024;SelfService;07/06/2022 07:05:10
 8684;Eni;45.9600500;12.5121000;;;;Blue Super;2.364;Servito;07/06/2022 07:05:10
@@ -1655,6 +2711,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 9338;Petrol;45.9674240;12.9703690;;;Armani Marta;Gasolio;1.919;Servito;06/06/2022 21:39:30
 9342;Oil Italia;45.7512701;13.6690771;;;Viola Ettore;Benzina;1.979;Servito;06/06/2022 06:39:54
 9342;Oil Italia;45.7512701;13.6690771;;;Viola Ettore;Gasolio;1.899;Servito;06/06/2022 06:39:54
+9405;Q8;45.2044264;12.2763473;;;Benzina;2.009;Servito;06/06/2022 20:58:47
+9405;Q8;45.2044264;12.2763473;;;Benzina;2.009;SelfService;06/06/2022 20:58:47
+9405;Q8;45.2044264;12.2763473;;;Gasolio;1.899;Servito;06/06/2022 20:58:47
+9405;Q8;45.2044264;12.2763473;;;Gasolio;1.899;SelfService;06/06/2022 20:58:47
+9405;Q8;45.2044264;12.2763473;;;Hi-Q Diesel;2.039;Servito;06/06/2022 20:58:47
+9405;Q8;45.2044264;12.2763473;;;Hi-Q Diesel;2.039;SelfService;06/06/2022 20:58:47
+9405;Q8;45.2044264;12.2763473;;;HiQ Perform+;2.079;Servito;06/06/2022 20:58:47
+9405;Q8;45.2044264;12.2763473;;;HiQ Perform+;2.079;SelfService;06/06/2022 20:58:47
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.999;Servito;07/06/2022 07:26:09
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.999;SelfService;07/06/2022 07:26:09
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.899;Servito;07/06/2022 07:26:09
@@ -1665,6 +2729,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio Premium;2.039;SelfService;05/06/2022 13:21:49
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.909;Servito;05/06/2022 13:21:49
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.909;SelfService;05/06/2022 13:21:49
+9771;Q8;45.4492862;12.2028313;;;Benzina;1.929;SelfService;03/06/2022 16:51:21
+9771;Q8;45.4492862;12.2028313;;;Gasolio;1.869;SelfService;03/06/2022 16:51:21
+9771;Q8;45.4492862;12.2028313;;;Hi-Q Diesel;2.039;SelfService;03/06/2022 16:51:21
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Benzina;2.019;Servito;03/06/2022 07:18:49
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Benzina;2.019;SelfService;03/06/2022 07:18:49
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio Premium;2.069;Servito;03/06/2022 07:18:49
