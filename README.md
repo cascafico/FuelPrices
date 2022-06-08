@@ -14,3 +14,6 @@ On a region or province base, OSM data (amenity=fuel) is being downloaded via ov
    nwr(area.a)[amenity=fuel];
   );
   out center;
+
+# Notes
+To be usable, output map needs updated OSM tag "ref:mise", since this vale links prices to OSM objects.
