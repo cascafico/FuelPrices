@@ -38,7 +38,7 @@ cat fuel.csv | grep ";Benzina;" >> benzina.csv
 max=`awk  '($9+0 > price+0 || price == "") && $1+0 > 0 { price = $9 } END { print price } ' FS=";" benzina.csv`
 awk -i inplace -v max=$max ' {printf "%s;%02d\n",$0,10*$9/max} '  FS=";" benzina.csv
 
-cat fuel.csv | grep ";Gasol\|;Blue Diesel" >> gasolio.csv
+#cat fuel.csv | grep ";Gasol\|;Blue Diesel" >> gasolio.csv
 cat fuel.csv | grep ";Gasolio;" >> gasolio.csv
 max=`awk  '($9+0 > price+0 || price == "") && $1+0 > 0 { price = $9 } END { print price } ' FS=";" gasolio.csv`
 awk -i inplace -v max=$max ' {printf "%s;%02d\n",$0,10*$9/max} '  FS=";" gasolio.csv
