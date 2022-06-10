@@ -363,8 +363,6 @@
 ;;45.8739909;13.0001464;;;
 ;Stazione di servizio GNP - Fontanafredda;45.9718900;12.5580812;;;
 ;Stazione di servizio GNP - Pordenone;45.9693053;12.6306947;;;
-46821;Tamoil;45.6553831;13.7764184;;;T.D.M. S.R.L.
-11894;Q8;45.6556020;13.8040068;;;Servizi & Gestioni Italia S.R.L.
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.
 9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine
@@ -446,6 +444,7 @@
 27631;Agip;45.6361547;13.8311665;;;Self Area 4004 di Riccobon Mauro
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno
+46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.
 50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio
@@ -472,6 +471,7 @@
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian
+11894;Q8;45.6556111;13.8040375;;;Servizi & Gestioni Italia S.R.L.
 40794;;45.9567014;12.8211571;;;Cst Service di Casotto Mauro & C. Snc
 48573;Q8;46.1165724;13.2239162;;;Servizi & Gestioni Italia S.R.L.
 36240;Esso;45.6894502;13.1329225;;;Galasso Giorgio
@@ -737,6 +737,7 @@
 6154;Loro;45.1312159;12.0735352;;;L. & L. S.N.C. di Fecchio Davide & C.
 23448;;45.5733916;12.1105644;;;F.lli Vianello S.R.L.
 20768;;45.1151094;12.1881420;;;Paper di Botti Alberto & C. - Società in Nome Collettivo
+28688;;45.4587400;12.4084400;;;Supermercato Vignotto S.N.C. di Vignotto Caterina e Federica & C.
 22821;Esso;45.4986258;12.6066230;;;Piovesan Franco - Vanin Piergiorgio & C. S.N.C.
 33464;;45.5029018;12.2686614;;;S.I.A. Engineering Construction S.R.L.
 49878;Esso;45.7213895;12.9149083;;;Geff S.R.L.
@@ -745,7 +746,6 @@
 49937;;45.4181700;12.3699000;;;Lido Energia S.R.L.
 48736;;45.1435800;12.0687200;;;Marchesini Sandro
 43243;;45.7640600;12.8080700;;;Distributore Savo
-28688;;45.4587400;12.4084400;;;Supermercato Vignotto S.N.C.di Vignotto Caterina e Federica & C.
 ;Q8;45.5255228;12.2596569;;;
 46104;Tamoil;45.5044755;12.3355622;;;T.D.M. S.R.L.
 30485;IP;45.4849840;12.2106852;;;Ip
@@ -784,8 +784,8 @@
 11940;Q8;45.5095787;12.6441671;;;Servizi & Gestioni Italia S.R.L.
 32882;Agip;45.5115616;12.6434317;;;A.G.N. S.A.S. di Varriale Claudio & C.
 15872;Esso;45.5114817;12.6560659;;;Area Servizio Cella di Cella Roberto & C. S.A.S.
-50564;IP;45.5207345;12.6391739;;;Carburanti Gondal di Arif Saqlain
-10929;IP;45.5240458;12.6402843;;;Dalla Pria Giuseppe
+50564;IP;45.5207326;12.6391799;;;Carburanti Gondal di Arif Saqlain
+10929;IP;45.5240458;12.6403159;;;Dalla Pria Giuseppe
 10676;;45.5503705;12.6608520;;;A.F. Petroli S.p.A.
 ;Eni;45.5145295;12.6724474;;;
 8626;Eni;45.4851997;12.2017511;;;Carrer Chiara & C. S.N.C.
