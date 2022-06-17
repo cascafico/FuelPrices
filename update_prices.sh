@@ -12,6 +12,8 @@ wget -O anagrafica_impianti_osm.csv "https://overpass-api.de/api/interpreter?dat
 wget "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%22ref%3Amise%22%2C%22name%22%2C%3A%3Alat%2C%3A%3Alon%2C%22start%5Fdate%22%2C%22description%22%2C%22operator%22%3Bfalse%3B%22%3B%22%29%5D%3Barea%5B%22short_name%22%3D%22VE%22%5D%5B%22admin%5Flevel%22%3D%226%22%5D%2D%3E%2Ea%3B%28nwr%5B%22amenity%22%3D%22fuel%22%5D%28area%2Ea%29%3B%29%3Bout%20center%3B%0A"  --no-check-certificate -O - >> anagrafica_impianti_osm.csv
 wget https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv --no-check-certificate
 
+DOWNLOAD_DATE=`head -1 prezzo_alle_8.csv | awk -F' ' '{print $3}'`
+
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > fuel.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > benzina.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > gasolio.csv
