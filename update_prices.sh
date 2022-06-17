@@ -14,6 +14,37 @@ wget https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv --no-check-certi
 
 DOWNLOAD_DATE=`head -1 prezzo_alle_8.csv | awk -F' ' '{print $3}'`
 
+## begin filter prices from date ##
+
+#date --date="7 days ago" +'%Y%m%d'
+#20220609
+
+STARTDATE=`date --date="7 days ago" +'%Y%m%d'`
+
+# truncate hour and minute and remove first line ("Estrazione del")
+# awk -i inplace -F " " 'NR>1 {  print $1 }' prezzo_alle_8.csv
+awk -i inplace -F " " ' {  print $1 }' prezzo_alle_8.csv
+
+# 31782;Benzina;1.299;0;22/02/2022
+# 38188;Benzina;1.599;1;04/06/2022
+# 4726;Benzina;1.879;0;16/11/2021 
+
+
+# date military format
+awk -i inplace  -F";" '{ split($5,d,/\//); print $1";"$2";"$3";"$4";"d[3]d[2]d[1] }' prezzo_alle_8.csv
+# sed -i '1 i\idImpianto;descCarburante;prezzo;isSelf;dtComu'  prezzo_alle_8.csv
+
+# only prices from STARTDATE (7 days ago)
+awk -i inplace -F';' -v da=$STARTDATE ' $5 > da ' prezzo_alle_8.csv 
+
+# idImpianto;descCarburante;prezzo;isSelf;dtComu
+# 41125;Benzina;1.549;1;20220615
+# 43517;Benzina;1.389;1;20220613
+# 26612;Benzina;1.489;0;20220614
+
+## end filter prices from date ##
+
+
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > fuel.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > benzina.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > gasolio.csv
