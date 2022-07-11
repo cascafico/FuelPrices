@@ -211,7 +211,7 @@
 47037;IP;46.5489890;12.8543690;;;Geff S.R.L.
 ;IP;45.8803220;13.0478630;;;IP
 15517;Q8;45.8277200;13.4012111;;;Singh Gurdial
-27646;Esso;45.8277300;13.2386170;;;Ylli Service S.N.C. di Hasramaj Ylli e C.
+27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.
 49277;Esso;45.9838539;13.4054733;;;Set Società a Responsabilità Limitata
 25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.
@@ -329,7 +329,7 @@
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano
 39070;;46.0989350;12.8540039;;;Matcu Diana
 31382;;46.1035320;12.7501877;;;Som S.P.A.
-27766;Repsol;45.7857807;13.3587409;;;Tavaris Silvano
+;;45.7857807;13.3587409;;;Tavaris Silvano
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.
 7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.
 40564;;46.1824247;12.8776565;;;Zanet Marietto & C. S.N.C.
@@ -389,7 +389,7 @@
 18022;;45.9247991;12.8737666;;;Luchin Alvario
 21140;;45.8976349;12.8230069;;;Falconi Annalisa
 28059;Esso;45.8062286;13.3909882;;;A. & B. S.A.S. di Alvaro Alessandro & C.
-45246;Q8;45.8342107;13.1939418;;;Geff S.R.L.
+45246;Agip;45.8342107;13.1939418;;;Geff S.R.L.
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.
 25825;;45.9498241;12.8821507;;;Ip Services S.R.L.
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.
