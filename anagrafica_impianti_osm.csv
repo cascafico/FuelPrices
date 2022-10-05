@@ -29,14 +29,14 @@
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.
 8539;Agip;46.1175373;12.8992126;;;F.lli Coassin di Coassin Giorgio & C. S.N.C.
 7267;Q8easy;46.0897890;13.1448520;;;Servizi & Gestioni Italia S.R.L.
-26915;Total;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.
+26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter
 33385;Total;45.9423964;12.5620561;;;Duino Nord S.A.S di Sacilotto Laura & C.
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.
 10193;Esso;46.1525380;13.0089230;;;Ornella Michele
 4238;Eni;46.1488240;12.9889640;;;Enicafè & Shop di Morosop. & C S.A.S.
 35819;IP;46.1210521;13.0008388;;;Singh Manjit
-12383;Agip;46.1118909;13.0310080;;;D'Angelo Ivan
+12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.
 26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.
 46189;Esso;45.6817891;13.4047546;;;Geff S.R.L.
@@ -157,7 +157,7 @@
 31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.
 41156;Agip;46.0923845;13.4202953;;;Costaperaria Monica
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.
-13689;Agip;45.9459880;12.9767420;;;Pituello Stefano
+13689;Eni;45.9459880;12.9767420;;;Pituello Stefano
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.
 45405;Eni;46.1625490;13.1331470;;;Servizi Innovativi Nord Est S.R.L.
@@ -228,7 +228,6 @@
 7000;TotalErg;46.1887850;13.1585310;;;Agrofriul S.R.L.
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo
-;IP;45.8417950;12.9935590;;;IP
 18677;Agip Eni;46.2109172;12.9546179;;;Dean Mirko
 10570;IP;46.5273540;13.1192850;;;Matiz Alberto
 ;Api;45.7832098;13.5363427;;;Api
@@ -306,7 +305,7 @@
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata
 44488;;46.0860227;13.3628876;;;Casella Lucia
 10567;Agip;46.2125925;13.2127712;;;Astolfi Marco
-50718;Fly;46.1441190;12.9788230;;;Geff S.R.L.
+50718;Esso;46.1441190;12.9788230;;;Geff S.R.L.
 49322;Esso;46.0607119;13.3111516;;;Censani Fabrizio
 7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
@@ -510,8 +509,9 @@
 ;;45.7596253;13.0301780;;;
 ;;45.7885438;13.0134847;;;
 ;;45.7717354;12.9977814;;;
-;;45.7712310;13.0235999;;;
+;;45.7711479;13.0235784;;;
 ;;45.7221816;13.0485460;;;
+;;45.6716466;13.0911345;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio
 37105;Esso;45.8042987;12.8881208;;;Tiger S.R.L.
 3909;Agip;45.8046175;12.8804655;;;Minari S.R.L.
