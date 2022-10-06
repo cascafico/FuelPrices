@@ -367,6 +367,8 @@
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.
 53727;;45.7185651;13.7299462;;;Esso Sgonico
+;Esso;45.7716347;12.9978223;;;
+;IP;45.7728471;12.9972578;;;
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.
 9002;Presani Marco;46.1000861;13.4423999;;;Servizi & Gestioni Italia S.R.L.
 53643;;46.1535669;13.2186863;;;Impianto Ip Tricesimo - Fuel Service S.A.S.
@@ -392,7 +394,7 @@
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.
 25825;;45.9498241;12.8821507;;;Ip Services S.R.L.
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.
-21505;Total;46.0457107;12.8667227;;;Collaviti Gabriele
+21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio
 34493;Agip;45.8502901;12.8819719;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
 53345;;45.8951665;13.3092124;;;Eni Palmanova
@@ -421,9 +423,7 @@
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna
 35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni
 ;Eni;45.9555204;12.4945187;;;Eni
-39170;Eni;45.7739387;13.0027119;;;Servizi Innovativi Nord Est S.R.L.
-22869;Esso;45.7716671;12.9978514;;;Pighin Attilio
-46151;Total;45.7728172;12.9972777;;;Geff S.R.L.
+39170;Eni;45.7739387;13.0027119;;;
 ;A.F. Petroli;45.9522490;12.6991919;;;
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl
 4490;Noal Oil;45.9496893;12.7526472;;;Noaloil S.p.A.
@@ -508,7 +508,6 @@
 ;;45.7179126;13.0498406;;;
 ;;45.7596253;13.0301780;;;
 ;;45.7885438;13.0134847;;;
-;;45.7717354;12.9977814;;;
 ;;45.7711479;13.0235784;;;
 ;;45.7221816;13.0485460;;;
 ;;45.6716466;13.0911345;;;
