@@ -1,27 +1,28 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.;Metano;3.399;Servito;20221008;08
-17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Metano;3.522;Servito;20221008;08
+17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Metano;3.522;Servito;20221011;08
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;2.899;Servito;20221010;07
 24829;;45.4418459;12.0569114;;;Eni Fuel S.p.A.;Metano;3.578;Servito;20221010;08
-31450;Vega;45.4450461;12.2047487;;;Vega Carburanti S.p.A.;Metano;2.799;Servito;20221010;06
-31539;Vega;45.5340913;12.1813971;;;Vega Carburanti S.p.A.;Metano;3.499;Servito;20221010;08
-31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;Metano;3.499;Servito;20221010;08
+31450;Vega;45.4450461;12.2047487;;;Vega Carburanti S.p.A.;Metano;2.799;Servito;20221011;06
+31539;Vega;45.5340913;12.1813971;;;Vega Carburanti S.p.A.;Metano;3.499;Servito;20221011;08
+31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;Metano;3.499;Servito;20221011;08
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.999;Servito;20221007;04
 35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Metano;2.999;Servito;20221010;07
 41686;Euro Petrol;45.7886190;12.7512994;;;Gabogas 2 di Galvagni Gualtiero & C. S.A.S.;Metano;2.666;Servito;20221010;06
 43228;;45.4992002;12.1395234;;;Sem S.R.L.;Metano;2.999;Servito;20221007;07
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.999;Servito;20221006;04
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.999;Servito;20221006;04
-48571;enercoop;45.1910519;12.2775165;;;Vega Carburanti S.p.A.;Metano;3.499;Servito;20221009;08
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Benzina;1.639;SelfService;20221009;04
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GNL;2.799;Servito;20221009;06
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GPL;0.759;Servito;20221009;01
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Gasolio;1.829;SelfService;20221009;04
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;L-GNC;2.799;Servito;20221009;06
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Metano;2.799;Servito;20221009;06
-52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Metano;3.573;Servito;20221010;08
-52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;3.999;Servito;20221007;10
-52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;3.999;SelfService;20221007;10
-52910;Amico 14;45.1771759;12.2765281;;;Bc Chioggia 2;Metano;2.599;Servito;20221008;06
-53583;;45.4422945;12.0511814;;;Arino Ovest;Metano;3.578;Servito;20221008;08
-7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Metano;3.435;Servito;20221010;08
+45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.799;Servito;20221010;04
+45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.999;Servito;20221011;04
+45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.999;Servito;20221010;04
+48571;enercoop;45.1910519;12.2775165;;;Vega Carburanti S.p.A.;Metano;3.499;Servito;20221010;08
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Benzina;1.639;SelfService;20221011;04
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GNL;2.799;Servito;20221011;06
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GPL;0.759;Servito;20221011;01
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Gasolio;1.859;SelfService;20221011;04
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;L-GNC;2.799;Servito;20221011;06
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Metano;2.799;Servito;20221011;06
+52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Metano;3.573;Servito;20221011;08
+52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;3.999;Servito;20221010;10
+52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;3.999;SelfService;20221010;10
+52910;Amico 14;45.1771759;12.2765281;;;Bc Chioggia 2;Metano;2.599;Servito;20221010;06
+53583;;45.4422945;12.0511814;;;Arino Ovest;Metano;3.578;Servito;20221010;08
+7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Metano;3.159;Servito;20221011;07
