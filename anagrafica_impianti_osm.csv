@@ -138,7 +138,7 @@
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.
 53483;Eni;45.8112130;13.5217240;;;Eni
-35586;;45.7993547;13.5277227;;;Ip Services S.R.L.
+35586;IP;45.7993547;13.5277227;;;Ip Services S.R.L.
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano
 48406;IP;45.9365570;13.5845520;;;M 2 S.A.S. di Savino Aldrigo & C.
 47015;Esso;45.9250087;13.6128494;;;Geff S.R.L.
@@ -803,3 +803,5 @@
 21494;;45.5293226;12.6573349;;;Buscato Autoservice S.N.C. di Buscato Dorino & C.
 ;Noaloil;45.6485680;12.5878115;;;
 ;;45.7723330;12.9670905;;;
+;;45.7126954;13.0124758;;;
+;;45.7458240;12.9903054;;;
