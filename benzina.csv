@@ -8,11 +8,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10567;Agip;46.2125925;13.2127712;;;Astolfi Marco;Benzina;1.919;Servito;20221017;08
 10605;;45.2273041;12.1800977;;;Energia S.R.L.;Benzina;1.699;SelfService;20221019;07
 10605;;45.2273041;12.1800977;;;Energia S.R.L.;Benzina;1.749;Servito;20221019;07
-10676;;45.5503705;12.6608520;;;A.F. Petroli S.p.A.;Benzina;1.637;SelfService;20221019;07
+10676;;45.5503705;12.6608520;;;A.F. Petroli S.p.A.;Benzina;1.637;SelfService;20221021;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.684;SelfService;20221019;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.904;Servito;20221019;08
-10929;IP;45.5240458;12.6403159;;;Dalla Pria Giuseppe;Benzina;1.679;SelfService;20221016;07
-10929;IP;45.5240458;12.6403159;;;Dalla Pria Giuseppe;Benzina;1.759;Servito;20221016;07
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.699;SelfService;20221020;07
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.709;Servito;20221019;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.679;SelfService;20221020;07
@@ -28,7 +26,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11771;Shell;45.9595120;12.5024471;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20221019;07
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.704;SelfService;20221017;07
 11773;Shell;45.9659700;12.6399480;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.639;SelfService;20221017;07
-11774;Q8;46.1066786;12.8996309;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20221017;07
+11774;Q8;46.1066786;12.8996309;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20221022;07
 11775;Shell;45.9507170;12.6647690;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20221017;07
 11776;Q8 Easy;45.9691252;12.6723955;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.744;SelfService;20221019;07
 11891;Servizi & Gestioni Italia S.R.L.;45.6382831;13.7653400;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20221017;07
@@ -63,106 +61,108 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 12735;;45.4622069;12.1676213;;;Petrol Jolly S.R.L.;Benzina;1.869;Servito;20221017;08
 12877;TotalErg;45.7126945;13.0126603;;;Marson Luigino;Benzina;1.779;Servito;20221020;07
 12877;TotalErg;45.7126945;13.0126603;;;Marson Luigino;Benzina;1.779;SelfService;20221020;07
-12906;Europam;45.4917557;12.1193673;;;Europam S.R.L.;Benzina;1.649;SelfService;20221019;07
+12906;Europam;45.4917557;12.1193673;;;Europam S.R.L.;Benzina;1.649;SelfService;20221021;07
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.679;SelfService;20221017;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.739;Servito;20221019;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.739;SelfService;20221019;07
-13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.679;SelfService;20221017;07
-13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.889;Servito;20221017;08
+13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.679;SelfService;20221021;07
+13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.889;Servito;20221021;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;1.739;SelfService;20221019;07
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.669;Servito;20221017;07
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.669;SelfService;20221017;07
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.689;SelfService;20221019;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.679;SelfService;20221020;07
-13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.709;Servito;20221020;07
-13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.699;Servito;20221016;07
+13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.709;Servito;20221022;07
+13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.669;Servito;20221022;07
 13942;De Cleva e Bernardini;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Benzina;1.719;Servito;20221018;07
 13942;De Cleva e Bernardini;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Benzina;1.719;SelfService;20221018;07
 13947;Lonza e Coglievina S.r.l.;45.6834599;13.7822936;;;Lonza & Coglievina Società a Responsabilità Limitata;Benzina;1.643;SelfService;20221021;07
-14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Benzina;1.679;Servito;20221020;07
-14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.;Benzina;1.709;SelfService;20221021;07
-14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.;Benzina;1.919;Servito;20221021;08
+14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Benzina;1.679;Servito;20221021;07
+14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.;Benzina;1.709;SelfService;20221022;07
+14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.;Benzina;1.919;Servito;20221022;08
 14227;Bolgan;45.5191727;12.1102516;;;Bolgan Aldo;Benzina;1.669;Servito;20221019;07
 14227;Bolgan;45.5191727;12.1102516;;;Bolgan Aldo;Benzina;1.669;SelfService;20221019;07
 14268;;45.1365811;12.0758705;;;Baccaglini Gabriella;Benzina;1.719;SelfService;20221020;07
 14268;;45.1365811;12.0758705;;;Baccaglini Gabriella;Benzina;1.929;Servito;20221020;08
-14467;IP;45.1681590;12.2742528;;;Valli S.R.L.;Benzina;1.593;SelfService;20221020;06
+14467;IP;45.1681590;12.2742528;;;Valli S.R.L.;Benzina;1.593;SelfService;20221021;06
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.733;SelfService;20221017;07
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.943;Servito;20221017;08
-14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.719;SelfService;20221016;07
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.749;Servito;20221020;07
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.749;SelfService;20221020;07
-14823;Eni;45.8403241;13.4934855;;;Ricciardi Antonio;Benzina;1.704;SelfService;20221020;07
-14823;Eni;45.8403241;13.4934855;;;Ricciardi Antonio;Benzina;1.924;Servito;20221020;08
+14823;Eni;45.8403241;13.4934855;;;Ricciardi Antonio;Benzina;1.704;SelfService;20221021;07
+14823;Eni;45.8403241;13.4934855;;;Ricciardi Antonio;Benzina;1.924;Servito;20221021;08
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.719;Servito;20221017;07
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.719;SelfService;20221017;07
-15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.;Benzina;1.629;SelfService;20221021;07
-15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.;Benzina;1.639;Servito;20221021;07
-15474;Agip;45.4572710;11.9932940;;;Girardello Stefano;Benzina;1.724;SelfService;20221020;07
+15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.;Benzina;1.629;Servito;20221022;07
+15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.;Benzina;1.629;SelfService;20221022;07
+15474;Agip;45.4572710;11.9932940;;;Girardello Stefano;Benzina;1.724;SelfService;20221022;07
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.829;Servito;20221017;08
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.679;Servito;20221020;07
 15693;;46.1791827;13.0437591;;;Venier S.N.C. di Venier Sonia & C.;Benzina;1.699;Servito;20221021;07
 15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.724;SelfService;20221018;07
 15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.944;Servito;20221018;08
-15835;;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.694;Servito;20221020;07
-15872;Esso;45.5114817;12.6560659;;;Area Servizio Cella di Cella Roberto & C. S.A.S.;Benzina;1.749;SelfService;20221020;07
-15964;;45.7293506;12.6836535;;;Caneo Francesco & C. - S.A.S. di Miotto Daniela;Benzina;1.699;SelfService;20221016;07
-15964;;45.7293506;12.6836535;;;Caneo Francesco & C. - S.A.S. di Miotto Daniela;Benzina;1.879;Servito;20221016;08
+15835;;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.694;Servito;20221021;07
+15872;Esso;45.5114817;12.6560659;;;Area Servizio Cella di Cella Roberto & C. S.A.S.;Benzina;1.749;SelfService;20221022;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.679;Servito;20221018;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.679;SelfService;20221018;07
 16297;Esso;45.1970788;12.2868867;;;Volta Celeste di Boscolo Antonio e Moretto Roberta & C. S.N.C.;Benzina;1.719;Servito;20221020;07
 16297;Esso;45.1970788;12.2868867;;;Volta Celeste di Boscolo Antonio e Moretto Roberta & C. S.N.C.;Benzina;1.719;SelfService;20221020;07
-16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Benzina;1.679;SelfService;20221021;07
+16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Benzina;1.679;SelfService;20221022;07
 16450;Eni;45.6734704;13.0883052;;;Torresan Massimo;Benzina;1.789;SelfService;20221018;07
 16450;Eni;45.6734704;13.0883052;;;Torresan Massimo;Benzina;1.999;Servito;20221018;08
 16463;Agip;46.0594653;13.2486093;;;Meneghin Antonino & C. S.N.C.;Benzina;1.684;SelfService;20221017;07
 16463;Agip;46.0594653;13.2486093;;;Meneghin Antonino & C. S.N.C.;Benzina;1.904;Servito;20221017;08
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Benzina;1.684;SelfService;20221020;07
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Benzina;1.904;Servito;20221020;08
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.704;SelfService;20221020;07
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.924;Servito;20221020;08
-16725;;45.4449890;12.3370678;;;Vulcano Stefania;Benzina;2.124;Servito;20221020;09
-16725;;45.4449890;12.3370678;;;Vulcano Stefania;Benzina;2.124;SelfService;20221020;09
+16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.704;SelfService;20221021;07
+16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.924;Servito;20221021;08
+16725;;45.4449890;12.3370678;;;Vulcano Stefania;Benzina;2.006;Servito;20221021;08
+16725;;45.4449890;12.3370678;;;Vulcano Stefania;Benzina;2.006;SelfService;20221021;08
 16813;Agip;45.5815673;12.3669729;;;Baroni Massimo;Benzina;1.724;SelfService;20221020;07
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.739;Servito;20221018;07
 16889;IP;45.7955036;12.6819489;;;Erg di Fedrigo Michele;Benzina;1.699;SelfService;20221019;07
 16889;IP;45.7955036;12.6819489;;;Erg di Fedrigo Michele;Benzina;1.869;Servito;20221019;08
+16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.689;SelfService;20221021;07
+16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.839;Servito;20221021;08
 16980;AdriaEnergy;45.7087015;13.7441563;;;Adriaenergy S.R.L.;Benzina;1.696;SelfService;20221017;07
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina;1.769;Servito;20221018;07
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;1.684;SelfService;20221018;07
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;1.894;Servito;20221018;08
-17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Benzina;1.724;SelfService;20221021;07
-17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Benzina;1.944;Servito;20221021;08
-17483;Api;46.0015368;13.2066810;;;Piccini Leonardo;Benzina;1.679;SelfService;20221020;07
-17483;Api;46.0015368;13.2066810;;;Piccini Leonardo;Benzina;1.919;Servito;20221020;08
-17515;Tamoil;45.8658062;12.7337345;;;Porricelli Emilio;Benzina;1.679;Servito;20221021;07
-17515;Tamoil;45.8658062;12.7337345;;;Porricelli Emilio;Benzina;1.679;SelfService;20221021;07
-17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Benzina;1.759;Servito;20221017;07
-17593;;45.4198550;12.1535490;;;Versuro Doriano;Benzina;1.659;Servito;20221020;07
-17593;;45.4198550;12.1535490;;;Versuro Doriano;Benzina;1.659;SelfService;20221020;07
+17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Benzina;1.724;SelfService;20221022;07
+17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Benzina;1.944;Servito;20221022;08
+17483;Api;46.0015368;13.2066810;;;Piccini Leonardo;Benzina;1.679;SelfService;20221021;07
+17483;Api;46.0015368;13.2066810;;;Piccini Leonardo;Benzina;1.919;Servito;20221021;08
+17515;Tamoil;45.8658062;12.7337345;;;Porricelli Emilio;Benzina;1.679;Servito;20221022;07
+17515;Tamoil;45.8658062;12.7337345;;;Porricelli Emilio;Benzina;1.679;SelfService;20221022;07
+17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Benzina;1.739;Servito;20221022;07
+17593;;45.4198550;12.1535490;;;Versuro Doriano;Benzina;1.659;Servito;20221021;07
+17593;;45.4198550;12.1535490;;;Versuro Doriano;Benzina;1.659;SelfService;20221021;07
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.704;SelfService;20221018;07
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.689;SelfService;20221020;07
-18211;Tamoil;45.4485033;12.1941118;;;Marini Valter;Benzina;1.769;Servito;20221020;07
-18211;Tamoil;45.4485033;12.1941118;;;Marini Valter;Benzina;1.769;SelfService;20221020;07
+18211;Tamoil;45.4485033;12.1941118;;;Marini Valter;Benzina;1.769;Servito;20221022;07
+18211;Tamoil;45.4485033;12.1941118;;;Marini Valter;Benzina;1.769;SelfService;20221022;07
 18279;Esso;45.6306040;12.5802470;;;Casagrande M. & C. S.A.S. di Casagrande Marcellino;Benzina;1.719;SelfService;20221020;07
 18279;Esso;45.6306040;12.5802470;;;Casagrande M. & C. S.A.S. di Casagrande Marcellino;Benzina;1.839;Servito;20221020;08
-18476;IP;45.4793170;12.2279600;;;Bugin Paolo;Benzina;1.679;SelfService;20221021;07
-18476;IP;45.4793170;12.2279600;;;Bugin Paolo;Benzina;1.859;Servito;20221021;08
-18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.719;SelfService;20221020;07
+18476;IP;45.4793170;12.2279600;;;Bugin Paolo;Benzina;1.679;SelfService;20221022;07
+18476;IP;45.4793170;12.2279600;;;Bugin Paolo;Benzina;1.859;Servito;20221022;08
+18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.719;SelfService;20221022;07
 18651;Eni;45.6395267;13.0615360;;;Zampar Martina;Benzina;1.724;SelfService;20221018;07
 18677;Agip Eni;46.2109172;12.9546179;;;Dean Mirko;Benzina;1.737;Servito;20221021;07
-18950;IP;45.1972460;12.2890784;;;Car Service S.A.S.Di Pasotti Michele & C.;Benzina;1.699;Servito;20221017;07
+18950;IP;45.1972460;12.2890784;;;Car Service S.A.S.Di Pasotti Michele & C.;Benzina;1.699;Servito;20221021;07
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;Benzina;1.709;SelfService;20221020;07
+19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Benzina;1.699;SelfService;20221022;07
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;1.724;SelfService;20221018;07
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;1.944;Servito;20221018;08
 19577;Q8;45.4743543;12.0276266;;;Area di Servizio Q8 Due Bi Snc;Benzina;1.729;SelfService;20221020;07
 19577;Q8;45.4743543;12.0276266;;;Area di Servizio Q8 Due Bi Snc;Benzina;2.019;Servito;20221020;08
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Benzina;1.679;SelfService;20221019;07
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Benzina;1.849;Servito;20221019;08
-20117;IP;45.6561744;12.5353173;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221020;07
+20117;IP;45.6561744;12.5353173;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221021;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.719;SelfService;20221018;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.919;Servito;20221018;08
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.749;SelfService;20221019;07
+20768;;45.1151094;12.1881420;;;Paper di Botti Alberto & C. - Società in Nome Collettivo;Benzina;1.659;Servito;20221021;07
+20768;;45.1151094;12.1881420;;;Paper di Botti Alberto & C. - Società in Nome Collettivo;Benzina;1.659;SelfService;20221021;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.699;SelfService;20221020;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.909;Servito;20221020;08
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Benzina;1.749;Servito;20221019;07
@@ -179,75 +179,79 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Benzina;1.649;SelfService;20221020;07
 21554;;45.8137725;12.8863327;;;Stazione di Servizio Falcomer Alessandro;Benzina;1.689;SelfService;20221017;07
 21554;;45.8137725;12.8863327;;;Stazione di Servizio Falcomer Alessandro;Benzina;2.069;Servito;20221017;09
-21922;Erg;45.5052190;12.6260160;;;Fuel Mix S.N.C. di Gottardo Oriano & Denis;Benzina;1.679;SelfService;20221020;07
-21922;Erg;45.5052190;12.6260160;;;Fuel Mix S.N.C. di Gottardo Oriano & Denis;Benzina;1.969;Servito;20221020;08
+21922;Erg;45.5052190;12.6260160;;;Fuel Mix S.N.C. di Gottardo Oriano & Denis;Benzina;1.679;SelfService;20221022;07
+21922;Erg;45.5052190;12.6260160;;;Fuel Mix S.N.C. di Gottardo Oriano & Denis;Benzina;1.969;Servito;20221022;08
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;1.679;SelfService;20221017;07
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;2.159;Servito;20221017;09
 22086;;45.4633585;12.2240455;;;Mantovani Lorenzo;Benzina;1.649;Servito;20221021;07
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Benzina;1.724;SelfService;20221020;07
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.669;SelfService;20221019;07
-22362;Agip;46.2171130;12.7843069;;;Autoservice di Sandra Zatti & C. S.N.C.;Benzina;1.679;SelfService;20221017;07
+22362;Agip;46.2171130;12.7843069;;;Autoservice di Sandra Zatti & C. S.N.C.;Benzina;1.679;SelfService;20221022;07
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.739;SelfService;20221021;07
-22468;ENI;45.6501985;12.5435121;;;Fuel & Service di Gaiotto Alessio e C. S.N.C.;Benzina;1.724;SelfService;20221020;07
-22468;ENI;45.6501985;12.5435121;;;Fuel & Service di Gaiotto Alessio e C. S.N.C.;Benzina;1.939;Servito;20221020;08
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina;1.659;Servito;20221018;07
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina;1.659;SelfService;20221018;07
+22468;ENI;45.6501985;12.5435121;;;Fuel & Service di Gaiotto Alessio e C. S.N.C.;Benzina;1.724;SelfService;20221021;07
+22468;ENI;45.6501985;12.5435121;;;Fuel & Service di Gaiotto Alessio e C. S.N.C.;Benzina;1.939;Servito;20221021;08
+22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina;1.649;Servito;20221021;07
+22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina;1.649;SelfService;20221021;07
 22821;Esso;45.4986258;12.6066230;;;Piovesan Franco - Vanin Piergiorgio & C. S.N.C.;Benzina;1.719;SelfService;20221018;07
 22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.669;Servito;20221019;07
 23321;Q8;45.4851670;12.1846820;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.729;SelfService;20221019;07
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.689;SelfService;20221021;07
+23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.669;Servito;20221021;07
+23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.669;SelfService;20221021;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.679;SelfService;20221017;07
 23721;;45.9588696;13.4639165;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.729;SelfService;20221021;07
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.679;Servito;20221019;07
+23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.679;Servito;20221021;07
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.704;SelfService;20221019;07
-24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.679;SelfService;20221021;07
+24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.679;SelfService;20221022;07
 24230;Q8 Easy;45.6445161;12.5504982;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20221021;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;1.769;Servito;20221020;07
-24313;;45.5882789;12.1378997;;;Ip Services S.R.L.;Benzina;1.689;SelfService;20221020;07
+24313;;45.5882789;12.1378997;;;Ip Services S.R.L.;Benzina;1.669;SelfService;20221021;07
 24365;Xoil;45.6368319;12.6809742;;;Solda' Alfeo e C. - S.N.C.;Benzina;1.639;SelfService;20221019;07
-24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.659;SelfService;20221017;07
-24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.759;Servito;20221017;07
+24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.659;SelfService;20221021;07
+24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.759;Servito;20221021;07
 24798;IP;45.4739511;12.2143492;;;Manente di Manente Patrizia e Cinzia S.N.C.;Benzina;1.769;SelfService;20221020;07
 24798;IP;45.4739511;12.2143492;;;Manente di Manente Patrizia e Cinzia S.N.C.;Benzina;2.271;Servito;20221020;09
 24798;Ip;45.4739953;12.2142660;;;Villabonasud;Benzina;1.769;SelfService;20221020;07
 24798;Ip;45.4739953;12.2142660;;;Villabonasud;Benzina;2.271;Servito;20221020;09
-24829;;45.4418459;12.0569114;;;Eni Fuel S.p.A.;Benzina;1.764;SelfService;20221020;07
-24829;;45.4418459;12.0569114;;;Eni Fuel S.p.A.;Benzina;1.981;Servito;20221020;08
+24829;;45.4418459;12.0569114;;;Eni Fuel S.p.A.;Benzina;1.764;SelfService;20221021;07
+24829;;45.4418459;12.0569114;;;Eni Fuel S.p.A.;Benzina;1.981;Servito;20221021;08
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Benzina;1.729;SelfService;20221019;07
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.699;Servito;20221020;07
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.699;SelfService;20221020;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;1.699;SelfService;20221020;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.280;Servito;20221020;10
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.709;Servito;20221019;07
-25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.679;SelfService;20221020;07
+25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.679;SelfService;20221021;07
 25135;;45.6025069;12.8841710;;;Cav. Francesco Campagner di Renzo Campagner & C. S.A.S.;Benzina;1.719;SelfService;20221018;07
 25135;;45.6025069;12.8841710;;;Cav. Francesco Campagner di Renzo Campagner & C. S.A.S.;Benzina;1.919;Servito;20221018;08
-25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.724;SelfService;20221021;07
-25383;Esso;46.0392210;12.8350780;;;Fratelli Cristofoli di Cristofoli Rinaldo & C. S.N.C.;Benzina;1.749;Servito;20221019;07
+25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.724;SelfService;20221022;07
+25383;Esso;46.0392210;12.8350780;;;Fratelli Cristofoli di Cristofoli Rinaldo & C. S.N.C.;Benzina;1.729;Servito;20221021;07
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Benzina;1.729;Servito;20221017;07
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Benzina;1.729;SelfService;20221017;07
 25561;Costantin;45.3961982;11.9866848;;;Zanin Rita;Benzina;1.649;Servito;20221019;07
 25561;Costantin;45.3961982;11.9866848;;;Zanin Rita;Benzina;1.649;SelfService;20221019;07
+25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.;Benzina;1.655;Servito;20221021;07
+25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.;Benzina;1.655;SelfService;20221021;07
 25804;Agip;45.8083860;13.4428020;;;Area Pieris di Ponzalli Roberto & Sellan Matteo S.N.C.;Benzina;1.704;SelfService;20221018;07
 25804;Agip;45.8083860;13.4428020;;;Area Pieris di Ponzalli Roberto & Sellan Matteo S.N.C.;Benzina;1.924;Servito;20221018;08
-25825;;45.9498241;12.8821507;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221020;07
-25828;IP;46.0001630;13.2741670;;;Ip Services S.R.L.;Benzina;1.656;SelfService;20221020;07
-25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Benzina;1.689;SelfService;20221020;07
-25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.658;SelfService;20221020;07
-25845;IP;45.7745709;12.9441042;;;Ip Services S.R.L.;Benzina;1.649;SelfService;20221020;07
-25869;Eni Robegano;45.5423067;12.1198102;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221021;07
+25825;;45.9498241;12.8821507;;;Ip Services S.R.L.;Benzina;1.669;SelfService;20221021;07
+25828;IP;46.0001630;13.2741670;;;Ip Services S.R.L.;Benzina;1.656;SelfService;20221021;07
+25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Benzina;1.689;SelfService;20221021;07
+25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.658;SelfService;20221021;07
+25845;IP;45.7745709;12.9441042;;;Ip Services S.R.L.;Benzina;1.639;SelfService;20221021;07
+25869;Eni Robegano;45.5423067;12.1198102;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.699;SelfService;20221020;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.921;Servito;20221020;08
-25900;;45.2249805;12.1897817;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221021;07
-25901;Agip;45.4972582;12.2368211;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221021;07
-25902;Agip;45.7680760;12.8340160;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221021;07
-25903;Agip;45.1206840;12.0754930;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221021;07
-25904;Agip;45.5516490;12.1435120;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221020;07
-25905;Agip;45.5281860;12.2390216;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221021;07
-25907;;45.3926131;12.0767029;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221021;07
-25913;;45.5100616;12.2153702;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221020;07
-26046;Benzina;45.4180313;12.0893260;;;Stazione di Servizio Tap - Dolo Samb.;Benzina;1.644;SelfService;20221021;07
-26046;Benzina;45.4180313;12.0893260;;;Stazione di Servizio Tap - Dolo Samb.;Gasolio;1.878;SelfService;20221021;08
+25900;;45.2249805;12.1897817;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+25901;Agip;45.4972582;12.2368211;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+25902;Agip;45.7680760;12.8340160;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+25903;Agip;45.1206840;12.0754930;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+25904;Agip;45.5516490;12.1435120;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+25905;Agip;45.5281860;12.2390216;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+25907;;45.3926131;12.0767029;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+25913;;45.5100616;12.2153702;;;Gestioni Innovative Italia S.R.L.;Benzina;1.704;SelfService;20221022;07
+26046;Benzina;45.4180313;12.0893260;;;Stazione di Servizio Tap - Dolo Samb.;Benzina;1.644;SelfService;20221022;07
+26046;Benzina;45.4180313;12.0893260;;;Stazione di Servizio Tap - Dolo Samb.;Gasolio;1.858;SelfService;20221022;08
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.919;Servito;20221020;08
 26145;;45.5443085;12.0700264;;;Toson Egidio;Benzina;1.724;SelfService;20221018;07
 26145;;45.5443085;12.0700264;;;Toson Egidio;Benzina;1.944;Servito;20221018;08
@@ -260,12 +264,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Benzina;1.619;SelfService;20221017;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.779;Servito;20221020;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.779;SelfService;20221020;07
-26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.;Benzina;1.699;Servito;20221020;07
-26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.;Benzina;1.699;SelfService;20221020;07
-26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.750;Servito;20221020;07
-26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.750;SelfService;20221020;07
+26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.;Benzina;1.699;Servito;20221021;07
+26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.;Benzina;1.699;SelfService;20221021;07
+26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.755;Servito;20221021;07
+26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.755;SelfService;20221021;07
 26623;IP;45.8065170;13.3562370;;;Dijust Salvore;Benzina;1.679;Servito;20221021;07
-26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Benzina;1.709;SelfService;20221020;07
+26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Benzina;1.709;SelfService;20221021;07
 26733;Eni;45.8296451;13.3313752;;;Veca S.A.S. di Caprioli Antonio & C.;Benzina;1.714;SelfService;20221019;07
 26733;Eni;45.8296451;13.3313752;;;Veca S.A.S. di Caprioli Antonio & C.;Benzina;1.934;Servito;20221019;08
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.739;SelfService;20221019;07
@@ -273,16 +277,16 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27141;Agip;46.1850793;13.0624972;;;Franzin Marco;Benzina;1.714;SelfService;20221017;07
 27631;Agip;45.6361547;13.8311665;;;Self Area 4004 di Riccobon Mauro;Benzina;1.704;SelfService;20221017;07
 27631;Agip;45.6361547;13.8311665;;;Self Area 4004 di Riccobon Mauro;Benzina;1.924;Servito;20221017;08
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.729;SelfService;20221020;07
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.939;Servito;20221020;08
+27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.709;SelfService;20221021;07
+27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.919;Servito;20221021;08
 27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;Servito;20221017;07
 27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;SelfService;20221017;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.689;Servito;20221019;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.689;SelfService;20221019;07
 28059;Esso;45.8062286;13.3909882;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Benzina;1.749;SelfService;20221019;07
-28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.709;Servito;20221017;07
+28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.709;Servito;20221022;07
 28291;Repsol;45.6379173;13.8149834;;;Depiera Ermanno;Benzina;1.898;Servito;20221018;08
-28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.659;SelfService;20221019;07
+28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.659;SelfService;20221021;07
 28511;Q8;45.4801987;12.1497066;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20221019;07
 28748;Europam;45.7669621;12.8964495;;;Europam S.R.L.;Benzina;1.597;SelfService;20221017;07
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Benzina;1.699;SelfService;20221019;07
@@ -290,10 +294,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;Benzina;1.679;Servito;20221020;07
 28891;IP;45.8078236;13.0944883;;;Zu.Pe. S.N.C. di Zuliani Maurizio & C.;Benzina;1.679;SelfService;20221020;07
 29182;Esso;45.4343910;12.1909140;;;Campas S.N.C. di Campagnaro Marco & C.;Benzina;1.679;SelfService;20221020;07
-29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221020;07
-29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.699;SelfService;20221021;07
-29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Benzina;1.719;SelfService;20221016;07
-29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Benzina;1.929;Servito;20221016;08
+29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221021;07
+29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.699;SelfService;20221022;07
+29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Benzina;1.719;SelfService;20221021;07
+29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Benzina;1.929;Servito;20221021;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.699;SelfService;20221018;07
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.799;Servito;20221018;07
 29740;;45.9668497;12.9684758;;;Big S.R.L.;Benzina;1.677;SelfService;20221018;07
@@ -302,58 +306,60 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.760;Servito;20221017;07
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.760;SelfService;20221017;07
 30024;;45.1396035;12.1194448;;;Costantin Cavarzere;Benzina;1.597;SelfService;20221019;07
-30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.703;Servito;20221020;07
-30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.703;SelfService;20221020;07
+30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.703;Servito;20221021;07
+30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.703;SelfService;20221021;07
 30071;Eni;45.9343770;13.5259544;;;"Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.";Benzina;1.699;SelfService;20221017;07
 30071;Eni;45.9343770;13.5259544;;;"Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.";Benzina;1.909;Servito;20221017;08
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.669;SelfService;20221017;07
-30485;IP;45.4849840;12.2106852;;;Ip;Benzina;1.739;SelfService;20221021;07
-30629;IP;45.4851821;12.2094311;;;Ip Services S.R.L.;Benzina;1.739;SelfService;20221020;07
+30485;IP;45.4849840;12.2106852;;;Ip;Benzina;1.739;SelfService;20221022;07
+30629;IP;45.4851821;12.2094311;;;Ip Services S.R.L.;Benzina;1.739;SelfService;20221021;07
+30686;;45.4375776;12.1329592;;;Impianto Eni 52816 di Masutti Antonio;Benzina;1.704;SelfService;20221022;07
+30686;;45.4375776;12.1329592;;;Impianto Eni 52816 di Masutti Antonio;Benzina;1.924;Servito;20221022;08
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.699;SelfService;20221018;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.849;Servito;20221018;08
-30719;;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.779;Servito;20221020;07
-30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221020;07
+30719;;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.779;Servito;20221021;07
+30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.679;SelfService;20221021;07
 31090;Sia Fuel;45.5900942;12.6884687;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.679;Servito;20221020;07
 31090;Sia Fuel;45.5900942;12.6884687;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.679;SelfService;20221020;07
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.679;Servito;20221019;07
-31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221020;07
+31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221021;07
 31184;Q8;45.6589310;12.5318010;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20221021;07
 31214;;45.5614499;12.0767051;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.669;SelfService;20221020;07
 31214;;45.5614499;12.0767051;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.789;Servito;20221020;07
-31331;IP;45.8018928;13.5461339;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221020;07
-31449;;45.4457311;12.0427017;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221021;07
-31450;Vega;45.4450461;12.2047487;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221021;07
-31451;Tatanka;45.5184168;12.2340038;;;Vega Carburanti S.p.A.;Benzina;1.579;SelfService;20221018;06
-31451;Tatanka;45.5184168;12.2340038;;;Vega Carburanti S.p.A.;Benzina;1.649;Servito;20221018;07
-31520;Vega;45.7808999;12.8906009;;;Vega Carburanti S.p.A.;Benzina;1.629;SelfService;20221021;07
-31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Benzina;1.659;SelfService;20221021;07
+31331;IP;45.8018928;13.5461339;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221021;07
+31449;;45.4457311;12.0427017;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221022;07
+31450;Vega;45.4450461;12.2047487;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221022;07
+31451;Tatanka;45.5184168;12.2340038;;;Vega Carburanti S.p.A.;Benzina;1.579;SelfService;20221021;06
+31451;Tatanka;45.5184168;12.2340038;;;Vega Carburanti S.p.A.;Benzina;1.649;Servito;20221021;07
+31520;Vega;45.7808999;12.8906009;;;Vega Carburanti S.p.A.;Benzina;1.629;SelfService;20221022;07
+31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Benzina;1.659;SelfService;20221022;07
 31532;VEGA;45.4858310;12.1220180;;;Vega Carburanti S.p.A.;Benzina;1.649;SelfService;20221019;07
 31532;VEGA;45.4858310;12.1220180;;;Vega Carburanti S.p.A.;Benzina;1.719;Servito;20221019;07
 31533;;45.5667189;12.1716918;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221020;07
 31533;;45.5667189;12.1716918;;;Vega Carburanti S.p.A.;Benzina;1.729;Servito;20221020;07
-31535;Vega;45.5104370;12.2218720;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221021;07
+31535;Vega;45.5104370;12.2218720;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221022;07
 31536;Vega;45.7743978;12.8245515;;;Vega Carburanti S.p.A.;Benzina;1.629;SelfService;20221019;07
 31536;Vega;45.7743978;12.8245515;;;Vega Carburanti S.p.A.;Benzina;1.699;Servito;20221019;07
 31537;Vega;45.5031870;12.2355884;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221020;07
 31537;Vega;45.5031870;12.2355884;;;Vega Carburanti S.p.A.;Benzina;1.729;Servito;20221020;07
-31538;Vega;45.5036927;12.2358352;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221021;07
-31539;Vega;45.5340913;12.1813971;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221021;07
-31540;Vega;45.6225820;12.5498680;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221021;07
-31541;Vega;45.4178181;12.0482633;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221021;07
-31542;Vega;45.4457458;12.2059563;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221021;07
-31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;Benzina;1.649;SelfService;20221021;07
-31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina;1.788;SelfService;20221018;07
-31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina;1.998;Servito;20221018;08
-31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;Benzina;1.744;SelfService;20221021;07
-31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;Benzina;1.954;Servito;20221021;08
+31538;Vega;45.5036927;12.2358352;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221022;07
+31539;Vega;45.5340913;12.1813971;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221022;07
+31540;Vega;45.6225820;12.5498680;;;Vega Carburanti S.p.A.;Benzina;1.649;SelfService;20221022;07
+31541;Vega;45.4178181;12.0482633;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221022;07
+31542;Vega;45.4457458;12.2059563;;;Vega Carburanti S.p.A.;Benzina;1.639;SelfService;20221022;07
+31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;Benzina;1.649;SelfService;20221022;07
+31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina;1.799;SelfService;20221021;07
+31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina;1.999;Servito;20221021;08
+31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;Benzina;1.744;SelfService;20221022;07
+31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;Benzina;1.954;Servito;20221022;08
 31657;Agip;45.5686744;12.1136006;;;Iclera S.N.C. di Cancellara Michele & C.;Benzina;1.724;SelfService;20221021;07
 31657;Agip;45.5686744;12.1136006;;;Iclera S.N.C. di Cancellara Michele & C.;Benzina;1.934;Servito;20221021;08
 31659;Agip;45.4414285;12.3156126;;;Iclera S.N.C. di Cancellara Michele & C.;Benzina;1.809;Servito;20221021;07
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.699;SelfService;20221020;07
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;2.079;Servito;20221020;09
+32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.699;SelfService;20221021;07
+32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;2.079;Servito;20221021;09
 32403;IP;45.9401650;13.0784460;;;Blason Luca & C. S.A.S.;Benzina;1.679;SelfService;20221017;07
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Benzina;1.689;Servito;20221018;07
-32531;Api;45.4893292;12.3017670;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20221020;07
+32531;Api;45.4893292;12.3017670;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20221021;07
 32882;Agip;45.5115616;12.6434317;;;A.G.N. S.A.S. di Varriale Claudio & C.;Benzina;1.719;SelfService;20221017;07
 32882;Agip;45.5115616;12.6434317;;;A.G.N. S.A.S. di Varriale Claudio & C.;Benzina;1.929;Servito;20221017;08
 32883;Eni;45.6226378;12.5543530;;;Varriale Claudio;Benzina;1.719;SelfService;20221017;07
@@ -363,12 +369,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 33074;P&R Carburanti;45.3320672;12.1346550;;;2p S.R.L.;Benzina;1.659;Servito;20221020;07
 33074;P&R Carburanti;45.3320672;12.1346550;;;2p S.R.L.;Benzina;1.659;SelfService;20221020;07
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.729;Servito;20221020;07
-33107;San Marco Petroli;45.4771657;12.2321657;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.659;SelfService;20221021;07
+33107;San Marco Petroli;45.4771657;12.2321657;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.649;SelfService;20221022;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.724;SelfService;20221018;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.944;Servito;20221018;08
-33464;;45.5029018;12.2686614;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.639;Servito;20221020;07
-33464;;45.5029018;12.2686614;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.639;SelfService;20221020;07
-33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Benzina;1.679;SelfService;20221020;07
+33464;;45.5029018;12.2686614;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.649;Servito;20221021;07
+33464;;45.5029018;12.2686614;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.649;SelfService;20221021;07
+33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Benzina;1.669;SelfService;20221021;07
+33677;;45.5382496;12.1533760;;;Noaloil S.p.A.;Benzina;1.629;SelfService;20221021;07
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.769;Servito;20221020;07
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.769;SelfService;20221020;07
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.709;SelfService;20221020;07
@@ -377,46 +384,48 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.709;SelfService;20221020;07
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;1.719;SelfService;20221020;07
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;1.934;Servito;20221020;08
-34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.649;SelfService;20221020;07
+34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.649;SelfService;20221021;07
 34264;IP;45.7600752;13.1656390;;;A.F. Petroli S.p.A.;Benzina;1.849;SelfService;20221018;08
-34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Benzina;1.719;SelfService;20221020;07
-34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.645;Servito;20221020;07
-34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.645;SelfService;20221020;07
-34619;Oil Italia;45.5133333;12.1505556;;;Oil Italia S.R.L.% Oil Italia Gmbh;Benzina;1.699;SelfService;20221020;07
+34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Benzina;1.719;SelfService;20221021;07
+34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.649;Servito;20221021;07
+34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.649;SelfService;20221021;07
+34619;Oil Italia;45.5133333;12.1505556;;;Oil Italia S.R.L.% Oil Italia Gmbh;Benzina;1.690;SelfService;20221021;07
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.669;Servito;20221019;07
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.669;SelfService;20221019;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.729;SelfService;20221021;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.809;Servito;20221021;07
 35231;Beyfin;45.7680500;12.8330880;;;Sonego Paolo;Benzina;1.639;Servito;20221020;07
 35231;Beyfin;45.7680500;12.8330880;;;Sonego Paolo;Benzina;1.639;SelfService;20221020;07
-35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;1.684;SelfService;20221020;07
-35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;2.004;Servito;20221020;08
+35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;1.684;SelfService;20221021;07
+35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;1.904;Servito;20221021;08
 35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Benzina;1.729;SelfService;20221020;07
 35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Benzina;1.899;Servito;20221020;08
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Benzina;1.729;SelfService;20221017;07
-35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.;Benzina;1.619;Servito;20221018;07
-35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.;Benzina;1.619;SelfService;20221018;07
-35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Benzina;1.669;Servito;20221018;07
-35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Benzina;1.669;SelfService;20221018;07
-35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Benzina;1.749;SelfService;20221021;07
-35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Benzina;1.919;Servito;20221021;08
-35586;IP;45.7993547;13.5277227;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221020;07
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.699;Servito;20221020;07
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.699;SelfService;20221020;07
+35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.;Benzina;1.619;Servito;20221021;07
+35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.;Benzina;1.619;SelfService;20221021;07
+35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Benzina;1.669;Servito;20221021;07
+35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Benzina;1.669;SelfService;20221021;07
+35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Benzina;1.749;SelfService;20221022;07
+35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Benzina;1.919;Servito;20221022;08
+35586;IP;45.7993547;13.5277227;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221021;07
+35598;IES;45.3549800;12.0301370;;;Gasoline di Olfeni Angelo e C. S.N.C.;Benzina;1.669;Servito;20221021;07
+35598;IES;45.3549800;12.0301370;;;Gasoline di Olfeni Angelo e C. S.N.C.;Benzina;1.669;SelfService;20221021;07
+35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.699;Servito;20221021;07
+35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.699;SelfService;20221021;07
 35743;Costantin;45.5176081;12.6356932;;;Costantin Distribuzione e Servizi S.R.L.;Benzina;1.659;Servito;20221019;07
 35743;Costantin;45.5176081;12.6356932;;;Costantin Distribuzione e Servizi S.R.L.;Benzina;1.659;SelfService;20221019;07
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.689;Servito;20221019;07
-35918;Tamoil;45.7848182;12.8311482;;;Buoso Andrea;Benzina;1.649;Servito;20221021;07
-35918;Tamoil;45.7848182;12.8311482;;;Buoso Andrea;Benzina;1.649;SelfService;20221021;07
+35918;Tamoil;45.7848182;12.8311482;;;Buoso Andrea;Benzina;1.649;Servito;20221022;07
+35918;Tamoil;45.7848182;12.8311482;;;Buoso Andrea;Benzina;1.649;SelfService;20221022;07
 35966;Esso;45.4354350;12.1298830;;;Bonafe' Stefano;Benzina;1.689;SelfService;20221020;07
 35966;Esso;45.4354350;12.1298830;;;Bonafe' Stefano;Benzina;1.869;Servito;20221020;08
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.668;Servito;20221019;07
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.668;SelfService;20221019;07
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Benzina;1.649;Servito;20221019;07
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Benzina;1.649;SelfService;20221019;07
-36240;Esso;45.6894502;13.1329225;;;Galasso Giorgio;Benzina;1.789;Servito;20221020;07
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Benzina;1.798;SelfService;20221016;07
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Benzina;2.048;Servito;20221016;08
+36240;Esso;45.6894502;13.1329225;;;Galasso Giorgio;Benzina;1.789;Servito;20221021;07
+36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Benzina;1.815;SelfService;20221021;07
+36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Benzina;2.045;Servito;20221021;08
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Benzina;1.798;SelfService;20221020;07
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Benzina;1.988;Servito;20221020;08
 36502;;46.0302138;13.1028162;;;Singh Sandip;Benzina;1.679;Servito;20221018;07
@@ -425,43 +434,46 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36541;Eni;45.6816730;13.3869719;;;Marchesan S.A.S. di Marchesan Massimiliano e C.;Benzina;1.924;Servito;20221017;08
 36604;;45.6874478;12.6960663;;;Presotto Service di Presotto Italo & C. S.N.C.;Benzina;1.729;SelfService;20221019;07
 36604;;45.6874478;12.6960663;;;Presotto Service di Presotto Italo & C. S.N.C.;Benzina;1.909;Servito;20221019;08
-36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.729;SelfService;20221018;07
+36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.739;SelfService;20221022;07
 36981;Agip;45.5264840;12.3794050;;;Alfa S.N.C. di Pilenga Lorenzo e Fabrizio;Benzina;1.739;SelfService;20221018;07
 36981;Agip;45.5264840;12.3794050;;;Alfa S.N.C. di Pilenga Lorenzo e Fabrizio;Benzina;1.949;Servito;20221018;08
-36989;;45.9770955;13.1983666;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221020;07
-37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.679;Servito;20221021;07
-37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.679;SelfService;20221021;07
-37105;Esso;45.8042987;12.8881208;;;Tiger S.R.L.;Benzina;1.663;SelfService;20221021;07
-37105;Esso;45.8042987;12.8881208;;;Tiger S.R.L.;Benzina;2.249;Servito;20221021;09
+36989;;45.9770955;13.1983666;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20221021;07
+37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.679;Servito;20221022;07
+37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.679;SelfService;20221022;07
+37105;Esso;45.8042987;12.8881208;;;Tiger S.R.L.;Benzina;1.663;SelfService;20221022;07
+37105;Esso;45.8042987;12.8881208;;;Tiger S.R.L.;Benzina;2.249;Servito;20221022;09
 37124;;45.7206706;12.7173829;;;Marson Luigino;Benzina;1.609;Servito;20221018;07
 37124;;45.7206706;12.7173829;;;Marson Luigino;Benzina;1.609;SelfService;20221018;07
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.679;Servito;20221021;07
 37293;;45.6528980;12.8330610;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.719;Servito;20221020;07
 37293;;45.6528980;12.8330610;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.719;SelfService;20221020;07
 37311;;45.3836462;12.0379968;;;Tiozzo Andrea;Benzina;1.722;SelfService;20221020;07
-37425;Eni;45.4547814;12.0486814;;;Nicolini Francesco;Benzina;1.724;SelfService;20221021;07
-37425;Eni;45.4547814;12.0486814;;;Nicolini Francesco;Benzina;1.934;Servito;20221021;08
+37425;Eni;45.4547814;12.0486814;;;Nicolini Francesco;Benzina;1.724;SelfService;20221022;07
+37425;Eni;45.4547814;12.0486814;;;Nicolini Francesco;Benzina;1.934;Servito;20221022;08
 37479;Agip Eni;45.9499930;13.0509910;;;Pasutti Marco;Benzina;1.729;SelfService;20221019;07
 37479;Agip Eni;45.9499930;13.0509910;;;Pasutti Marco;Benzina;1.939;Servito;20221019;08
 37480;San Marco;45.9036873;13.1818526;;;Duri' Andrea;Benzina;1.655;SelfService;20221019;07
 37581;Agip;45.6899857;13.1397273;;;Distributore Agip di Cardillo Vincenzo;Benzina;1.719;SelfService;20221020;07
 37581;Agip;45.6899857;13.1397273;;;Distributore Agip di Cardillo Vincenzo;Benzina;1.929;Servito;20221020;08
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.619;SelfService;20221021;07
-37740;IP;45.4477589;12.3204380;;;Marco Brussa Carburanti S.N.C. di Brussa Marco & C.;Benzina;2.124;Servito;20221020;09
-37740;IP;45.4477589;12.3204380;;;Marco Brussa Carburanti S.N.C. di Brussa Marco & C.;Benzina;2.124;SelfService;20221020;09
+37740;IP;45.4477589;12.3204380;;;Marco Brussa Carburanti S.N.C. di Brussa Marco & C.;Benzina;2.076;Servito;20221021;09
+37740;IP;45.4477589;12.3204380;;;Marco Brussa Carburanti S.N.C. di Brussa Marco & C.;Benzina;2.076;SelfService;20221021;09
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.749;Servito;20221017;07
 38031;Esso;45.6717090;13.0910509;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone;Benzina;1.809;Servito;20221021;07
 38031;Esso;45.6717090;13.0910509;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone;Benzina;1.809;SelfService;20221021;07
-38120;Total;45.5089123;12.2663516;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221020;07
+38120;Total;45.5089123;12.2663516;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221021;07
+38169;;45.1855358;12.0189491;;;Groppo Gianni;Benzina;1.639;Servito;20221021;07
 38209;IP;45.5104526;12.1490730;;;Zanardo Claudio;Benzina;1.699;SelfService;20221019;07
 38209;IP;45.5104526;12.1490730;;;Zanardo Claudio;Benzina;1.899;Servito;20221019;08
-38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.719;SelfService;20221021;07
-38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.619;SelfService;20221018;07
+38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.719;SelfService;20221022;07
+38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.619;SelfService;20221021;07
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.799;SelfService;20221020;07
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.999;Servito;20221020;08
 38543;R8;45.4005433;12.0017349;;;R8 S.R.L.;Benzina;1.629;SelfService;20221018;07
 38608;L'oasi;45.4501817;12.0775394;;;L'Oasi Snc di Simion Alessandro e Pattaro Francesca;Benzina;1.719;SelfService;20221019;07
 38608;L'oasi;45.4501817;12.0775394;;;L'Oasi Snc di Simion Alessandro e Pattaro Francesca;Benzina;1.929;Servito;20221019;08
+38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Benzina;1.709;SelfService;20221021;07
+38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Benzina;1.909;Servito;20221021;08
 38733;Agip;45.6285979;13.7815055;;;Radin Davide;Benzina;1.709;SelfService;20221019;07
 38733;Agip;45.6285979;13.7815055;;;Radin Davide;Benzina;1.919;Servito;20221019;08
 38738;;45.8371825;12.8535332;;;Esso Bagnara di Gruaro;Benzina;1.719;SelfService;20221020;07
@@ -470,25 +482,25 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38934;Esso;45.5238470;12.0906070;;;Cecchin Andrea;Benzina;1.889;Servito;20221021;08
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.669;Servito;20221020;07
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.669;SelfService;20221020;07
-39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.749;SelfService;20221020;07
-39060;Retitalia;45.4807881;12.2723005;;;Brixia Finanziaria S.R.L.;Benzina;1.679;SelfService;20221021;07
-39060;Retitalia;45.4807881;12.2723005;;;Brixia Finanziaria S.R.L.;Benzina;1.829;Servito;20221021;08
+39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.739;SelfService;20221021;07
+39060;Retitalia;45.4807881;12.2723005;;;Brixia Finanziaria S.R.L.;Benzina;1.679;SelfService;20221022;07
+39060;Retitalia;45.4807881;12.2723005;;;Brixia Finanziaria S.R.L.;Benzina;1.829;Servito;20221022;08
 39123;Benzina;45.4213647;12.0805373;;;Energia S.R.L.;Benzina;1.645;SelfService;20221020;07
 39123;Benzina;45.4213647;12.0805373;;;Energia S.R.L.;Gasolio;1.877;SelfService;20221020;08
-39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Benzina;1.839;Servito;20221018;08
-39158;Vega;45.5498332;12.2948602;;;Vega Carburanti S.p.A.;Benzina;1.669;SelfService;20221021;07
+39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Benzina;1.839;Servito;20221021;08
+39158;Vega;45.5498332;12.2948602;;;Vega Carburanti S.p.A.;Benzina;1.669;SelfService;20221022;07
 39261;Esso;45.8287470;13.2810650;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Benzina;1.739;SelfService;20221019;07
 39261;Esso;45.8287470;13.2810650;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Benzina;1.839;Servito;20221019;08
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Benzina;1.704;SelfService;20221017;07
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Benzina;1.914;Servito;20221017;08
-39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.;Benzina;1.739;SelfService;20221017;07
-39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.;Benzina;1.909;Servito;20221017;08
-39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;1.868;SelfService;20221020;08
-39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;2.088;Servito;20221020;09
+39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.;Benzina;1.739;SelfService;20221021;07
+39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.;Benzina;1.909;Servito;20221021;08
+39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;1.799;SelfService;20221021;07
+39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;2.019;Servito;20221021;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;1.769;SelfService;20221018;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;1.979;Servito;20221018;08
 40085;Loro;45.5104758;12.1223321;;;Loro F.lli Spa;Benzina;1.665;Servito;20221020;07
-40091;San Marco Petroli;45.3361060;12.0819250;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.669;SelfService;20221020;07
+40091;San Marco Petroli;45.3361060;12.0819250;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.649;SelfService;20221021;07
 40134;;45.5256070;12.2599858;;;Nuova Sidap S.R.L.;Benzina;1.774;SelfService;20221019;07
 40134;;45.5256070;12.2599858;;;Nuova Sidap S.R.L.;Benzina;2.079;Servito;20221019;09
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Benzina;1.739;SelfService;20221018;07
@@ -496,10 +508,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.988;Servito;20221018;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;1.798;SelfService;20221018;07
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;1.998;Servito;20221018;08
-40351;Tamoil;45.5012054;12.6145179;;;Nonato Pedro Henrique;Benzina;1.679;Servito;20221020;07
-40351;Tamoil;45.5012054;12.6145179;;;Nonato Pedro Henrique;Benzina;1.679;SelfService;20221020;07
-40539;;45.5025645;12.2702734;;;Catasso Devil;Benzina;1.649;Servito;20221020;07
-40539;;45.5025645;12.2702734;;;Catasso Devil;Benzina;1.649;SelfService;20221020;07
+40351;Tamoil;45.5012054;12.6145179;;;Nonato Pedro Henrique;Benzina;1.679;Servito;20221021;07
+40351;Tamoil;45.5012054;12.6145179;;;Nonato Pedro Henrique;Benzina;1.679;SelfService;20221021;07
+40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.699;Servito;20221021;07
+40539;;45.5025645;12.2702734;;;Catasso Devil;Benzina;1.659;Servito;20221021;07
+40539;;45.5025645;12.2702734;;;Catasso Devil;Benzina;1.659;SelfService;20221021;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.909;SelfService;20221017;08
 40623;Agip;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.749;SelfService;20221021;07
 40794;;45.9567014;12.8211571;;;Cst Service di Casotto Mauro & C. Snc;Benzina;1.729;Servito;20221017;07
@@ -509,13 +522,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.724;SelfService;20221020;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.944;Servito;20221020;08
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.774;SelfService;20221017;07
-41111;;45.5030643;12.2913180;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221021;07
-41112;Vega;45.6402900;12.6002240;;;Vega Carburanti S.p.A.;Benzina;1.649;SelfService;20221021;07
+41111;;45.5030643;12.2913180;;;Vega Carburanti S.p.A.;Benzina;1.659;SelfService;20221022;07
+41112;Vega;45.6402900;12.6002240;;;Vega Carburanti S.p.A.;Benzina;1.649;SelfService;20221022;07
 41120;IP;45.6835120;13.1195430;;;Zamarian Mario S.A.S. di Zamarian Mario & C.;Benzina;1.959;Servito;20221018;08
-41196;QR carburanti;45.3706970;12.0452894;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.669;SelfService;20221021;07
-41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.679;Servito;20221019;07
-41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.679;SelfService;20221019;07
-41257;Tamoil;45.3620298;12.0930703;;;T.D.M. S.R.L.;Benzina;1.689;SelfService;20221020;07
+41196;QR carburanti;45.3706970;12.0452894;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.649;SelfService;20221022;07
+41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.679;Servito;20221021;07
+41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.679;SelfService;20221021;07
+41257;Tamoil;45.3620298;12.0930703;;;T.D.M. S.R.L.;Benzina;1.689;SelfService;20221021;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.759;Servito;20221019;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.759;SelfService;20221019;07
 41414;Total;46.1071050;13.2202650;;;Talarico Monica;Benzina;1.699;Servito;20221020;07
@@ -523,80 +536,81 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41686;Euro Petrol;45.7886190;12.7512994;;;Gabogas 2 di Galvagni Gualtiero & C. S.A.S.;Benzina;1.898;Servito;20221019;08
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.699;Servito;20221020;07
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.920;Servito;20221018;08
-42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.659;Servito;20221016;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.684;SelfService;20221019;07
-43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.689;SelfService;20221021;07
-43429;;45.4463220;12.0430068;;;Dolo Arino;Benzina;1.699;SelfService;20221021;07
+43243;;45.7640600;12.8080700;;;Distributore Savo;Benzina;1.610;SelfService;20221021;07
+43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.669;SelfService;20221022;07
+43429;;45.4463220;12.0430068;;;Dolo Arino;Benzina;1.709;SelfService;20221022;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.679;Servito;20221020;07
-43894;;45.4566405;12.4741161;;;Enzo Stefano S.A.S.;Benzina;1.734;SelfService;20221020;07
-43894;;45.4566405;12.4741161;;;Enzo Stefano S.A.S.;Benzina;1.949;Servito;20221020;08
-43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Benzina;1.739;SelfService;20221020;07
-44256;;45.8401705;13.4884509;;;D.P.2 S.R.L.;Benzina;1.659;SelfService;20221020;07
+43894;;45.4566405;12.4741161;;;Enzo Stefano S.A.S.;Benzina;1.734;SelfService;20221021;07
+43894;;45.4566405;12.4741161;;;Enzo Stefano S.A.S.;Benzina;1.949;Servito;20221021;08
+43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Benzina;1.739;SelfService;20221021;07
+44256;;45.8401705;13.4884509;;;D.P.2 S.R.L.;Benzina;1.659;SelfService;20221021;07
 44488;;46.0860227;13.3628876;;;Casella Lucia;Benzina;1.699;SelfService;20221019;07
 44488;;46.0860227;13.3628876;;;Casella Lucia;Benzina;1.869;Servito;20221019;08
 44550;IP;46.0746007;13.2724868;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.714;SelfService;20221021;07
 44550;IP;46.0746007;13.2724868;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.884;Servito;20221021;08
-44613;Tamoil;45.4170936;12.0367851;;;T.D.M. S.R.L.;Benzina;1.669;SelfService;20221020;07
+44613;Tamoil;45.4170936;12.0367851;;;T.D.M. S.R.L.;Benzina;1.669;SelfService;20221021;07
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Benzina;1.719;SelfService;20221018;07
-4481;;45.5754774;12.0729844;;;Noaloil S.p.A.;Benzina;1.669;SelfService;20221017;07
+4481;;45.5754774;12.0729844;;;Noaloil S.p.A.;Benzina;1.659;SelfService;20221021;07
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Benzina;1.729;SelfService;20221021;07
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Benzina;1.899;Servito;20221021;08
-44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.699;SelfService;20221020;07
-45246;Agip;45.8342107;13.1939418;;;Geff S.R.L.;Benzina;1.699;SelfService;20221021;07
-45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Benzina;1.699;SelfService;20221021;07
+44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.699;SelfService;20221021;07
+45246;Agip;45.8342107;13.1939418;;;Geff S.R.L.;Benzina;1.699;SelfService;20221022;07
+45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Benzina;1.699;SelfService;20221022;07
 45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Benzina;1.679;Servito;20221019;07
-45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Benzina;1.744;SelfService;20221021;07
-45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Benzina;1.684;SelfService;20221021;07
-45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Benzina;1.759;SelfService;20221020;07
-45346;Tamoil;45.4062094;12.1536962;;;T.D.M. S.R.L.;Benzina;1.679;SelfService;20221020;07
-45355;IP;45.8892315;13.3092592;;;Geff S.R.L.;Benzina;1.744;SelfService;20221020;07
-45387;Ecotec;45.7596607;13.0300079;;;Smp Latisana;Benzina;1.679;SelfService;20221021;07
-45449;;45.7550565;12.7962857;;;Smp Concordia Sagittaria;Benzina;1.619;SelfService;20221021;07
+45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Benzina;1.744;SelfService;20221022;07
+45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Benzina;1.684;SelfService;20221022;07
+45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Benzina;1.759;SelfService;20221021;07
+45346;Tamoil;45.4062094;12.1536962;;;T.D.M. S.R.L.;Benzina;1.679;SelfService;20221021;07
+45355;IP;45.8892315;13.3092592;;;Geff S.R.L.;Benzina;1.744;SelfService;20221021;07
+45387;Ecotec;45.7596607;13.0300079;;;Smp Latisana;Benzina;1.679;SelfService;20221022;07
+45449;;45.7550565;12.7962857;;;Smp Concordia Sagittaria;Benzina;1.619;SelfService;20221022;07
 45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;Easy Service S.R.L.;Benzina;1.637;Servito;20221019;07
 45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;Easy Service S.R.L.;Benzina;1.637;SelfService;20221019;07
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni;Benzina;1.679;Servito;20221020;07
-45670;Tap;45.6033242;12.5207739;;;Tap;Benzina;1.648;Servito;20221020;07
-45670;Tap;45.6033242;12.5207739;;;Tap;Benzina;1.648;SelfService;20221020;07
+45670;Tap;45.6033242;12.5207739;;;Tap;Benzina;1.638;Servito;20221021;07
+45670;Tap;45.6033242;12.5207739;;;Tap;Benzina;1.638;SelfService;20221021;07
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Benzina;1.669;Servito;20221018;07
 45911;Q8;45.4872750;12.2544870;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.729;SelfService;20221017;07
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;1.749;SelfService;20221018;07
-46104;Tamoil;45.5044755;12.3355622;;;T.D.M. S.R.L.;Benzina;1.679;Servito;20221020;07
-46104;Tamoil;45.5044755;12.3355622;;;T.D.M. S.R.L.;Benzina;1.679;SelfService;20221020;07
-46189;Esso;45.6817891;13.4047546;;;Geff S.R.L.;Benzina;1.719;SelfService;20221021;07
+46104;Tamoil;45.5044755;12.3355622;;;T.D.M. S.R.L.;Benzina;1.699;Servito;20221021;07
+46104;Tamoil;45.5044755;12.3355622;;;T.D.M. S.R.L.;Benzina;1.699;SelfService;20221021;07
+46189;Esso;45.6817891;13.4047546;;;Geff S.R.L.;Benzina;1.719;SelfService;20221022;07
 46269;gdp;45.8143730;13.3401540;;;Gdp S.R.L.- Cervignano Del F.;Benzina;1.689;SelfService;20221021;07
 46269;gdp;45.8143730;13.3401540;;;Gdp S.R.L.- Cervignano Del F.;Benzina;1.741;Servito;20221021;07
-46321;Esso;45.5756922;12.6757325;;;Geff S.R.L.;Benzina;1.699;SelfService;20221020;07
-46322;Esso;45.2108395;12.2907704;;;Geff S.R.L.;Benzina;1.679;SelfService;20221020;07
+46321;Esso;45.5756922;12.6757325;;;Geff S.R.L.;Benzina;1.699;SelfService;20221021;07
+46322;Esso;45.2108395;12.2907704;;;Geff S.R.L.;Benzina;1.679;SelfService;20221021;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;1.739;SelfService;20221020;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;1.899;Servito;20221020;08
 46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.779;SelfService;20221019;07
 46695;Agip;45.1973819;12.2912540;;;Boscolo Lucio Gioachina;Benzina;1.814;Servito;20221017;07
-46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.699;Servito;20221020;07
-46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.699;SelfService;20221020;07
+46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.699;Servito;20221021;07
+46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.699;SelfService;20221021;07
 46981;Total;45.8001833;12.7279233;;;Eni Station di Del Giudice Massimo;Benzina;1.679;SelfService;20221018;07
 46981;Total;45.8001833;12.7279233;;;Eni Station di Del Giudice Massimo;Benzina;1.889;Servito;20221018;08
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Benzina;1.669;SelfService;20221020;07
-47011;IP;45.9423453;13.0591338;;;Geff S.R.L.;Benzina;1.669;SelfService;20221021;07
-47013;Esso;45.7768810;12.8631290;;;Geff S.R.L.;Benzina;1.689;SelfService;20221020;07
-47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Benzina;1.679;SelfService;20221020;07
-47015;Esso;45.9250087;13.6128494;;;Geff S.R.L.;Benzina;1.699;SelfService;20221020;07
-47037;IP;46.5489890;12.8543690;;;Geff S.R.L.;Benzina;1.769;SelfService;20221021;07
-47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Benzina;1.689;Servito;20221020;07
-47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Benzina;1.689;SelfService;20221020;07
+47011;IP;45.9423453;13.0591338;;;Geff S.R.L.;Benzina;1.669;SelfService;20221022;07
+47013;Esso;45.7768810;12.8631290;;;Geff S.R.L.;Benzina;1.669;SelfService;20221021;07
+47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Benzina;1.679;SelfService;20221021;07
+47015;Esso;45.9250087;13.6128494;;;Geff S.R.L.;Benzina;1.679;SelfService;20221021;07
+47037;IP;46.5489890;12.8543690;;;Geff S.R.L.;Benzina;1.749;SelfService;20221022;07
+47075;Esso;45.4851238;12.2003179;;;Favero Riccardo;Benzina;1.739;Servito;20221021;07
+47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Benzina;1.689;Servito;20221021;07
+47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Benzina;1.689;SelfService;20221021;07
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Benzina;1.679;SelfService;20221018;07
-47666;Repsol;45.4686180;11.9979180;;;Rialca S.N.C.di Canaia Rinaldo e Alex;Benzina;1.649;SelfService;20221021;07
-47666;Repsol;45.4686180;11.9979180;;;Rialca S.N.C.di Canaia Rinaldo e Alex;Benzina;1.749;Servito;20221021;07
-47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.769;Servito;20221020;07
-47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.769;SelfService;20221020;07
-47943;Agip Eni;45.9674540;13.3982350;;;T.D.P. Carburanti S.R.L.;Benzina;1.679;SelfService;20221020;07
+47666;Repsol;45.4686180;11.9979180;;;Rialca S.N.C.di Canaia Rinaldo e Alex;Benzina;1.649;SelfService;20221022;07
+47666;Repsol;45.4686180;11.9979180;;;Rialca S.N.C.di Canaia Rinaldo e Alex;Benzina;1.749;Servito;20221022;07
+47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.727;Servito;20221021;07
+47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.727;SelfService;20221021;07
+47943;Agip Eni;45.9674540;13.3982350;;;T.D.P. Carburanti S.R.L.;Benzina;1.679;SelfService;20221021;07
 47972;Total;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.739;Servito;20221020;07
 47972;Total;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.739;SelfService;20221020;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.684;SelfService;20221019;07
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.699;SelfService;20221019;07
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.759;Servito;20221019;07
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20221019;07
-48173;Agip;45.5007700;12.0545320;;;Eni Errebi Snc;Benzina;1.744;SelfService;20221018;07
-48173;Agip;45.5007700;12.0545320;;;Eni Errebi Snc;Benzina;1.964;Servito;20221018;08
+48173;Agip;45.5007700;12.0545320;;;Eni Errebi Snc;Benzina;1.724;SelfService;20221022;07
+48173;Agip;45.5007700;12.0545320;;;Eni Errebi Snc;Benzina;1.944;Servito;20221022;08
 48226;Q8;45.5480253;12.3047463;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.679;SelfService;20221017;07
 48284;Beyfin;45.4847442;12.2862661;;;Ghulam Punjab di Iqbal Qasir & C. S.A.S.;Benzina;1.639;SelfService;20221018;07
 48284;Beyfin;45.4847442;12.2862661;;;Ghulam Punjab di Iqbal Qasir & C. S.A.S.;Benzina;1.699;Servito;20221018;07
@@ -604,88 +618,92 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 48516;Sistiana Service S.n.c.;45.7712330;13.6371781;;;Gabriele Riva - Sistiana;Benzina;1.719;SelfService;20221018;07
 48571;enercoop;45.1910519;12.2775165;;;Vega Carburanti S.p.A.;Benzina;1.589;SelfService;20221020;06
 48573;Q8;46.1165724;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.679;SelfService;20221017;07
-48899;Eni;46.0420044;13.2214918;;;Eni;Benzina;1.684;SelfService;20221017;07
-48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.679;SelfService;20221019;07
-48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.869;Servito;20221019;08
+48899;Eni;46.0420044;13.2214918;;;Eni;Benzina;1.684;SelfService;20221021;07
+48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.679;SelfService;20221021;07
+48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.869;Servito;20221021;08
 48914;Esso;45.5064223;12.1475056;;;Captari Vasile;Benzina;1.699;SelfService;20221018;07
 48914;Esso;45.5064223;12.1475056;;;Captari Vasile;Benzina;1.899;Servito;20221018;08
 49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.;Benzina;1.679;Servito;20221017;07
 49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Benzina;1.679;Servito;20221017;07
 49209;Trivengas;45.6421623;12.5917078;;;Trivengas;Benzina;1.649;SelfService;20221021;07
-49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;1.719;Servito;20221017;07
+49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;1.699;Servito;20221022;07
 49249;;45.5094325;12.2826686;;;Tieppo Fabio;Benzina;1.779;Servito;20221021;07
 49249;;45.5094325;12.2826686;;;Tieppo Fabio;Benzina;1.779;SelfService;20221021;07
 49270;;45.8378802;13.2114657;;;Eni Station;Benzina;1.679;SelfService;20221018;07
 49270;;45.8378802;13.2114657;;;Eni Station;Benzina;1.889;Servito;20221018;08
 49277;Esso;45.9838539;13.4054733;;;Set Società a Responsabilità Limitata;Benzina;1.729;SelfService;20221021;07
 49277;Esso;45.9838539;13.4054733;;;Set Società a Responsabilità Limitata;Benzina;1.899;Servito;20221021;08
-49387;Agip;45.5774381;12.0849625;;;Castellana Carburanti di Nalon Luca;Benzina;1.664;SelfService;20221019;07
-49387;Agip;45.5774381;12.0849625;;;Castellana Carburanti di Nalon Luca;Benzina;1.884;Servito;20221019;08
-49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.684;SelfService;20221021;07
-49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.904;Servito;20221021;08
+49387;Agip;45.5774381;12.0849625;;;Castellana Carburanti di Nalon Luca;Benzina;1.664;SelfService;20221022;07
+49387;Agip;45.5774381;12.0849625;;;Castellana Carburanti di Nalon Luca;Benzina;1.884;Servito;20221022;08
+49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.684;SelfService;20221022;07
+49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.904;Servito;20221022;08
 49724;Esso;45.6536732;12.5383537;;;Geff S.R.L.;Benzina;1.699;SelfService;20221021;07
-49770;;45.6437111;12.4922052;;;Geff S.R.L.;Benzina;1.699;SelfService;20221020;07
-49878;Esso;45.7213895;12.9149083;;;Geff S.R.L.;Benzina;1.689;SelfService;20221021;07
+49770;;45.6437111;12.4922052;;;Geff S.R.L.;Benzina;1.699;SelfService;20221022;07
+49878;Esso;45.7213895;12.9149083;;;Geff S.R.L.;Benzina;1.669;SelfService;20221021;07
 49937;;45.4181700;12.3699000;;;Lido Energia S.R.L.;Benzina;1.744;SelfService;20221018;07
 49937;;45.4181700;12.3699000;;;Lido Energia S.R.L.;Benzina;2.018;Servito;20221018;08
 49938;Total;45.4198876;12.3752573;;;Lido Energia S.R.L.;Benzina;1.854;SelfService;20221018;08
 49938;Total;45.4198876;12.3752573;;;Lido Energia S.R.L.;Benzina;2.054;Servito;20221018;09
-50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.638;SelfService;20221019;07
+50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.638;SelfService;20221021;07
+50197;Api;45.4503075;12.1684541;;;Zancanaro Roberto;Benzina;1.699;SelfService;20221022;07
+50197;Api;45.4503075;12.1684541;;;Zancanaro Roberto;Benzina;2.154;Servito;20221022;09
 50219;Esso;45.4849809;12.2734411;;;Speed Service S.A.S. di Fabrizio Fulmine & C.;Benzina;1.699;SelfService;20221017;07
 50219;Esso;45.4849809;12.2734411;;;Speed Service S.A.S. di Fabrizio Fulmine & C.;Benzina;1.899;Servito;20221017;08
-50308;Auchan;45.5167974;12.2362485;;;Iperstaroil S.R.L.;Benzina;1.579;SelfService;20221020;06
+50308;Auchan;45.5167974;12.2362485;;;Iperstaroil S.R.L.;Benzina;1.579;SelfService;20221021;06
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.689;Servito;20221019;07
 50445;Eni;46.0728368;13.2138243;;;Poci Kloris;Benzina;1.679;SelfService;20221018;07
 50445;Eni;46.0728368;13.2138243;;;Poci Kloris;Benzina;1.889;Servito;20221018;08
 50564;IP;45.5207326;12.6391799;;;Carburanti Gondal di Arif Saqlain;Benzina;1.659;SelfService;20221019;07
 50564;IP;45.5207326;12.6391799;;;Carburanti Gondal di Arif Saqlain;Benzina;1.759;Servito;20221019;07
-50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.719;Servito;20221020;07
-50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.719;SelfService;20221020;07
-50673;Coil;45.1206588;12.2543389;;;Coil;Benzina;1.589;Servito;20221020;06
-50718;Esso;46.1441190;12.9788230;;;Geff S.R.L.;Benzina;1.729;SelfService;20221021;07
-50747;DA.LE.;45.6152860;13.7908860;;;Eni Fuel S.P.A.;Benzina;1.694;SelfService;20221021;07
-50747;DA.LE.;45.6152860;13.7908860;;;Eni Fuel S.P.A.;Benzina;1.914;Servito;20221021;08
-50781;Esso;46.3949900;13.2152760;;;01959 Esso - Resiutta;Benzina;1.789;SelfService;20221020;07
+50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.719;Servito;20221021;07
+50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.719;SelfService;20221021;07
+50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.;Benzina;1.719;Servito;20221021;07
+50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.;Benzina;1.719;SelfService;20221021;07
+50673;Coil;45.1206588;12.2543389;;;Coil;Benzina;1.589;Servito;20221021;06
+50718;Esso;46.1441190;12.9788230;;;Geff S.R.L.;Benzina;1.729;SelfService;20221022;07
+50747;DA.LE.;45.6152860;13.7908860;;;Eni Fuel S.P.A.;Benzina;1.694;SelfService;20221022;07
+50747;DA.LE.;45.6152860;13.7908860;;;Eni Fuel S.P.A.;Benzina;1.914;Servito;20221022;08
+50781;Esso;46.3949900;13.2152760;;;01959 Esso - Resiutta;Benzina;1.789;SelfService;20221021;07
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Benzina;1.704;SelfService;20221019;07
 50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.729;SelfService;20221017;07
-50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.684;SelfService;20221020;07
-50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.904;Servito;20221020;08
+50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.684;SelfService;20221021;07
+50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.904;Servito;20221021;08
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Benzina;1.659;Servito;20221019;07
 51194;IP;45.7885870;13.0131180;;;Scer S.N.C. di Beccaro Bellino & C.;Benzina;1.679;SelfService;20221020;07
 51194;IP;45.7885870;13.0131180;;;Scer S.N.C. di Beccaro Bellino & C.;Benzina;1.919;Servito;20221020;08
 51300;IP;45.7804284;12.8763464;;;Europam S.p.A.;Benzina;1.597;SelfService;20221017;07
-51511;Q8;45.1561682;12.2719623;;;Clean Car 3 di Passarella Massimiliano & C. S.A.S.;Benzina;1.614;Servito;20221019;07
-51511;Q8;45.1561682;12.2719623;;;Clean Car 3 di Passarella Massimiliano & C. S.A.S.;Benzina;1.614;SelfService;20221019;07
+51511;Q8;45.1561682;12.2719623;;;Clean Car 3 di Passarella Massimiliano & C. S.A.S.;Benzina;1.609;Servito;20221021;07
+51511;Q8;45.1561682;12.2719623;;;Clean Car 3 di Passarella Massimiliano & C. S.A.S.;Benzina;1.609;SelfService;20221021;07
 51556;Agip;45.6476325;12.5880838;;;Casagrande M. & C. S.A.S. di Casagrande Marcellino;Benzina;1.699;SelfService;20221018;07
 51556;Agip;45.6476325;12.5880838;;;Casagrande M. & C. S.A.S. di Casagrande Marcellino;Benzina;1.908;Servito;20221018;08
 51577;;46.0239505;13.1923243;;;Kumar Rajinder;Benzina;1.719;Servito;20221018;07
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Benzina;1.639;SelfService;20221019;07
-51663;Esso;45.5518322;12.0719522;;;Geff S.R.L.;Benzina;1.669;SelfService;20221020;07
-51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Benzina;1.704;SelfService;20221021;07
-51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Benzina;1.924;Servito;20221021;08
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Benzina;1.639;SelfService;20221021;07
+51663;Esso;45.5518322;12.0719522;;;Geff S.R.L.;Benzina;1.669;SelfService;20221021;07
+51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Benzina;1.704;SelfService;20221022;07
+51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Benzina;1.924;Servito;20221022;08
 51813;Q8;46.0080400;13.1214500;;;Q8;Benzina;1.763;SelfService;20221017;07
 51813;Q8;46.0080400;13.1214500;;;Q8;Benzina;1.963;Servito;20221017;08
-51862;Eni;45.4750389;12.2112404;;;Eni Fuel S.p.A.;Benzina;1.714;SelfService;20221021;07
-51862;Eni;45.4750389;12.2112404;;;Eni Fuel S.p.A.;Benzina;1.934;Servito;20221021;08
-51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Benzina;1.708;Servito;20221020;07
-51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Benzina;1.708;SelfService;20221020;07
+51862;Eni;45.4750389;12.2112404;;;Eni Fuel S.p.A.;Benzina;1.714;SelfService;20221022;07
+51862;Eni;45.4750389;12.2112404;;;Eni Fuel S.p.A.;Benzina;1.934;Servito;20221022;08
+51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Benzina;1.708;Servito;20221021;07
+51967;EwaPoint;45.6056755;13.8075232;;;Oil Italia Muggia;Benzina;1.708;SelfService;20221021;07
 52035;Trivengas;45.4883200;12.1012690;;;Callegari S.A.S. di Callegari Gabriele & C.;Benzina;1.649;SelfService;20221021;07
-52077;Agip;45.2072246;12.2756647;;;Gestioni Innovative Italia S.R.L.;Benzina;1.724;SelfService;20221021;07
-52078;;45.4188547;12.0595785;;;Gestioni Innovative Italia S.R.L.;Benzina;1.724;SelfService;20221021;07
-52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Benzina;1.724;SelfService;20221021;07
-52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Benzina;1.934;Servito;20221021;08
-52103;Conad;45.7924662;12.8178755;;;Spazio Conad Portogruaro;Benzina;1.608;SelfService;20221020;07
-52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;1.724;SelfService;20221021;07
-52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;1.941;Servito;20221021;08
-52235;;45.8013325;12.8137484;;;T.D.P. Carburanti S.R.L.;Benzina;1.669;SelfService;20221020;07
+52077;Agip;45.2072246;12.2756647;;;Gestioni Innovative Italia S.R.L.;Benzina;1.724;SelfService;20221022;07
+52078;;45.4188547;12.0595785;;;Gestioni Innovative Italia S.R.L.;Benzina;1.724;SelfService;20221022;07
+52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Benzina;1.724;SelfService;20221022;07
+52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Benzina;1.934;Servito;20221022;08
+52103;Conad;45.7924662;12.8178755;;;Spazio Conad Portogruaro;Benzina;1.608;SelfService;20221021;07
+52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;1.724;SelfService;20221022;07
+52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;1.941;Servito;20221022;08
+52235;;45.8013325;12.8137484;;;T.D.P. Carburanti S.R.L.;Benzina;1.669;SelfService;20221021;07
 52240;Agip;46.1539002;13.2912666;;;Carrozzeria La Motta di Pecile Maurizio;Benzina;1.689;SelfService;20221018;07
 52387;;46.0088700;13.3308100;;;Fuel Service S.A.S. di Valenti Mario & C.;Benzina;1.679;SelfService;20221019;07
 52387;;46.0088700;13.3308100;;;Fuel Service S.A.S. di Valenti Mario & C.;Benzina;1.969;Servito;20221019;08
-52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.659;Servito;20221021;07
-52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.659;SelfService;20221021;07
-5243;OMV;45.5482840;12.6018310;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.659;SelfService;20221020;07
-52505;Agip;45.2637321;12.3006957;;;Vi.Sca. S.R.L.;Benzina;1.744;SelfService;20221020;07
-52505;Agip;45.2637321;12.3006957;;;Vi.Sca. S.R.L.;Benzina;2.009;Servito;20221020;08
+52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.659;Servito;20221022;07
+52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.659;SelfService;20221022;07
+5243;OMV;45.5482840;12.6018310;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.659;SelfService;20221021;07
+52505;Agip;45.2637321;12.3006957;;;Vi.Sca. S.R.L.;Benzina;1.744;SelfService;20221021;07
+52505;Agip;45.2637321;12.3006957;;;Vi.Sca. S.R.L.;Benzina;2.009;Servito;20221021;08
 52530;;45.2237355;12.1971605;;;Ohana S.N.C.di Gobbin Narciso & C.;Benzina;1.724;SelfService;20221017;07
 52530;;45.2237355;12.1971605;;;Ohana S.N.C.di Gobbin Narciso & C.;Benzina;1.944;Servito;20221017;08
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.679;SelfService;20221020;07
@@ -693,17 +711,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 52652;Esso;46.2687113;13.1075760;;;Cossa Enzo;Benzina;1.799;Servito;20221019;07
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Benzina;1.679;Servito;20221020;07
 52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Benzina;1.679;SelfService;20221020;07
-52838;Costantin;45.5491368;12.7460788;;;Costantin di Eraclea Mare;Benzina;1.697;Servito;20221021;07
-52838;Costantin;45.5491368;12.7460788;;;Costantin di Eraclea Mare;Benzina;1.697;SelfService;20221021;07
+52838;Costantin;45.5491368;12.7460788;;;Costantin di Eraclea Mare;Benzina;1.697;Servito;20221022;07
+52838;Costantin;45.5491368;12.7460788;;;Costantin di Eraclea Mare;Benzina;1.697;SelfService;20221022;07
 52852;Repsol;45.9357748;13.1754332;;;Repsol;Benzina;1.643;SelfService;20221020;07
 52852;Repsol;45.9357748;13.1754332;;;Repsol;Benzina;1.683;Servito;20221020;07
 52910;Amico 14;45.1771759;12.2765281;;;Bc Chioggia 2;Benzina;1.593;SelfService;20221021;06
-53066;Tamoil;45.7179771;13.0500352;;;T.D.M. S.R.L.;Benzina;1.669;SelfService;20221021;07
+53066;Tamoil;45.7179771;13.0500352;;;T.D.M. S.R.L.;Benzina;1.669;SelfService;20221022;07
 53229;Major;45.2006590;12.2858512;;;Major 1019 Sottomarina di Chioggia (ve);Benzina;1.659;SelfService;20221018;07
 53229;Major;45.2006590;12.2858512;;;Major 1019 Sottomarina di Chioggia (ve);Benzina;1.759;Servito;20221018;07
-53341;;45.6393200;13.7603681;;;Geff S.R.L.;Benzina;1.689;SelfService;20221020;07
+53341;;45.6393200;13.7603681;;;Geff S.R.L.;Benzina;1.689;SelfService;20221021;07
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Benzina;1.714;SelfService;20221020;07
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Benzina;1.934;Servito;20221020;08
+53390;europam;45.5562670;12.6686310;;Servizio: self da aperto;Europam S.R.L.;Benzina;1.637;SelfService;20221021;07
 53483;Eni;45.8112130;13.5217240;;;Eni;Benzina;1.704;SelfService;20221018;07
 53483;Eni;45.8112130;13.5217240;;;Eni;Benzina;1.924;Servito;20221018;08
 53525;IP;46.1497874;13.3440433;;;Cg Service di Cattarossi Gianluca;Benzina;1.689;Servito;20221020;07
@@ -713,13 +732,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 53683;;45.4781675;12.1524237;;;Eni 51141 - Bbr Carburanti;Benzina;1.929;Servito;20221017;08
 53727;;45.7185651;13.7299462;;;Esso Sgonico;Benzina;1.719;SelfService;20221021;07
 53727;;45.7185651;13.7299462;;;Esso Sgonico;Benzina;1.909;Servito;20221021;08
-53751;agip;45.7242197;12.7018664;;;Eni Fuel S.p.A.;Benzina;1.714;SelfService;20221020;07
-53751;agip;45.7242197;12.7018664;;;Eni Fuel S.p.A.;Benzina;1.824;Servito;20221020;08
-53759;;45.3275632;12.0459033;;;Smp Campolongo Maggiore;Benzina;1.649;SelfService;20221021;07
+53751;agip;45.7242197;12.7018664;;;Eni Fuel S.p.A.;Benzina;1.714;SelfService;20221022;07
+53751;agip;45.7242197;12.7018664;;;Eni Fuel S.p.A.;Benzina;1.824;Servito;20221022;08
+53759;;45.3275632;12.0459033;;;Smp Campolongo Maggiore;Benzina;1.649;SelfService;20221022;07
 53779;Esso;45.4982972;12.3180769;;;105843 - Tessera - Egi-2go;Benzina;1.719;SelfService;20221019;07
-53799;Oil Italia;45.4692656;12.5355560;;;Oil Italia Cavallino;Benzina;1.648;Servito;20221020;07
-53799;Oil Italia;45.4692656;12.5355560;;;Oil Italia Cavallino;Benzina;1.648;SelfService;20221020;07
-5981;;45.3834720;12.0970410;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20221020;07
+53799;Oil Italia;45.4692656;12.5355560;;;Oil Italia Cavallino;Benzina;1.648;Servito;20221021;07
+53799;Oil Italia;45.4692656;12.5355560;;;Oil Italia Cavallino;Benzina;1.648;SelfService;20221021;07
+5981;;45.3834720;12.0970410;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20221021;07
 6023;Tamoil;45.8609664;12.7687538;;;Fiorenergy S.R.L.;Benzina;1.699;SelfService;20221020;07
 6154;Loro;45.1312159;12.0735352;;;L. & L. S.N.C. di Fecchio Davide & C.;Benzina;1.719;Servito;20221017;07
 6187;Eni;45.4795275;12.2705799;;"Nuova stazione di rifornimento a idrogeno di Eni, la prima in Italia realizzata in ambito urbano e aperta al pubblico.";Bozzo S.N.C. di Bozzo Mauro & C.;Benzina;1.719;SelfService;20221020;07
@@ -733,9 +752,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 6479;Q8;45.4426520;12.1489920;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.649;SelfService;20221017;07
 6480;Q8 Easy;45.5069356;12.0236290;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.669;SelfService;20221017;07
 6502;Q8 Easy;45.7713341;13.0234252;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.669;SelfService;20221017;07
+6807;Total;45.9442569;12.8356969;;;Marinacci Renato;Benzina;1.709;Servito;20221021;07
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.699;Servito;20221021;07
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Benzina;1.667;SelfService;20221020;07
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Benzina;1.737;Servito;20221020;07
+6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.654;SelfService;20221021;07
+6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Benzina;1.659;SelfService;20221021;07
+6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Benzina;1.729;Servito;20221021;07
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.;Benzina;1.657;Servito;20221020;07
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.;Benzina;1.657;SelfService;20221020;07
 7261;Q8 Easy;45.9643929;12.6728282;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20221019;07
@@ -745,17 +766,19 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 7269;Q8 Easy;46.4203023;13.0210435;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20221017;07
 7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.679;SelfService;20221017;07
 7284;Q8 Easy;45.7457293;12.9904216;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.689;SelfService;20221017;07
-7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.657;SelfService;20221019;07
+7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.659;SelfService;20221022;07
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.716;SelfService;20221019;07
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.946;Servito;20221019;08
 7433;IP;46.1632922;13.2562847;;;Fioritto Luciano;Benzina;1.749;Servito;20221017;07
-7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Benzina;1.719;SelfService;20221020;07
-7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Benzina;1.699;SelfService;20221021;07
-7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Benzina;1.918;Servito;20221021;08
+7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Benzina;1.719;SelfService;20221021;07
+7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Benzina;1.709;SelfService;20221022;07
+7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Benzina;1.928;Servito;20221022;08
+8221;Api;45.4840071;12.2811913;;;Ronchin Marino;Benzina;1.719;Servito;20221021;07
+8221;Api;45.4840071;12.2811913;;;Ronchin Marino;Benzina;1.719;SelfService;20221021;07
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;1.689;SelfService;20221019;07
 8613;IP;45.5710045;12.1112787;;;Ip;Benzina;1.749;SelfService;20221018;07
 8613;IP;45.5710045;12.1112787;;;Ip;Benzina;2.039;Servito;20221018;08
-8622;Erg;45.7749396;12.8484418;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221020;07
+8622;Erg;45.7749396;12.8484418;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20221021;07
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.719;SelfService;20221019;07
 8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.799;SelfService;20221018;07
 8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.009;Servito;20221018;08
@@ -772,8 +795,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 9338;Petrol;45.9674240;12.9703690;;;Armani Marta;Benzina;1.689;Servito;20221019;07
 9405;Q8;45.2044264;12.2763473;;;Boscolo Agostini Cristina;Benzina;1.649;Servito;20221018;07
 9405;Q8;45.2044264;12.2763473;;;Boscolo Agostini Cristina;Benzina;1.649;SelfService;20221018;07
-9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.689;Servito;20221021;07
-9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.689;SelfService;20221021;07
+9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.689;Servito;20221022;07
+9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.689;SelfService;20221022;07
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Benzina;1.719;Servito;20221017;07
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Benzina;1.719;SelfService;20221017;07
 9771;Q8;45.4492862;12.2028313;;;Agiollo Ennio;Benzina;1.699;SelfService;20221019;07
