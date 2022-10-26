@@ -126,7 +126,6 @@
 6502;Q8 Easy;45.7713341;13.0234252;;;Servizi & Gestioni Italia S.R.L.
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.
-38031;Esso;45.6717090;13.0910509;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone
 49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.
 39713;Total;45.9903730;12.8658910;;;Colledan Carlo e Soci S.N.C.
 7269;Q8 Easy;46.4203023;13.0210435;;;Servizi & Gestioni Italia S.R.L.
@@ -415,7 +414,6 @@
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.
 13195;Benzina-Stazione di servizio;45.8881576;12.5530521;;;Bertolo S.A.S. di Bertolo Nello & C.
-16450;Eni;45.6734704;13.0883052;;;Torresan Massimo
 33531;;46.0460769;13.1962535;;;Rodaro Enzo & C. S.N.C.
 38686;;46.0551944;13.2346646;;;Rafikul Islam
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
@@ -509,8 +507,9 @@
 ;;45.7885438;13.0134847;;;
 ;;45.7711479;13.0235784;;;
 ;;45.7221816;13.0485460;;;
-;;45.6716466;13.0911345;;;
+;Esso;45.6716525;13.0911345;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone
 ;Q8;45.7940051;13.0314788;;;Servizi & Gestioni Italia S.R.L.
+;Eni;45.6734464;13.0883215;;;Torresan Massimo
 50952;;46.0645392;13.2120296;;;Favaro Giulio
 37105;Esso;45.8042987;12.8881208;;;Tiger S.R.L.
 3909;Agip;45.8046175;12.8804655;;;Minari S.R.L.
@@ -556,7 +555,6 @@
 35231;Beyfin;45.7680500;12.8330880;;;Sonego Paolo
 11939;Q8 Easy;45.7751530;12.8453037;;;Servizi & Gestioni Italia S.R.L.
 11943;Q8;45.6305230;12.5786700;;;Servizi & Gestioni Italia S.R.L.
-7284;Q8 Easy;45.7457293;12.9904216;;;Servizi & Gestioni Italia S.R.L.
 40134;;45.5256070;12.2599858;;;Nuova Sidap S.R.L.
 48284;Beyfin;45.4847442;12.2862661;;;Ghulam Punjab di Iqbal Qasir & C. S.A.S.
 22931;Repsol;45.3906156;12.0668210;;;Menegazzo Adriano
@@ -606,7 +604,6 @@
 31659;Agip;45.4414285;12.3156126;;;Iclera S.N.C. di Cancellara Michele & C.
 16889;IP;45.7955036;12.6819489;;;Erg di Fedrigo Michele
 47075;Esso;45.4851238;12.2003179;;;Favero Riccardo
-12877;TotalErg;45.7126945;13.0126603;;;Marson Luigino
 23321;Q8;45.4851670;12.1846820;;;Servizi & Gestioni Italia S.R.L.
 11941;Q8 Easy;45.4912720;12.2281570;;;Servizi & Gestioni Italia S.R.L.
 47013;Esso;45.7768810;12.8631290;;;Geff S.R.L.
@@ -803,5 +800,5 @@
 21494;;45.5293226;12.6573349;;;Buscato Autoservice S.N.C. di Buscato Dorino & C.
 ;Noaloil;45.6485680;12.5878115;;;
 ;;45.7723330;12.9670905;;;
-;;45.7126954;13.0124758;;;
-;;45.7458240;12.9903054;;;
+;IP;45.7126874;13.0126321;;;
+;Q8 Easy;45.7457740;12.9903042;;;Servizi & Gestioni Italia S.R.L.
