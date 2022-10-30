@@ -33,13 +33,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31520;Vega;45.7808999;12.8906009;;;Vega Carburanti S.p.A.;GPL;0.739;Servito;20221028;07
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;GPL;0.769;Servito;20221028;07
 31532;VEGA;45.4858310;12.1220180;;;Vega Carburanti S.p.A.;GPL;0.759;Servito;20221026;07
-31533;;45.5667189;12.1716918;;;Vega Carburanti S.p.A.;GPL;0.769;Servito;20221023;07
 31536;Vega;45.7743978;12.8245515;;;Vega Carburanti S.p.A.;GPL;0.739;Servito;20221026;07
 31537;Vega;45.5031870;12.2355884;;;Vega Carburanti S.p.A.;GPL;0.759;Servito;20221026;07
 31540;Vega;45.6225820;12.5498680;;;Vega Carburanti S.p.A.;GPL;0.739;Servito;20221028;07
 31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;GPL;0.759;Servito;20221028;07
 31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.;GPL;0.772;Servito;20221028;07
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;GPL;0.759;Servito;20221023;07
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;GPL;0.999;Servito;20221026;10
 33385;Total;45.9423964;12.5620561;;;Duino Nord S.A.S di Sacilotto Laura & C.;GPL;0.999;Servito;20221026;10
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.;GPL;0.869;Servito;20221026;08
@@ -105,6 +103,5 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 7262;Q8;45.9313921;12.8714185;;;Servizi & Gestioni Italia S.R.L.;GPL;0.749;Servito;20221026;07
 7267;Q8easy;46.0897890;13.1448520;;;Servizi & Gestioni Italia S.R.L.;GPL;0.759;Servito;20221024;07
 7269;Q8 Easy;46.4203023;13.0210435;;;Servizi & Gestioni Italia S.R.L.;GPL;0.779;Servito;20221024;07
-7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.;GPL;0.849;Servito;20221023;08
 7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;GPL;0.779;Servito;20221024;07
 7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;GPL;0.759;Servito;20221028;07

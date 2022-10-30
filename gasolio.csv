@@ -40,10 +40,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11908;Q8;45.6693661;13.0943939;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.929;SelfService;20221024;08
 11909;Q8;46.4027055;13.0175193;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.889;SelfService;20221026;07
 11910;Q8 easy;46.0534121;13.2464693;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.864;SelfService;20221024;07
-11911;Q8;46.1012200;13.2301410;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.909;SelfService;20221023;07
 11912;Q8 Easy;46.0753043;13.2264878;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.879;SelfService;20221024;07
 11913;Q8;46.0752001;13.2387295;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.889;SelfService;20221028;07
-11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.879;SelfService;20221023;07
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.859;SelfService;20221024;07
 11939;Q8 Easy;45.7751530;12.8453037;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.859;SelfService;20221024;07
 11940;Q8;45.5095787;12.6441671;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.919;SelfService;20221026;07
@@ -71,7 +69,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.869;SelfService;20221027;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.869;SelfService;20221027;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.899;Servito;20221027;07
-13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.879;Servito;20221023;07
 13942;De Cleva e Bernardini;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.939;Servito;20221027;08
 13942;De Cleva e Bernardini;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.939;SelfService;20221027;08
 13947;Lonza e Coglievina S.r.l.;45.6834599;13.7822936;;;Lonza & Coglievina Società a Responsabilità Limitata;Gasolio;1.882;SelfService;20221027;07
@@ -82,7 +79,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14227;Bolgan;45.5191727;12.1102516;;;Bolgan Aldo;Gasolio;1.869;SelfService;20221026;07
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.903;SelfService;20221027;07
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;2.113;Servito;20221027;08
-14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.879;SelfService;20221023;07
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.919;Servito;20221027;07
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.919;SelfService;20221027;07
 14823;Eni;45.8403241;13.4934855;;;Ricciardi Antonio;Gasolio;1.884;SelfService;20221027;07
@@ -334,8 +330,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Gasolio;1.859;SelfService;20221028;07
 31532;VEGA;45.4858310;12.1220180;;;Vega Carburanti S.p.A.;Gasolio;1.859;SelfService;20221026;07
 31532;VEGA;45.4858310;12.1220180;;;Vega Carburanti S.p.A.;Gasolio;1.929;Servito;20221026;08
-31533;;45.5667189;12.1716918;;;Vega Carburanti S.p.A.;Gasolio;1.859;SelfService;20221023;07
-31533;;45.5667189;12.1716918;;;Vega Carburanti S.p.A.;Gasolio;1.929;Servito;20221023;08
 31535;Vega;45.5104370;12.2218720;;;Vega Carburanti S.p.A.;Gasolio;1.839;SelfService;20221028;07
 31536;Vega;45.7743978;12.8245515;;;Vega Carburanti S.p.A.;Gasolio;1.839;SelfService;20221026;07
 31536;Vega;45.7743978;12.8245515;;;Vega Carburanti S.p.A.;Gasolio;1.909;Servito;20221026;07
@@ -355,7 +349,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31657;Agip;45.5686744;12.1136006;;;Iclera S.N.C. di Cancellara Michele & C.;Gasolio;2.104;Servito;20221026;08
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.869;SelfService;20221025;07
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;2.249;Servito;20221025;09
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.879;Servito;20221023;07
 32531;Api;45.4893292;12.3017670;;;Ip Services S.R.L.;Gasolio;1.859;SelfService;20221027;07
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio;2.096;SelfService;20221026;08
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;Gasolio;2.296;Servito;20221026;09
@@ -562,7 +555,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 45513;Unione Gas Auto S.p.A.;45.5438899;12.6512971;;;Easy Service S.R.L.;Gasolio;1.859;SelfService;20221024;07
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni;Gasolio;1.879;Servito;20221027;07
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Gasolio;1.869;Servito;20221025;07
-45911;Q8;45.4872750;12.2544870;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.839;SelfService;20221023;07
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Gasolio;1.919;SelfService;20221027;07
 46104;Tamoil;45.5044755;12.3355622;;;T.D.M. S.R.L.;Gasolio;1.849;Servito;20221027;07
 46104;Tamoil;45.5044755;12.3355622;;;T.D.M. S.R.L.;Gasolio;1.849;SelfService;20221027;07
@@ -635,10 +627,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 49724;Esso;45.6536732;12.5383537;;;Geff S.R.L.;Gasolio;1.879;SelfService;20221028;07
 49770;;45.6437111;12.4922052;;;Geff S.R.L.;Gasolio;1.869;SelfService;20221028;07
 49878;Esso;45.7213895;12.9149083;;;Geff S.R.L.;Gasolio;1.869;SelfService;20221027;07
-49937;;45.4181700;12.3699000;;;Lido Energia S.R.L.;Gasolio;1.924;SelfService;20221023;07
-49937;;45.4181700;12.3699000;;;Lido Energia S.R.L.;Gasolio;2.200;Servito;20221023;09
-49938;Total;45.4198876;12.3752573;;;Lido Energia S.R.L.;Gasolio;2.044;SelfService;20221023;08
-49938;Total;45.4198876;12.3752573;;;Lido Energia S.R.L.;Gasolio;2.244;Servito;20221023;09
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.838;SelfService;20221025;07
 50219;Esso;45.4849809;12.2734411;;;Speed Service S.A.S. di Fabrizio Fulmine & C.;Gasolio;1.879;SelfService;20221024;07
 50219;Esso;45.4849809;12.2734411;;;Speed Service S.A.S. di Fabrizio Fulmine & C.;Gasolio;2.079;Servito;20221024;08
@@ -762,7 +750,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 7262;Q8;45.9313921;12.8714185;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.899;SelfService;20221026;07
 7267;Q8easy;46.0897890;13.1448520;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.858;SelfService;20221024;07
 7269;Q8 Easy;46.4203023;13.0210435;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.869;SelfService;20221024;07
-7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.859;SelfService;20221023;07
 7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.879;SelfService;20221024;07
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.878;SelfService;20221026;07
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;2.108;Servito;20221026;08
