@@ -282,7 +282,6 @@
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia
 10355;Shell;46.1092319;12.8885239;;;Powerservice S.N.C. Area di Servizi Carburanti di Marzio Daniel & Tambosso Stefano
 19082;Erg;46.1324621;12.8687331;;;Zanet Marietto & C. S.N.C.
-11916;Q8;45.8437462;13.3263188;;;Servizi & Gestioni Italia S.R.L.
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.
 18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio
@@ -469,6 +468,7 @@
 11894;Q8;45.6556111;13.8040375;;;Servizi & Gestioni Italia S.R.L.
 40794;;45.9567014;12.8211571;;;Cst Service di Casotto Mauro & C. Snc
 48573;Q8;46.1165724;13.2239162;;;Servizi & Gestioni Italia S.R.L.
+;IP;45.8437909;13.3263409;;;
 36240;Esso;45.6894502;13.1329225;;;Galasso Giorgio
 38629;Punto auto Ambrosetti;45.6129564;13.8255299;;;Interauto di Pruteanu Daniela
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.
