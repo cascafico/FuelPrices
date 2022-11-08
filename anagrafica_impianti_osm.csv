@@ -122,7 +122,6 @@
 21065;Agip;45.9222570;12.6374580;;;Hoxha Bledar
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano
 25039;Total;45.8708578;12.5633743;;;f.lli Rosolen Giorgio e Primo Società in Nome Collettivo
-6502;Q8 Easy;45.7713341;13.0234252;;;Servizi & Gestioni Italia S.R.L.
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.
 49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.
@@ -502,7 +501,7 @@
 ;;45.7179126;13.0498406;;;
 ;;45.7596253;13.0301780;;;
 ;;45.7885438;13.0134847;;;
-;;45.7711479;13.0235784;;;
+;Q8 Easy;45.7711479;13.0235784;;;Servizi & Gestioni Italia S.R.L.
 ;IP;45.7221246;13.0485697;;;Scer S.N.C. di Beccaro Bellino & C.
 ;Esso;45.6716525;13.0911345;;;Galizio Giorgio & C. S.N.C. di Capelli Joel e Versolatto Simone
 ;Q8;45.7940051;13.0314788;;;Servizi & Gestioni Italia S.R.L.
