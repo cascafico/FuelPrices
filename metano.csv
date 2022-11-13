@@ -1,26 +1,28 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
-15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.;Metano;1.869;Servito;20221110;06
-17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Metano;1.989;Servito;20221108;06
-18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;2.299;Servito;20221110;07
-24829;;45.4418459;12.0569114;;;Eni Fuel S.p.A.;Metano;2.028;Servito;20221109;06
-31450;Vega;45.4450461;12.2047487;;;Vega Carburanti S.p.A.;Metano;1.999;Servito;20221110;06
-31539;Vega;45.5340913;12.1813971;;;Vega Carburanti S.p.A.;Metano;2.099;Servito;20221110;06
-31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;Metano;1.999;Servito;20221110;06
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.789;Servito;20221108;05
-35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Metano;2.999;Servito;20221109;10
-41686;Euro Petrol;45.7886190;12.7512994;;;Gabogas 2 di Galvagni Gualtiero & C. S.A.S.;Metano;1.798;Servito;20221107;05
-45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.799;Servito;20221107;05
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.789;Servito;20221107;05
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.789;Servito;20221107;05
-48571;enercoop;45.1910519;12.2775165;;;Vega Carburanti S.p.A.;Metano;1.999;Servito;20221109;06
-49209;Trivengas;45.6421623;12.5917078;;;Trivengas;Metano;2.199;Servito;20221108;07
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Benzina;1.699;SelfService;20221109;05
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GNL;2.299;Servito;20221109;07
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GPL;0.739;Servito;20221109;02
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Gasolio;1.829;SelfService;20221109;06
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;L-GNC;2.169;Servito;20221109;07
-51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Metano;2.169;Servito;20221109;07
-52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Metano;2.024;Servito;20221110;06
-52910;Amico 14;45.1771759;12.2765281;;;Bc Chioggia 2;Metano;1.998;Servito;20221109;06
-53583;;45.4422945;12.0511814;;;Arino Ovest;Metano;2.028;Servito;20221108;06
-7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Metano;2.199;Servito;20221110;07
+15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.;Metano;1.869;Servito;20221111;08
+17194;Eni;45.4718737;12.0273165;;;Fiorin S.N.C. di Fiorin Roberto & C.;Metano;1.989;Servito;20221108;08
+18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;2.199;Servito;20221110;09
+24829;;45.4418459;12.0569114;;;Eni Fuel S.p.A.;Metano;2.028;Servito;20221110;08
+31450;Vega;45.4450461;12.2047487;;;Vega Carburanti S.p.A.;Metano;1.999;Servito;20221111;08
+31539;Vega;45.5340913;12.1813971;;;Vega Carburanti S.p.A.;Metano;2.099;Servito;20221111;09
+31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;Metano;1.999;Servito;20221111;08
+32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.789;Servito;20221108;07
+35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Metano;1.895;Servito;20221109;08
+41686;Euro Petrol;45.7886190;12.7512994;;;Gabogas 2 di Galvagni Gualtiero & C. S.A.S.;Metano;1.987;Servito;20221110;08
+45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.799;Servito;20221107;07
+45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.789;Servito;20221107;07
+45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.789;Servito;20221110;07
+48571;enercoop;45.1910519;12.2775165;;;Vega Carburanti S.p.A.;Metano;1.999;Servito;20221109;08
+49209;Trivengas;45.6421623;12.5917078;;;Trivengas;Metano;2.199;Servito;20221111;09
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Benzina;1.699;SelfService;20221109;07
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GNL;2.299;Servito;20221109;10
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GPL;0.739;Servito;20221109;03
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Gasolio;1.829;SelfService;20221109;07
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;L-GNC;2.169;Servito;20221109;09
+51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;Metano;2.169;Servito;20221109;09
+52081;;45.5386088;12.3013026;;;Gestioni Innovative Italia S.R.L.;Metano;2.024;Servito;20221111;08
+52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;1.799;Servito;20221110;07
+52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;1.799;SelfService;20221110;07
+52910;Amico 14;45.1771759;12.2765281;;;Bc Chioggia 2;Metano;1.998;Servito;20221110;08
+53583;;45.4422945;12.0511814;;;Arino Ovest;Metano;2.028;Servito;20221108;08
+7929;Agip;45.4658551;12.1071883;;;Aesse di Rizzo A. e C. S.N.C.;Metano;2.199;Servito;20221111;09
