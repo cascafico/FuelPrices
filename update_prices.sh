@@ -23,7 +23,8 @@ STARTDATE=`date --date="7 days ago" +'%Y%m%d'`
 
 # truncate hour and minute and remove first line ("Estrazione del")
 # awk -i inplace -F " " 'NR>1 {  print $1 }' prezzo_alle_8.csv
-awk -i inplace -F " " ' {  print $1 }' prezzo_alle_8.csv
+#awk -i inplace -F " " ' {  print $1 }' prezzo_alle_8.csv
+sed -i -r "s/ [0-9]+:[0-9]+:[0-9]+$//g" prezzo_alle_8.csv
 
 # 31782;Benzina;1.299;0;22/02/2022
 # 38188;Benzina;1.599;1;04/06/2022
