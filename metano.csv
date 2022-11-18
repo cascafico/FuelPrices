@@ -8,9 +8,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31543;Vega;45.4287010;12.1075770;;;Vega Carburanti S.p.A.;Metano;1.999;Servito;20221116;08
 31670;Metano;45.6557900;12.5459720;;;Gnes Franco;Metano;1.999;Servito;20221114;08
 35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Metano;1.895;Servito;20221116;08
-43228;;45.4992002;12.1395234;;;Sem S.R.L.;Metano;1.985;Servito;20221111;08
 45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.799;Servito;20221114;07
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.789;Servito;20221111;07
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.789;Servito;20221112;07
 48571;enercoop;45.1910519;12.2775165;;;Vega Carburanti S.p.A.;Metano;1.989;Servito;20221115;08
 49209;Trivengas;45.6421623;12.5917078;;;Trivengas;Metano;2.199;Servito;20221115;09

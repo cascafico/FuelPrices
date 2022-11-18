@@ -49,7 +49,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;GPL;0.739;Servito;20221115;07
 35598;IES;45.3549800;12.0301370;;;Gasoline di Olfeni Angelo e C. S.N.C.;GPL;0.739;Servito;20221114;07
 35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.799;Servito;20221115;07
-35743;Costantin;45.5176081;12.6356932;;;Costantin Distribuzione e Servizi S.R.L.;GPL;0.789;Servito;20221111;07
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;GPL;0.759;Servito;20221114;07
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;GPL;0.799;Servito;20221114;07
 36503;;46.0853205;13.0299877;;;Singh Nirmal;GPL;0.749;Servito;20221116;07
@@ -87,11 +86,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 48284;Beyfin;45.4847442;12.2862661;;;Ghulam Punjab di Iqbal Qasir & C. S.A.S.;GPL;0.749;Servito;20221114;07
 48571;enercoop;45.1910519;12.2775165;;;Vega Carburanti S.p.A.;GPL;0.719;Servito;20221115;07
 48736;;45.1435800;12.0687200;;;Marchesini Sandro;GPL;0.794;Servito;20221115;07
-49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;GPL;0.749;Servito;20221111;07
 49209;Trivengas;45.6421623;12.5917078;;;Trivengas;GPL;0.759;Servito;20221115;07
 49387;Agip;45.5774381;12.0849625;;;Castellana Carburanti di Nalon Luca;GPL;0.739;Servito;20221114;07
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;GPL;0.749;Servito;20221112;07
-51556;Agip;45.6476325;12.5880838;;;Casagrande M. & C. S.A.S. di Casagrande Marcellino;GPL;0.759;Servito;20221111;07
 51662;Metano;45.4695190;12.1990910;;;Noaloil S.p.A.;GPL;0.729;Servito;20221116;07
 52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;GPL;0.779;Servito;20221112;07
 52035;Trivengas;45.4883200;12.1012690;;;Callegari S.A.S. di Callegari Gabriele & C.;GPL;0.749;Servito;20221115;07
