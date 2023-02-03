@@ -55,7 +55,7 @@
 16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.
 11905;Q8;46.2632110;13.1079052;;;Servizi & Gestioni Italia S.R.L.
 11908;Q8;45.6693661;13.0943939;;;Servizi & Gestioni Italia S.R.L.
-47972;Total;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.
+47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.
 10977;;45.9887044;13.3760320;;;Maurizio Mauri
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.
@@ -300,7 +300,7 @@
 10567;Agip;46.2125925;13.2127712;;;Astolfi Marco
 50718;Esso;46.1441190;12.9788230;;;Geff S.R.L.
 49322;Esso;46.0607119;13.3111516;;;Censani Fabrizio
-7293;Q8 easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.
+7293;Q8 Easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
@@ -370,6 +370,7 @@
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela
 14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele
+;Q8;46.0157904;13.2694878;;;
 ;Tamoil;45.6379173;13.8149834;;;
 13942;De Cleva e Bernardini;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.
 44256;;45.8401705;13.4884509;;;D.P.2 S.R.L.
@@ -420,7 +421,7 @@
 4490;Noal Oil;45.9496893;12.7526472;;;Noaloil S.p.A.
 ;Conad;45.9729858;12.6160385;;;Conad
 34264;IP;45.7600752;13.1656390;;;A.F. Petroli S.p.A.
-40858;Erg;46.0546117;13.2311691;;;Stazione di Servizio Fp di Fabrizio Pellizzari
+40858;IP;46.0546117;13.2311691;;;Stazione di Servizio Fp di Fabrizio Pellizzari
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco
 5023;Termoveneta;45.9751705;12.4858614;;;Termoveneta S.R.L.
