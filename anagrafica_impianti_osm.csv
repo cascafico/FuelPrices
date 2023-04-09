@@ -526,7 +526,6 @@
 31450;Vega;45.4450461;12.2047487;;;Vega Carburanti S.p.A.
 15360;Esso;45.7224388;12.7021906;;;Romano Energy S.A.S. di Romano Tomas & C.
 11946;Q8 easy;45.4671500;12.2154270;;;Servizi & Gestioni Italia S.R.L.
-22840;Petrol;45.7721737;12.9672226;;;Cecco Giancarlo & C. S.A.S.
 31532;VEGA;45.4858310;12.1220180;;;Vega Carburanti S.p.A.
 52103;Conad;45.7924662;12.8178755;;;Spazio Conad Portogruaro
 5242;San Marco Petroli;45.6230390;12.4727280;;;Smp Meolo
@@ -600,7 +599,7 @@
 23321;Q8;45.4851670;12.1846820;;;Servizi & Gestioni Italia S.R.L.
 11941;Q8 Easy;45.4912720;12.2281570;;;Servizi & Gestioni Italia S.R.L.
 47013;Esso;45.7768810;12.8631290;;;Geff S.R.L.
-38116;Agip;45.7970918;12.8190394;;;Servizi Innovativi Nord Est S.R.L.
+38116;Eni;45.7970394;12.8189570;;;Servizi Innovativi Nord Est S.R.L.
 26930;TotalErg;45.7159693;13.0128085;;;Visentin Carlo
 37293;;45.6528980;12.8330610;;;S.I.A. Engineering Construction S.R.L.
 6480;Q8 Easy;45.5069356;12.0236290;;;Servizi & Gestioni Italia S.R.L.
@@ -651,7 +650,6 @@
 21531;Eni;45.4005072;12.3604859;;;Bertola Carla
 45449;;45.7550565;12.7962857;;;Smp Concordia Sagittaria
 ;;45.7652814;12.8265011;;;
-25845;IP;45.7745709;12.9441042;;;Ip Services S.R.L.
 49938;Total;45.4198876;12.3752573;;;Lido Energia S.R.L.
 52910;Amico 14;45.1771759;12.2765281;;;Bc Chioggia 2
 52235;;45.8013325;12.8137484;;;T.D.P. Carburanti S.R.L.
@@ -792,7 +790,8 @@
 26949;;45.5176777;12.2378513;;;Loro F.lli Spa
 21494;;45.5293226;12.6573349;;;Buscato Autoservice S.N.C. di Buscato Dorino & C.
 ;Noaloil;45.6485680;12.5878115;;;
-;;45.7723330;12.9670905;;;
+22840;Petrol;45.7723330;12.9670905;;;Cecco Giancarlo & C. S.A.S.
 ;IP;45.7126874;13.0126321;;;
 ;Q8 Easy;45.7457740;12.9903042;;;Servizi & Gestioni Italia S.R.L.
 ;;45.6369075;12.6809377;;;
+25845;IP;45.7745662;12.9440944;;;Ip Services S.R.L.
