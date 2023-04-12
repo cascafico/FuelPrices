@@ -60,7 +60,7 @@
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin
 11907;;46.0433840;13.1926970;;;Servizi & Gestioni Italia S.R.L.
-47943;Agip Eni;45.9675057;13.3981864;;;T.D.P. Carburanti S.R.L.
+47943;Eni;45.9675057;13.3981864;;;
 41414;Total;46.1071050;13.2202650;;;Talarico Monica
 11911;Q8;46.1012200;13.2301410;;;Servizi & Gestioni Italia S.R.L.
 11909;Q8;46.4027055;13.0175193;;;Servizi & Gestioni Italia S.R.L.
@@ -179,7 +179,6 @@
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.
-;Q8;45.9488520;13.1800000;;;Q8
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.
 43101;Total;46.4872916;12.8647991;;;Cimenti Cristian
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.
@@ -225,7 +224,7 @@
 10570;IP;46.5273540;13.1192850;;;Matiz Alberto
 ;Api;45.7832098;13.5363427;;;Api
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.
-37480;San Marco;45.9036873;13.1818526;;;Duri' Andrea
+37480;;45.9036873;13.1818526;;;
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.
 6807;Total;45.9442569;12.8356969;;;Marinacci Renato
@@ -284,7 +283,7 @@
 35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.
 29947;Esso;46.0517186;12.6031570;;;Omen di Costabile Enzo & C. S.A.S.
-36989;;45.9770955;13.1983666;;;Ip Services S.R.L.
+36989;IP;45.9770955;13.1983666;;;
 5036;Termoveneta;45.9909894;12.6168842;;;Termoveneta S.R.L.
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario
@@ -301,7 +300,7 @@
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
-52852;Repsol;45.9357748;13.1754332;;;Repsol
+52852;IP;45.9357748;13.1754332;;;
 45387;Ecotec;45.7596607;13.0300079;;;Smp Latisana
 49270;;45.8378802;13.2114657;;;Eni Station
 11892;Shell Aico Uno S.r.l.;45.6994512;13.8299716;;;Servizi & Gestioni Italia S.R.L.
@@ -343,7 +342,7 @@
 22076;;45.8910720;12.6960963;;;Conad Grigoletti S.R.L.
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.
-52387;;46.0088700;13.3308100;;;Fuel Service S.A.S. di Valenti Mario & C.
+52387;IP;46.0088700;13.3308100;;;Fuel Service S.A.S. di Valenti Mario & C.
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh
 46566;;45.9240300;12.9430100;;;Zanchetta Pietro
