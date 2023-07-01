@@ -3,3 +3,5 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.249;Servito;20230628;08
 35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Metano;1.249;Servito;20230628;08
 45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.449;Servito;20230626;10
+52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;1.299;Servito;20230629;08
+52765;2P Carburanti;46.0933687;13.2318123;;;2p Udine;Metano;1.299;SelfService;20230629;08
