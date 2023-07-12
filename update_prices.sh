@@ -16,7 +16,7 @@ DOWNLOAD_DATE=`head -1 prezzo_alle_8.csv | awk -F' ' '{print $3}'`
 
 ## begin filter prices from date ##
 
-#date --date="7 days ago" +'%Y%m%d'
+#date --date="14 days ago" +'%Y%m%d'
 #20220609
 
 STARTDATE=`date --date="7 days ago" +'%Y%m%d'`
