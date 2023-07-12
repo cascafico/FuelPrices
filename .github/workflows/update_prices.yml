@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Get the data and analyze
       run: |
          chmod +x ./update_prices.sh
