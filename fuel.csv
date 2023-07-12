@@ -496,6 +496,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.889;Servito;20230711
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio speciale;1.839;Servito;20230711
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio;1.739;Servito;20230711
+28291;Tamoil;45.6379173;13.8149834;;;;Benzina WR 100;2.299;Servito;20230710
+28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.998;Servito;20230710
+28291;Tamoil;45.6379173;13.8149834;;;;GPL;0.999;Servito;20230710
+28291;Tamoil;45.6379173;13.8149834;;;;Gasolio;1.998;Servito;20230710
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.809;SelfService;20230710
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.669;Servito;20230710
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.679;SelfService;20230710

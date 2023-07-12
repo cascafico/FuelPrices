@@ -164,6 +164,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.819;Servito;20230707;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.819;SelfService;20230707;07
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.889;Servito;20230711;08
+28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.998;Servito;20230710;08
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.809;SelfService;20230710;07
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Benzina;1.879;SelfService;20230710;08
 28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Benzina;2.089;Servito;20230710;09
