@@ -1,15 +1,9 @@
 #!/bin/bash
 
-echo ""
-echo ""
-echo "update anagrafica OSM and prezzi alle 8"
-echo ""
-echo ""
-
 rm -f anagrafica_impianti_osm.csv
 rm -f prezzo_alle_8.csv
 wget -O anagrafica_impianti_osm.csv "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%22ref%3Amise%22%2C%22name%22%2C%3A%3Alat%2C%3A%3Alon%2C%22start%5Fdate%22%2C%22description%22%2C%22operator%22%3Bfalse%3B%22%3B%22%29%5D%3Barea%5B%22name%22%3D%22Friuli%2DVenezia%20Giulia%22%5D%5B%22admin%5Flevel%22%3D%224%22%5D%2D%3E%2Ea%3B%28nwr%5B%22amenity%22%3D%22fuel%22%5D%28area%2Ea%29%3B%29%3Bout%20center%3B%0A"  --no-check-certificate
-# wget "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%22ref%3Amise%22%2C%22name%22%2C%3A%3Alat%2C%3A%3Alon%2C%22start%5Fdate%22%2C%22description%22%2C%22operator%22%3Bfalse%3B%22%3B%22%29%5D%3Barea%5B%22short_name%22%3D%22VE%22%5D%5B%22admin%5Flevel%22%3D%226%22%5D%2D%3E%2Ea%3B%28nwr%5B%22amenity%22%3D%22fuel%22%5D%28area%2Ea%29%3B%29%3Bout%20center%3B%0A"  --no-check-certificate -O - >> anagrafica_impianti_osm.csv
+sed -i 's/"//g' anagrafica_impianti_osm.csv
 wget https://www.mise.gov.it/images/exportCSV/prezzo_alle_8.csv --no-check-certificate
 
 DOWNLOAD_DATE=`head -1 prezzo_alle_8.csv | awk -F' ' '{print $3}'`
@@ -21,9 +15,6 @@ DOWNLOAD_DATE=`head -1 prezzo_alle_8.csv | awk -F' ' '{print $3}'`
 
 STARTDATE=`date --date="10 days ago" +'%Y%m%d'`
 
-# truncate hour and minute and remove first line ("Estrazione del")
-# awk -i inplace -F " " 'NR>1 {  print $1 }' prezzo_alle_8.csv
-#awk -i inplace -F " " ' {  print $1 }' prezzo_alle_8.csv
 sed -i -r "s/ [0-9]+:[0-9]+:[0-9]+$//g" prezzo_alle_8.csv
 
 # 31782;Benzina;1.299;0;22/02/2022
@@ -33,9 +24,8 @@ sed -i -r "s/ [0-9]+:[0-9]+:[0-9]+$//g" prezzo_alle_8.csv
 
 # date military format
 awk -i inplace  -F";" '{ split($5,d,/\//); print $1";"$2";"$3";"$4";"d[3]d[2]d[1] }' prezzo_alle_8.csv
-# sed -i '1 i\idImpianto;descCarburante;prezzo;isSelf;dtComu'  prezzo_alle_8.csv
 
-# only prices from STARTDATE (10 days ago)
+# filter only prices from STARTDATE (10 days ago)
 awk -i inplace -F';' -v da=$STARTDATE ' $5 > da ' prezzo_alle_8.csv 
 
 # idImpianto;descCarburante;prezzo;isSelf;dtComu
@@ -52,7 +42,6 @@ echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > gasolio.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > gpl.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > metano.csv
 
-#join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 2d prezzo_alle_8.csv | sort) >> fuel.csv
 join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 1d prezzo_alle_8.csv | sort) >> fuel.csv
 sed -i 's/;1;/;SelfService;/g' fuel.csv
 sed -i 's/;0;/;Servito;/g' fuel.csv
