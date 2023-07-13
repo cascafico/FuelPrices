@@ -52,7 +52,8 @@ echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > gasolio.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > gpl.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > metano.csv
 
-join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 2d prezzo_alle_8.csv | sort) >> fuel.csv
+#join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 2d prezzo_alle_8.csv | sort) >> fuel.csv
+join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 2d prezzo_alle_8.csv) >> fuel.csv
 sed -i 's/;1;/;SelfService;/g' fuel.csv
 sed -i 's/;0;/;Servito;/g' fuel.csv
 
