@@ -19,7 +19,7 @@ DOWNLOAD_DATE=`head -1 prezzo_alle_8.csv | awk -F' ' '{print $3}'`
 #date --date="14 days ago" +'%Y%m%d'
 #20220609
 
-STARTDATE=`date --date="7 days ago" +'%Y%m%d'`
+STARTDATE=`date --date="10 days ago" +'%Y%m%d'`
 
 # truncate hour and minute and remove first line ("Estrazione del")
 # awk -i inplace -F " " 'NR>1 {  print $1 }' prezzo_alle_8.csv
@@ -35,7 +35,7 @@ sed -i -r "s/ [0-9]+:[0-9]+:[0-9]+$//g" prezzo_alle_8.csv
 awk -i inplace  -F";" '{ split($5,d,/\//); print $1";"$2";"$3";"$4";"d[3]d[2]d[1] }' prezzo_alle_8.csv
 # sed -i '1 i\idImpianto;descCarburante;prezzo;isSelf;dtComu'  prezzo_alle_8.csv
 
-# only prices from STARTDATE (7 days ago)
+# only prices from STARTDATE (10 days ago)
 awk -i inplace -F';' -v da=$STARTDATE ' $5 > da ' prezzo_alle_8.csv 
 
 # idImpianto;descCarburante;prezzo;isSelf;dtComu
@@ -53,7 +53,7 @@ echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > gpl.csv
 echo "ref;brand;lat;lon;;;operator;fuel;price;isself;updated" > metano.csv
 
 #join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 2d prezzo_alle_8.csv | sort) >> fuel.csv
-join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 2d prezzo_alle_8.csv) >> fuel.csv
+join -t";" <(sort anagrafica_impianti_osm.csv) <(sed 1d prezzo_alle_8.csv | sort) >> fuel.csv
 sed -i 's/;1;/;SelfService;/g' fuel.csv
 sed -i 's/;0;/;Servito;/g' fuel.csv
 
