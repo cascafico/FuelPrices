@@ -99,6 +99,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Gasolio;1.699;SelfService;20230711;07
 19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Gasolio;1.889;Servito;20230711;08
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Gasolio;1.699;Servito;20230710;07
+20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.679;SelfService;20230706;07
+20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.879;Servito;20230706;08
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Gasolio;1.739;SelfService;20230711;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Gasolio;1.719;SelfService;20230710;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Gasolio;1.929;Servito;20230710;08
@@ -106,6 +108,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.709;SelfService;20230711;07
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.759;SelfService;20230711;07
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.959;Servito;20230711;08
+21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.709;Servito;20230706;07
+21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.709;SelfService;20230706;07
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Gasolio;1.649;SelfService;20230711;07
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Gasolio;1.679;SelfService;20230711;07
 22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Gasolio;1.879;Servito;20230711;08
@@ -122,9 +126,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.699;SelfService;20230711;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.649;SelfService;20230708;07
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.779;SelfService;20230712;07
+23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.659;Servito;20230704;07
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.739;SelfService;20230711;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.679;SelfService;20230711;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Gasolio;1.799;Servito;20230711;07
+24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.649;SelfService;20230705;07
+24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.749;Servito;20230705;07
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Gasolio;1.689;SelfService;20230708;07
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.699;Servito;20230708;07
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.699;SelfService;20230708;07
@@ -136,6 +143,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25383;Esso;46.0392210;12.8350780;;;Fratelli Cristofoli di Cristofoli Rinaldo & C. S.N.C.;Gasolio;1.729;Servito;20230711;07
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Gasolio;1.699;Servito;20230711;07
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Gasolio;1.699;SelfService;20230711;07
+25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.;Gasolio;1.649;Servito;20230706;07
+25701;IP;45.9310661;13.2790458;;;Spangaro Stefano e C. S.A.S.;Gasolio;1.649;SelfService;20230706;07
 25804;Agip;45.8083860;13.4428020;;;Area Pieris di Ponzalli Roberto & Sellan Matteo S.N.C.;Gasolio;1.734;SelfService;20230708;07
 25804;Agip;45.8083860;13.4428020;;;Area Pieris di Ponzalli Roberto & Sellan Matteo S.N.C.;Gasolio;1.954;Servito;20230708;08
 25825;;45.9498241;12.8821507;;;Ip Services S.R.L.;Gasolio;1.659;SelfService;20230711;07
@@ -216,6 +225,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Gasolio;1.719;SelfService;20230708;07
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Gasolio;1.934;Servito;20230708;08
 34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.699;SelfService;20230711;07
+34264;IP;45.7600752;13.1656390;;;A.F. Petroli S.p.A.;Gasolio;1.859;SelfService;20230705;07
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Gasolio;1.679;SelfService;20230710;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.645;Servito;20230711;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.645;SelfService;20230711;07
@@ -272,6 +282,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Gasolio;1.984;Servito;20230712;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.764;SelfService;20230712;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.984;Servito;20230712;08
+38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.719;Servito;20230706;07
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.719;SelfService;20230710;07
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.919;Servito;20230710;08
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.689;SelfService;20230707;07
@@ -289,6 +300,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.979;Servito;20230711;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.759;SelfService;20230707;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.969;Servito;20230707;08
+40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.749;SelfService;20230705;07
+40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.899;Servito;20230705;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.779;SelfService;20230711;07
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.899;Servito;20230711;08
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.659;Servito;20230707;07
@@ -311,6 +324,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.709;SelfService;20230707;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.849;Servito;20230707;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.659;SelfService;20230712;07
+43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.649;Servito;20230706;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.699;SelfService;20230711;07
 44256;;45.8401705;13.4884509;;;D.P.2 S.R.L.;Gasolio;1.629;SelfService;20230712;06
 44488;;46.0860227;13.3628876;;;Casella Lucia;Gasolio;1.684;SelfService;20230710;07
@@ -348,6 +362,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Gasolio;1.739;Servito;20230712;07
 47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Gasolio;1.739;SelfService;20230712;07
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Gasolio;1.669;SelfService;20230712;07
+47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.719;SelfService;20230706;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.739;Servito;20230711;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.739;SelfService;20230711;07
 47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.739;Servito;20230710;07
@@ -372,6 +387,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.734;SelfService;20230712;07
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.645;SelfService;20230710;07
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Gasolio;1.679;Servito;20230711;07
+50445;Eni;46.0728368;13.2138243;;;Poci Kloris;Gasolio;1.729;SelfService;20230704;07
+50445;Eni;46.0728368;13.2138243;;;Poci Kloris;Gasolio;1.939;Servito;20230704;08
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.729;SelfService;20230711;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.739;Servito;20230711;07
 50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.;Gasolio;1.739;Servito;20230712;07

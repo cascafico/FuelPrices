@@ -38,6 +38,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;GPL;0.798;Servito;20230711;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;GPL;0.689;Servito;20230712;06
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.688;Servito;20230710;06
+43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;GPL;0.689;Servito;20230706;06
 45387;Ecotec;45.7596607;13.0300079;;;Smp Latisana;GPL;0.689;Servito;20230712;06
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni;GPL;0.699;Servito;20230711;06
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit;GPL;0.679;Servito;20230709;06
