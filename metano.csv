@@ -4,6 +4,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Metano;1.249;Servito;20231016;08
 45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.399;Servito;20231016;10
 45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.299;Servito;20231016;09
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.239;Servito;20231013;08
-52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.249;Servito;20231013;08
-52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.249;SelfService;20231013;08
+45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.239;Servito;20231017;08
+52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.249;Servito;20231017;08
+52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.249;SelfService;20231017;08
