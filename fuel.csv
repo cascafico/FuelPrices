@@ -432,8 +432,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;GP DIESEL;2.019;SelfService;20231027
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;GPL;0.749;Servito;20231027
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.889;SelfService;20231027
-24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;1.969;Servito;20231019
-24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Gasolio;1.988;Servito;20231019
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina speciale;2.299;Servito;20231026
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.869;SelfService;20231026
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.969;Servito;20231026
@@ -886,9 +884,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.909;SelfService;20231027
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;F101;2.079;SelfService;20231027
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.939;SelfService;20231027
-39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Benzina;2.079;Servito;20231019
-39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Blue Diesel;2.179;Servito;20231019
-39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;2.079;Servito;20231019
 39170;Eni;45.7739387;13.0027119;;;;Benzina;1.834;SelfService;20231027
 39170;Eni;45.7739387;13.0027119;;;;Blue Diesel;1.944;SelfService;20231027
 39170;Eni;45.7739387;13.0027119;;;;Gasolio;1.844;SelfService;20231027
@@ -934,9 +929,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.849;Servito;20231023
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;2.156;SelfService;20231023
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;2.080;SelfService;20231023
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Diesel;2.009;SelfService;20231019
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Super;2.079;SelfService;20231019
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.909;SelfService;20231019
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.869;SelfService;20231027
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;2.089;Servito;20231027
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Blue Diesel;1.974;SelfService;20231027
