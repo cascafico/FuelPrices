@@ -363,12 +363,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Blue Super;2.209;Servito;20231104
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Gasolio;1.849;SelfService;20231104
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Gasolio;2.059;Servito;20231104
-21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Benzina;1.899;Servito;20231027
-21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Benzina;1.899;SelfService;20231027
-21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.919;Servito;20231027
-21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.919;SelfService;20231027
-21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Supreme Diesel;2.089;Servito;20231027
-21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Supreme Diesel;2.089;SelfService;20231027
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Benzina;1.859;SelfService;20231104
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Gasolio;1.864;SelfService;20231104
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.859;SelfService;20231031
@@ -403,8 +397,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio speciale;2.054;SelfService;20231104
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.829;Servito;20231104
 22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.829;SelfService;20231104
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.859;Servito;20231027
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.889;Servito;20231027
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;1.869;SelfService;20231030
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;2.219;Servito;20231030
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Gasolio;1.859;SelfService;20231030
@@ -827,9 +819,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.889;SelfService;20231031
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.809;SelfService;20231104
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.819;SelfService;20231104
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.889;Servito;20231027
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio Premium;2.039;Servito;20231027
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.899;Servito;20231027
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.849;SelfService;20231104
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.859;SelfService;20231104
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Supreme Diesel;1.979;SelfService;20231104
@@ -959,8 +948,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.889;SelfService;20231031
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.879;Servito;20231031
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.879;SelfService;20231031
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.924;SelfService;20231027
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.954;SelfService;20231027
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.839;Servito;20231030
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.839;SelfService;20231030
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;GPL;0.679;Servito;20231030
