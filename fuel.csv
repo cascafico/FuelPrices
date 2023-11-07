@@ -300,10 +300,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio Premium;2.009;Servito;20231102
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio artico;2.009;Servito;20231102
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.889;Servito;20231102
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.889;SelfService;20231028
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;2.049;SelfService;20231028
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Super;2.119;SelfService;20231028
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.899;SelfService;20231028
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.839;SelfService;20231104
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.839;SelfService;20231104
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.399;Servito;20231103
@@ -1053,8 +1049,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;2.029;Servito;20231103
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.989;SelfService;20231103
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;2.149;Servito;20231103
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.904;SelfService;20231028
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.919;SelfService;20231028
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.849;Servito;20231104
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.849;SelfService;20231104
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.859;Servito;20231104
