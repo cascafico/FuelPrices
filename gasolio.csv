@@ -112,8 +112,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.889;Servito;20231107;07
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.889;SelfService;20231107;07
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Gasolio;1.854;SelfService;20231108;07
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.859;SelfService;20231031;07
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;2.059;Servito;20231031;08
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.869;Servito;20231107;07
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.869;SelfService;20231107;07
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Gasolio;1.819;SelfService;20231107;07
@@ -281,7 +279,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.859;SelfService;20231108;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.799;SelfService;20231107;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.919;Servito;20231107;07
-38395;;45.6973279;13.1427830;;;A.F. Petroli S.p.A.;Gasolio;1.999;Servito;20231031;08
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.959;SelfService;20231106;08
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;2.159;Servito;20231106;08
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Gasolio;1.854;SelfService;20231108;07
@@ -308,10 +305,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.939;SelfService;20231107;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;2.149;Servito;20231107;08
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio;1.849;SelfService;20231104;07
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.949;SelfService;20231031;07
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;2.149;Servito;20231031;08
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.969;SelfService;20231031;08
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.169;Servito;20231031;08
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.829;Servito;20231108;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;2.020;SelfService;20231103;08
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.869;SelfService;20231107;07
@@ -328,8 +321,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20231104;07
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.849;Servito;20231105;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.824;SelfService;20231108;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.889;SelfService;20231031;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;2.029;Servito;20231031;08
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.839;SelfService;20231108;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.839;Servito;20231103;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.869;SelfService;20231107;07
