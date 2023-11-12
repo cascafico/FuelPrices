@@ -584,9 +584,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio speciale;2.209;Servito;20231108
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.899;SelfService;20231108
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.999;Servito;20231108
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Benzina;1.824;SelfService;20231102
-29740;;45.9668497;12.9684758;;;Big S.R.L.;GPL;0.735;SelfService;20231102
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Gasolio;1.834;SelfService;20231102
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Benzina;1.984;SelfService;20231109
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.954;SelfService;20231109
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.880;Servito;20231108

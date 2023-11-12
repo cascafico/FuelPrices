@@ -20,7 +20,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27651;;45.8893323;13.0354500;;;Degano Cesare;GPL;0.679;Servito;20231109;06
 28291;Tamoil;45.6379173;13.8149834;;;;GPL;0.999;Servito;20231107;10
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.669;Servito;20231109;06
-29740;;45.9668497;12.9684758;;;Big S.R.L.;GPL;0.735;SelfService;20231102;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.699;Servito;20231110;06
 30719;;46.1007380;13.1728220;;;Singh Kulvir;GPL;0.679;Servito;20231108;06
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;GPL;0.719;Servito;20231108;07
