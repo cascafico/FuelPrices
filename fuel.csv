@@ -487,13 +487,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Gasolio;1.809;SelfService;20231110
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.809;SelfService;20231110
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Gasolio;1.809;SelfService;20231110
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.919;SelfService;20231103
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.141;Servito;20231103
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;2.049;SelfService;20231103
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;2.271;Servito;20231103
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.788;Servito;20231103
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.869;SelfService;20231103
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;2.091;Servito;20231103
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.999;SelfService;20231110
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.999;SelfService;20231110
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;1.919;SelfService;20231110
@@ -932,8 +925,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.099;Servito;20231109
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.829;Servito;20231108
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.829;Servito;20231108
-40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;2.156;SelfService;20231103
-40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;2.020;SelfService;20231103
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.889;SelfService;20231107
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Diesel;1.969;SelfService;20231107
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Super;2.039;SelfService;20231107
