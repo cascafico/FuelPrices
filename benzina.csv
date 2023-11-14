@@ -41,7 +41,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20231111;07
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20231111;07
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.808;Servito;20231110;07
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.899;SelfService;20231104;08
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.839;SelfService;20231107;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.824;SelfService;20231111;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20231111;08
@@ -326,13 +325,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.909;Servito;20231111;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.909;SelfService;20231111;08
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.799;Servito;20231111;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;2.105;Servito;20231104;09
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.829;Servito;20231109;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.794;SelfService;20231111;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.829;SelfService;20231112;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.819;Servito;20231111;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Benzina;1.849;SelfService;20231111;07
-44256;;45.8401705;13.4884509;;;D.P.2 S.R.L.;Benzina;1.849;SelfService;20231104;07
 44488;;46.0860227;13.3628876;;;Casella Lucia;Benzina;1.849;SelfService;20231110;07
 44488;;46.0860227;13.3628876;;;Casella Lucia;Benzina;2.019;Servito;20231110;08
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Benzina;1.809;SelfService;20231110;07
