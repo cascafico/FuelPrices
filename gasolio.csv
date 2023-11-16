@@ -293,8 +293,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.899;Servito;20231109;07
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.859;SelfService;20231113;07
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.989;Servito;20231113;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.839;SelfService;20231106;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.989;Servito;20231106;08
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.889;SelfService;20231114;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.099;Servito;20231114;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.879;Servito;20231109;07

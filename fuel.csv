@@ -871,14 +871,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;GPL;0.896;Servito;20231113
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.859;SelfService;20231113
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.989;Servito;20231113
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.829;SelfService;20231106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.979;Servito;20231106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.839;SelfService;20231106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.989;Servito;20231106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.129;SelfService;20231106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.229;Servito;20231106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.119;SelfService;20231106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.219;Servito;20231106
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.889;SelfService;20231114
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.099;Servito;20231114
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Diesel;1.999;SelfService;20231114
