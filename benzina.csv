@@ -320,7 +320,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;2.049;Servito;20231116;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.829;Servito;20231111;07
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.829;SelfService;20231111;07
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.894;SelfService;20231108;08
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.799;Servito;20231113;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.799;SelfService;20231113;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.909;Servito;20231116;08
