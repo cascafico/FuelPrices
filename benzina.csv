@@ -130,8 +130,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;1.849;SelfService;20231114;07
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;2.199;Servito;20231114;09
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.839;SelfService;20231117;07
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.829;Servito;20231110;07
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.829;SelfService;20231110;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.779;SelfService;20231118;07
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.899;SelfService;20231117;08
 23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.799;Servito;20231115;07
@@ -280,7 +278,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.849;Servito;20231116;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.849;SelfService;20231116;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.789;SelfService;20231118;07
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.859;Servito;20231110;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.839;SelfService;20231118;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.789;SelfService;20231116;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.969;Servito;20231116;08
