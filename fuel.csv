@@ -175,10 +175,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.809;SelfService;20231113
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.799;Servito;20231113
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.799;SelfService;20231113
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.839;SelfService;20231111
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.919;SelfService;20231111
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.989;SelfService;20231111
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.819;SelfService;20231111
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.829;SelfService;20231118
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.959;SelfService;20231118
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.786;Servito;20231118
@@ -1056,8 +1052,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.991;Servito;20231117
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.959;SelfService;20231117
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;2.119;Servito;20231117
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.877;SelfService;20231111
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.897;SelfService;20231111
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.799;Servito;20231118
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.799;SelfService;20231118
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.799;Servito;20231118

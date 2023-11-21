@@ -51,7 +51,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;2.042;Servito;20231119;08
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.799;Servito;20231113;07
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.799;SelfService;20231113;07
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.819;SelfService;20231111;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.819;SelfService;20231118;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.849;Servito;20231118;07
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.799;Servito;20231119;07
@@ -356,7 +355,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143730;13.3401540;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.841;Servito;20231118;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.831;SelfService;20231117;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.991;Servito;20231117;08
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.897;SelfService;20231111;07
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.799;Servito;20231118;07
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.799;SelfService;20231118;07
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Gasolio;1.759;SelfService;20231117;07
