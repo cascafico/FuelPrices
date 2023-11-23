@@ -167,10 +167,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Blue Diesel;2.142;Servito;20231121
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.832;SelfService;20231121
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;2.042;Servito;20231121
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.809;Servito;20231113
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.809;SelfService;20231113
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.799;Servito;20231113
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.799;SelfService;20231113
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.829;SelfService;20231118
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.959;SelfService;20231118
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.786;Servito;20231118
@@ -516,13 +512,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.889;SelfService;20231120
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.989;SelfService;20231120
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.889;SelfService;20231120
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.824;SelfService;20231113
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;2.034;Servito;20231113
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.909;Servito;20231113
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.909;SelfService;20231113
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.699;Servito;20231113
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.809;SelfService;20231113
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;2.019;Servito;20231113
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.799;SelfService;20231120
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;2.029;Servito;20231120
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.799;SelfService;20231120
