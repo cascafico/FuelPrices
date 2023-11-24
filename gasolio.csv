@@ -261,7 +261,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;2.069;Servito;20231120;08
 36502;IP;46.0302138;13.1028162;;;;Gasolio;1.789;Servito;20231122;07
 36503;;46.0853205;13.0299877;;;Singh Nirmal;Gasolio;1.759;Servito;20231121;07
-36541;Eni;45.6816895;13.3869930;;;Marchesan S.A.S. di Marchesan Massimiliano e C.;Gasolio;1.999;Servito;20231114;08
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.769;SelfService;20231122;07
 36989;IP;45.9770955;13.1983666;;;;Gasolio;1.789;SelfService;20231121;07
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.849;Servito;20231122;07
@@ -284,28 +283,17 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;2.052;Servito;20231122;08
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.859;SelfService;20231121;07
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela;Gasolio;1.989;Servito;20231121;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.789;SelfService;20231114;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.939;Servito;20231114;08
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.859;SelfService;20231122;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.069;Servito;20231122;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.879;Servito;20231116;07
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.759;SelfService;20231120;07
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.819;SelfService;20231122;07
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;1.987;Servito;20231117;08
-39170;Eni;45.7739387;13.0027119;;;;Gasolio;1.784;SelfService;20231114;07
-39261;Esso;45.8287470;13.2810650;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Gasolio;1.819;SelfService;20231114;07
-39261;Esso;45.8287470;13.2810650;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Gasolio;1.919;Servito;20231114;08
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Gasolio;1.832;SelfService;20231122;07
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Gasolio;2.042;Servito;20231122;08
-39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.899;SelfService;20231114;07
-39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;2.099;Servito;20231114;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.905;SelfService;20231121;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;2.115;Servito;20231121;08
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio;1.789;SelfService;20231118;07
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.869;SelfService;20231114;07
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;2.069;Servito;20231114;08
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.899;SelfService;20231114;07
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.099;Servito;20231114;08
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.799;Servito;20231120;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;2.020;SelfService;20231120;08
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.819;SelfService;20231121;07
