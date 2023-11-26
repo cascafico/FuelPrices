@@ -312,15 +312,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.819;SelfService;20231121;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.814;SelfService;20231124;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;2.034;Servito;20231124;08
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.809;Servito;20231116;07
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.809;SelfService;20231116;07
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.864;SelfService;20231124;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.769;Servito;20231120;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.769;SelfService;20231120;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.867;Servito;20231124;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.867;SelfService;20231124;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.744;Servito;20231118;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20231116;08
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.779;Servito;20231120;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.784;SelfService;20231123;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.829;SelfService;20231120;07
@@ -448,7 +445,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 7293;Q8 Easy;46.0230754;13.2724728;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20231123;07
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.809;SelfService;20231124;07
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;2.019;Servito;20231124;08
-7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio;1.819;SelfService;20231116;07
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.827;SelfService;20231124;07
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;2.049;Servito;20231124;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.814;SelfService;20231124;07

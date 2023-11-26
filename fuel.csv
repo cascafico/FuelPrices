@@ -928,12 +928,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Blue Diesel;2.134;Servito;20231124
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.814;SelfService;20231124
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;2.034;Servito;20231124
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.829;Servito;20231116
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.829;SelfService;20231116
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.799;Servito;20231116
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.799;SelfService;20231116
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.809;Servito;20231116
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.809;SelfService;20231116
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.884;SelfService;20231124
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.864;SelfService;20231124
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.779;Servito;20231120
@@ -952,8 +946,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.788;Servito;20231118
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.698;Servito;20231118
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.744;Servito;20231118
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;2.105;Servito;20231116
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20231116
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.799;Servito;20231120
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.779;Servito;20231120
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.784;SelfService;20231123
@@ -1328,9 +1320,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Blue Diesel;2.349;Servito;20231124
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.809;SelfService;20231124
 7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;2.019;Servito;20231124
-7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Benzina;1.829;SelfService;20231116
-7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio Premium;1.969;SelfService;20231116
-7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio;1.819;SelfService;20231116
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;1.819;SelfService;20231124
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;2.041;Servito;20231124
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Blue Diesel;1.927;SelfService;20231124
