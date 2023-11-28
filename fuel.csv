@@ -108,10 +108,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.819;SelfService;20231122
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;2.069;SelfService;20231122
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.;HiQ Perform+;2.089;SelfService;20231122
-11906;Q8;46.4148157;12.9313779;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.789;SelfService;20231118
-11906;Q8;46.4148157;12.9313779;;;Servizi & Gestioni Italia S.R.L.;Gasolio artico;1.769;SelfService;20231118
-11906;Q8;46.4148157;12.9313779;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20231118
-11906;Q8;46.4148157;12.9313779;;;Servizi & Gestioni Italia S.R.L.;HiQ Perform+;2.039;SelfService;20231118
 11907;;46.0433840;13.1926970;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.779;SelfService;20231122
 11907;;46.0433840;13.1926970;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.779;SelfService;20231122
 11908;Q8;45.6693661;13.0943939;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.779;SelfService;20231122
@@ -1122,8 +1118,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.784;SelfService;20231124
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.768;SelfService;20231120
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.738;SelfService;20231120
-50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.809;Servito;20231118
-50406;IP;46.0711080;13.2371566;;;Hassan Ali;Gasolio;1.799;Servito;20231118
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.849;Servito;20231125
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.849;SelfService;20231125
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.879;Servito;20231125

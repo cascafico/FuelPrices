@@ -30,7 +30,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11893;Servizi & Gestioni Italia S.R.L.;45.6418668;13.7572332;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.799;SelfService;20231122;07
 11894;Q8;45.6556111;13.8040375;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.789;SelfService;20231122;07
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.819;SelfService;20231122;07
-11906;Q8;46.4148157;12.9313779;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20231118;07
 11907;;46.0433840;13.1926970;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.779;SelfService;20231122;07
 11908;Q8;45.6693661;13.0943939;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.779;SelfService;20231122;07
 11909;Q8;46.4027055;13.0175193;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.789;SelfService;20231125;07
@@ -385,7 +384,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;2.034;Servito;20231126;08
 49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.784;SelfService;20231124;07
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.738;SelfService;20231120;07
-50406;IP;46.0711080;13.2371566;;;Hassan Ali;Gasolio;1.799;Servito;20231118;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.879;Servito;20231125;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.879;SelfService;20231125;07
 50655;Gasfin;45.6392360;13.7737864;;;Magamaste S.N.C. di Stefano Riva & C.;Gasolio;1.849;Servito;20231125;07
