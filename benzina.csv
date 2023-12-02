@@ -102,8 +102,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Benzina;1.819;SelfService;20231127;07
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;1.819;SelfService;20231130;07
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;2.039;Servito;20231130;08
-19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Benzina;1.799;SelfService;20231122;07
-19841;;46.0906851;13.2145039;;;Mauro Andrea e Zuttion Catia S.N.C.;Benzina;1.989;Servito;20231122;08
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.829;Servito;20231129;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.819;SelfService;20231128;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;2.019;Servito;20231128;08
@@ -361,8 +359,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Benzina;1.799;SelfService;20231129;07
 47015;Esso;45.9250087;13.6128494;;;Geff S.R.L.;Benzina;1.799;SelfService;20231129;07
 47037;IP;46.5489890;12.8543690;;;Geff S.R.L.;Benzina;1.869;SelfService;20231130;08
-47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Benzina;1.789;Servito;20231130;07
-47089;Tamoil;45.6862791;13.7476391;;;T.D.M. S.R.L.;Benzina;1.789;SelfService;20231130;07
+47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Benzina;1.789;Servito;20231130;07
+47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Benzina;1.789;SelfService;20231130;07
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Benzina;1.778;SelfService;20231130;07
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.819;SelfService;20231128;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.829;Servito;20231129;07
