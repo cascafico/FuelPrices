@@ -1082,8 +1082,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48516;Esso;45.7712330;13.6371781;;;;Benzina;1.849;SelfService;20231201
 48516;Esso;45.7712330;13.6371781;;;;Gasolio;1.859;Servito;20231201
 48516;Esso;45.7712330;13.6371781;;;;Gasolio;1.859;SelfService;20231201
-48573;Q8 Easy;46.1165724;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20231201
-48573;Q8 Easy;46.1165724;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20231201
+48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20231201
+48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20231201
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.799;SelfService;20231130
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.989;Servito;20231130
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Gasolio;1.779;SelfService;20231130
@@ -1345,14 +1345,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.784;SelfService;20231201
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.994;Servito;20231201
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.684;SelfService;20231201
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.899;SelfService;20231123
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.109;Servito;20231123
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.039;SelfService;20231123
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.249;Servito;20231123
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.269;SelfService;20231123
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.479;Servito;20231123
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.869;SelfService;20231123
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.079;Servito;20231123
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.764;SelfService;20231201
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.984;Servito;20231201
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Blue Diesel;1.854;SelfService;20231201
