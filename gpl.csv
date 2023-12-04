@@ -23,7 +23,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.689;Servito;20231129;06
 30719;;46.1007380;13.1728220;;;Singh Kulvir;GPL;0.679;Servito;20231127;06
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;GPL;0.719;Servito;20231129;07
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;GPL;0.689;Servito;20231124;06
 32589;Total;45.9407576;12.5606352;;;Duino Nord S.A.S di Sacilotto Laura & C.;GPL;0.978;Servito;20231201;09
 33385;Total;45.9423964;12.5620561;;;Duino Nord S.A.S di Sacilotto Laura & C.;GPL;0.978;Servito;20231201;09
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;GPL;0.669;Servito;20231129;06
@@ -49,7 +48,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;GPL;0.729;Servito;20231202;07
 52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;GPL;0.689;Servito;20231202;06
 6023;Tamoil;45.8609664;12.7687538;;;Fiorenergy S.R.L.;GPL;0.699;Servito;20231130;06
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;GPL;0.729;Servito;20231124;07
 6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;GPL;0.698;Servito;20231201;06
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.;GPL;0.689;Servito;20231201;06
 7261;Q8 Easy;45.9643929;12.6728282;;;Servizi & Gestioni Italia S.R.L.;GPL;0.649;Servito;20231201;06
