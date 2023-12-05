@@ -11,8 +11,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.989;Servito;20231130;08
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.778;Servito;20231128;07
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.778;SelfService;20231128;07
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.790;Servito;20231125;07
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.790;SelfService;20231125;07
 11606;Q8;45.8060980;13.5386540;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20231202;07
 11607;Q8 Easy;45.8303280;13.5003754;;;;Gasolio;1.759;SelfService;20231202;07
 11608;Q8;45.8860765;13.4962677;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.839;SelfService;20231127;07
@@ -319,7 +317,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.867;Servito;20231202;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.867;SelfService;20231202;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.744;Servito;20231127;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20231125;08
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.759;Servito;20231128;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.754;SelfService;20231202;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.769;SelfService;20231203;07
