@@ -160,8 +160,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.809;SelfService;20231201;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;2.031;Servito;20231201;08
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.999;SelfService;20231206;08
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.785;Servito;20231128;07
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.785;SelfService;20231128;07
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.738;SelfService;20231204;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.825;Servito;20231205;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.825;SelfService;20231205;07
@@ -287,8 +285,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.792;SelfService;20231206;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;2.012;Servito;20231206;08
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.799;Servito;20231205;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.769;SelfService;20231128;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.919;Servito;20231128;08
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.819;SelfService;20231206;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.029;Servito;20231206;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.879;Servito;20231130;07
