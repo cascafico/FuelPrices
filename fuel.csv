@@ -362,10 +362,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Supreme Diesel;1.939;SelfService;20231204
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Benzina;1.769;SelfService;20231208
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Gasolio;1.739;SelfService;20231208
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.799;SelfService;20231130
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.999;Servito;20231130
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.799;SelfService;20231130
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.999;Servito;20231130
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.809;Servito;20231207
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.809;SelfService;20231207
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.789;Servito;20231207
@@ -860,9 +856,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Super;2.199;Servito;20231207
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.819;SelfService;20231207
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.029;Servito;20231207
-38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;1.889;Servito;20231130
-38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Blue Diesel;1.427;Servito;20231130
-38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.879;Servito;20231130
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.769;SelfService;20231205
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;GPL;0.689;Servito;20231205
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.749;SelfService;20231205

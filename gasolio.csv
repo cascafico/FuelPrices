@@ -112,8 +112,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.809;Servito;20231204;07
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.809;SelfService;20231204;07
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Gasolio;1.739;SelfService;20231208;07
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.799;SelfService;20231130;07
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.999;Servito;20231130;08
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.789;Servito;20231207;07
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.789;SelfService;20231207;07
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Gasolio;1.729;SelfService;20231207;07
@@ -290,7 +288,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.799;Servito;20231205;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.819;SelfService;20231207;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.029;Servito;20231207;08
-38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.879;Servito;20231130;07
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.749;SelfService;20231205;07
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.809;SelfService;20231208;07
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;1.987;Servito;20231207;08
