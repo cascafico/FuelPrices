@@ -314,13 +314,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 18807;Stazione di servizio Eni;45.6397633;13.7772089;;;Matcovich Alessandro;Blue Diesel;1.879;SelfService;20231212
 18807;Stazione di servizio Eni;45.6397633;13.7772089;;;Matcovich Alessandro;Blue Super;1.939;SelfService;20231212
 18807;Stazione di servizio Eni;45.6397633;13.7772089;;;Matcovich Alessandro;Gasolio;1.779;SelfService;20231212
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Benzina;1.794;SelfService;20231204
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Benzina;2.014;Servito;20231204
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Blue Diesel;1.884;SelfService;20231204
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Blue Diesel;2.104;Servito;20231204
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Gasolio;1.784;SelfService;20231204
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;Gasolio;2.004;Servito;20231204
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone;HVOlution;1.684;SelfService;20231204
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;Benzina;1.769;SelfService;20231211
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;GPL;0.757;Servito;20231211
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;Gasolio;1.739;SelfService;20231211
@@ -1343,14 +1336,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.739;SelfService;20231212
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.949;Servito;20231212
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.639;SelfService;20231212
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.879;SelfService;20231204
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.089;Servito;20231204
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;1.999;SelfService;20231204
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.209;Servito;20231204
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.169;SelfService;20231204
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.379;Servito;20231204
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.839;SelfService;20231204
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.049;Servito;20231204
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.734;SelfService;20231212
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.954;Servito;20231212
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Blue Diesel;1.824;SelfService;20231212
