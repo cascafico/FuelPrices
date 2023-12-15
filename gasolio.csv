@@ -2,7 +2,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.829;Servito;20231207;07
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.754;SelfService;20231213;07
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.964;Servito;20231213;08
-10567;Agip;46.2125925;13.2127712;;;Astolfi Marco;Gasolio;1.792;SelfService;20231205;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.714;SelfService;20231213;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.934;Servito;20231213;08
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.739;SelfService;20231211;07
@@ -204,7 +203,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Gasolio;1.759;SelfService;20231212;07
 30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.749;SelfService;20231208;07
 30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.919;Servito;20231208;08
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.764;Servito;20231205;07
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.849;SelfService;20231212;07
 31262;Kerotris Duino Nord;45.7774757;13.6078362;;;Duino Nord S.A.S.;Gasolio;1.923;SelfService;20231212;08
 31262;Kerotris Duino Nord;45.7774757;13.6078362;;;Duino Nord S.A.S.;Gasolio;2.123;Servito;20231212;08
@@ -286,7 +284,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Gasolio;1.964;Servito;20231213;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.772;SelfService;20231213;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.992;Servito;20231213;08
-38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.799;Servito;20231205;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.819;SelfService;20231213;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.029;Servito;20231213;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.879;Servito;20231211;07
