@@ -318,8 +318,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.708;Servito;20231212;07
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20231209;08
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.739;Servito;20231214;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.789;SelfService;20231206;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.929;Servito;20231206;08
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.729;SelfService;20231214;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.729;Servito;20231214;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.779;SelfService;20231213;07
