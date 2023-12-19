@@ -924,8 +924,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.749;SelfService;20231216
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.739;Servito;20231216
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.739;SelfService;20231216
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.854;SelfService;20231209
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.824;SelfService;20231209
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.749;Servito;20231214
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.749;SelfService;20231214
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;GPL;0.679;Servito;20231214
@@ -982,9 +980,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 45246;Agip;45.8342107;13.1939418;;;Geff S.R.L.;Gasolio;1.699;SelfService;20231217
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Benzina;1.739;SelfService;20231217
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Gasolio;1.709;SelfService;20231217
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Benzina;1.749;Servito;20231209
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Gasolio;1.729;Servito;20231209
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.299;Servito;20231209
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Benzina;1.814;SelfService;20231217
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Gasolio;1.808;SelfService;20231217
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Benzina;1.734;SelfService;20231217

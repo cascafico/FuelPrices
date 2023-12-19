@@ -312,7 +312,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.969;Servito;20231217;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.739;Servito;20231216;07
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.739;SelfService;20231216;07
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.824;SelfService;20231209;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.739;Servito;20231214;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.739;SelfService;20231214;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.807;Servito;20231216;07
@@ -334,7 +333,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio;1.699;SelfService;20231216;07
 45246;Agip;45.8342107;13.1939418;;;Geff S.R.L.;Gasolio;1.699;SelfService;20231217;07
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Gasolio;1.709;SelfService;20231217;07
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Gasolio;1.729;Servito;20231209;07
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Gasolio;1.808;SelfService;20231217;07
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Gasolio;1.714;SelfService;20231217;07
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Gasolio;1.837;SelfService;20231216;07
