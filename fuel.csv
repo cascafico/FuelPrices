@@ -502,13 +502,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.829;SelfService;20231219
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.899;SelfService;20231219
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.799;SelfService;20231219
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.764;SelfService;20231211
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.974;Servito;20231211
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.909;Servito;20231211
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.909;SelfService;20231211
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.699;Servito;20231211
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.749;SelfService;20231211
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.959;Servito;20231211
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.749;SelfService;20231215
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.979;Servito;20231215
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.709;SelfService;20231215
@@ -814,8 +807,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.729;SelfService;20231218
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio speciale;1.749;SelfService;20231218
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.699;SelfService;20231218
-38395;;45.6973279;13.1427830;;;A.F. Petroli S.p.A.;Benzina;1.999;Servito;20231211
-38395;;45.6973279;13.1427830;;;A.F. Petroli S.p.A.;Gasolio;1.999;Servito;20231211
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.869;SelfService;20231218
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.089;Servito;20231218
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio Ecoplus;1.999;SelfService;20231218

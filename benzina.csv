@@ -167,8 +167,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.779;SelfService;20231218;07
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Benzina;1.769;SelfService;20231219;07
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.829;SelfService;20231219;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.764;SelfService;20231211;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.974;Servito;20231211;08
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.749;SelfService;20231215;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.979;Servito;20231215;08
 27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.739;Servito;20231216;07
@@ -276,7 +274,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.789;Servito;20231214;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.769;SelfService;20231219;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.729;SelfService;20231218;07
-38395;;45.6973279;13.1427830;;;A.F. Petroli S.p.A.;Benzina;1.999;Servito;20231211;08
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.869;SelfService;20231218;08
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.089;Servito;20231218;08
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.774;SelfService;20231219;07
