@@ -227,12 +227,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.729;Servito;20231222
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.689;Servito;20231222
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.699;Servito;20231222
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.767;SelfService;20231215
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.987;Servito;20231215
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.737;SelfService;20231215
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.957;Servito;20231215
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.737;SelfService;20231215
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.957;Servito;20231215
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.764;Servito;20231222
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.734;Servito;20231222
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;Servito;20231219
@@ -812,14 +806,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.982;Servito;20231223
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Benzina;1.799;Servito;20231218
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.799;Servito;20231218
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.739;SelfService;20231215
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.889;Servito;20231215
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.719;SelfService;20231215
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.869;Servito;20231215
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.019;SelfService;20231215
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.119;Servito;20231215
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.039;SelfService;20231215
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.139;Servito;20231215
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;1.889;Servito;20231218
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Blue Diesel;1.427;Servito;20231218
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.879;Servito;20231218
@@ -857,9 +843,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Blue Diesel;2.147;Servito;20231222
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.837;SelfService;20231222
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;2.047;Servito;20231222
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Benzina;1.759;SelfService;20231215
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio Premium;1.839;SelfService;20231215
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio;1.719;SelfService;20231215
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.859;SelfService;20231220
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.999;Servito;20231220
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio speciale;1.999;SelfService;20231220
@@ -993,8 +976,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.921;Servito;20231222
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.899;SelfService;20231222
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;2.059;Servito;20231222
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.817;SelfService;20231215
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.787;SelfService;20231215
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.759;Servito;20231223
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.759;SelfService;20231223
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.739;Servito;20231223
