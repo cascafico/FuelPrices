@@ -66,8 +66,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Gasolio;1.959;Servito;20231225;08
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.699;Servito;20231222;07
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.734;Servito;20231222;07
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.729;Servito;20231219;07
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.729;SelfService;20231219;07
 16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Gasolio;1.739;SelfService;20231227;07
 16463;Eni;46.0594653;13.2486093;;;;Gasolio;1.714;SelfService;20231227;07
 16463;Eni;46.0594653;13.2486093;;;;Gasolio;1.934;Servito;20231227;08
@@ -213,8 +211,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Gasolio;1.729;SelfService;20231226;07
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.745;SelfService;20231221;07
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.865;Servito;20231221;07
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.755;Servito;20231219;07
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.755;SelfService;20231219;07
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Gasolio;1.729;SelfService;20231220;07
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Gasolio;1.944;Servito;20231220;08
 34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.749;SelfService;20231226;07
@@ -367,7 +363,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Gasolio;1.919;Servito;20231227;08
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.739;SelfService;20231227;07
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.959;Servito;20231227;08
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.714;SelfService;20231219;07
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.695;SelfService;20231222;07
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Gasolio;1.749;Servito;20231221;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.819;Servito;20231223;07
@@ -435,8 +430,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.979;Servito;20231227;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.729;SelfService;20231227;07
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.939;Servito;20231227;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.799;SelfService;20231219;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.009;Servito;20231219;08
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.714;SelfService;20231227;07
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.934;Servito;20231227;08
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.754;SelfService;20231223;07

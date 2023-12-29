@@ -221,10 +221,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.699;Servito;20231222
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.764;Servito;20231222
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.734;Servito;20231222
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;Servito;20231219
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;SelfService;20231219
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.729;Servito;20231219
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.729;SelfService;20231219
 16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Benzina;1.759;SelfService;20231227
 16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Gasolio;1.739;SelfService;20231227
 16463;Eni;46.0594653;13.2486093;;;;Benzina;1.744;SelfService;20231227
@@ -630,12 +626,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.865;Servito;20231221
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.845;SelfService;20231221
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.965;Servito;20231221
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.785;Servito;20231219
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.785;SelfService;20231219
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.755;Servito;20231219
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.755;SelfService;20231219
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.855;Servito;20231219
-34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.855;SelfService;20231219
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;1.774;SelfService;20231220
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;1.989;Servito;20231220
 34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Blue Diesel;1.829;SelfService;20231220
@@ -1064,10 +1054,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Blue Diesel;2.059;Servito;20231227
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.739;SelfService;20231227
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.959;Servito;20231227
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Benzina;1.744;SelfService;20231219
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Diesel;1.814;SelfService;20231219
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Super;1.894;SelfService;20231219
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.714;SelfService;20231219
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.725;SelfService;20231222
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.695;SelfService;20231222
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.769;Servito;20231221
@@ -1287,14 +1273,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.729;SelfService;20231227
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.939;Servito;20231227
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.629;SelfService;20231227
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.839;SelfService;20231219
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.049;Servito;20231219
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;1.999;SelfService;20231219
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.209;Servito;20231219
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.169;SelfService;20231219
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.379;Servito;20231219
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.799;SelfService;20231219
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.009;Servito;20231219
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.744;SelfService;20231227
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.964;Servito;20231227
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Blue Diesel;1.814;SelfService;20231227
