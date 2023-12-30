@@ -187,13 +187,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.789;SelfService;20231223
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Benzina;1.729;Servito;20231227
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Gasolio;1.709;Servito;20231227
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.818;SelfService;20231220
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;2.028;Servito;20231220
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Blue Diesel;1.948;SelfService;20231220
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Blue Diesel;2.158;Servito;20231220
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;GPL;0.739;Servito;20231220
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.778;SelfService;20231220
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.988;Servito;20231220
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.819;SelfService;20231228
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Blue Diesel;1.859;SelfService;20231228
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.759;SelfService;20231228
@@ -494,13 +487,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.829;SelfService;20231228
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.899;SelfService;20231228
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.799;SelfService;20231228
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.774;SelfService;20231220
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.984;Servito;20231220
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.839;Servito;20231220
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.839;SelfService;20231220
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.699;Servito;20231220
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.739;SelfService;20231220
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.949;Servito;20231220
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.759;SelfService;20231227
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.989;Servito;20231227
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.719;SelfService;20231227
@@ -640,13 +626,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.755;SelfService;20231227
 34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.855;Servito;20231227
 34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.855;SelfService;20231227
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;1.774;SelfService;20231220
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;1.989;Servito;20231220
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Blue Diesel;1.829;SelfService;20231220
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Blue Diesel;2.044;Servito;20231220
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;GPL;0.699;Servito;20231220
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Gasolio;1.729;SelfService;20231220
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Gasolio;1.944;Servito;20231220
 34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.789;SelfService;20231227
 34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;GP DIESEL;1.879;SelfService;20231227
 34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.749;SelfService;20231227
@@ -787,12 +766,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.729;SelfService;20231224
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio speciale;1.749;SelfService;20231224
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.699;SelfService;20231224
-38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.889;SelfService;20231220
-38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.089;Servito;20231220
-38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio Ecoplus;1.999;SelfService;20231220
-38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio Ecoplus;2.199;Servito;20231220
-38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.869;SelfService;20231220
-38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;2.069;Servito;20231220
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.784;SelfService;20231228
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;2.004;Servito;20231228
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Blue Diesel;1.854;SelfService;20231228
@@ -920,10 +893,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.719;Servito;20231227
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Benzina;1.769;SelfService;20231227
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.729;SelfService;20231227
-44488;;46.0860227;13.3628876;;;Casella Lucia;Benzina;1.779;SelfService;20231220
-44488;;46.0860227;13.3628876;;;Casella Lucia;Benzina;1.949;Servito;20231220
-44488;;46.0860227;13.3628876;;;Casella Lucia;Gasolio;1.759;SelfService;20231220
-44488;;46.0860227;13.3628876;;;Casella Lucia;Gasolio;1.929;Servito;20231220
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Benzina;1.769;SelfService;20231227
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Gasolio;1.759;SelfService;20231227
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Benzina;1.779;SelfService;20231228
