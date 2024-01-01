@@ -365,14 +365,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.779;SelfService;20231229
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio Premium;1.899;SelfService;20231229
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.779;SelfService;20231229
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina speciale;1.974;Servito;20231222
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina speciale;1.974;SelfService;20231222
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina;1.749;Servito;20231222
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Benzina;1.749;SelfService;20231222
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio speciale;1.914;Servito;20231222
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio speciale;1.914;SelfService;20231222
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.719;Servito;20231222
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.719;SelfService;20231222
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;1.759;SelfService;20231229
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;2.109;Servito;20231229
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Gasolio;1.749;SelfService;20231229
@@ -505,11 +497,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.959;Servito;20231229
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Hi-Q Diesel;2.049;SelfService;20231229
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Hi-Q Diesel;2.289;Servito;20231229
-27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.749;Servito;20231222
-27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.749;SelfService;20231222
-27651;;45.8893323;13.0354500;;;Degano Cesare;GPL;0.679;Servito;20231222
-27651;;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.729;Servito;20231222
-27651;;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.729;SelfService;20231222
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.739;Servito;20231228
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.739;SelfService;20231228
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.699;Servito;20231228
@@ -573,13 +560,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.699;SelfService;20231227
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;2.049;SelfService;20231227
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;HiQ Perform+;1.111;SelfService;20231227
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.759;SelfService;20231222
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.909;Servito;20231222
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.689;Servito;20231222
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.729;SelfService;20231222
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.879;Servito;20231222
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Hi-Q Diesel;2.069;SelfService;20231222
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Hi-Q Diesel;2.169;Servito;20231222
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.739;Servito;20231227
 30719;;46.1007380;13.1728220;;;Singh Kulvir;GPL;0.659;Servito;20231227
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.709;Servito;20231227
@@ -857,8 +837,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.049;Servito;20231227
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.739;Servito;20231229
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.709;Servito;20231229
-40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.927;SelfService;20231222
-40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.904;SelfService;20231222
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.819;SelfService;20231229
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Diesel;1.859;SelfService;20231229
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Super;1.969;SelfService;20231229
@@ -901,12 +879,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.824;SelfService;20231230
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Super;1.904;SelfService;20231230
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.724;SelfService;20231230
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.769;SelfService;20231222
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.939;Servito;20231222
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.849;SelfService;20231222
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;2.019;Servito;20231222
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.729;SelfService;20231222
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.899;Servito;20231222
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.769;SelfService;20231230
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.719;SelfService;20231230
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.739;Servito;20231227

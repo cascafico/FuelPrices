@@ -116,8 +116,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Gasolio;1.754;SelfService;20231230;07
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.729;SelfService;20231229;07
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.779;SelfService;20231229;07
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.719;Servito;20231222;07
-22639;;46.0576759;12.6004949;;;Posocco Angelo;Gasolio;1.719;SelfService;20231222;07
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Gasolio;1.749;SelfService;20231229;07
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Gasolio;2.099;Servito;20231229;08
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.789;SelfService;20231229;07
@@ -168,8 +166,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.959;Servito;20231228;08
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.719;SelfService;20231229;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.959;Servito;20231229;08
-27651;;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.729;Servito;20231222;07
-27651;;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.729;SelfService;20231222;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.699;Servito;20231228;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.699;SelfService;20231228;07
 28059;Esso;45.8062286;13.3909882;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Gasolio;1.729;SelfService;20231229;07
@@ -193,8 +189,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Gasolio;1.769;SelfService;20231230;07
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Gasolio;1.979;Servito;20231230;08
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.699;SelfService;20231227;07
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.729;SelfService;20231222;07
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.879;Servito;20231222;07
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.709;Servito;20231227;07
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Gasolio;1.739;SelfService;20231229;07
 30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.739;SelfService;20231227;07
@@ -290,7 +284,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.849;SelfService;20231227;07
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.049;Servito;20231227;08
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.709;Servito;20231229;07
-40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.904;SelfService;20231222;08
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.759;SelfService;20231229;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.749;SelfService;20231230;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.969;Servito;20231230;08
@@ -305,8 +298,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20231223;08
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.709;Servito;20231229;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.724;SelfService;20231230;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.729;SelfService;20231222;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.899;Servito;20231222;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.719;SelfService;20231230;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.719;Servito;20231227;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.729;SelfService;20231229;07
