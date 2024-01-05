@@ -80,7 +80,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Benzina;1.984;Servito;20240103;08
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.774;SelfService;20240103;07
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.994;Servito;20240103;08
-16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.799;Servito;20231226;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.759;SelfService;20240101;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.909;Servito;20240101;08
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.799;SelfService;20231228;07
@@ -303,7 +302,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.749;SelfService;20231230;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.859;Servito;20240103;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.859;SelfService;20240103;07
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.728;Servito;20231226;07
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;2.105;Servito;20240102;09
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.739;Servito;20240102;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.754;SelfService;20240103;07

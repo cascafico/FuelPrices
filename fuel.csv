@@ -261,8 +261,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Blue Super;2.144;Servito;20240103
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.749;SelfService;20240103
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.969;Servito;20240103
-16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.799;Servito;20231226
-16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.779;Servito;20231226
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.759;SelfService;20240101
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.909;Servito;20240101
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.729;SelfService;20240101
@@ -897,9 +895,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;2.019;SelfService;20240103
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.797;Servito;20240103
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.797;SelfService;20240103
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.728;Servito;20231226
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.678;Servito;20231226
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.688;Servito;20231226
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;2.105;Servito;20240102
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20240102
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.739;Servito;20240102
