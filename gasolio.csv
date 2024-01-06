@@ -48,8 +48,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Gasolio;1.959;Servito;20240102;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.772;SelfService;20240104;07
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.982;Servito;20240104;08
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.719;Servito;20231227;07
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.719;SelfService;20231227;07
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.759;SelfService;20240102;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.759;SelfService;20231228;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.779;Servito;20240104;07
@@ -187,7 +185,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Gasolio;1.949;Servito;20240104;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.789;SelfService;20240103;07
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.889;Servito;20240103;07
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Gasolio;1.720;SelfService;20231227;07
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.954;SelfService;20240103;08
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;1.860;Servito;20231230;07
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;1.860;SelfService;20231230;07
@@ -200,8 +197,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.879;Servito;20240101;07
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.709;Servito;20240103;07
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Gasolio;1.739;SelfService;20240103;07
-30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.739;SelfService;20231227;07
-30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.909;Servito;20231227;08
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.724;Servito;20231230;07
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.859;SelfService;20240103;07
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Gasolio;1.759;SelfService;20240103;07
@@ -382,7 +377,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 50781;Esso;46.3949900;13.2152760;;;01959 Esso - Resiutta;Gasolio;1.842;SelfService;20240103;07
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.759;SelfService;20240104;07
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.969;Servito;20240104;08
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;1.749;SelfService;20231227;07
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.724;SelfService;20240104;07
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.944;Servito;20240104;08
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Gasolio;1.719;Servito;20231228;07

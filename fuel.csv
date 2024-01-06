@@ -167,10 +167,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Blue Diesel;2.082;Servito;20240104
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.772;SelfService;20240104
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.982;Servito;20240104
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.759;Servito;20231227
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.759;SelfService;20231227
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.719;Servito;20231227
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.719;SelfService;20231227
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.799;SelfService;20240102
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;2.069;SelfService;20240102
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.949;SelfService;20240102
@@ -562,9 +558,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio speciale;2.209;Servito;20240103
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.789;SelfService;20240103
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.889;Servito;20240103
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Benzina;1.750;SelfService;20231227
-29740;;45.9668497;12.9684758;;;Big S.R.L.;GPL;0.735;SelfService;20231227
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Gasolio;1.720;SelfService;20231227
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Benzina;1.984;SelfService;20240103
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.954;SelfService;20240103
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.850;Servito;20231230
@@ -595,10 +588,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.709;Servito;20240103
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.739;SelfService;20240103
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Gasolio;1.739;SelfService;20240103
-30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Benzina;1.759;SelfService;20231227
-30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Benzina;1.929;Servito;20231227
-30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.739;SelfService;20231227
-30937;Total;46.2029170;13.1177990;;;P&C Società a Responsabilità Limitata Semplificata;Gasolio;1.909;Servito;20231227
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.774;Servito;20231230
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.724;Servito;20231230
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.859;SelfService;20240103
@@ -1112,9 +1101,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Blue Super;2.169;Servito;20240104
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.759;SelfService;20240104
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.969;Servito;20240104
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.789;SelfService;20231227
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;1.749;SelfService;20231227
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Supreme Diesel;1.929;SelfService;20231227
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.754;SelfService;20240104
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.974;Servito;20240104
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Blue Diesel;1.824;SelfService;20240104
