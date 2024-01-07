@@ -24,14 +24,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.729;SelfService;20240102
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.799;Servito;20240104
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Gasolio;1.759;Servito;20240104
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.759;SelfService;20231228
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.969;Servito;20231228
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Diesel;1.869;SelfService;20231228
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Diesel;2.079;Servito;20231228
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Super;1.939;SelfService;20231228
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Super;2.149;Servito;20231228
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.729;SelfService;20231228
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.939;Servito;20231228
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.785;Servito;20240104
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.785;SelfService;20240104
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio speciale;1.889;Servito;20240104
@@ -171,10 +163,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;2.069;SelfService;20240102
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.949;SelfService;20240102
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.759;SelfService;20240102
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.789;SelfService;20231228
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.889;SelfService;20231228
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.786;Servito;20231228
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.759;SelfService;20231228
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.799;Servito;20240105
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.779;Servito;20240105
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.759;Servito;20240105
@@ -272,11 +260,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina Plus 98;1.999;Servito;20240103
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina;1.824;Servito;20240103
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Gasolio;1.784;Servito;20240103
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;1.789;SelfService;20231228
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;1.999;Servito;20231228
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Blue Diesel;1.889;SelfService;20231228
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;1.789;SelfService;20231228
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;1.999;Servito;20231228
 17483;IP;46.0015368;13.2066810;;;;Benzina;1.779;SelfService;20231229
 17483;IP;46.0015368;13.2066810;;;;Benzina;2.029;Servito;20231229
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.749;SelfService;20231229
@@ -498,13 +481,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.829;SelfService;20240105
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.899;SelfService;20240105
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.799;SelfService;20240105
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.784;SelfService;20231228
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.994;Servito;20231228
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.849;Servito;20231228
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.849;SelfService;20231228
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.699;Servito;20231228
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.749;SelfService;20231228
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.959;Servito;20231228
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.769;SelfService;20231229
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.999;Servito;20231229
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.719;SelfService;20231229
@@ -615,11 +591,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.979;Servito;20240102
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.729;SelfService;20240102
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.929;Servito;20240102
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Benzina;1.749;Servito;20231228
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;GPL;0.669;Servito;20231228
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio Oro Diesel;1.769;Servito;20231228
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.729;Servito;20231228
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.249;Servito;20231228
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.809;Servito;20240104
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.759;Servito;20240104
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Supreme Diesel;1.879;Servito;20240104
@@ -680,12 +651,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;GPL;0.699;Servito;20240104
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.744;SelfService;20240104
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.964;Servito;20240104
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Benzina;1.779;SelfService;20231228
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Benzina;1.939;Servito;20231228
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio Premium;1.969;SelfService;20231228
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio Premium;2.129;Servito;20231228
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio;1.739;SelfService;20231228
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio;1.899;Servito;20231228
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Benzina;1.789;SelfService;20240105
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Benzina;1.949;Servito;20240105
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Gasolio;1.739;SelfService;20240105
@@ -1115,9 +1080,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.724;SelfService;20240105
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.944;Servito;20240105
 50952;;46.0645392;13.2120296;;;Favaro Giulio;HVOlution;1.624;SelfService;20240105
-51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Benzina;1.739;Servito;20231228
-51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;GPL;0.659;Servito;20231228
-51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Gasolio;1.719;Servito;20231228
 51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Benzina;1.779;SelfService;20240104
 51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Gasolio;1.789;SelfService;20240104
 51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Supreme Diesel;1.979;SelfService;20240104

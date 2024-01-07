@@ -6,8 +6,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.944;Servito;20240105;08
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.729;SelfService;20240102;07
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Gasolio;1.759;Servito;20240104;07
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.729;SelfService;20231228;07
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.939;Servito;20231228;08
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.765;Servito;20240104;07
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.765;SelfService;20240104;07
 11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.750;Servito;20240102;07
@@ -49,7 +47,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.772;SelfService;20240105;07
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.982;Servito;20240105;08
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.759;SelfService;20240102;07
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.759;SelfService;20231228;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.779;Servito;20240105;07
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.729;Servito;20240105;07
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.789;Servito;20240103;07
@@ -82,8 +79,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.879;Servito;20240101;07
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.789;SelfService;20240104;07
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Gasolio;1.784;Servito;20240103;07
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;1.789;SelfService;20231228;07
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;1.999;Servito;20231228;08
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.749;SelfService;20231229;07
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.999;Servito;20231229;08
 17515;Tamoil;45.8658062;12.7337345;;;Porricelli Emilio;Gasolio;1.729;Servito;20240104;07
@@ -165,8 +160,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.737;SelfService;20240104;07
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Gasolio;1.739;SelfService;20240103;07
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.799;SelfService;20240105;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.749;SelfService;20231228;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.959;Servito;20231228;08
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.719;SelfService;20231229;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.959;Servito;20231229;08
 27651;;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.729;Servito;20240105;07
@@ -208,7 +201,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Gasolio;1.999;Servito;20240103;08
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.729;SelfService;20240102;07
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.929;Servito;20240102;08
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.729;Servito;20231228;07
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.759;Servito;20240104;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;1.762;SelfService;20240105;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;1.982;Servito;20240105;08
@@ -228,8 +220,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.839;Servito;20240105;07
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.744;SelfService;20240104;07
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.964;Servito;20240104;08
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio;1.739;SelfService;20231228;07
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio;1.899;Servito;20231228;07
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Gasolio;1.739;SelfService;20240105;07
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Gasolio;1.899;Servito;20240105;07
 35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.;Gasolio;1.699;Servito;20240105;07
@@ -382,7 +372,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.969;Servito;20240105;08
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.724;SelfService;20240105;07
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.944;Servito;20240105;08
-51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Gasolio;1.719;Servito;20231228;07
 51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Gasolio;1.789;SelfService;20240104;07
 51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Gasolio;1.737;SelfService;20240105;07
 51809;Agip;46.2035220;13.1204010;;;Eni Fuel S.P.A.;Gasolio;1.947;Servito;20240105;08
