@@ -1,6 +1,4 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Benzina;1.869;Servito;20231229
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.819;Servito;20231229
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.784;SelfService;20240105
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.994;Servito;20240105
 10355;Eni Station;46.1092319;12.8885239;;;;Blue Diesel;1.864;SelfService;20240105
@@ -375,10 +373,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.809;SelfService;20240105
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;GP DIESEL;1.919;SelfService;20240105
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.789;SelfService;20240105
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.769;Servito;20231229
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.769;SelfService;20231229
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.739;Servito;20231229
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.739;SelfService;20231229
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20240103
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.719;SelfService;20240103
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.879;SelfService;20240105
@@ -450,13 +444,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Gasolio;1.729;SelfService;20240105
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.769;SelfService;20240105
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Gasolio;1.729;SelfService;20240105
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.809;SelfService;20231229
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.031;Servito;20231229
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;2.049;SelfService;20231229
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;2.271;Servito;20231229
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.788;Servito;20231229
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.749;SelfService;20231229
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.971;Servito;20231229
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.799;SelfService;20240102
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.799;SelfService;20240102
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;1.919;SelfService;20240102
@@ -487,12 +474,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.829;SelfService;20240106
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.899;SelfService;20240106
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.799;SelfService;20240106
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.769;SelfService;20231229
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.999;Servito;20231229
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.719;SelfService;20231229
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.959;Servito;20231229
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Hi-Q Diesel;2.049;SelfService;20231229
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Hi-Q Diesel;2.289;Servito;20231229
 27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.749;Servito;20240105
 27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.749;SelfService;20240105
 27651;;45.8893323;13.0354500;;;Degano Cesare;GPL;0.679;Servito;20240105
@@ -767,14 +748,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Blue Super;2.154;Servito;20240106
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.772;SelfService;20240106
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.992;Servito;20240106
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.749;SelfService;20231229
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.899;Servito;20231229
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.739;SelfService;20231229
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.889;Servito;20231229
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.019;SelfService;20231229
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.119;Servito;20231229
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.039;SelfService;20231229
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.139;Servito;20231229
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.809;SelfService;20240105
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.019;Servito;20240105
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Diesel;1.869;SelfService;20240105
@@ -896,8 +869,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 44488;;46.0860227;13.3628876;;;Casella Lucia;Benzina;1.949;Servito;20240105
 44488;;46.0860227;13.3628876;;;Casella Lucia;Gasolio;1.749;SelfService;20240105
 44488;;46.0860227;13.3628876;;;Casella Lucia;Gasolio;1.919;Servito;20240105
-44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Benzina;1.789;SelfService;20231229
-44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.;Gasolio;1.769;SelfService;20231229
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Benzina;1.789;SelfService;20240106
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Benzina;1.949;Servito;20240106
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Gasolio;1.739;SelfService;20240106
