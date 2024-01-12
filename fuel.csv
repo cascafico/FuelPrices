@@ -167,10 +167,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Blue Diesel;2.072;Servito;20240110
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.762;SelfService;20240110
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.972;Servito;20240110
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.799;SelfService;20240102
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;2.069;SelfService;20240102
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.949;SelfService;20240102
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.759;SelfService;20240102
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.789;SelfService;20240105
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.889;SelfService;20240105
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.786;Servito;20240105
@@ -223,12 +219,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.739;Servito;20240105
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.689;Servito;20240105
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.699;Servito;20240105
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.777;SelfService;20240109
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.997;Servito;20240109
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.747;SelfService;20240109
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.967;Servito;20240109
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.747;SelfService;20240109
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.967;Servito;20240109
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.777;SelfService;20240109
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.997;Servito;20240109
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.747;SelfService;20240109
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.967;Servito;20240109
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.747;SelfService;20240109
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.967;Servito;20240109
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.774;Servito;20240110
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.734;Servito;20240110
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;Servito;20240109
@@ -359,10 +355,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;GPL;0.689;Servito;20240109
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Gasolio speciale;1.779;SelfService;20240109
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Gasolio;1.699;SelfService;20240109
-22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;1.759;SelfService;20240102
-22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;1.959;Servito;20240102
-22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Gasolio;1.749;SelfService;20240102
-22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Gasolio;1.949;Servito;20240102
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Benzina;1.789;SelfService;20240110
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Blue Diesel;1.854;SelfService;20240110
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Gasolio;1.754;SelfService;20240110
@@ -901,18 +893,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.688;Servito;20240103
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;2.105;Servito;20240108
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.955;Servito;20240108
-42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.739;Servito;20240102
-42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.709;Servito;20240102
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.754;SelfService;20240110
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.824;SelfService;20240110
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Super;1.904;SelfService;20240110
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.724;SelfService;20240110
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.779;SelfService;20240102
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.949;Servito;20240102
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.849;SelfService;20240102
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;2.019;Servito;20240102
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.729;SelfService;20240102
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.899;Servito;20240102
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.769;SelfService;20240110
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.719;SelfService;20240110
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.739;Servito;20240108

@@ -48,7 +48,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.999;Servito;20240110;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;1.774;SelfService;20240110;07
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;1.984;Servito;20240110;08
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.799;SelfService;20240102;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.789;SelfService;20240105;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.799;Servito;20240110;07
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.759;Servito;20240110;07
@@ -66,8 +65,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.769;SelfService;20240105;07
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.959;Servito;20240108;08
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.739;Servito;20240105;07
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.777;SelfService;20240109;07
-15815;IP;46.0521907;13.2383076;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.997;Servito;20240109;08
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.777;SelfService;20240109;07
+15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.997;Servito;20240109;08
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.774;Servito;20240110;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;Servito;20240109;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;SelfService;20240109;07
@@ -112,8 +111,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.789;Servito;20240109;07
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.789;SelfService;20240109;07
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Benzina;1.749;SelfService;20240109;07
-22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;1.759;SelfService;20240102;07
-22031;IP;45.8052560;13.0859240;;;Movio Fiorenzo;Benzina;1.959;Servito;20240102;08
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Benzina;1.789;SelfService;20240110;07
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.749;SelfService;20240104;07
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.779;SelfService;20240110;07
@@ -305,10 +302,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.859;SelfService;20240110;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.728;Servito;20240103;07
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;2.105;Servito;20240108;09
-42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.739;Servito;20240102;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.754;SelfService;20240110;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.779;SelfService;20240102;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.949;Servito;20240102;08
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.769;SelfService;20240110;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.739;Servito;20240108;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Benzina;1.769;SelfService;20240109;07
