@@ -849,8 +849,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.999;Servito;20240110
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.739;Servito;20240109
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.709;Servito;20240109
-40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.953;SelfService;20240103
-40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.912;SelfService;20240103
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.819;SelfService;20240108
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Diesel;1.859;SelfService;20240108
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Super;1.969;SelfService;20240108
