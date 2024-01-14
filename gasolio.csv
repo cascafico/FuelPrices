@@ -89,7 +89,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.999;Servito;20240111;08
 17515;Tamoil;45.8658062;12.7337345;;;Porricelli Emilio;Gasolio;1.729;SelfService;20240112;07
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.769;Servito;20240110;07
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.779;SelfService;20240104;07
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.739;SelfService;20240108;07
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio;1.759;SelfService;20240112;07
 18807;Stazione di servizio Eni;45.6397633;13.7772089;;;Matcovich Alessandro;Gasolio;1.749;SelfService;20240112;07
@@ -178,7 +177,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Gasolio;1.949;Servito;20240112;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.769;SelfService;20240111;07
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.869;Servito;20240111;07
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Gasolio;1.720;SelfService;20240104;07
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.954;SelfService;20240111;08
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;1.770;Servito;20240110;07
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;1.770;SelfService;20240110;07
@@ -255,8 +253,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37479;Eni;45.9500769;13.0510956;;;Pasutti Marco;Gasolio;1.759;SelfService;20240112;07
 37479;Eni;45.9500769;13.0510956;;;Pasutti Marco;Gasolio;1.969;Servito;20240112;08
 37480;;45.9036873;13.1818526;;;;Gasolio;1.710;SelfService;20240106;07
-37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.783;Servito;20240104;07
-37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.783;SelfService;20240104;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.689;SelfService;20240112;07
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.749;Servito;20240108;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.729;SelfService;20240112;07

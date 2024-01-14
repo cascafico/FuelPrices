@@ -290,10 +290,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio Premium;1.889;Servito;20240110
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio artico;1.889;Servito;20240110
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.769;Servito;20240110
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.819;SelfService;20240104
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.909;SelfService;20240104
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Super;2.119;SelfService;20240104
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.779;SelfService;20240104
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.759;SelfService;20240108
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.739;SelfService;20240108
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.399;Servito;20240112
@@ -536,9 +532,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio speciale;2.209;Servito;20240111
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.769;SelfService;20240111
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.869;Servito;20240111
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Benzina;1.750;SelfService;20240104
-29740;;45.9668497;12.9684758;;;Big S.R.L.;GPL;0.735;SelfService;20240104
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Gasolio;1.720;SelfService;20240104
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Benzina;1.984;SelfService;20240111
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.954;SelfService;20240111
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.780;Servito;20240110
@@ -754,10 +747,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37479;Eni;45.9500769;13.0510956;;;Pasutti Marco;Gasolio;1.969;Servito;20240112
 37480;;45.9036873;13.1818526;;;;Benzina;1.740;SelfService;20240106
 37480;;45.9036873;13.1818526;;;;Gasolio;1.710;SelfService;20240106
-37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.799;Servito;20240104
-37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.799;SelfService;20240104
-37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.783;Servito;20240104
-37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.783;SelfService;20240104
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.739;SelfService;20240112
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.689;SelfService;20240112
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.799;Servito;20240108
