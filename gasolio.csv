@@ -257,7 +257,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio;1.759;SelfService;20240108;07
 37479;Eni;45.9500769;13.0510956;;;Pasutti Marco;Gasolio;1.759;SelfService;20240113;07
 37479;Eni;45.9500769;13.0510956;;;Pasutti Marco;Gasolio;1.969;Servito;20240113;08
-37480;;45.9036873;13.1818526;;;;Gasolio;1.710;SelfService;20240106;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.783;Servito;20240112;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.783;SelfService;20240112;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.689;SelfService;20240113;07
@@ -296,8 +295,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.759;SelfService;20240108;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.739;SelfService;20240114;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.959;Servito;20240114;08
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.739;Servito;20240106;07
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.739;SelfService;20240106;07
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.794;SelfService;20240108;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.719;Servito;20240108;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.719;SelfService;20240108;07
