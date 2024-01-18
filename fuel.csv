@@ -263,14 +263,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.969;Servito;20240116
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.799;Servito;20240116
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.779;Servito;20240116
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.759;SelfService;20240108
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.909;Servito;20240108
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.729;SelfService;20240108
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.879;Servito;20240108
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Hi-Q Diesel;1.999;SelfService;20240108
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Hi-Q Diesel;2.149;Servito;20240108
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;HiQ Perform+;1.999;SelfService;20240108
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;HiQ Perform+;2.149;Servito;20240108
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.759;SelfService;20240116
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;F-101;1.999;SelfService;20240116
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio speciale;1.999;SelfService;20240116
@@ -326,12 +318,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.979;Servito;20240116
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.789;Servito;20240115
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Gasolio;1.749;Servito;20240115
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.779;SelfService;20240108
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.979;Servito;20240108
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio artico;1.749;SelfService;20240108
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio artico;1.949;Servito;20240108
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.749;SelfService;20240108
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.949;Servito;20240108
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.849;SelfService;20240115
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Blue Diesel;1.879;SelfService;20240115
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Gasolio;1.779;SelfService;20240115
@@ -776,9 +762,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.783;SelfService;20240112
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.739;SelfService;20240116
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.689;SelfService;20240116
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.799;Servito;20240108
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio Premium;1.899;Servito;20240108
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.749;Servito;20240108
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.779;SelfService;20240116
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.729;SelfService;20240116
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Supreme Diesel;1.849;SelfService;20240116
@@ -1023,10 +1006,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.754;SelfService;20240116
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.824;SelfService;20240116
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.724;SelfService;20240116
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.779;Servito;20240108
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;GNL;1.299;Servito;20240108
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.729;Servito;20240108
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;L-GNC;1.199;Servito;20240108
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.789;SelfService;20240116
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20240116
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;2.019;SelfService;20240116
