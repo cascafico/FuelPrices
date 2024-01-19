@@ -455,13 +455,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Gasolio;1.699;SelfService;20240116
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.749;SelfService;20240116
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Gasolio;1.699;SelfService;20240116
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.809;SelfService;20240109
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.031;Servito;20240109
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;2.049;SelfService;20240109
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;2.271;Servito;20240109
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.788;Servito;20240109
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.749;SelfService;20240109
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.971;Servito;20240109
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.799;SelfService;20240116
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.799;SelfService;20240116
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;1.919;SelfService;20240116
