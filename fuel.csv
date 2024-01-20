@@ -143,9 +143,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.659;Servito;20240118
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.749;SelfService;20240118
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Hi-Q Diesel;2.229;SelfService;20240118
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.769;SelfService;20240110
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;GP DIESEL;1.869;SelfService;20240110
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.729;SelfService;20240110
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.794;SelfService;20240118
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20240118
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Blue Diesel;1.864;SelfService;20240118
@@ -389,9 +386,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.889;SelfService;20240117
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;F101;2.039;SelfService;20240117
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.849;SelfService;20240117
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.749;Servito;20240110
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio artico;1.729;Servito;20240110
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.729;Servito;20240110
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.819;SelfService;20240117
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20240117
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;2.069;SelfService;20240117
