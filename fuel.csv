@@ -795,14 +795,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Blue Super;2.164;Servito;20240119
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.782;SelfService;20240119
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;2.002;Servito;20240119
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.749;SelfService;20240111
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.899;Servito;20240111
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.729;SelfService;20240111
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.879;Servito;20240111
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.019;SelfService;20240111
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.119;Servito;20240111
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.039;SelfService;20240111
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.139;Servito;20240111
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.809;SelfService;20240119
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.019;Servito;20240119
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Diesel;1.869;SelfService;20240119
@@ -990,9 +982,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.759;SelfService;20240119
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.739;Servito;20240119
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.739;SelfService;20240119
-47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Benzina;1.749;SelfService;20240111
-47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;GPL;0.669;Servito;20240111
-47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Gasolio;1.709;SelfService;20240111
 47011;IP;45.9423453;13.0591338;;;Geff S.R.L.;Benzina;1.739;SelfService;20240119
 47011;IP;45.9423453;13.0591338;;;Geff S.R.L.;Gasolio;1.709;SelfService;20240119
 47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Benzina;1.759;SelfService;20240118
@@ -1014,10 +1003,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.779;SelfService;20240118
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.759;Servito;20240118
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.759;SelfService;20240118
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.819;Servito;20240111
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.819;SelfService;20240111
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.789;Servito;20240111
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.789;SelfService;20240111
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.764;SelfService;20240119
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.834;SelfService;20240119
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.734;SelfService;20240119

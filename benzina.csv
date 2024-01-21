@@ -270,8 +270,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;2.014;Servito;20240119;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.794;SelfService;20240119;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;2.014;Servito;20240119;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.749;SelfService;20240111;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.899;Servito;20240111;08
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.809;SelfService;20240119;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.019;Servito;20240119;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;1.859;Servito;20240117;08
@@ -338,7 +336,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.817;SelfService;20240113;07
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.759;Servito;20240119;07
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.759;SelfService;20240119;07
-47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Benzina;1.749;SelfService;20240111;07
 47011;IP;45.9423453;13.0591338;;;Geff S.R.L.;Benzina;1.739;SelfService;20240119;07
 47014;Esso;45.9341470;13.6035740;;;Geff S.R.L.;Benzina;1.759;SelfService;20240118;07
 47015;Esso;45.9250087;13.6128494;;;Geff S.R.L.;Benzina;1.759;SelfService;20240118;07
@@ -349,8 +346,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.769;SelfService;20240115;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.779;Servito;20240118;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.779;SelfService;20240118;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.819;Servito;20240111;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.819;SelfService;20240111;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.764;SelfService;20240119;07
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.779;Servito;20240117;07
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20240117;07
