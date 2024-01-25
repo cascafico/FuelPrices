@@ -927,7 +927,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Supreme Diesel;2.009;Servito;20240123
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.769;SelfService;20240122
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio;1.719;SelfService;20240122
-45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.;Metano;1.399;Servito;20240115
 45246;Agip;45.8342107;13.1939418;;;Geff S.R.L.;Benzina;1.789;SelfService;20240123
 45246;Agip;45.8342107;13.1939418;;;Geff S.R.L.;Gasolio;1.729;SelfService;20240123
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Benzina;1.759;SelfService;20240123
@@ -1102,9 +1101,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Blue Super;2.169;Servito;20240123
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.779;SelfService;20240123
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.989;Servito;20240123
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.789;SelfService;20240115
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;1.739;SelfService;20240115
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Supreme Diesel;1.929;SelfService;20240115
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.774;SelfService;20240123
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.994;Servito;20240123
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Blue Diesel;1.844;SelfService;20240123
