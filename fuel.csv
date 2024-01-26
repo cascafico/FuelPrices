@@ -275,9 +275,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;F-101;1.999;SelfService;20240123
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio speciale;1.999;SelfService;20240123
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.749;SelfService;20240123
-17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina Plus 98;1.999;Servito;20240116
-17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina;1.824;Servito;20240116
-17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Gasolio;1.784;Servito;20240116
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;1.799;SelfService;20240119
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;2.009;Servito;20240119
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Blue Diesel;1.899;SelfService;20240119
@@ -713,9 +710,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.684;Servito;20240123
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.719;Servito;20240123
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.719;SelfService;20240123
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.759;Servito;20240116
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;GPL;0.649;Servito;20240116
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.729;Servito;20240116
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.729;Servito;20240123
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.729;SelfService;20240123
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.699;Servito;20240123
@@ -858,8 +852,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;2.068;Servito;20240122
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.848;SelfService;20240122
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.048;Servito;20240122
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.739;Servito;20240116
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.699;Servito;20240116
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.953;SelfService;20240122
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.912;SelfService;20240122
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.839;SelfService;20240123

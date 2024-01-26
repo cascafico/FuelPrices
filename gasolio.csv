@@ -84,7 +84,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.729;SelfService;20240120;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.879;Servito;20240120;07
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.749;SelfService;20240123;07
-17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Gasolio;1.784;Servito;20240116;07
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;1.799;SelfService;20240119;07
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Gasolio;2.009;Servito;20240119;08
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.769;SelfService;20240120;07
@@ -240,7 +239,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 35586;IP;45.7993547;13.5277227;;;Ip Services S.R.L.;Gasolio;1.779;SelfService;20240123;07
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.719;Servito;20240123;07
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.719;SelfService;20240123;07
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.729;Servito;20240116;07
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.699;Servito;20240123;07
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.699;SelfService;20240123;07
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.699;Servito;20240120;07
@@ -290,7 +288,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.999;Servito;20240117;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.848;SelfService;20240122;07
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.048;Servito;20240122;08
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.699;Servito;20240116;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.912;SelfService;20240122;08
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.779;SelfService;20240123;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.769;SelfService;20240124;07
