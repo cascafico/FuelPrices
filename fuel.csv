@@ -1015,10 +1015,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.779;SelfService;20240126
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.749;Servito;20240126
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.749;SelfService;20240126
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.819;Servito;20240119
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.819;SelfService;20240119
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.789;Servito;20240119
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.789;SelfService;20240119
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.794;SelfService;20240127
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.864;SelfService;20240127
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.764;SelfService;20240127
@@ -1071,10 +1067,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Blue Diesel;2.099;Servito;20240127
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.779;SelfService;20240127
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.999;Servito;20240127
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Benzina;1.794;SelfService;20240126
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Diesel;1.864;SelfService;20240126
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Super;1.944;SelfService;20240126
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.764;SelfService;20240126
+49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Benzina;1.794;SelfService;20240126
+49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Diesel;1.864;SelfService;20240126
+49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Super;1.944;SelfService;20240126
+49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.764;SelfService;20240126
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.755;SelfService;20240125
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.725;SelfService;20240125
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.769;Servito;20240121

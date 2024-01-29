@@ -350,8 +350,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.779;SelfService;20240124;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.749;Servito;20240126;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.749;SelfService;20240126;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.789;Servito;20240119;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.789;SelfService;20240119;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.764;SelfService;20240127;07
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.759;Servito;20240123;07
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.819;SelfService;20240127;07
@@ -370,7 +368,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Gasolio;1.969;Servito;20240127;08
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.779;SelfService;20240127;07
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.999;Servito;20240127;08
-49701;Agip;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.764;SelfService;20240126;07
+49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.764;SelfService;20240126;07
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.725;SelfService;20240125;07
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Gasolio;1.739;Servito;20240121;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Gasolio;1.799;Servito;20240127;07
