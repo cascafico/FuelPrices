@@ -307,7 +307,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.889;Servito;20240127;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.889;SelfService;20240127;08
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.748;Servito;20240126;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.905;Servito;20240120;08
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.769;Servito;20240126;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.794;SelfService;20240128;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.789;SelfService;20240124;07
