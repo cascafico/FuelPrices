@@ -349,10 +349,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Supreme Diesel;1.919;SelfService;20240131
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Benzina;1.859;SelfService;20240203
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Gasolio;1.809;SelfService;20240203
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.839;SelfService;20240126
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;2.039;Servito;20240126
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.019;Servito;20240126
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.819;SelfService;20240126
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.849;Servito;20240202
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.849;SelfService;20240202
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.819;Servito;20240202

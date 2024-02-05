@@ -109,8 +109,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Benzina;1.849;Servito;20240131;07
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Benzina;1.849;SelfService;20240131;07
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Benzina;1.859;SelfService;20240203;07
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.839;SelfService;20240126;07
-21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;2.039;Servito;20240126;08
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.849;Servito;20240202;07
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.849;SelfService;20240202;07
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Benzina;1.779;SelfService;20240202;07
