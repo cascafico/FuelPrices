@@ -550,9 +550,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio speciale;2.099;Servito;20240131
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.799;SelfService;20240131
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.899;Servito;20240131
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Benzina;1.750;SelfService;20240127
-29740;;45.9668497;12.9684758;;;Big S.R.L.;GPL;0.735;SelfService;20240127
-29740;;45.9668497;12.9684758;;;Big S.R.L.;Gasolio;1.720;SelfService;20240127
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Benzina;1.984;SelfService;20240203
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.954;SelfService;20240203
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.850;Servito;20240203
@@ -805,14 +802,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;2.062;Servito;20240204
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Benzina;1.879;Servito;20240202
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.829;Servito;20240202
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.789;SelfService;20240127
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.939;Servito;20240127
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.779;SelfService;20240127
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.929;Servito;20240127
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.059;SelfService;20240127
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.159;Servito;20240127
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.069;SelfService;20240127
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.169;Servito;20240127
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.889;SelfService;20240203
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.099;Servito;20240203
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Diesel;1.949;SelfService;20240203
