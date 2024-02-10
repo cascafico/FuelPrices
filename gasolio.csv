@@ -314,8 +314,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.769;SelfService;20240208;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.769;Servito;20240207;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.769;SelfService;20240207;07
-44488;;46.0860227;13.3628876;;;Casella Lucia;Gasolio;1.799;SelfService;20240131;07
-44488;;46.0860227;13.3628876;;;Casella Lucia;Gasolio;1.969;Servito;20240131;08
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Gasolio;1.779;SelfService;20240208;07
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata;Gasolio;1.939;Servito;20240208;08
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio;1.759;SelfService;20240207;07
