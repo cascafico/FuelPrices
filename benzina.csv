@@ -216,8 +216,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.949;Servito;20240209;08
 34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.819;Servito;20240209;07
 34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.819;SelfService;20240209;07
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;1.854;SelfService;20240205;07
-34196;ENI;45.9259648;12.7076009;;;S.A. S.N.C. di Montico Sandro & C.;Benzina;2.069;Servito;20240205;08
 34231;;45.8847589;12.7096988;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.869;SelfService;20240212;07
 34264;IP;45.7600752;13.1656390;;;A.F. Petroli S.p.A.;Benzina;1.999;SelfService;20240210;08
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Benzina;1.849;SelfService;20240212;07
