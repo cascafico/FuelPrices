@@ -300,8 +300,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.979;SelfService;20240214
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Super;2.059;SelfService;20240214
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.879;SelfService;20240214
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.815;SelfService;20240207
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.775;SelfService;20240207
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.399;Servito;20240212
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.859;SelfService;20240214
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio Premium;1.979;SelfService;20240214
