@@ -289,10 +289,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;1.979;SelfService;20240217;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;2.189;Servito;20240217;09
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Benzina;1.859;SelfService;20240215;07
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.899;SelfService;20240210;07
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;2.099;Servito;20240210;08
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;1.898;SelfService;20240210;07
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;2.098;Servito;20240210;08
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.829;Servito;20240215;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;2.030;SelfService;20240216;08
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.919;SelfService;20240214;07
@@ -368,7 +364,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 49549;Agip;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;2.059;Servito;20240218;08
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Benzina;1.874;SelfService;20240218;07
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Benzina;2.094;Servito;20240218;08
-49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Benzina;1.844;SelfService;20240210;07
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.818;SelfService;20240215;07
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.879;Servito;20240215;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.859;Servito;20240217;07

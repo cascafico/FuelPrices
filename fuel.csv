@@ -855,16 +855,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Benzina;1.859;SelfService;20240215
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio Premium;1.939;SelfService;20240215
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio;1.819;SelfService;20240215
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.899;SelfService;20240210
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;2.099;Servito;20240210
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio speciale;1.999;SelfService;20240210
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio speciale;2.099;Servito;20240210
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.899;SelfService;20240210
-40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;2.099;Servito;20240210
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;1.898;SelfService;20240210
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;2.098;Servito;20240210
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.878;SelfService;20240210
-40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;2.078;Servito;20240210
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.829;Servito;20240215
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.799;Servito;20240215
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;2.030;SelfService;20240216
@@ -1067,10 +1057,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Blue Diesel;2.179;Servito;20240218
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.859;SelfService;20240218
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;2.079;Servito;20240218
-49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Benzina;1.844;SelfService;20240210
-49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Diesel;1.924;SelfService;20240210
-49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Blue Super;1.994;SelfService;20240210
-49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.;Gasolio;1.824;SelfService;20240210
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.818;SelfService;20240215
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.798;SelfService;20240215
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.879;Servito;20240215
