@@ -191,13 +191,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.869;SelfService;20240220
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Benzina;1.819;Servito;20240220
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Gasolio;1.789;Servito;20240220
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.928;SelfService;20240213
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;2.138;Servito;20240213
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Blue Diesel;2.048;SelfService;20240213
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Blue Diesel;2.258;Servito;20240213
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;GPL;0.749;Servito;20240213
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.898;SelfService;20240213
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;2.108;Servito;20240213
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.929;SelfService;20240221
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Blue Diesel;1.979;SelfService;20240221
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.879;SelfService;20240221
@@ -1021,10 +1014,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.854;SelfService;20240221
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.934;SelfService;20240221
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.834;SelfService;20240221
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.859;Servito;20240213
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;GNL;1.199;Servito;20240213
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.839;Servito;20240213
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;L-GNC;1.199;Servito;20240213
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.879;SelfService;20240216
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.869;SelfService;20240216
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Hi-Q Diesel;2.119;SelfService;20240216

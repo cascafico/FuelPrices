@@ -57,8 +57,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Benzina;1.869;Servito;20240220;07
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Benzina;1.869;SelfService;20240220;07
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Benzina;1.819;Servito;20240220;07
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.928;SelfService;20240213;08
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;2.138;Servito;20240213;08
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.929;SelfService;20240221;08
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.889;Servito;20240220;07
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.889;SelfService;20240220;07
@@ -352,7 +350,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.919;Servito;20240219;07
 47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.919;SelfService;20240219;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.854;SelfService;20240221;07
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.859;Servito;20240213;07
 48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.879;SelfService;20240216;07
 48516;Esso;45.7712330;13.6371781;;;;Benzina;1.869;Servito;20240221;07
 48516;Esso;45.7712330;13.6371781;;;;Benzina;1.869;SelfService;20240221;07
