@@ -282,7 +282,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;2.199;Servito;20240221;09
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;1.979;SelfService;20240222;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;2.189;Servito;20240222;09
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Benzina;1.859;SelfService;20240215;07
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.899;SelfService;20240221;07
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;2.099;Servito;20240221;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;1.898;SelfService;20240221;07
@@ -292,7 +291,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.919;SelfService;20240219;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.869;SelfService;20240223;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;2.089;Servito;20240223;08
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.879;Servito;20240215;07
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.914;SelfService;20240221;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.829;Servito;20240220;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.829;SelfService;20240220;07
@@ -302,8 +300,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.905;Servito;20240216;07
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.829;Servito;20240222;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.854;SelfService;20240223;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.859;SelfService;20240215;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;2.029;Servito;20240215;08
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.849;SelfService;20240223;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.829;Servito;20240221;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Benzina;1.859;SelfService;20240222;07

@@ -833,9 +833,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Blue Diesel;2.237;Servito;20240222
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.927;SelfService;20240222
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;2.137;Servito;20240222
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Benzina;1.859;SelfService;20240215
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio Premium;1.939;SelfService;20240215
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio;1.819;SelfService;20240215
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.899;SelfService;20240221
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;2.099;Servito;20240221
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio speciale;1.999;SelfService;20240221
@@ -860,11 +857,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Blue Diesel;2.159;Servito;20240223
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.839;SelfService;20240223
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;2.059;Servito;20240223
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.879;Servito;20240215
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.849;Servito;20240215
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.849;SelfService;20240215
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.839;Servito;20240215
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.839;SelfService;20240215
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.914;SelfService;20240221
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.884;SelfService;20240221
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.829;Servito;20240220
@@ -891,12 +883,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.934;SelfService;20240223
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Super;1.994;SelfService;20240223
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.834;SelfService;20240223
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.859;SelfService;20240215
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;2.029;Servito;20240215
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.939;SelfService;20240215
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;2.109;Servito;20240215
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.819;SelfService;20240215
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.989;Servito;20240215
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.849;SelfService;20240223
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.809;SelfService;20240223
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.829;Servito;20240221

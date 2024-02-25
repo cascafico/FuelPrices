@@ -282,7 +282,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;2.159;Servito;20240221;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.927;SelfService;20240222;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;2.137;Servito;20240222;08
-40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl;Gasolio;1.819;SelfService;20240215;07
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.899;SelfService;20240221;07
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;2.099;Servito;20240221;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.878;SelfService;20240221;07
@@ -292,8 +291,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.869;SelfService;20240219;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.839;SelfService;20240223;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;2.059;Servito;20240223;08
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.839;Servito;20240215;07
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.839;SelfService;20240215;07
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.884;SelfService;20240221;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.809;Servito;20240220;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.809;SelfService;20240220;07
@@ -303,8 +300,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.890;Servito;20240216;07
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.809;Servito;20240222;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.834;SelfService;20240223;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.819;SelfService;20240215;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.989;Servito;20240215;08
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.809;SelfService;20240223;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.799;Servito;20240221;07
 43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.;Gasolio;1.819;SelfService;20240222;07
