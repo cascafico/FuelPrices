@@ -39,12 +39,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.839;SelfService;20240222;07
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.829;SelfService;20240221;07
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.838;Servito;20240220;07
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.879;SelfService;20240217;07
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.849;SelfService;20240222;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.884;SelfService;20240224;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20240224;08
-13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.889;SelfService;20240217;07
-13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;2.099;Servito;20240217;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;1.874;SelfService;20240225;07
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;2.084;Servito;20240225;08
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.859;Servito;20240219;07

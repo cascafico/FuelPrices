@@ -1,8 +1,6 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;GPL;0.684;Servito;20240224;06
 10355;Eni Station;46.1092319;12.8885239;;;;GPL;0.684;SelfService;20240224;06
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.659;Servito;20240217;06
-13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;GPL;0.769;Servito;20240217;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.786;Servito;20240224;07
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;GPL;0.749;Servito;20240222;07
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;GPL;0.709;Servito;20240221;07
