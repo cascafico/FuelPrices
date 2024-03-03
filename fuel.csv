@@ -271,10 +271,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Hi-Q Diesel;2.239;Servito;20240226
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;HiQ Perform+;2.079;SelfService;20240226
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;HiQ Perform+;2.249;Servito;20240226
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.865;SelfService;20240222
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;F-101;2.100;SelfService;20240222
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio speciale;1.999;SelfService;20240222
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.869;SelfService;20240222
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina Plus 98;1.999;Servito;20240229
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina;1.894;Servito;20240229
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Gasolio;1.864;Servito;20240229
@@ -382,10 +378,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.919;SelfService;20240229
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;GP DIESEL;2.009;SelfService;20240229
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.879;SelfService;20240229
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.859;Servito;20240222
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.859;SelfService;20240222
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.829;Servito;20240222
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.829;SelfService;20240222
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.829;SelfService;20240229
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.779;SelfService;20240229
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.989;SelfService;20240301
@@ -467,10 +459,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.879;SelfService;20240229
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.889;SelfService;20240229
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;1.919;SelfService;20240229
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.873;Servito;20240222
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.873;SelfService;20240222
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.838;Servito;20240222
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.838;SelfService;20240222
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Benzina;1.798;SelfService;20240227
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;GPL;0.668;Servito;20240227
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.778;SelfService;20240227

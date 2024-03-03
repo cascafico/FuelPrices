@@ -83,7 +83,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.869;Servito;20240227;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.839;SelfService;20240226;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;2.009;Servito;20240226;08
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.865;SelfService;20240222;07
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl;Benzina;1.894;Servito;20240229;07
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;1.879;SelfService;20240229;07
 17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl;Benzina;2.089;Servito;20240229;08
@@ -122,8 +121,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;1.879;SelfService;20240229;07
 22912;;46.0819070;13.4240359;;;Fantini Giuseppe;Benzina;2.229;Servito;20240229;09
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.919;SelfService;20240229;07
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.859;Servito;20240222;07
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.859;SelfService;20240222;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.829;SelfService;20240229;07
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.989;SelfService;20240301;08
 23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.849;Servito;20240228;07
@@ -154,8 +151,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.909;SelfService;20240227;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.131;Servito;20240227;08
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.879;SelfService;20240229;07
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.873;Servito;20240222;07
-26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.873;SelfService;20240222;07
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Benzina;1.798;SelfService;20240227;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.855;Servito;20240228;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.855;SelfService;20240228;07
