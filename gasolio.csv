@@ -297,7 +297,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.897;Servito;20240302;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.897;SelfService;20240302;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.798;Servito;20240229;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.890;Servito;20240224;07
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.799;Servito;20240227;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.814;SelfService;20240303;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.819;SelfService;20240229;07
@@ -325,7 +324,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143730;13.3401540;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.851;Servito;20240302;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.841;SelfService;20240301;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;2.001;Servito;20240301;08
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.847;SelfService;20240224;07
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.849;Servito;20240302;07
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.849;SelfService;20240302;07
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat;Gasolio;1.789;SelfService;20240302;07

@@ -877,8 +877,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.818;Servito;20240229
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.678;Servito;20240229
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.798;Servito;20240229
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.905;Servito;20240224
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.890;Servito;20240224
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Benzina;1.829;Servito;20240227
 42794;IP;45.8917110;13.2515340;;;Savchuk Tetyana;Gasolio;1.799;Servito;20240227
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.844;SelfService;20240303
@@ -956,8 +954,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;2.001;Servito;20240301
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.949;SelfService;20240301
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;2.109;Servito;20240301
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.877;SelfService;20240224
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.847;SelfService;20240224
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.859;Servito;20240302
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Benzina;1.859;SelfService;20240302
 46821;Tamoil;45.6553633;13.7762420;;;T.D.M. S.R.L.;Gasolio;1.849;Servito;20240302
