@@ -410,10 +410,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.869;SelfService;20240304
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.839;Servito;20240304
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.839;SelfService;20240304
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;1.899;SelfService;20240226
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.410;Servito;20240226
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.859;SelfService;20240226
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;2.457;Servito;20240226
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.839;Servito;20240304
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Gasolio;1.799;Servito;20240304
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.859;SelfService;20240304
