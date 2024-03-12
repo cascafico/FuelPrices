@@ -139,10 +139,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.789;SelfService;20240309
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.838;Servito;20240308
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.778;Servito;20240308
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.879;SelfService;20240302
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.659;Servito;20240302
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.839;SelfService;20240302
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Hi-Q Diesel;2.229;SelfService;20240302
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.878;SelfService;20240305
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;GP DIESEL;1.929;SelfService;20240305
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.808;SelfService;20240305
@@ -608,11 +604,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;2.029;Servito;20240306
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.789;SelfService;20240306
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.989;Servito;20240306
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Benzina;1.839;Servito;20240302
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;GPL;0.669;Servito;20240302
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio Oro Diesel;1.799;Servito;20240302
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.799;Servito;20240302
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.199;Servito;20240302
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.889;Servito;20240309
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.819;Servito;20240309
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Supreme Diesel;1.939;Servito;20240309

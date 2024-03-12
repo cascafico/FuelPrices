@@ -1,7 +1,6 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;GPL;0.684;Servito;20240309;06
 10355;Eni Station;46.1092319;12.8885239;;;;GPL;0.684;SelfService;20240309;06
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.659;Servito;20240302;06
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;GPL;0.779;Servito;20240309;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.786;Servito;20240306;07
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;GPL;0.749;Servito;20240307;07
@@ -22,7 +21,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.689;Servito;20240307;06
 30719;;46.1007380;13.1728220;;;Singh Kulvir;GPL;0.659;Servito;20240309;06
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;GPL;0.719;Servito;20240306;07
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;GPL;0.669;Servito;20240302;06
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;GPL;0.679;Servito;20240308;06
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;GPL;0.709;Servito;20240309;07
 35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.684;Servito;20240309;06
