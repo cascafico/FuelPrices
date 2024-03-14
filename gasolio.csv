@@ -96,8 +96,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.799;SelfService;20240311;07
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio;1.819;SelfService;20240309;07
 18807;Stazione di servizio Eni;45.6397633;13.7772089;;;Matcovich Alessandro;Gasolio;1.839;SelfService;20240312;07
-18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;Gasolio;1.849;SelfService;20240304;07
-18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;Gasolio;2.049;Servito;20240304;08
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Gasolio;1.789;SelfService;20240311;07
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.809;SelfService;20240312;07
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;2.029;Servito;20240312;08
@@ -265,15 +263,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.799;Servito;20240312;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.799;SelfService;20240312;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.749;SelfService;20240311;07
-38395;;45.6973279;13.1427830;;;A.F. Petroli S.p.A.;Gasolio;1.999;Servito;20240304;08
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.899;SelfService;20240311;07
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;2.149;Servito;20240311;08
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Gasolio;1.824;SelfService;20240312;07
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Gasolio;2.044;Servito;20240312;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.842;SelfService;20240312;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;2.062;Servito;20240312;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.799;SelfService;20240304;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.969;Servito;20240304;08
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.889;SelfService;20240312;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.099;Servito;20240312;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.889;Servito;20240311;07
