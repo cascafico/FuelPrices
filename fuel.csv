@@ -1312,12 +1312,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.839;SelfService;20240314
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.769;Servito;20240314
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.769;SelfService;20240314
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Benzina;1.899;Servito;20240306
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Benzina;1.899;SelfService;20240306
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio Premium;2.009;Servito;20240306
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio Premium;2.009;SelfService;20240306
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.899;Servito;20240306
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.899;SelfService;20240306
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Benzina;1.939;Servito;20240312
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Benzina;1.939;SelfService;20240312
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio Premium;1.989;Servito;20240312
