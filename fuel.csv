@@ -253,14 +253,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Blue Diesel;2.144;Servito;20240316
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Gasolio;1.814;SelfService;20240316
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Gasolio;2.044;Servito;20240316
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.854;SelfService;20240309
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;2.074;Servito;20240309
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Blue Diesel;1.919;SelfService;20240309
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Blue Diesel;2.139;Servito;20240309
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Blue Super;1.924;SelfService;20240309
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Blue Super;2.144;Servito;20240309
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.819;SelfService;20240309
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;2.039;Servito;20240309
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.869;Servito;20240312
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.839;Servito;20240312
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.839;SelfService;20240316

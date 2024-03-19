@@ -78,8 +78,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16463;Eni;46.0594653;13.2486093;;;;Gasolio;2.024;Servito;20240317;08
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Gasolio;1.814;SelfService;20240316;07
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Gasolio;2.044;Servito;20240316;08
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.819;SelfService;20240309;07
-16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;2.039;Servito;20240309;08
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.839;Servito;20240312;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.779;SelfService;20240316;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.949;Servito;20240316;07
