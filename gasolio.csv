@@ -260,7 +260,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.843;Servito;20240313;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.843;SelfService;20240313;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.789;SelfService;20240320;07
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.799;Servito;20240312;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.789;SelfService;20240320;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.739;SelfService;20240315;07
 38395;;45.6973279;13.1427830;;;A.F. Petroli S.p.A.;Gasolio;1.999;Servito;20240318;08
@@ -298,7 +297,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;2.039;Servito;20240320;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.799;Servito;20240314;07
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.799;SelfService;20240314;07
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.884;SelfService;20240312;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.759;Servito;20240313;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.759;SelfService;20240313;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.877;Servito;20240320;07
