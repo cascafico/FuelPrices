@@ -191,7 +191,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.857;SelfService;20240320;07
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.889;SelfService;20240321;07
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;2.099;Servito;20240321;08
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.799;SelfService;20240313;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.859;SelfService;20240321;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;2.029;Servito;20240321;08
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.859;Servito;20240320;07
