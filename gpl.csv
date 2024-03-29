@@ -8,7 +8,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;GPL;0.709;Servito;20240325;07
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.689;Servito;20240325;06
 17515;Tamoil;45.8658062;12.7337345;;;Porricelli Emilio;GPL;0.699;Servito;20240326;06
-18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.;GPL;0.767;Servito;20240319;07
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;GPL;0.689;Servito;20240326;06
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;GPL;0.749;Servito;20240327;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.728;Servito;20240321;07
@@ -33,7 +32,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39018;IP;46.1366362;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;GPL;0.669;Servito;20240326;06
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;GPL;0.898;Servito;20240320;08
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;GPL;0.679;Servito;20240326;06
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.678;Servito;20240319;06
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;GPL;0.679;Servito;20240327;06
 45387;Ecotec;45.7596607;13.0300079;;;Smp Latisana;GPL;0.759;Servito;20240327;07
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni;GPL;0.699;Servito;20240325;06
