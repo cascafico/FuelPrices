@@ -512,12 +512,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.899;SelfService;20240415
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.679;Servito;20240415
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.789;SelfService;20240415
-28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Benzina;1.919;SelfService;20240418
-28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Benzina;2.129;Servito;20240418
-28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Blue Diesel;1.919;SelfService;20240418
-28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Blue Diesel;2.129;Servito;20240418
-28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Gasolio;1.819;SelfService;20240418
-28866;;45.9020222;13.2573990;;;Ghiraldo Monia;Gasolio;2.029;Servito;20240418
+28866;Eni;45.9019553;13.2576266;;;;Benzina;1.919;SelfService;20240418
+28866;Eni;45.9019553;13.2576266;;;;Benzina;2.129;Servito;20240418
+28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.919;SelfService;20240418
+28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;2.129;Servito;20240418
+28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.819;SelfService;20240418
+28866;Eni;45.9019553;13.2576266;;;;Gasolio;2.029;Servito;20240418
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.939;SelfService;20240418
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.809;SelfService;20240418
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.949;SelfService;20240419
