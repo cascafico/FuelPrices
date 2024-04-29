@@ -12,7 +12,6 @@
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio
 4569;Agip;45.9759231;12.6883812;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
-21299;Agip;45.8938575;12.5937262;;;Kasemaj Eduart
 3569;Agip;45.8825009;13.2582886;;;Buldo Orlando
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli
@@ -114,7 +113,7 @@
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.
 21065;Agip;45.9222570;12.6374580;;;Hoxha Bledar
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano
-25039;Total;45.8708578;12.5633743;;;f.lli Rosolen Giorgio e Primo Società in Nome Collettivo
+25039;IP;45.8708578;12.5633743;;;
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.
 23352;;45.7978063;12.9937233;;;San Marco Petroli Distribuzione S.R.L.
 49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.
@@ -270,7 +269,6 @@
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.
 18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio
-5226;San Marco Petroli;45.8906547;12.5871352;;;San Marco Petroli Distribuzione S.R.L.
 13665;IP;46.3683142;13.0392150;;;Distributore Ip Billiani Lilia
 35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.
@@ -372,7 +370,7 @@
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio
-34493;Eni Station;45.8502914;12.8819719;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
+34493;Eni;45.8502914;12.8819719;;;
 53345;;45.8951665;13.3092124;;;Eni Palmanova
 ;Eni;45.8418272;12.8124686;;;Som S.P.A.
 12660;Agip;45.8781722;12.7792418;;;Sottil Giovanni
@@ -506,4 +504,5 @@
 ;;45.8414330;13.0970626;;;
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana
 ;IP;45.7857566;13.3587407;;;
+5226;Bogoni;45.8904840;12.5868095;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio
