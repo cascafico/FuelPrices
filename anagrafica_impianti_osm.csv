@@ -96,7 +96,7 @@
 39519;Esso;45.9387000;13.1205500;;;Plus Service di De Paoli Marco & C. S.N.C.
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio
-32403;IP;45.9401650;13.0784460;;;Blason Luca & C. S.A.S.
+32403;IP;45.9403191;13.0784234;;;Blason Luca & C. S.A.S.
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.
 4344;Agip;45.9867851;12.6878277;;;Peron Massimo
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.
@@ -135,7 +135,7 @@
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.
 51813;Q8;46.0080400;13.1214500;;;Q8
 37479;Eni;45.9500769;13.0510956;;;Pasutti Marco
-47011;IP;45.9423453;13.0591338;;;Geff S.R.L.
+47011;IP;45.9423551;13.0591413;;;Geff S.R.L.
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi
 45229;IP;46.0355190;13.1526730;;;Geff S.R.L.
 26733;Eni;45.8296451;13.3313752;;;Veca S.A.S. di Caprioli Antonio & C.
@@ -506,4 +506,5 @@
 5226;Bogoni;45.8904840;12.5868095;;;
 ;Ghetti Andrea e Corrado Combustibili;45.9619090;12.9731999;;;
 ;;45.9442680;12.8356656;;;
+;;45.9404397;13.0786805;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio
