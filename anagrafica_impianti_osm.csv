@@ -126,7 +126,6 @@
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.
 53483;Eni;45.8112130;13.5217240;;;Eni
-35586;IP;45.7993547;13.5277227;;;Ip Services S.R.L.
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano
 48406;IP;45.9365570;13.5845520;;;M 2 S.A.S. di Savino Aldrigo & C.
 47015;Esso;45.9250087;13.6128494;;;Geff S.R.L.
@@ -213,12 +212,10 @@
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo
 10570;IP;46.5273540;13.1192850;;;Matiz Alberto
-;Api;45.7832098;13.5363427;;;Api
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.
 37480;;45.9036873;13.1818526;;;
 18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.
 6807;Total;45.9442569;12.8356969;;;Marinacci Renato
-37189;Esso;45.9560886;12.8369986;;;De Caro Francesco
 48516;Esso;45.7712330;13.6371781;;;
 17950;Prealpi;45.9265430;12.5520090;;;Prealpi S.R.L.
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.
@@ -433,6 +430,7 @@
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti
 49701;Eni;46.0875239;13.2331853;;;P.R.M. S.N.C. di Buffa Paolo & C.
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.
+35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.
