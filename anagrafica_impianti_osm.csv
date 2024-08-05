@@ -50,7 +50,6 @@
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.
 16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.
-11908;Q8;45.6693661;13.0943939;;;Servizi & Gestioni Italia S.R.L.
 47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.
 10977;;45.9887044;13.3760320;;;Maurizio Mauri
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele
@@ -443,7 +442,7 @@
 40794;;45.9567014;12.8211571;;;Cst Service di Casotto Mauro & C. Snc
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.
 ;IP;45.8437909;13.3263409;;;
-36240;Esso;45.6894502;13.1329225;;;Galasso Giorgio
+36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio
 41120;IP;45.6837001;13.1195382;;;
 38629;GIT Fuel Service;45.6129507;13.8256064;;;GIT Fuel Service S.r.l.
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.
@@ -487,7 +486,7 @@
 ;;46.0732503;13.2677045;;;
 13947;Lonza e Coglievina S.r.l.;45.6834538;13.7822883;;;Lonza & Coglievina Società a Responsabilità Limitata
 36541;Eni;45.6816895;13.3869858;;;Marchesan S.A.S. di Marchesan Massimiliano e C.
-;Eni;45.6900173;13.1397455;;;
+;Eni;45.6900173;13.1397517;;;
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti
 ;;45.7978738;12.9937511;;;
 ;;46.3726336;13.0648238;;;
@@ -504,4 +503,5 @@
 ;Ghetti Andrea e Corrado Combustibili;45.9619090;12.9731999;;;
 ;;45.9442680;12.8356656;;;
 ;;45.9404397;13.0786805;;;
+11908;Q8;45.6693113;13.0945649;;;Servizi & Gestioni Italia S.R.L.
 50952;;46.0645392;13.2120296;;;Favaro Giulio
