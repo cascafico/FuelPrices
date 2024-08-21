@@ -168,7 +168,7 @@
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.
 45255;IP;46.0825260;13.1737550;;;Kaur Amandeep
-;Erg;45.8215580;13.1344500;;;Erg
+;IP;45.8215580;13.1344500;;;
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.
@@ -295,7 +295,7 @@
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio
 ;Tamoil;46.0863100;12.6526404;;;Tamoil
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano
-;IP;45.8887989;13.4455663;;;M 2 S.A.S. di Savino Aldrigo & C.
+;IP;45.8888564;13.4455099;;;M 2 S.A.S. di Savino Aldrigo & C.
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni
 36300;;45.9439217;12.4625026;;;Cima Servizi S.R.L.
 ;;45.6498158;13.0929175;;;
@@ -338,6 +338,7 @@
 9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.
 53727;Esso Sgonico;45.7185651;13.7299462;;;Alfamax S.a.s. di Ghiretti Andrea & Zorzin F.
+;Eni;45.9648155;13.1923122;;;
 38527;Sarni Oil;46.3984188;13.1671584;;;Sarni S.R.L.
 9002;Presani Marco;46.1000861;13.4423999;;;Servizi & Gestioni Italia S.R.L.
 53643;;46.1535669;13.2186863;;;Impianto Ip Tricesimo - Fuel Service S.A.S.
@@ -467,6 +468,7 @@
 11913;Q8;46.0752001;13.2387295;;;Servizi & Gestioni Italia S.R.L.
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.
 50406;IP;46.0711080;13.2371566;;;Hassan Ali
+48899;Eni;46.0420044;13.2214918;;;
 ;;46.5072347;13.5547403;;;
 45161;Metano;46.0340387;13.2665014;;;Italmetano S.R.L.
 4355;;46.0162153;13.1478214;;;Jetrent S.R.L.
@@ -504,4 +506,5 @@
 ;;45.9442680;12.8356656;;;
 ;;45.9404397;13.0786805;;;
 11908;Q8;45.6693113;13.0945649;;;Servizi & Gestioni Italia S.R.L.
+;;45.8888657;13.4454827;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio
