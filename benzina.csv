@@ -379,7 +379,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.689;Servito;20240927;06
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.689;SelfService;20240927;06
 53066;Tamoil;45.7179069;13.0497980;;;T.D.M. S.R.L.;Benzina;1.719;SelfService;20240930;07
-53341;;45.6393200;13.7603681;;;Geff S.r.l.;Benzina;1.709;SelfService;20240929;06
+53341;IP;45.6393200;13.7603681;;;Geff S.r.l.;Benzina;1.709;SelfService;20240929;06
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Benzina;1.739;SelfService;20240930;07
 53345;;45.8951665;13.3092124;;;Eni Palmanova;Benzina;1.959;Servito;20240930;07
 53483;Eni;45.8112130;13.5217240;;;Eni;Benzina;1.739;SelfService;20240930;07
