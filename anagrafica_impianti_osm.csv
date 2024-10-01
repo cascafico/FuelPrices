@@ -136,9 +136,7 @@
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi
 45229;IP;46.0355190;13.1526730;;;Geff S.R.L.
-26733;Eni;45.8296451;13.3313752;;;Veca S.A.S. di Caprioli Antonio & C.
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.
-43899;Esso;45.8288315;13.3300342;;;Geff S.R.L.
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.
 31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.
 41156;Agip;46.0923845;13.4202953;;;Costaperaria Monica
@@ -506,4 +504,6 @@
 11908;Q8;45.6693113;13.0945649;;;Servizi & Gestioni Italia S.R.L.
 ;;45.8888657;13.4454827;;;
 ;;46.0432887;13.1925613;;;
+26733;Eni;45.8296557;13.3315143;;;Veca S.A.S. di Caprioli Antonio & C.
+ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 50952;;46.0645392;13.2120296;;;Favaro Giulio
