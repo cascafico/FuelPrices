@@ -896,9 +896,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Benzina;1.729;SelfService;20241007
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Gasolio;1.659;Servito;20241007
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Gasolio;1.659;SelfService;20241007
-47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Benzina;1.697;SelfService;20241007
-47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Gasolio;1.627;SelfService;20241007
-47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;HVO;1.607;SelfService;20241007
+47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;Benzina;1.697;SelfService;20241007
+47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;Gasolio;1.627;SelfService;20241007
+47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;HVO;1.607;SelfService;20241007
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.709;SelfService;20241004
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.659;SelfService;20241004
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Supreme Diesel;1.849;SelfService;20241004
@@ -933,14 +933,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Blue Diesel;2.049;Servito;20241007
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Gasolio;1.634;SelfService;20241007
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Gasolio;1.949;Servito;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Benzina;1.749;SelfService;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Benzina;1.959;Servito;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Blue Diesel;1.729;SelfService;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Blue Diesel;1.939;Servito;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Blue Super;1.899;SelfService;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Blue Super;2.109;Servito;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Gasolio;1.629;SelfService;20241007
-49270;;45.8378802;13.2114657;;;Eni Station;Gasolio;1.839;Servito;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Benzina;1.749;SelfService;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Benzina;1.959;Servito;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Blue Diesel;1.729;SelfService;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Blue Diesel;1.939;Servito;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Blue Super;1.899;SelfService;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Blue Super;2.109;Servito;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Gasolio;1.629;SelfService;20241007
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Gasolio;1.839;Servito;20241007
 49549;Eni;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.749;SelfService;20241007
 49549;Eni;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.969;Servito;20241007
 49549;Eni;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Gasolio;1.639;SelfService;20241007

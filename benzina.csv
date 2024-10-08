@@ -316,7 +316,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47037;IP;46.5489890;12.8543690;;;Geff S.R.L.;Benzina;1.769;SelfService;20241007;07
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Benzina;1.729;Servito;20241007;07
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Benzina;1.729;SelfService;20241007;07
-47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone;Benzina;1.697;SelfService;20241007;06
+47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;Benzina;1.697;SelfService;20241007;06
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.709;SelfService;20241004;06
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.799;Servito;20241006;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.799;SelfService;20241006;07
@@ -331,8 +331,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.909;Servito;20241007;07
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;1.744;SelfService;20241007;07
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;2.004;Servito;20241007;08
-49270;;45.8378802;13.2114657;;;Eni Station;Benzina;1.749;SelfService;20241007;07
-49270;;45.8378802;13.2114657;;;Eni Station;Benzina;1.959;Servito;20241007;07
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Benzina;1.749;SelfService;20241007;07
+49270;Eni;45.8378802;13.2114657;;;Eni Station;Benzina;1.959;Servito;20241007;07
 49549;Eni;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.749;SelfService;20241007;07
 49549;Eni;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.969;Servito;20241007;08
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Benzina;1.739;SelfService;20241007;07

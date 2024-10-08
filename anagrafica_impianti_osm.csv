@@ -283,7 +283,7 @@
 34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
 52852;IP;45.9357748;13.1754332;;;
-49270;;45.8378802;13.2114657;;;Eni Station
+49270;Eni;45.8378802;13.2114657;;;Eni Station
 11892;Shell Aico Uno S.r.l.;45.6994512;13.8299716;;;Servizi & Gestioni Italia S.R.L.
 8684;Eni;45.9600500;12.5121000;;;
 11771;Shell;45.9595120;12.5024471;;;Servizi & Gestioni Italia S.R.L.
@@ -323,7 +323,7 @@
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.
 52387;IP;46.0088700;13.3308100;;;Fuel Service S.A.S. di Valenti Mario & C.
-47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gnp Monfalcone
+47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh
 46566;;45.9240300;12.9430100;;;Zanchetta Pietro
 45355;IP;45.8892315;13.3092592;;;Geff S.R.L.
@@ -399,7 +399,7 @@
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran
 50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco
 5023;Termoveneta;45.9751705;12.4858614;;;Termoveneta S.R.L.
-48159;;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.
+48159;Q8;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.
 45658;Trivengas;45.9149642;13.4677904;;;Ricciardi Giovanni
 14695;Tamoil;46.5110311;13.0021835;;;Moro Miria
