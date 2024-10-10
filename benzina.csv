@@ -156,8 +156,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.964;Servito;20241008;08
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.719;SelfService;20241008;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.899;Servito;20241008;07
-27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;Servito;20241007;06
-27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;SelfService;20241007;06
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;Servito;20241007;06
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;SelfService;20241007;06
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.709;Servito;20241007;06
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.709;SelfService;20241007;06
 28059;Esso;45.8062286;13.3909882;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Benzina;1.719;SelfService;20241008;07

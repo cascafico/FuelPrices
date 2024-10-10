@@ -433,11 +433,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.799;Servito;20241008
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Hi-Q Diesel;1.869;SelfService;20241008
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Hi-Q Diesel;2.049;Servito;20241008
-27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;Servito;20241007
-27651;;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;SelfService;20241007
-27651;;45.8893323;13.0354500;;;Degano Cesare;GPL;0.669;Servito;20241007
-27651;;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.599;Servito;20241007
-27651;;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.599;SelfService;20241007
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;Servito;20241007
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.699;SelfService;20241007
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;GPL;0.669;Servito;20241007
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.599;Servito;20241007
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.599;SelfService;20241007
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.709;Servito;20241007
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.709;SelfService;20241007
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.599;Servito;20241007

@@ -14,7 +14,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;GPL;0.670;Servito;20241006;06
 26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.;GPL;0.699;Servito;20241009;06
 26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.709;Servito;20241008;07
-27651;;45.8893323;13.0354500;;;Degano Cesare;GPL;0.669;Servito;20241007;06
+27651;IP;45.8893323;13.0354500;;;Degano Cesare;GPL;0.669;Servito;20241007;06
 28291;Tamoil;45.6379173;13.8149834;;;;GPL;0.999;Servito;20241007;10
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.669;Servito;20241008;06
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.699;Servito;20241004;06
