@@ -224,8 +224,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.599;Servito;20241015;06
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.599;SelfService;20241015;06
 36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Gasolio;1.719;Servito;20241019;07
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Gasolio;1.778;SelfService;20241020;07
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Gasolio;2.008;Servito;20241020;08
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Gasolio;1.778;SelfService;20241020;07
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Gasolio;2.008;Servito;20241020;08
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.759;SelfService;20241021;07
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.979;Servito;20241021;08
 36502;IP;46.0302138;13.1028162;;;;Gasolio;1.629;Servito;20241021;06

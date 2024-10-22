@@ -623,12 +623,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Benzina;1.799;Servito;20241019
 36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Gasolio Premium;1.859;Servito;20241019
 36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Gasolio;1.719;Servito;20241019
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Benzina;1.838;SelfService;20241020
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Benzina;2.068;Servito;20241020
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Gasolio;1.778;SelfService;20241020
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Gasolio;2.008;Servito;20241020
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Supreme Diesel;1.918;SelfService;20241020
-36400;Esso;46.4986793;13.3767055;;;Nuova Sidap S.R.L.;Supreme Diesel;2.148;Servito;20241020
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Benzina;1.838;SelfService;20241020
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Benzina;2.068;Servito;20241020
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Gasolio;1.778;SelfService;20241020
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Gasolio;2.008;Servito;20241020
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Supreme Diesel;1.918;SelfService;20241020
+36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Supreme Diesel;2.148;Servito;20241020
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Benzina;1.859;SelfService;20241021
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Benzina;2.079;Servito;20241021
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;GPL;0.898;Servito;20241021
