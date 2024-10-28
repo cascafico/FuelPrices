@@ -100,9 +100,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.659;Servito;20241021
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.669;SelfService;20241021
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Hi-Q Diesel;2.029;SelfService;20241021
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.749;SelfService;20241018
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;GP DIESEL;1.779;SelfService;20241018
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.639;SelfService;20241018
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.774;SelfService;20241026
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20241026
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Blue Diesel;1.744;SelfService;20241026
@@ -812,9 +809,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;1.949;SelfService;20241026
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.659;Servito;20241026
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.659;SelfService;20241026
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.718;Servito;20241018
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.668;Servito;20241018
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.598;Servito;20241018
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.950;Servito;20241019
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20241019
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.729;Servito;20241021

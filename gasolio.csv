@@ -40,7 +40,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.619;SelfService;20241023;06
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.608;Servito;20241024;06
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.669;SelfService;20241021;07
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.639;SelfService;20241018;06
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.644;SelfService;20241026;06
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.954;Servito;20241026;08
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Gasolio;1.679;SelfService;20241024;07
@@ -287,7 +286,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.619;SelfService;20241025;06
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.659;Servito;20241026;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.659;SelfService;20241026;07
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.598;Servito;20241018;06
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20241019;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.609;Servito;20241021;06
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.689;SelfService;20241026;07
