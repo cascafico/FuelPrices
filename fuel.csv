@@ -264,12 +264,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.889;Servito;20241029
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.769;Servito;20241028
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Gasolio;1.649;Servito;20241028
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.769;SelfService;20241021
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.969;Servito;20241021
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio artico;1.669;SelfService;20241021
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio artico;1.869;Servito;20241021
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.669;SelfService;20241021
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.869;Servito;20241021
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.869;SelfService;20241028
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Blue Diesel;1.829;SelfService;20241028
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Gasolio;1.729;SelfService;20241028
