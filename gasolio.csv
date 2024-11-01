@@ -110,8 +110,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241029;06
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.689;SelfService;20241029;07
 22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.649;Servito;20241025;06
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.669;Servito;20241022;07
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.669;SelfService;20241022;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241028;06
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.809;SelfService;20241029;07
 23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.619;Servito;20241024;06
@@ -246,7 +244,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.679;Servito;20241029;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.679;SelfService;20241029;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.589;SelfService;20241030;06
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.669;Servito;20241022;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.639;SelfService;20241030;06
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.589;SelfService;20241028;06
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.749;SelfService;20241029;07
@@ -283,7 +280,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.889;Servito;20241030;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.649;Servito;20241024;06
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.649;SelfService;20241024;06
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.719;SelfService;20241022;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.619;Servito;20241029;06
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.619;SelfService;20241029;06
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.659;Servito;20241030;07
@@ -412,8 +408,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.901;Servito;20241030;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.669;SelfService;20241030;07
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.879;Servito;20241030;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.749;SelfService;20241022;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.959;Servito;20241022;08
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.669;SelfService;20241030;07
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.889;Servito;20241030;08
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.629;SelfService;20241030;06

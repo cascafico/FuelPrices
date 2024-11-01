@@ -311,10 +311,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.689;SelfService;20241029
 22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.769;Servito;20241025
 22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.649;Servito;20241025
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.769;Servito;20241022
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.769;SelfService;20241022
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.669;Servito;20241022
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.669;SelfService;20241022
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20241028
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241028
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.929;SelfService;20241029
@@ -686,9 +682,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.679;SelfService;20241029
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.699;SelfService;20241030
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.589;SelfService;20241030
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.779;Servito;20241022
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio Premium;1.809;Servito;20241022
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.669;Servito;20241022
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.769;SelfService;20241030
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.639;SelfService;20241030
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Supreme Diesel;1.759;SelfService;20241030
@@ -800,8 +793,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.649;SelfService;20241024
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.649;Servito;20241024
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.649;SelfService;20241024
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.809;SelfService;20241022
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.719;SelfService;20241022
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.719;Servito;20241029
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.719;SelfService;20241029
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;GPL;0.684;Servito;20241029
@@ -1178,14 +1169,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.669;SelfService;20241030
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.879;Servito;20241030
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.669;SelfService;20241030
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.869;SelfService;20241022
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.079;Servito;20241022
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;1.959;SelfService;20241022
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.169;Servito;20241022
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.119;SelfService;20241022
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.329;Servito;20241022
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.749;SelfService;20241022
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.959;Servito;20241022
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.759;SelfService;20241030
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.979;Servito;20241030
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Blue Diesel;1.769;SelfService;20241030

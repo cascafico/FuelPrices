@@ -110,8 +110,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20241029;02
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.769;SelfService;20241029;02
 22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.769;Servito;20241025;02
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.769;Servito;20241022;02
-23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.769;SelfService;20241022;02
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20241028;02
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.929;SelfService;20241029;02
 23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.729;Servito;20241024;02
@@ -246,7 +244,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.789;Servito;20241029;02
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.789;SelfService;20241029;02
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.699;SelfService;20241030;02
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.779;Servito;20241022;02
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.769;SelfService;20241030;02
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.699;SelfService;20241028;02
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.858;SelfService;20241029;02
@@ -283,7 +280,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.984;Servito;20241030;02
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.789;Servito;20241024;02
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.789;SelfService;20241024;02
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.809;SelfService;20241022;02
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.719;Servito;20241029;02
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.719;SelfService;20241029;02
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.779;Servito;20241030;02
@@ -412,8 +408,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;2.031;Servito;20241030;02
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.754;SelfService;20241030;02
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.964;Servito;20241030;02
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.869;SelfService;20241022;02
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.079;Servito;20241022;02
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.759;SelfService;20241030;02
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.979;Servito;20241030;02
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20241030;02
