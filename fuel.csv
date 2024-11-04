@@ -36,10 +36,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.797;SelfService;20241101
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.687;Servito;20241101
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.687;SelfService;20241101
-11329;Macorigh;46.0917787;13.2224475;;;;Benzina;1.745;Servito;20241025
-11329;Macorigh;46.0917787;13.2224475;;;;Benzina;1.745;SelfService;20241025
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.630;Servito;20241025
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.630;SelfService;20241025
 11606;Q8;45.8060980;13.5386540;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.769;SelfService;20241101
 11606;Q8;45.8060980;13.5386540;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.669;SelfService;20241101
 11607;Q8 Easy;45.8303280;13.5003754;;;;Benzina;1.759;SelfService;20241030
@@ -178,12 +174,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.719;Servito;20241031
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.698;Servito;20241031
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.619;Servito;20241031
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.757;SelfService;20241025
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.927;Servito;20241025
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.657;SelfService;20241025
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.817;Servito;20241025
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.657;SelfService;20241025
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.817;Servito;20241025
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.739;Servito;20241031
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.629;Servito;20241031
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.729;Servito;20241029
@@ -417,13 +407,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.869;SelfService;20241101
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.849;SelfService;20241101
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.749;SelfService;20241101
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.799;SelfService;20241025
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;2.009;Servito;20241025
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.774;Servito;20241025
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.774;SelfService;20241025
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.709;Servito;20241025
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.654;SelfService;20241025
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.864;Servito;20241025
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.749;SelfService;20241031
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.929;Servito;20241031
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.619;SelfService;20241031

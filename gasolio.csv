@@ -10,8 +10,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.864;Servito;20241029;07
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.687;Servito;20241101;07
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.687;SelfService;20241101;07
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.630;Servito;20241025;06
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.630;SelfService;20241025;06
 11606;Q8;45.8060980;13.5386540;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.669;SelfService;20241101;07
 11607;Q8 Easy;45.8303280;13.5003754;;;;Gasolio;1.649;SelfService;20241030;06
 11608;Q8;45.8860765;13.4962677;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20241101;07
@@ -63,8 +61,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Gasolio;1.649;SelfService;20241031;06
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Gasolio;1.819;Servito;20241028;07
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.619;Servito;20241031;06
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.657;SelfService;20241025;07
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.817;Servito;20241025;07
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.629;Servito;20241031;06
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.629;Servito;20241029;06
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.629;SelfService;20241029;06
@@ -149,8 +145,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.657;SelfService;20241101;07
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Gasolio;1.639;SelfService;20241031;06
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.749;SelfService;20241101;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.654;SelfService;20241025;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.864;Servito;20241025;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.619;SelfService;20241031;06
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.799;Servito;20241031;07
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.619;Servito;20241031;06
