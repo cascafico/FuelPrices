@@ -4,7 +4,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.889;Servito;20241102;08
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.679;SelfService;20241103;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.899;Servito;20241103;08
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.639;SelfService;20241026;06
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Gasolio;1.669;Servito;20241030;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.654;SelfService;20241029;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.864;Servito;20241029;07
@@ -72,8 +71,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.689;SelfService;20241103;07
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.909;Servito;20241103;08
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.689;Servito;20241029;07
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.629;SelfService;20241026;06
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.799;Servito;20241026;07
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.680;SelfService;20241102;07
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.649;SelfService;20241102;06
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.899;Servito;20241102;08
@@ -410,4 +407,3 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.719;SelfService;20241028;07
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio;1.719;Servito;20241031;07
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio;1.719;SelfService;20241031;07
-9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.;Gasolio;1.609;Servito;20241026;06
