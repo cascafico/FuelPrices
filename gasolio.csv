@@ -103,7 +103,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Gasolio;1.669;SelfService;20241107;07
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241105;06
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.689;SelfService;20241106;07
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.629;Servito;20241030;06
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.659;Servito;20241106;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.659;SelfService;20241106;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241104;06
@@ -315,8 +314,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.699;SelfService;20241104;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.617;Servito;20241106;06
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.617;SelfService;20241106;06
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.689;Servito;20241030;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.689;SelfService;20241030;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.689;SelfService;20241107;07
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.639;Servito;20241105;06
 48516;Esso;45.7712330;13.6371781;;;;Gasolio;1.699;Servito;20241107;07
