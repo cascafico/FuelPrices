@@ -39,7 +39,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11913;Q8;46.0752001;13.2387295;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.749;SelfService;20241107;07
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.729;SelfService;20241106;07
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20241105;07
-12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.728;Servito;20241031;07
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.799;SelfService;20241104;07
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.728;SelfService;20241106;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.764;SelfService;20241108;07
@@ -138,8 +137,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25828;IP;46.0001630;13.2741670;;;Ip Services S.R.L.;Benzina;1.729;SelfService;20241107;07
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Benzina;1.729;SelfService;20241107;07
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.729;SelfService;20241107;07
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.829;SelfService;20241031;07
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.051;Servito;20241031;08
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.799;SelfService;20241105;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.738;Servito;20241106;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.738;SelfService;20241106;07
@@ -407,8 +404,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;2.021;Servito;20241108;08
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.754;SelfService;20241108;07
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.964;Servito;20241108;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.859;SelfService;20241031;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.069;Servito;20241031;08
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.759;SelfService;20241108;07
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.979;Servito;20241108;08
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20241107;07

@@ -94,8 +94,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.619;SelfService;20241106
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20241105
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.619;SelfService;20241105
-12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.728;Servito;20241031
-12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.608;Servito;20241031
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.799;SelfService;20241104
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.659;Servito;20241104
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.669;SelfService;20241104
@@ -378,13 +376,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Gasolio;1.619;SelfService;20241107
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Benzina;1.729;SelfService;20241107
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Gasolio;1.619;SelfService;20241107
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.829;SelfService;20241031
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.051;Servito;20241031
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;1.819;SelfService;20241031
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Blue Diesel;2.041;Servito;20241031
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.738;Servito;20241031
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.699;SelfService;20241031
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.921;Servito;20241031
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.799;SelfService;20241105
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.739;SelfService;20241105
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;2.019;SelfService;20241105
@@ -1160,14 +1151,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.669;SelfService;20241108
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.879;Servito;20241108
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.669;SelfService;20241108
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.859;SelfService;20241031
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.069;Servito;20241031
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;1.939;SelfService;20241031
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.149;Servito;20241031
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.119;SelfService;20241031
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.329;Servito;20241031
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.729;SelfService;20241031
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.939;Servito;20241031
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.759;SelfService;20241108
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.979;Servito;20241108
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Blue Diesel;1.769;SelfService;20241108
