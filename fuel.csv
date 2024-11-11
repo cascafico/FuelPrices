@@ -690,15 +690,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Blue Super;2.139;Servito;20241109
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.699;SelfService;20241109
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.919;Servito;20241109
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.749;SelfService;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.919;Servito;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.649;SelfService;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.819;Servito;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HVO;1.529;SelfService;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.049;SelfService;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.169;Servito;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.049;SelfService;20241101
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.169;Servito;20241101
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.839;SelfService;20241108
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.049;Servito;20241108
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Diesel;1.829;SelfService;20241108
