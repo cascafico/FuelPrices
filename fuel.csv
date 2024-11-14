@@ -19,9 +19,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Blue Super;2.139;Servito;20241112
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.679;SelfService;20241112
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.899;Servito;20241112
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.749;SelfService;20241104
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio Premium;1.769;SelfService;20241104
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.639;SelfService;20241104
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.779;Servito;20241111
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Gasolio;1.669;Servito;20241111
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.764;SelfService;20241106
@@ -132,10 +129,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.819;SelfService;20241112
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.969;SelfService;20241112
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.689;SelfService;20241112
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.729;SelfService;20241104
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.759;SelfService;20241104
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.796;Servito;20241104
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.619;SelfService;20241104
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.779;Servito;20241112
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.679;Servito;20241112
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.749;Servito;20241112
@@ -313,9 +306,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.929;SelfService;20241111
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;F101;2.079;SelfService;20241111
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.829;SelfService;20241111
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.709;Servito;20241104
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio artico;1.609;Servito;20241104
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.609;Servito;20241104
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.779;SelfService;20241107
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.659;SelfService;20241107
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.749;SelfService;20241112
@@ -564,10 +554,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.595;SelfService;20241108
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.695;Servito;20241108
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.695;SelfService;20241108
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.749;Servito;20241104
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.749;SelfService;20241104
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.649;Servito;20241104
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.649;SelfService;20241104
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.769;SelfService;20241112
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.859;Servito;20241112
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.689;SelfService;20241112
@@ -634,9 +620,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.599;SelfService;20241112
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;HVO100;1.589;Servito;20241112
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;HVO100;1.589;SelfService;20241112
-36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Benzina;1.789;Servito;20241104
-36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Gasolio Premium;1.819;Servito;20241104
-36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Gasolio;1.689;Servito;20241104
 36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Benzina;1.828;SelfService;20241111
 36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Benzina;2.068;Servito;20241111
 36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Gasolio;1.788;SelfService;20241111

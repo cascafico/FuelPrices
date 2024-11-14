@@ -4,7 +4,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;2.009;Servito;20241112;08
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.769;SelfService;20241112;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.989;Servito;20241112;08
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.749;SelfService;20241104;07
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.779;Servito;20241111;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.764;SelfService;20241106;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.974;Servito;20241106;08
@@ -51,7 +50,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.719;SelfService;20241111;07
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.729;Servito;20241111;07
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.809;SelfService;20241112;07
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.729;SelfService;20241104;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.779;Servito;20241112;07
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.749;Servito;20241112;07
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Benzina;1.779;Servito;20241109;07
@@ -113,7 +111,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;SelfService;20241111;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20241111;07
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.929;SelfService;20241111;07
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.709;Servito;20241104;06
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.779;SelfService;20241107;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.749;SelfService;20241112;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;1.869;Servito;20241109;07
@@ -204,8 +201,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Benzina;1.759;SelfService;20241111;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.725;Servito;20241108;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.725;SelfService;20241108;07
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.749;Servito;20241104;07
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.749;SelfService;20241104;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.769;SelfService;20241112;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.859;Servito;20241112;07
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;1.789;SelfService;20241112;07
@@ -228,7 +223,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.708;SelfService;20241106;06
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Benzina;1.719;Servito;20241112;07
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Benzina;1.719;SelfService;20241112;07
-36240;Esso;45.6894528;13.1329390;;;Galasso Giorgio;Benzina;1.789;Servito;20241104;07
 36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Benzina;1.828;SelfService;20241111;07
 36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Benzina;2.068;Servito;20241111;08
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Benzina;1.858;SelfService;20241111;07
