@@ -135,7 +135,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.;Gasolio;1.599;SelfService;20241112;06
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.679;SelfService;20241111;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.901;Servito;20241111;08
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.739;SelfService;20241105;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.651;Servito;20241111;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.651;SelfService;20241111;07
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.588;SelfService;20241113;06
