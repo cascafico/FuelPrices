@@ -302,8 +302,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.759;SelfService;20241113
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio Premium;1.809;SelfService;20241113
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.689;SelfService;20241113
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.739;Servito;20241107
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.649;Servito;20241107
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;Servito;20241113
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;SelfService;20241113
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.659;Servito;20241113
@@ -871,8 +869,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.819;Servito;20241113
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.779;SelfService;20241113
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.939;Servito;20241113
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.777;SelfService;20241107
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.677;SelfService;20241107
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.779;Servito;20241115
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.779;SelfService;20241115
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.689;Servito;20241115

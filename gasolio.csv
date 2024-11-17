@@ -105,7 +105,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Gasolio;1.669;SelfService;20241115;07
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241112;06
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.689;SelfService;20241113;07
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.649;Servito;20241107;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.659;Servito;20241113;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.659;SelfService;20241113;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241111;06
@@ -306,7 +305,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.681;Servito;20241113;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.659;SelfService;20241113;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.819;Servito;20241113;07
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.677;SelfService;20241107;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.689;Servito;20241115;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.689;SelfService;20241115;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;1.619;SelfService;20241115;06
