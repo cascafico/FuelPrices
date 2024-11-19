@@ -96,10 +96,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.619;SelfService;20241112
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.728;Servito;20241113
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.628;Servito;20241113
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.799;SelfService;20241109
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.659;Servito;20241109
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.669;SelfService;20241109
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Hi-Q Diesel;2.029;SelfService;20241109
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.728;SelfService;20241112
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;GP DIESEL;1.772;SelfService;20241112
 13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.642;SelfService;20241112
