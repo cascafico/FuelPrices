@@ -226,10 +226,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;F-101;1.940;SelfService;20241115
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio speciale;1.780;SelfService;20241115
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.680;SelfService;20241115
-17483;IP;46.0015368;13.2066810;;;;Benzina;1.779;SelfService;20241111
-17483;IP;46.0015368;13.2066810;;;;Benzina;2.029;Servito;20241111
-17483;IP;46.0015368;13.2066810;;;;Gasolio;1.669;SelfService;20241111
-17483;IP;46.0015368;13.2066810;;;;Gasolio;1.919;Servito;20241111
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Benzina;1.779;Servito;20241115
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio Premium;1.809;Servito;20241115
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio artico;1.809;Servito;20241115
@@ -889,10 +885,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.757;SelfService;20241118
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.617;Servito;20241118
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.617;SelfService;20241118
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;Servito;20241111
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;SelfService;20241111
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.689;Servito;20241111
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.689;SelfService;20241111
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.749;SelfService;20241119
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.779;SelfService;20241119
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.679;SelfService;20241119

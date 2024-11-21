@@ -82,8 +82,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.729;SelfService;20241118;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.899;Servito;20241118;07
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.785;SelfService;20241115;07
-17483;IP;46.0015368;13.2066810;;;;Benzina;1.779;SelfService;20241111;07
-17483;IP;46.0015368;13.2066810;;;;Benzina;2.029;Servito;20241111;08
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Benzina;1.779;Servito;20241115;07
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.819;SelfService;20241119;07
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.769;SelfService;20241112;07
@@ -318,8 +316,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.749;SelfService;20241118;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.757;Servito;20241118;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.757;SelfService;20241118;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;Servito;20241111;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;SelfService;20241111;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.749;SelfService;20241119;07
 48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.759;Servito;20241118;07
 48516;Esso;45.7712330;13.6371781;;;;Benzina;1.779;Servito;20241118;07
