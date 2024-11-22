@@ -47,7 +47,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.917;Servito;20241120;08
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;Servito;20241118;06
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;SelfService;20241118;06
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.689;SelfService;20241112;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.629;SelfService;20241119;06
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.679;Servito;20241120;07
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.639;Servito;20241120;07
@@ -241,7 +240,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.713;Servito;20241120;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.713;SelfService;20241120;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.639;SelfService;20241120;07
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.669;Servito;20241112;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.659;SelfService;20241120;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.589;SelfService;20241114;06
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.799;SelfService;20241119;07

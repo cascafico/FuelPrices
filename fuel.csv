@@ -128,10 +128,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.719;SelfService;20241118
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;Servito;20241118
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;SelfService;20241118
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.809;SelfService;20241112
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.819;SelfService;20241112
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.969;SelfService;20241112
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.689;SelfService;20241112
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.719;SelfService;20241119
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.759;SelfService;20241119
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.796;Servito;20241119
@@ -677,9 +673,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.713;SelfService;20241120
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.699;SelfService;20241120
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.639;SelfService;20241120
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.779;Servito;20241112
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio Premium;1.809;Servito;20241112
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.669;Servito;20241112
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.759;SelfService;20241120
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.659;SelfService;20241120
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Supreme Diesel;1.779;SelfService;20241120
