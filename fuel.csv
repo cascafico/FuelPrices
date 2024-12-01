@@ -128,10 +128,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.729;SelfService;20241125
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.639;Servito;20241125
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.639;SelfService;20241125
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.799;SelfService;20241121
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.799;SelfService;20241121
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.969;SelfService;20241121
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.699;SelfService;20241121
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.729;SelfService;20241127
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.759;SelfService;20241127
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.796;Servito;20241127
@@ -557,10 +553,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.605;SelfService;20241128
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.705;Servito;20241128
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.705;SelfService;20241128
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.759;Servito;20241121
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.759;SelfService;20241121
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.669;Servito;20241121
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.669;SelfService;20241121
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.779;SelfService;20241129
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.869;Servito;20241129
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.709;SelfService;20241129
