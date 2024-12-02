@@ -445,12 +445,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.719;SelfService;20241129
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.689;Servito;20241129
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.669;SelfService;20241129
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.779;SelfService;20241122
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.989;Servito;20241122
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.799;SelfService;20241122
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;2.009;Servito;20241122
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.699;SelfService;20241122
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.909;Servito;20241122
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.757;SelfService;20241129
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.667;SelfService;20241129
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.769;SelfService;20241130

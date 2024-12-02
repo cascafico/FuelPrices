@@ -161,8 +161,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.779;Servito;20241129;07
 28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.888;Servito;20241128;07
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.719;SelfService;20241129;07
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.779;SelfService;20241122;07
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.989;Servito;20241122;08
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.757;SelfService;20241129;07
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.769;SelfService;20241130;07
 29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Benzina;1.769;SelfService;20241130;07
