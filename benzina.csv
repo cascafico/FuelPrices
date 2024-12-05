@@ -4,7 +4,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;2.009;Servito;20241203;08
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.769;SelfService;20241203;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.989;Servito;20241203;08
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.759;SelfService;20241125;07
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.799;Servito;20241203;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.764;SelfService;20241129;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.974;Servito;20241129;08
@@ -62,8 +61,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.729;SelfService;20241203;07
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.789;Servito;20241202;07
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.789;SelfService;20241202;07
-14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.779;Servito;20241125;07
-14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.779;SelfService;20241125;07
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20241202;07
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.739;Servito;20241130;07
 15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.757;SelfService;20241202;07
@@ -92,8 +89,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;1.764;SelfService;20241126;07
 19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;1.984;Servito;20241126;08
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.769;Servito;20241202;07
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.769;SelfService;20241125;07
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.969;Servito;20241125;08
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.869;SelfService;20241203;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.789;SelfService;20241203;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.999;Servito;20241203;08
@@ -142,7 +137,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.799;SelfService;20241202;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.759;Servito;20241203;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.759;SelfService;20241203;07
-26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Benzina;1.698;SelfService;20241125;06
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.759;Servito;20241201;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.759;SelfService;20241201;07
 26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.;Benzina;1.899;Servito;20241202;07
@@ -178,8 +172,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.919;Servito;20241129;07
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.729;Servito;20241130;07
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.819;SelfService;20241202;07
-30937;IP;46.2029170;13.1177990;;;;Benzina;1.769;SelfService;20241125;07
-30937;IP;46.2029170;13.1177990;;;;Benzina;1.959;Servito;20241125;08
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.739;Servito;20241129;07
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.759;SelfService;20241202;07
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Benzina;1.819;SelfService;20241202;07
