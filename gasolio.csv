@@ -85,8 +85,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.679;SelfService;20241130;07
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio;1.709;SelfService;20241203;07
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Gasolio;1.679;SelfService;20241202;07
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.699;SelfService;20241126;07
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.919;Servito;20241126;08
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Gasolio;1.699;Servito;20241202;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.719;SelfService;20241203;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.919;Servito;20241203;08
@@ -146,8 +144,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.707;SelfService;20241203;07
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Gasolio;1.689;SelfService;20241204;07
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.749;SelfService;20241203;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.629;SelfService;20241126;06
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.799;Servito;20241126;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.669;SelfService;20241204;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.849;Servito;20241204;07
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.649;Servito;20241202;06
@@ -283,8 +279,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20241130;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.639;Servito;20241129;06
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.719;SelfService;20241204;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.679;SelfService;20241126;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.849;Servito;20241126;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.679;SelfService;20241204;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.639;Servito;20241128;06
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio;1.679;SelfService;20241203;07

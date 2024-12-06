@@ -244,14 +244,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Benzina;1.759;SelfService;20241202
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Gasolio Premium;1.799;SelfService;20241202
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Gasolio;1.679;SelfService;20241202
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;1.764;SelfService;20241126
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Benzina;1.984;Servito;20241126
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Blue Diesel;1.799;SelfService;20241126
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Blue Diesel;2.019;Servito;20241126
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Blue Super;1.914;SelfService;20241126
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Blue Super;2.134;Servito;20241126
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.699;SelfService;20241126
-19502;Agip;46.0380017;12.6143167;;;Gi.Mi S.N.C. di Dall'Acqua Giancarlo & C.;Gasolio;1.919;Servito;20241126
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.769;Servito;20241202
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Gasolio;1.699;Servito;20241202
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.779;SelfService;20241203
@@ -408,13 +400,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.869;SelfService;20241203
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.849;SelfService;20241203
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.749;SelfService;20241203
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.719;SelfService;20241126
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.889;Servito;20241126
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.929;Servito;20241126
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.929;SelfService;20241126
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.719;Servito;20241126
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.629;SelfService;20241126
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.799;Servito;20241126
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.749;SelfService;20241204
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.929;Servito;20241204
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.669;SelfService;20241204
@@ -811,12 +796,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.819;SelfService;20241204
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.719;SelfService;20241204
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;HVOlution;1.669;SelfService;20241204
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.759;SelfService;20241126
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.929;Servito;20241126
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.799;SelfService;20241126
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.969;Servito;20241126
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.679;SelfService;20241126
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.849;Servito;20241126
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.759;SelfService;20241204
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.679;SelfService;20241204
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.719;Servito;20241128
