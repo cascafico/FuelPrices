@@ -291,8 +291,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.759;SelfService;20241207
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio Premium;1.849;SelfService;20241207
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.729;SelfService;20241207
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.749;Servito;20241129
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.679;Servito;20241129
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;Servito;20241205
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;SelfService;20241205
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.659;Servito;20241205
@@ -547,10 +545,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.605;SelfService;20241204
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.705;Servito;20241204
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.705;SelfService;20241204
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.759;Servito;20241129
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.759;SelfService;20241129
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.669;Servito;20241129
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.669;SelfService;20241129
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.779;SelfService;20241207
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.869;Servito;20241207
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.709;SelfService;20241207
@@ -818,9 +812,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 45246;Agip;45.8342947;13.1939850;;;Geff S.R.L.;Gasolio;1.669;SelfService;20241207
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Benzina;1.739;SelfService;20241207
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Gasolio;1.669;SelfService;20241207
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Benzina;1.719;Servito;20241129
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Gasolio;1.629;Servito;20241129
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.499;Servito;20241129
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Benzina;1.779;SelfService;20241207
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Gasolio;1.723;SelfService;20241207
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Benzina;1.709;SelfService;20241207
