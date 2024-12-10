@@ -269,15 +269,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.659;SelfService;20241204;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.689;SelfService;20241208;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.909;Servito;20241208;08
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;Servito;20241130;07
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;SelfService;20241130;07
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.739;SelfService;20241206;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.639;Servito;20241206;06
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.639;SelfService;20241206;06
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.707;Servito;20241207;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.707;SelfService;20241207;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.619;Servito;20241207;06
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20241130;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.639;Servito;20241205;06
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.699;SelfService;20241208;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.669;SelfService;20241208;07
@@ -299,7 +296,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.701;Servito;20241207;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.711;SelfService;20241202;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.871;Servito;20241202;07
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.687;SelfService;20241130;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.719;Servito;20241207;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.719;SelfService;20241207;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;1.619;SelfService;20241208;06
@@ -314,7 +310,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.729;Servito;20241206;07
 47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.729;SelfService;20241206;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.699;SelfService;20241208;07
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.689;Servito;20241203;07
+48121;IP;46.0160541;13.2573201;;;LNG Giglio- Stazione di Servizio IP;Gasolio;1.689;Servito;20241203;07
 48516;Esso;45.7712330;13.6371781;;;;Gasolio;1.719;Servito;20241207;07
 48516;Esso;45.7712330;13.6371781;;;;Gasolio;1.719;SelfService;20241207;07
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20241205;06

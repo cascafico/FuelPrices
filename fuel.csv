@@ -768,12 +768,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Blue Diesel;2.009;Servito;20241208
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.689;SelfService;20241208
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.909;Servito;20241208
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.789;Servito;20241130
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.789;SelfService;20241130
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.699;Servito;20241130
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.699;SelfService;20241130
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;Servito;20241130
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;SelfService;20241130
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.809;SelfService;20241206
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.739;SelfService;20241206
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.719;Servito;20241206
@@ -792,8 +786,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.708;Servito;20241207
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.698;Servito;20241207
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.619;Servito;20241207
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.950;Servito;20241130
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20241130
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.719;Servito;20241205
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.639;Servito;20241205
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.739;SelfService;20241208
@@ -854,8 +846,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.871;Servito;20241202
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.819;SelfService;20241202
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.979;Servito;20241202
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.787;SelfService;20241130
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.687;SelfService;20241130
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.779;Servito;20241207
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.779;SelfService;20241207
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.719;Servito;20241207
@@ -887,10 +877,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.739;SelfService;20241208
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.799;SelfService;20241208
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.699;SelfService;20241208
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.769;Servito;20241203
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;GNL;1.469;Servito;20241203
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.689;Servito;20241203
-48121;Repsol;46.0160541;13.2573201;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;L-GNC;1.399;Servito;20241203
+48121;IP;46.0160541;13.2573201;;;LNG Giglio- Stazione di Servizio IP;Benzina;1.769;Servito;20241203
+48121;IP;46.0160541;13.2573201;;;LNG Giglio- Stazione di Servizio IP;GNL;1.469;Servito;20241203
+48121;IP;46.0160541;13.2573201;;;LNG Giglio- Stazione di Servizio IP;Gasolio;1.689;Servito;20241203
+48121;IP;46.0160541;13.2573201;;;LNG Giglio- Stazione di Servizio IP;L-GNC;1.399;Servito;20241203
 48516;Esso;45.7712330;13.6371781;;;;Benzina;1.799;Servito;20241207
 48516;Esso;45.7712330;13.6371781;;;;Benzina;1.799;SelfService;20241207
 48516;Esso;45.7712330;13.6371781;;;;Gasolio;1.719;Servito;20241207
