@@ -392,8 +392,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 7269;Q8 Easy;46.4203023;13.0210435;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.759;SelfService;20241206;07
 7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.759;SelfService;20241206;07
 7293;Q8 Easy;46.0230701;13.2724298;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.729;SelfService;20241207;07
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.773;SelfService;20241209;07
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.983;Servito;20241209;08
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.773;SelfService;20241209;07
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.983;Servito;20241209;08
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Benzina;1.759;SelfService;20241207;07
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;1.799;SelfService;20241209;07
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;2.021;Servito;20241209;08

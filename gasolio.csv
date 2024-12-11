@@ -386,8 +386,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 7262;Q8;45.9313921;12.8714185;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.669;SelfService;20241206;07
 7267;Q8easy;46.0897890;13.1448520;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.624;SelfService;20241206;06
 7293;Q8 Easy;46.0230701;13.2724298;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.639;SelfService;20241207;06
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.682;SelfService;20241209;07
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.892;Servito;20241209;07
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.682;SelfService;20241209;07
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.892;Servito;20241209;07
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio;1.679;SelfService;20241207;07
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.727;SelfService;20241209;07
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.949;Servito;20241209;08

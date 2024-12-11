@@ -1111,12 +1111,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 7293;Q8 Easy;46.0230701;13.2724298;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.729;SelfService;20241207
 7293;Q8 Easy;46.0230701;13.2724298;;;Servizi & Gestioni Italia S.R.L.;GPL;0.719;Servito;20241207
 7293;Q8 Easy;46.0230701;13.2724298;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.639;SelfService;20241207
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.773;SelfService;20241209
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.983;Servito;20241209
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Blue Diesel;1.981;SelfService;20241209
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Blue Diesel;2.191;Servito;20241209
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.682;SelfService;20241209
-7366;Shell;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.892;Servito;20241209
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.773;SelfService;20241209
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Benzina;1.983;Servito;20241209
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Blue Diesel;1.981;SelfService;20241209
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Blue Diesel;2.191;Servito;20241209
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.682;SelfService;20241209
+7366;Eni;46.1049231;13.2617815;;;fratelli Giliberti S.N.C. di Giliberti Luca & Tiziano;Gasolio;1.892;Servito;20241209
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Benzina;1.759;SelfService;20241207
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio Premium;1.799;SelfService;20241207
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio;Gasolio;1.679;SelfService;20241207
