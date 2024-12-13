@@ -334,7 +334,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 49549;Eni;45.9905070;13.3653190;;;Eni Fuel S.P.A.;Benzina;1.989;Servito;20241211;08
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Benzina;1.769;SelfService;20241211;07
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Benzina;1.989;Servito;20241211;08
-50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.695;SelfService;20241209;06
+50136;Conad;46.0826655;13.1784457;;;Spazio Conad Martignacco;Benzina;1.695;SelfService;20241209;06
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.749;Servito;20241210;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.799;Servito;20241211;07
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.799;SelfService;20241211;07

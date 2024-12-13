@@ -930,8 +930,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.699;SelfService;20241211
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;Gasolio;1.919;Servito;20241211
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano;HVOlution;1.699;SelfService;20241211
-50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Benzina;1.695;SelfService;20241209
-50136;Conad;46.0826620;13.1783924;;;Spazio Conad Martignacco;Gasolio;1.615;SelfService;20241209
+50136;Conad;46.0826655;13.1784457;;;Spazio Conad Martignacco;Benzina;1.695;SelfService;20241209
+50136;Conad;46.0826655;13.1784457;;;Spazio Conad Martignacco;Gasolio;1.615;SelfService;20241209
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Benzina;1.749;Servito;20241210
 50406;IP;46.0711080;13.2371566;;;Hassan Ali;Gasolio;1.669;Servito;20241210
 50653;Stazione di servizio ESSO Riva Gabriele;45.7200848;13.7214831;;;Riva Gabriele;Benzina;1.799;Servito;20241211
