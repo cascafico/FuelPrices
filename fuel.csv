@@ -476,10 +476,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.979;Servito;20241214
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Gasolio;1.709;SelfService;20241214
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Gasolio;1.939;Servito;20241214
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.679;SelfService;20241206
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.609;SelfService;20241206
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;1.909;SelfService;20241206
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;HiQ Perform+;1.111;SelfService;20241206
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.739;SelfService;20241213
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.909;Servito;20241213
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.729;Servito;20241213
@@ -691,15 +687,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Blue Super;1.000;SelfService;20241214
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.727;SelfService;20241214
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.947;Servito;20241214
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.719;SelfService;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.889;Servito;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.639;SelfService;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.809;Servito;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HVO;1.539;SelfService;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.049;SelfService;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.169;Servito;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.039;SelfService;20241206
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.139;Servito;20241206
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.829;SelfService;20241213
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.039;Servito;20241213
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Diesel;1.839;SelfService;20241213
@@ -907,11 +894,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.919;Servito;20241210
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Gasolio;1.629;SelfService;20241210
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Gasolio;1.839;Servito;20241210
-49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.;Benzina;1.739;Servito;20241206
-49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.;Gasolio;1.649;Servito;20241206
-49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Benzina;1.739;Servito;20241206
-49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;GPL;0.709;Servito;20241206
-49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Gasolio;1.659;Servito;20241206
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;1.789;SelfService;20241214
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;2.004;Servito;20241214
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Blue Diesel;1.809;SelfService;20241214

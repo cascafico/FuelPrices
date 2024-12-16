@@ -174,7 +174,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.757;SelfService;20241213;07
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.769;SelfService;20241214;07
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.979;Servito;20241214;08
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.679;SelfService;20241206;06
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.739;SelfService;20241213;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.909;Servito;20241213;07
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.729;Servito;20241211;07
@@ -248,8 +247,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.979;Servito;20241214;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.759;SelfService;20241214;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.979;Servito;20241214;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.719;SelfService;20241206;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.889;Servito;20241206;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.829;SelfService;20241213;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.039;Servito;20241213;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;1.869;SelfService;20241210;07
@@ -326,8 +323,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20241212;06
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.709;SelfService;20241210;07
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.919;Servito;20241210;07
-49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.;Benzina;1.739;Servito;20241206;07
-49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Benzina;1.739;Servito;20241206;07
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;1.789;SelfService;20241214;07
 49248;;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;2.004;Servito;20241214;08
 49270;Eni;45.8378802;13.2114657;;;Eni Station;Benzina;1.749;SelfService;20241214;07
