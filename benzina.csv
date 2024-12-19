@@ -65,8 +65,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.769;SelfService;20241216;07
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20241216;07
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.739;Servito;20241217;07
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.757;SelfService;20241209;07
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.927;Servito;20241209;07
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.729;Servito;20241216;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.739;Servito;20241210;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.739;SelfService;20241210;07
@@ -305,7 +303,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Benzina;1.801;Servito;20241214;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;1.759;SelfService;20241216;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;1.919;Servito;20241216;07
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.787;SelfService;20241209;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.769;Servito;20241216;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.769;SelfService;20241216;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Benzina;1.709;SelfService;20241217;07
