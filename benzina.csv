@@ -70,7 +70,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.729;Servito;20241218;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.739;Servito;20241217;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.739;SelfService;20241217;07
-16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Benzina;1.739;SelfService;20241211;07
 16463;Eni;46.0594653;13.2486093;;;;Benzina;1.749;SelfService;20241219;07
 16463;Eni;46.0594653;13.2486093;;;;Benzina;1.969;Servito;20241219;08
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Benzina;1.749;SelfService;20241219;07
@@ -110,7 +109,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;SelfService;20241216;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20241217;07
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.999;SelfService;20241218;08
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.739;Servito;20241211;07
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.769;SelfService;20241218;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.739;SelfService;20241219;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;1.899;Servito;20241214;07
@@ -155,7 +153,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Benzina;1.749;SelfService;20241218;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.739;Servito;20241216;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.739;SelfService;20241216;07
-28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Benzina;1.749;SelfService;20241211;07
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.769;Servito;20241217;07
 28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.888;Servito;20241216;07
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.729;SelfService;20241218;07

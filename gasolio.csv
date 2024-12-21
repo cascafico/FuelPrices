@@ -67,7 +67,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.659;Servito;20241218;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.669;Servito;20241217;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.669;SelfService;20241217;07
-16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Gasolio;1.659;SelfService;20241211;07
 16463;Eni;46.0594653;13.2486093;;;;Gasolio;1.709;SelfService;20241219;07
 16463;Eni;46.0594653;13.2486093;;;;Gasolio;1.929;Servito;20241219;08
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Gasolio;1.669;SelfService;20241219;07
@@ -107,7 +106,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.659;SelfService;20241216;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.639;SelfService;20241217;06
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.909;SelfService;20241218;08
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.649;Servito;20241211;06
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20241218;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.659;SelfService;20241219;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Gasolio;1.839;Servito;20241214;07
@@ -152,7 +150,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.649;SelfService;20241218;06
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.639;Servito;20241216;06
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.639;SelfService;20241216;06
-28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Gasolio;1.659;SelfService;20241211;07
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio;1.699;Servito;20241217;07
 28291;Tamoil;45.6379173;13.8149834;;;;Gasolio;1.798;Servito;20241216;07
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.659;SelfService;20241218;07

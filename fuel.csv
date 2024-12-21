@@ -188,8 +188,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.739;SelfService;20241217
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.669;Servito;20241217
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.669;SelfService;20241217
-16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Benzina;1.739;SelfService;20241211
-16412;TotalErg;45.9504040;12.9732660;;;B. & B. di Brun Gianfranco e Stefano S.A.S.;Gasolio;1.659;SelfService;20241211
 16463;Eni;46.0594653;13.2486093;;;;Benzina;1.749;SelfService;20241219
 16463;Eni;46.0594653;13.2486093;;;;Benzina;1.969;Servito;20241219
 16463;Eni;46.0594653;13.2486093;;;;Blue Diesel;1.809;SelfService;20241219
@@ -303,9 +301,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.999;SelfService;20241218
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;F101;1.999;SelfService;20241218
 23721;;45.9588317;13.4638003;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.909;SelfService;20241218
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.739;Servito;20241211
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio artico;1.649;Servito;20241211
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.649;Servito;20241211
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.769;SelfService;20241218
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20241218
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.739;SelfService;20241219
@@ -423,9 +418,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.739;SelfService;20241216
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.639;Servito;20241216
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.639;SelfService;20241216
-28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Benzina;1.749;SelfService;20241211
-28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Gasolio Premium;1.899;SelfService;20241211
-28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Gasolio;1.659;SelfService;20241211
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina speciale;1.869;Servito;20241217
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.769;Servito;20241217
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio speciale;1.799;Servito;20241217
