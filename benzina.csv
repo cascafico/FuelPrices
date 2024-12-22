@@ -239,7 +239,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.719;SelfService;20241220;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.749;SelfService;20241220;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.699;SelfService;20241220;06
-38395;;45.6973144;13.1428156;;;A.F. Petroli S.p.A.;Benzina;1.899;Servito;20241212;07
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.869;SelfService;20241219;07
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.069;Servito;20241219;08
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.759;SelfService;20241216;07

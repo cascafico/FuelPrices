@@ -663,8 +663,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.699;SelfService;20241220
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.609;SelfService;20241220
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;HVO100;1.605;SelfService;20241220
-38395;;45.6973144;13.1428156;;;A.F. Petroli S.p.A.;Benzina;1.899;Servito;20241212
-38395;;45.6973144;13.1428156;;;A.F. Petroli S.p.A.;Gasolio;1.799;Servito;20241212
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.869;SelfService;20241219
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.069;Servito;20241219
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio Ecoplus;1.899;SelfService;20241219
