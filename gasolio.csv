@@ -80,7 +80,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.639;SelfService;20241220;06
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.889;Servito;20241220;07
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.699;Servito;20241221;07
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.719;SelfService;20241213;07
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.679;SelfService;20241221;07
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio;1.689;SelfService;20241221;07
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Gasolio;1.659;SelfService;20241217;07
@@ -144,8 +143,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.749;SelfService;20241220;07
 26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.639;SelfService;20241218;06
 26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.809;Servito;20241218;07
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.649;SelfService;20241213;06
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.829;Servito;20241213;07
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.659;Servito;20241220;07
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.659;SelfService;20241220;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.639;Servito;20241221;06
