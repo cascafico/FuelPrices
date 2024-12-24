@@ -4,7 +4,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.999;Servito;20241221;08
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.759;SelfService;20241222;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.979;Servito;20241222;08
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.739;SelfService;20241214;07
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.779;Servito;20241221;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.754;SelfService;20241220;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.964;Servito;20241220;08
@@ -103,7 +102,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Benzina;1.774;SelfService;20241221;07
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.729;SelfService;20241221;07
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.739;SelfService;20241221;07
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.739;Servito;20241214;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;Servito;20241221;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;SelfService;20241221;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20241221;07
@@ -295,7 +293,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Benzina;1.879;SelfService;20241221;07
 45355;IP;45.8892316;13.3092598;;;Geff S.R.L.;Benzina;1.719;SelfService;20241221;07
 45387;San Marco Petroli;45.7596253;13.0301780;;;Smp Latisana;Benzina;1.759;SelfService;20241221;07
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Benzina;1.729;Servito;20241214;07
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;1.829;SelfService;20241221;07
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;2.039;Servito;20241221;08
 46189;Esso;45.6817891;13.4047546;;;Geff S.R.L.;Benzina;1.739;SelfService;20241222;07
