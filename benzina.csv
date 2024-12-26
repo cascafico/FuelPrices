@@ -132,7 +132,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20241223;06
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.809;SelfService;20241221;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.031;Servito;20241221;08
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.799;SelfService;20241216;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.762;Servito;20241221;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.762;SelfService;20241221;07
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Benzina;1.698;SelfService;20241219;06
@@ -155,8 +154,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.769;Servito;20241220;07
 28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.888;Servito;20241223;07
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.729;SelfService;20241223;07
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.759;SelfService;20241216;07
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.989;Servito;20241216;08
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.757;SelfService;20241223;07
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.769;SelfService;20241224;07
 29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Benzina;1.759;SelfService;20241224;07
@@ -242,8 +239,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Benzina;1.699;SelfService;20241220;06
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.859;SelfService;20241223;07
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.079;Servito;20241223;08
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.759;SelfService;20241216;07
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.979;Servito;20241216;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.769;SelfService;20241224;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.989;Servito;20241224;08
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.739;SelfService;20241217;07

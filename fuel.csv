@@ -362,9 +362,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.738;Servito;20241221
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.699;SelfService;20241221
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.921;Servito;20241221
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.799;SelfService;20241216
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.739;SelfService;20241216
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;2.019;SelfService;20241216
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.762;Servito;20241221
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.762;SelfService;20241221
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.662;Servito;20241221
@@ -427,12 +424,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.729;SelfService;20241223
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.709;Servito;20241223
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.659;SelfService;20241223
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.759;SelfService;20241216
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.989;Servito;20241216
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.779;SelfService;20241216
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.989;Servito;20241216
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.679;SelfService;20241216
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.889;Servito;20241216
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.757;SelfService;20241223
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.667;SelfService;20241223
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.769;SelfService;20241224
@@ -671,12 +662,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio Ecoplus;2.099;Servito;20241223
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.799;SelfService;20241223
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.999;Servito;20241223
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.759;SelfService;20241216
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Benzina;1.979;Servito;20241216
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Blue Diesel;1.809;SelfService;20241216
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Blue Diesel;2.029;Servito;20241216
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Gasolio;1.709;SelfService;20241216
-38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti;Gasolio;1.929;Servito;20241216
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.769;SelfService;20241224
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.989;Servito;20241224
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Blue Diesel;1.837;SelfService;20241224
