@@ -39,7 +39,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.749;SelfService;20241225;07
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.769;SelfService;20241225;07
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.738;Servito;20241224;07
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.739;SelfService;20241218;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.754;SelfService;20241225;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20241225;08
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.789;SelfService;20241224;07
@@ -64,8 +63,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.769;SelfService;20241223;07
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20241223;07
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.749;Servito;20241224;07
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.757;SelfService;20241218;07
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.927;Servito;20241218;07
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.739;Servito;20241224;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;Servito;20241220;07
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;SelfService;20241220;07
@@ -116,7 +113,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.759;SelfService;20241224;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;1.749;SelfService;20241225;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.440;Servito;20241225;10
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.729;Servito;20241218;07
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.739;SelfService;20241225;07
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.744;SelfService;20241226;07
 25383;Esso;46.0392210;12.8350780;;;Fratelli Cristofoli di Cristofoli Rinaldo & C. S.N.C.;Benzina;1.769;Servito;20241223;07
@@ -294,7 +290,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Benzina;1.801;Servito;20241221;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;1.769;SelfService;20241223;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Benzina;1.929;Servito;20241223;07
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.787;SelfService;20241218;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.769;Servito;20241225;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.769;SelfService;20241225;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Benzina;1.719;SelfService;20241226;07

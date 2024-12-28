@@ -94,9 +94,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.669;SelfService;20241225
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.738;Servito;20241224
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.648;Servito;20241224
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.739;SelfService;20241218
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;GP DIESEL;1.789;SelfService;20241218
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.659;SelfService;20241218
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.754;SelfService;20241225
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20241225
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Blue Diesel;1.764;SelfService;20241225
@@ -172,12 +169,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.749;Servito;20241224
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.714;Servito;20241224
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.659;Servito;20241224
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.757;SelfService;20241218
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.927;Servito;20241218
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.657;SelfService;20241218
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio Oro Diesel;1.817;Servito;20241218
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.657;SelfService;20241218
-15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.817;Servito;20241218
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Benzina;1.739;Servito;20241224
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.669;Servito;20241224
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Benzina;1.749;Servito;20241220
@@ -318,8 +309,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.440;Servito;20241225
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.669;SelfService;20241225
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;2.367;Servito;20241225
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.729;Servito;20241218
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Gasolio;1.659;Servito;20241218
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.739;SelfService;20241225
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.649;SelfService;20241225
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.744;SelfService;20241226
@@ -822,8 +811,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.861;Servito;20241223
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.809;SelfService;20241223
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.969;Servito;20241223
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.787;SelfService;20241218
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.699;SelfService;20241218
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.769;Servito;20241225
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.769;SelfService;20241225
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.709;Servito;20241225
