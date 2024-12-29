@@ -84,7 +84,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Gasolio;1.689;Servito;20241224;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.699;SelfService;20241223;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Gasolio;1.899;Servito;20241223;08
-20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Gasolio;1.749;SelfService;20241219;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Gasolio;1.689;SelfService;20241227;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Gasolio;1.899;Servito;20241227;08
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Gasolio;1.709;Servito;20241223;07
@@ -92,8 +91,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Gasolio;1.699;SelfService;20241227;07
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.719;SelfService;20241227;07
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Gasolio;1.919;Servito;20241227;08
-21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.689;Servito;20241219;07
-21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Gasolio;1.689;SelfService;20241219;07
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Gasolio;1.619;SelfService;20241224;06
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Gasolio;1.689;SelfService;20241227;07
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.649;SelfService;20241225;06
@@ -129,7 +126,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.921;Servito;20241221;08
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.662;Servito;20241221;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.662;SelfService;20241221;07
-26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.608;SelfService;20241219;06
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.680;Servito;20241225;07
 26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.680;SelfService;20241225;07
 26366;Tamoil;45.9529400;13.4363010;;;Autoservice 2000 di Cara Stefano & C. S.N.C.;Gasolio;1.749;Servito;20241224;07
@@ -179,7 +175,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.689;SelfService;20241227;07
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.889;Servito;20241227;07
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.659;Servito;20241226;07
-33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.689;Servito;20241219;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;1.727;SelfService;20241227;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;1.947;Servito;20241227;08
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Gasolio;1.609;SelfService;20241226;06
@@ -219,7 +214,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.779;SelfService;20241224;07
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.999;Servito;20241224;08
 36502;IP;46.0302138;13.1028162;;;;Gasolio;1.649;Servito;20241224;06
-36503;;46.0853205;13.0299877;;;Singh Nirmal;Gasolio;1.649;Servito;20241219;06
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.669;SelfService;20241227;07
 36989;IP;45.9770955;13.1983666;;;;Gasolio;1.629;SelfService;20241226;06
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.659;SelfService;20241226;07
@@ -277,7 +271,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio;1.669;SelfService;20241226;07
 45246;Agip;45.8342947;13.1939850;;;Geff S.R.L.;Gasolio;1.669;SelfService;20241227;07
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Gasolio;1.649;SelfService;20241227;06
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Gasolio;1.639;Servito;20241219;06
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Gasolio;1.713;SelfService;20241227;07
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Gasolio;1.619;SelfService;20241227;06
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Gasolio;1.767;SelfService;20241226;07
@@ -298,7 +291,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Gasolio;1.699;Servito;20241226;07
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Gasolio;1.699;SelfService;20241226;07
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;Gasolio;1.649;SelfService;20241227;06
-47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.719;SelfService;20241219;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.647;Servito;20241226;06
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.647;SelfService;20241226;06
 47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.719;Servito;20241223;07
