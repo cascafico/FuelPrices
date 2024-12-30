@@ -46,7 +46,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.937;Servito;20241228;08
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.639;Servito;20241223;06
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.639;SelfService;20241223;06
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.709;SelfService;20241220;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.649;SelfService;20241227;06
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.659;Servito;20241228;07
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.729;Servito;20241223;07
@@ -106,8 +105,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20241225;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.659;SelfService;20241228;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Gasolio;1.839;Servito;20241224;07
-24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.639;SelfService;20241220;06
-24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.739;Servito;20241220;07
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Gasolio;1.679;SelfService;20241223;07
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.679;Servito;20241224;07
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.679;SelfService;20241224;07
@@ -165,8 +162,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Gasolio;1.929;Servito;20241228;08
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.629;Servito;20241227;06
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.629;SelfService;20241227;06
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.669;SelfService;20241220;07
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.839;Servito;20241220;07
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.649;Servito;20241227;06
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Gasolio;1.729;SelfService;20241227;07
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.669;SelfService;20241223;07
@@ -393,8 +388,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 9002;Presani Marco;46.1000861;13.4423999;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.679;SelfService;20241225;07
 9038;Eni;46.3267802;13.1341130;;;Di Bernardo Delia & Alba S.N.C.;Gasolio;1.707;SelfService;20241228;07
 9038;Eni;46.3267802;13.1341130;;;Di Bernardo Delia & Alba S.N.C.;Gasolio;1.969;Servito;20241228;08
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Gasolio;1.677;Servito;20241220;07
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Gasolio;1.677;SelfService;20241220;07
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.639;Servito;20241228;06
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.639;SelfService;20241228;06
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.769;Servito;20241223;07
