@@ -234,8 +234,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.839;SelfService;20241231
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.739;SelfService;20241231
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;HVOlution;1.739;SelfService;20241231
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.759;SelfService;20241224
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.679;SelfService;20241224
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.479;Servito;20241230
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.759;SelfService;20241231
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio Premium;1.829;SelfService;20241231
@@ -582,14 +580,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Gasolio;1.871;Servito;20241231
 35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.;Benzina;1.769;SelfService;20241231
 35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.;Gasolio;1.729;SelfService;20241231
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.719;Servito;20241224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.719;SelfService;20241224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.698;Servito;20241224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.629;Servito;20241224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.629;SelfService;20241224
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.759;Servito;20241224
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;GPL;0.704;Servito;20241224
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.659;Servito;20241224
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.719;Servito;20241229
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.719;SelfService;20241229
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.629;Servito;20241229
@@ -943,9 +933,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Blue Super;2.179;Servito;20250101
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.729;SelfService;20250101
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.939;Servito;20250101
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.769;SelfService;20241224
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;1.689;SelfService;20241224
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Supreme Diesel;1.849;SelfService;20241224
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.789;SelfService;20250101
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.989;Servito;20250101
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Blue Diesel;1.829;SelfService;20250101
