@@ -77,8 +77,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;1.809;SelfService;20250104;07
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Benzina;2.029;Servito;20250104;08
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Benzina;1.789;Servito;20241231;07
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.739;SelfService;20241227;07
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.909;Servito;20241227;07
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.805;SelfService;20241231;07
 17483;IP;46.0015368;13.2066810;;;;Benzina;1.729;SelfService;20241231;07
 17483;IP;46.0015368;13.2066810;;;;Benzina;1.979;Servito;20241231;08
@@ -240,8 +238,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.099;Servito;20250103;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.799;SelfService;20250104;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;2.019;Servito;20250104;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.749;SelfService;20241227;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.919;Servito;20241227;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.829;SelfService;20250103;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.039;Servito;20250103;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;1.879;SelfService;20250103;07
