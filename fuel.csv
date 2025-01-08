@@ -768,9 +768,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;1.939;SelfService;20250104
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.727;Servito;20250104
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.727;SelfService;20250104
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.708;Servito;20241229
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.698;Servito;20241229
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.619;Servito;20241229
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.950;Servito;20250102
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20250102
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.739;Servito;20250103
@@ -839,8 +836,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.891;Servito;20250103
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.839;SelfService;20250103
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.999;Servito;20250103
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.787;SelfService;20241229
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.699;SelfService;20241229
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.799;Servito;20250105
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.799;SelfService;20250105
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.739;Servito;20250105
