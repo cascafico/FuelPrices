@@ -47,8 +47,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;2.029;Servito;20250102;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;1.819;SelfService;20250107;07
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;2.029;Servito;20250107;08
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.729;Servito;20241230;06
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.729;SelfService;20241230;06
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.829;SelfService;20250103;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.749;SelfService;20250102;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.789;Servito;20250107;07
@@ -287,7 +285,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.779;SelfService;20250106;07
 45246;Agip;45.8342947;13.1939850;;;Geff S.R.L.;Benzina;1.789;SelfService;20250107;07
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Benzina;1.729;SelfService;20250107;06
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Benzina;1.739;Servito;20250102;07
+45255;IP;46.0824695;13.1737355;;;Kaur Amandeep;Benzina;1.739;Servito;20250102;07
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Benzina;1.799;SelfService;20250107;07
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Benzina;1.719;SelfService;20250107;06
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.;Benzina;1.719;SelfService;20250107;06
@@ -312,8 +310,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.749;SelfService;20250106;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.768;Servito;20250106;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.768;SelfService;20250106;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;Servito;20241230;07
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;SelfService;20241230;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.779;SelfService;20250107;07
 48121;IP;46.0160541;13.2573201;;;LNG Giglio- Stazione di Servizio IP;Benzina;1.759;Servito;20250102;07
 48516;Esso;45.7712330;13.6371781;;;;Benzina;1.799;Servito;20250107;07

@@ -122,10 +122,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Blue Diesel;2.057;Servito;20250107
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.747;SelfService;20250107
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.957;Servito;20250107
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.729;Servito;20241230
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.729;SelfService;20241230
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.639;Servito;20241230
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.639;SelfService;20241230
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.829;SelfService;20250103
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.839;SelfService;20250103
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.969;SelfService;20250103
@@ -801,9 +797,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 45246;Agip;45.8342947;13.1939850;;;Geff S.R.L.;Gasolio;1.679;SelfService;20250107
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Benzina;1.729;SelfService;20250107
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.;Gasolio;1.659;SelfService;20250107
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Benzina;1.739;Servito;20250102
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Gasolio;1.659;Servito;20250102
-45255;IP;46.0825260;13.1737550;;;Kaur Amandeep;Metano;1.599;Servito;20250102
+45255;IP;46.0824695;13.1737355;;;Kaur Amandeep;Benzina;1.739;Servito;20250102
+45255;IP;46.0824695;13.1737355;;;Kaur Amandeep;Gasolio;1.659;Servito;20250102
+45255;IP;46.0824695;13.1737355;;;Kaur Amandeep;Metano;1.599;Servito;20250102
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Benzina;1.799;SelfService;20250107
 45261;IP;46.1912720;12.5639359;;;GEFF S.R.L.;Gasolio;1.743;SelfService;20250107
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Benzina;1.719;SelfService;20250107
@@ -868,10 +864,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.768;SelfService;20250106
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.668;Servito;20250106
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.668;SelfService;20250106
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;Servito;20241230
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Benzina;1.799;SelfService;20241230
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.719;Servito;20241230
-47972;IP;46.1737830;13.0669660;;;Fera Giuseppe & Mauro Ilenia S.N.C.;Gasolio;1.719;SelfService;20241230
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.779;SelfService;20250107
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.839;SelfService;20250107
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.739;SelfService;20250107
