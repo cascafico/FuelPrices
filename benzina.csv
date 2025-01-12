@@ -4,7 +4,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;2.049;Servito;20250109;08
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.809;SelfService;20250109;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;2.029;Servito;20250109;08
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.779;SelfService;20250102;07
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.809;Servito;20250107;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.784;SelfService;20250107;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.994;Servito;20250107;08
@@ -282,7 +281,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.789;Servito;20250109;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.789;SelfService;20250109;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.728;Servito;20250107;06
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.950;Servito;20250102;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.759;Servito;20250108;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.799;SelfService;20250109;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.799;SelfService;20250108;07
