@@ -132,8 +132,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25825;IP;45.9498241;12.8821507;;;Ip Services S.R.L.;Benzina;1.779;SelfService;20250111;07
 25828;IP;46.0001630;13.2741670;;;Ip Services S.R.L.;Benzina;1.779;SelfService;20250111;07
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Benzina;1.779;SelfService;20250111;07
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.839;SelfService;20250104;07
-25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.061;Servito;20250104;08
 26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.819;SelfService;20250110;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.805;Servito;20250110;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.805;SelfService;20250110;07
@@ -180,7 +178,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.869;SelfService;20250111;07
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.789;SelfService;20250109;07
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.979;Servito;20250109;08
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.749;Servito;20250104;07
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.799;SelfService;20250111;07
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Benzina;1.829;SelfService;20250111;07
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Benzina;1.789;SelfService;20250111;07
