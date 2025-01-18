@@ -654,9 +654,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.803;SelfService;20250116
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.829;SelfService;20250116
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.749;SelfService;20250116
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.829;Servito;20250108
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio Premium;1.909;Servito;20250108
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.739;Servito;20250108
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.839;SelfService;20250116
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.759;SelfService;20250116
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Supreme Diesel;1.879;SelfService;20250116
@@ -752,11 +749,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.729;Servito;20250115
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.973;SelfService;20250114
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.898;SelfService;20250114
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.789;SelfService;20250108
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Diesel;1.799;SelfService;20250108
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Super;1.939;SelfService;20250108
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.699;SelfService;20250108
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;HVOlution;1.699;SelfService;20250108
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.814;SelfService;20250116
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;2.034;Servito;20250116
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Blue Diesel;1.859;SelfService;20250116

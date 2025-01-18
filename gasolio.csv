@@ -233,7 +233,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.803;Servito;20250116;08
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.803;SelfService;20250116;08
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.749;SelfService;20250116;08
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.739;Servito;20250108;08
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.759;SelfService;20250116;08
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.669;SelfService;20250113;07
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.898;SelfService;20250114;09
@@ -265,7 +264,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.965;Servito;20250114;09
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.729;Servito;20250115;08
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.898;SelfService;20250114;09
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.699;SelfService;20250108;08
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.759;SelfService;20250116;08
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.979;Servito;20250116;09
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.753;Servito;20250116;08
