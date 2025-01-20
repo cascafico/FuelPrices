@@ -789,8 +789,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.779;Servito;20250115
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.698;Servito;20250115
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.699;Servito;20250115
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.950;Servito;20250110
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20250110
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.799;Servito;20250117
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.719;Servito;20250117
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.819;SelfService;20250118
