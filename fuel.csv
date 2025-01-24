@@ -368,9 +368,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.738;Servito;20250118
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.779;SelfService;20250118
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;2.001;Servito;20250118
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.869;SelfService;20250114
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.829;SelfService;20250114
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;2.019;SelfService;20250114
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.840;Servito;20250120
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.840;SelfService;20250120
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.775;Servito;20250120
@@ -1142,14 +1139,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.769;SelfService;20250122
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.979;Servito;20250122
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.769;SelfService;20250122
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.919;SelfService;20250114
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.129;Servito;20250114
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.029;SelfService;20250114
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.239;Servito;20250114
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.149;SelfService;20250114
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.359;Servito;20250114
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.819;SelfService;20250114
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.029;Servito;20250114
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.819;SelfService;20250122
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;2.039;Servito;20250122
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Blue Diesel;1.869;SelfService;20250122
