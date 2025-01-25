@@ -266,7 +266,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;2.079;Servito;20250120;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.765;SelfService;20250120;07
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.965;Servito;20250120;08
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.729;Servito;20250115;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.937;SelfService;20250121;07
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.729;SelfService;20250117;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.769;SelfService;20250123;07
@@ -303,7 +302,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.791;Servito;20250122;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.791;SelfService;20250123;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.951;Servito;20250123;07
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.777;SelfService;20250115;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.739;Servito;20250123;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.739;SelfService;20250123;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;1.699;SelfService;20250123;06
