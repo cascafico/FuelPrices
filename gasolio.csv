@@ -134,8 +134,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.767;SelfService;20250125;07
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Gasolio;1.769;SelfService;20250125;07
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.749;SelfService;20250125;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.739;SelfService;20250118;07
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.909;Servito;20250118;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.749;SelfService;20250124;07
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.929;Servito;20250124;07
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.739;Servito;20250120;07
@@ -223,15 +221,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.823;Servito;20250120;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.823;SelfService;20250120;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.709;SelfService;20250125;06
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.779;Servito;20250118;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.769;SelfService;20250126;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.699;SelfService;20250122;06
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.898;SelfService;20250124;07
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;2.098;Servito;20250124;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.817;SelfService;20250126;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;2.037;Servito;20250126;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.759;SelfService;20250118;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.929;Servito;20250118;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.799;SelfService;20250125;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.009;Servito;20250125;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.809;SelfService;20250121;07
@@ -263,7 +258,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.777;Servito;20250125;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.777;SelfService;20250125;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.699;Servito;20250122;06
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20250118;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.729;Servito;20250121;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.789;SelfService;20250126;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.759;SelfService;20250126;07
