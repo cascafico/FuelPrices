@@ -122,10 +122,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Blue Diesel;2.107;Servito;20250128
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.797;SelfService;20250128
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;2.007;Servito;20250128
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.799;Servito;20250120
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.799;SelfService;20250120
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.729;Servito;20250120
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.729;SelfService;20250120
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.869;SelfService;20250127
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.889;SelfService;20250127
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.969;SelfService;20250127
@@ -142,13 +138,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.809;SelfService;20250127
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Benzina;1.799;Servito;20250127
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Gasolio;1.729;Servito;20250127
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.898;SelfService;20250120
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;2.108;Servito;20250120
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Blue Diesel;1.968;SelfService;20250120
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Blue Diesel;2.178;Servito;20250120
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;GPL;0.759;Servito;20250120
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.808;SelfService;20250120
-14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;2.018;Servito;20250120
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.789;SelfService;20250128
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Blue Diesel;1.799;SelfService;20250128
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.699;SelfService;20250128
@@ -230,8 +219,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.899;SelfService;20250127
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.799;SelfService;20250127
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;HVOlution;1.799;SelfService;20250127
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.849;SelfService;20250120
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.779;SelfService;20250120
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.499;Servito;20250127
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.829;SelfService;20250128
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio Premium;1.909;SelfService;20250128
@@ -294,9 +281,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.749;SelfService;20250127
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20250121
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20250121
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.799;Servito;20250120
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio artico;1.739;Servito;20250120
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.739;Servito;20250120
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.839;SelfService;20250128
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.769;SelfService;20250128
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.839;SelfService;20250128
