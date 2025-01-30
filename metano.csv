@@ -1,7 +1,8 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.499;Servito;20250127;09
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.499;Servito;20250121;09
+35394;Costantin;46.0220272;13.2397237;;;Commercio Petroli S.R.L.;Metano;1.599;Servito;20250128;10
 45255;IP;46.0824695;13.1737355;;;Kaur Amandeep;Metano;1.599;Servito;20250127;10
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.549;Servito;20250122;09
-52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.599;Servito;20250124;10
-52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.599;SelfService;20250124;10
+45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.549;Servito;20250128;09
+52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.599;Servito;20250128;10
+52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Metano;1.599;SelfService;20250128;10
