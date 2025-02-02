@@ -319,8 +319,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20250128;06
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Gasolio;1.739;SelfService;20250129;07
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Gasolio;1.949;Servito;20250129;08
-49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.;Gasolio;1.729;Servito;20250123;07
-49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Gasolio;1.739;Servito;20250123;07
 49248;Eni;46.0331350;13.3017180;;;Sachdeva Ashok;Gasolio;1.789;SelfService;20250131;07
 49248;Eni;46.0331350;13.3017180;;;Sachdeva Ashok;Gasolio;1.949;Servito;20250131;08
 49270;Eni;45.8378802;13.2114657;;;Eni Station;Gasolio;1.749;SelfService;20250131;07
@@ -392,8 +390,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;2.019;Servito;20250131;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.769;SelfService;20250131;07
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.979;Servito;20250131;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.829;SelfService;20250123;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.039;Servito;20250123;08
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.769;SelfService;20250131;07
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.989;Servito;20250131;08
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.729;SelfService;20250130;07
