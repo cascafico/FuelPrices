@@ -262,7 +262,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;2.079;Servito;20250127;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.799;SelfService;20250128;07
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.999;Servito;20250128;08
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.729;Servito;20250124;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.937;SelfService;20250127;07
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.729;SelfService;20250127;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.769;SelfService;20250201;07
