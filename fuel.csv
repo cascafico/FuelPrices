@@ -433,12 +433,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.789;SelfService;20250131
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.709;Servito;20250131
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.749;SelfService;20250131
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.849;SelfService;20250125
-28866;Eni;45.9019553;13.2576266;;;;Benzina;2.059;Servito;20250125
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.869;SelfService;20250125
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;2.079;Servito;20250125
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.769;SelfService;20250125
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.979;Servito;20250125
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.827;SelfService;20250201
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.747;SelfService;20250201
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Benzina;1.839;SelfService;20250201
@@ -859,8 +853,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.931;Servito;20250201
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.879;SelfService;20250201
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;2.039;Servito;20250201
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.857;SelfService;20250125
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.777;SelfService;20250125
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.799;Servito;20250201
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.799;SelfService;20250201
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.709;Servito;20250201

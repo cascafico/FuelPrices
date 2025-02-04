@@ -154,8 +154,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio;1.789;Servito;20250129;07
 28291;Tamoil;45.6379173;13.8149834;;;;Gasolio;1.898;Servito;20250127;07
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.749;SelfService;20250131;07
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.769;SelfService;20250125;07
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.979;Servito;20250125;08
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.747;SelfService;20250201;07
 29516;SMP;46.3895909;13.0260795;;;Smp Tolmezzo;Gasolio;1.769;SelfService;20250201;07
 29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Gasolio;1.739;SelfService;20250202;07
@@ -301,7 +299,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.781;Servito;20250201;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.771;SelfService;20250201;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.931;Servito;20250201;07
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.777;SelfService;20250125;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.709;Servito;20250201;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.709;SelfService;20250201;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;1.699;SelfService;20250202;07
