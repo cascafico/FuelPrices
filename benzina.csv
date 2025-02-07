@@ -108,7 +108,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.809;Servito;20250203;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.809;SelfService;20250203;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20250204;07
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.799;Servito;20250128;07
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.849;SelfService;20250204;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.819;SelfService;20250205;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;1.939;Servito;20250202;07
@@ -269,13 +268,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;2.034;Servito;20250205;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.849;Servito;20250203;07
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.849;SelfService;20250203;07
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.889;SelfService;20250128;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.799;Servito;20250204;07
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.799;SelfService;20250204;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.819;Servito;20250205;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.819;SelfService;20250205;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.779;Servito;20250204;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.950;Servito;20250128;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.799;Servito;20250204;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.829;SelfService;20250205;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.819;SelfService;20250130;07
