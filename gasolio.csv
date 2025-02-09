@@ -280,8 +280,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.699;Servito;20250204;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.719;Servito;20250204;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.789;SelfService;20250207;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.739;SelfService;20250130;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.909;Servito;20250130;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.729;SelfService;20250207;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.719;Servito;20250205;07
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Gasolio;1.739;SelfService;20250206;07
@@ -409,4 +407,3 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.849;SelfService;20250205;07
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio;1.819;Servito;20250207;07
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio;1.819;SelfService;20250207;07
-9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.;Gasolio;1.719;Servito;20250130;07

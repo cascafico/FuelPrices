@@ -800,12 +800,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.889;SelfService;20250207
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.789;SelfService;20250207
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;HVOlution;1.739;SelfService;20250207
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.819;SelfService;20250130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.989;Servito;20250130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.859;SelfService;20250130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;2.029;Servito;20250130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.739;SelfService;20250130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.909;Servito;20250130
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.809;SelfService;20250207
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.729;SelfService;20250207
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.799;Servito;20250205
@@ -1176,6 +1170,3 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio Premium;1.939;SelfService;20250207
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio;1.819;Servito;20250207
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Gasolio;1.819;SelfService;20250207
-9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.;Benzina;1.799;Servito;20250130
-9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.;Gasolio Oro Diesel;1.839;Servito;20250130
-9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.;Gasolio;1.719;Servito;20250130
