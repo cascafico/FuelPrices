@@ -37,7 +37,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.729;SelfService;20250213;07
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.718;Servito;20250212;07
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.769;SelfService;20250210;07
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.729;SelfService;20250205;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.754;SelfService;20250213;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.954;Servito;20250213;08
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Gasolio;1.769;SelfService;20250212;07
@@ -129,7 +128,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Gasolio;1.739;SelfService;20250212;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.769;SelfService;20250212;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.991;Servito;20250212;08
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.829;SelfService;20250205;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.740;Servito;20250212;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.740;SelfService;20250212;07
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.688;SelfService;20250213;06
@@ -148,7 +146,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.699;SelfService;20250211;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.699;Servito;20250213;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.699;SelfService;20250213;07
-28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Gasolio;1.739;SelfService;20250205;07
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio;1.769;Servito;20250211;07
 28291;Tamoil;45.6379173;13.8149834;;;;Gasolio;1.898;Servito;20250210;07
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.729;SelfService;20250210;07
