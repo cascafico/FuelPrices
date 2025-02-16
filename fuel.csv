@@ -661,9 +661,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.803;SelfService;20250213
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.799;SelfService;20250214
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.719;SelfService;20250214
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Benzina;1.869;Servito;20250206
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio Premium;1.939;Servito;20250206
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.779;Servito;20250206
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Benzina;1.829;SelfService;20250214
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.749;SelfService;20250214
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Supreme Diesel;1.869;SelfService;20250214
