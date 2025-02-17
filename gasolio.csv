@@ -173,8 +173,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.899;Servito;20250213;07
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.699;Servito;20250211;07
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Gasolio;1.799;SelfService;20250214;07
-30937;IP;46.2029170;13.1177990;;;;Gasolio;1.749;SelfService;20250207;07
-30937;IP;46.2029170;13.1177990;;;;Gasolio;1.939;Servito;20250207;07
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.759;Servito;20250214;07
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.729;SelfService;20250214;07
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Gasolio;1.799;SelfService;20250214;07
@@ -183,7 +181,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Gasolio;2.008;Servito;20250213;08
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.759;SelfService;20250213;07
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.959;Servito;20250213;08
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.729;Servito;20250207;07
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.769;Servito;20250213;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;1.797;SelfService;20250215;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;2.017;Servito;20250215;08
@@ -276,7 +273,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.767;Servito;20250215;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.767;SelfService;20250215;07
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.699;Servito;20250211;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20250207;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.719;Servito;20250213;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.799;SelfService;20250215;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Gasolio;1.729;SelfService;20250215;07

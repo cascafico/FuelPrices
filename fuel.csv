@@ -486,10 +486,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30719;;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.699;Servito;20250211
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.859;SelfService;20250214
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Gasolio;1.799;SelfService;20250214
-30937;IP;46.2029170;13.1177990;;;;Benzina;1.829;SelfService;20250207
-30937;IP;46.2029170;13.1177990;;;;Benzina;2.019;Servito;20250207
-30937;IP;46.2029170;13.1177990;;;;Gasolio;1.749;SelfService;20250207
-30937;IP;46.2029170;13.1177990;;;;Gasolio;1.939;Servito;20250207
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.819;Servito;20250214
 31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.759;Servito;20250214
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.799;SelfService;20250214
@@ -510,11 +506,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.999;Servito;20250213
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.759;SelfService;20250213
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.959;Servito;20250213
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Benzina;1.799;Servito;20250207
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;GPL;0.714;Servito;20250207
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio Oro Diesel;1.639;Servito;20250207
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.729;Servito;20250207
-32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.599;Servito;20250207
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.849;Servito;20250213
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.769;Servito;20250213
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Supreme Diesel;1.889;Servito;20250213
@@ -789,8 +780,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.779;Servito;20250211
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.698;Servito;20250211
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.699;Servito;20250211
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.950;Servito;20250207
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20250207
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.799;Servito;20250213
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.719;Servito;20250213
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.839;SelfService;20250215
