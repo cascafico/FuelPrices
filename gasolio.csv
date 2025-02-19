@@ -295,7 +295,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.771;Servito;20250215;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.771;SelfService;20250213;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.931;Servito;20250213;07
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.777;SelfService;20250209;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.719;Servito;20250217;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.719;SelfService;20250217;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;1.699;SelfService;20250217;07
