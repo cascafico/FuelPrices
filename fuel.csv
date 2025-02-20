@@ -549,10 +549,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.685;SelfService;20250217
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.785;Servito;20250217
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.785;SelfService;20250217
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.829;Servito;20250210
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.829;SelfService;20250210
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.739;Servito;20250210
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.739;SelfService;20250210
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.859;SelfService;20250218
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.949;Servito;20250218
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.789;SelfService;20250218
