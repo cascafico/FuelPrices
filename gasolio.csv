@@ -245,7 +245,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.909;Servito;20250212;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.799;SelfService;20250219;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;2.009;Servito;20250219;08
-38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Gasolio;1.809;SelfService;20250211;07
 39018;IP;46.1366352;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.699;SelfService;20250217;07
 39053;SM;46.4788771;12.8677096;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.809;SelfService;20250219;07
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;1.957;Servito;20250218;08
