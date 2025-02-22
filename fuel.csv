@@ -138,12 +138,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.779;Servito;20250220
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.809;Servito;20250220
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.729;Servito;20250220
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Benzina;1.829;Servito;20250212
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Benzina;1.829;SelfService;20250212
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio Premium;1.969;Servito;20250212
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio Premium;1.969;SelfService;20250212
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.789;Servito;20250212
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.789;SelfService;20250212
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Benzina;1.779;Servito;20250219
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Gasolio;1.709;Servito;20250219
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Benzina;1.898;SelfService;20250219
@@ -298,9 +292,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.759;SelfService;20250218
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.789;SelfService;20250215
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20250215
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.799;Servito;20250212
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio artico;1.699;Servito;20250212
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.699;Servito;20250212
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.829;SelfService;20250214
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20250214
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.819;SelfService;20250220
@@ -759,11 +750,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.709;Servito;20250219
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;2.013;SelfService;20250217
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.937;SelfService;20250217
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Benzina;1.809;SelfService;20250212
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Diesel;1.819;SelfService;20250212
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Blue Super;1.959;SelfService;20250212
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.719;SelfService;20250212
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;HVOlution;1.719;SelfService;20250212
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.834;SelfService;20250220
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;2.054;Servito;20250220
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Blue Diesel;1.869;SelfService;20250220

@@ -50,8 +50,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.709;SelfService;20250217;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.779;Servito;20250220;07
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.729;Servito;20250220;07
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.789;Servito;20250212;07
-13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.789;SelfService;20250212;07
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano;Gasolio;1.709;Servito;20250219;07
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.798;SelfService;20250219;07
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;2.008;Servito;20250219;08
@@ -105,7 +103,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.759;Servito;20250218;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.759;SelfService;20250218;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20250215;07
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.699;Servito;20250212;07
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20250214;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.739;SelfService;20250220;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Gasolio;1.899;Servito;20250218;07
@@ -267,7 +264,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.999;Servito;20250217;08
 40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.709;Servito;20250219;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.937;SelfService;20250217;08
-40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.;Gasolio;1.719;SelfService;20250212;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.769;SelfService;20250220;07
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.989;Servito;20250220;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.769;Servito;20250220;07
