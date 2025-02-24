@@ -90,7 +90,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.829;Servito;20250217;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.849;SelfService;20250217;07
 20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;2.049;Servito;20250217;08
-20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.929;SelfService;20250214;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.849;SelfService;20250222;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;2.059;Servito;20250222;08
 21028;Esso;46.1600694;13.2107919;;;Sostero fratelli S.N.C. di Sostero Marco & Massimo;Benzina;1.849;Servito;20250217;07
@@ -119,7 +118,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.829;SelfService;20250220;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;1.799;SelfService;20250222;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.490;Servito;20250222;10
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.809;Servito;20250214;07
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.799;SelfService;20250222;07
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.834;SelfService;20250222;07
 25383;Esso;46.0392210;12.8350780;;;Fratelli Cristofoli di Cristofoli Rinaldo & C. S.N.C.;Benzina;1.829;Servito;20250219;07
@@ -392,8 +390,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;2.081;Servito;20250222;08
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.824;SelfService;20250222;07
 8684;Eni;45.9600500;12.5121000;;;;Benzina;2.034;Servito;20250222;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.919;SelfService;20250214;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.129;Servito;20250214;08
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;1.829;SelfService;20250222;07
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Benzina;2.049;Servito;20250222;08
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.799;SelfService;20250221;07
