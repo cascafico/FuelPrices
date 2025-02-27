@@ -19,9 +19,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Blue Super;2.209;Servito;20250225
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.779;SelfService;20250225
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.999;Servito;20250225
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Benzina;1.819;SelfService;20250217
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio Premium;1.879;SelfService;20250217
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.739;SelfService;20250217
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.859;Servito;20250225
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Gasolio;1.779;Servito;20250225
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.849;SelfService;20250219
@@ -860,9 +857,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;Benzina;1.819;SelfService;20250225
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;Gasolio;1.729;SelfService;20250225
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;HVO;1.679;SelfService;20250225
-47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Benzina;1.829;SelfService;20250217
-47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.799;SelfService;20250217
-47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Supreme Diesel;1.959;SelfService;20250217
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.799;Servito;20250224
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.799;SelfService;20250224
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.699;Servito;20250224
@@ -951,9 +945,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Blue Super;2.179;Servito;20250225
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.779;SelfService;20250225
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.989;Servito;20250225
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.849;SelfService;20250217
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;1.769;SelfService;20250217
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Supreme Diesel;1.929;SelfService;20250217
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.829;SelfService;20250225
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;2.049;Servito;20250225
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Blue Diesel;1.869;SelfService;20250225

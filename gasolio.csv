@@ -4,7 +4,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.989;Servito;20250225;08
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.779;SelfService;20250225;07
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.999;Servito;20250225;08
-10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.739;SelfService;20250217;07
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Gasolio;1.779;Servito;20250225;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.754;SelfService;20250219;07
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.964;Servito;20250219;08
@@ -305,7 +304,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Gasolio;1.749;Servito;20250225;07
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.;Gasolio;1.749;SelfService;20250225;07
 47169;Stazione di servizio GNP - Monfalcone;45.7922625;13.5601720;;;Gruppo Nord Petroli S.R.L.;Gasolio;1.729;SelfService;20250225;07
-47777;TotalErg;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata;Gasolio;1.799;SelfService;20250217;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.699;Servito;20250224;07
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Gasolio;1.699;SelfService;20250224;07
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.779;SelfService;20250225;07
@@ -337,7 +335,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 50781;Esso;46.3949900;13.2152760;;;01959 Esso - Resiutta;Gasolio;1.841;SelfService;20250224;07
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.779;SelfService;20250225;07
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;1.989;Servito;20250225;08
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;1.769;SelfService;20250217;07
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.769;SelfService;20250225;07
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.989;Servito;20250225;08
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Gasolio;1.699;Servito;20250219;07
