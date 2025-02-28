@@ -147,7 +147,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.699;SelfService;20250225;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.699;Servito;20250226;07
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;1.699;SelfService;20250226;07
-28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Gasolio;1.739;SelfService;20250218;07
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio;1.769;Servito;20250225;07
 28291;Tamoil;45.6379173;13.8149834;;;;Gasolio;1.898;Servito;20250224;07
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.739;SelfService;20250224;07
@@ -192,8 +191,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Gasolio;1.739;SelfService;20250225;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.685;Servito;20250224;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.685;SelfService;20250224;07
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.739;Servito;20250218;07
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.739;SelfService;20250218;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.779;SelfService;20250226;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.869;Servito;20250226;07
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.759;SelfService;20250226;07
@@ -271,7 +268,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.699;SelfService;20250221;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.767;Servito;20250226;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.767;SelfService;20250226;07
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.699;Servito;20250218;07
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.860;Servito;20250219;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Gasolio;1.699;Servito;20250220;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.769;SelfService;20250226;07
