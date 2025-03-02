@@ -286,9 +286,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.749;SelfService;20250227
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.789;SelfService;20250222
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20250222
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.799;Servito;20250220
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio artico;1.699;Servito;20250220
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.699;Servito;20250220
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.829;SelfService;20250228
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20250228
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Benzina;1.819;SelfService;20250228
@@ -836,8 +833,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.931;Servito;20250224
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.879;SelfService;20250224
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;2.039;Servito;20250224
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.857;SelfService;20250220
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.777;SelfService;20250220
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.829;Servito;20250228
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.829;SelfService;20250228
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.759;Servito;20250228
@@ -1048,11 +1043,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio Artico;1.813;SelfService;20250228
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.813;Servito;20250228
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.813;SelfService;20250228
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.829;Servito;20250220
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;GPL;0.735;Servito;20250220
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Gasolio;1.735;Servito;20250220
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Hi-Q Diesel;1.985;Servito;20250220
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;HiQ Perform+;2.079;Servito;20250220
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.752;Servito;20250228
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.752;SelfService;20250228
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio artico;1.776;SelfService;20250228

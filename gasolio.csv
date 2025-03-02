@@ -102,7 +102,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.749;Servito;20250227;07
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.749;SelfService;20250227;07
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20250222;07
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.699;Servito;20250220;07
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20250228;07
 24034;SMP;46.1596847;12.7079370;;;San Marco Petroli Distribuzione S.R.L.;Gasolio;1.739;SelfService;20250228;07
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Gasolio;1.899;Servito;20250227;07
@@ -294,7 +293,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.771;Servito;20250226;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.771;SelfService;20250224;07
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.931;Servito;20250224;08
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.777;SelfService;20250220;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.759;Servito;20250228;07
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.759;SelfService;20250228;07
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;1.699;SelfService;20250228;07
@@ -369,7 +367,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 53727;Esso Sgonico;45.7185651;13.7299462;;;Alfamax S.a.s. di Ghiretti Andrea & Zorzin F.;Gasolio;1.929;Servito;20250228;08
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.813;Servito;20250228;07
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.813;SelfService;20250228;07
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Gasolio;1.735;Servito;20250220;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio;1.678;Servito;20250228;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio;1.678;SelfService;20250228;07
 6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Gasolio;1.687;SelfService;20250228;07
