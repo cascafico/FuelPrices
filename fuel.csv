@@ -767,11 +767,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.739;SelfService;20250301
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.869;SelfService;20250228
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.799;SelfService;20250228
-41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.789;Servito;20250221
-41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.789;SelfService;20250221
-41204;IP;45.9696650;13.1138670;;;Oberai Kapil;GPL;0.708;Servito;20250221
-41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.699;Servito;20250221
-41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Gasolio;1.699;SelfService;20250221
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.829;Servito;20250301
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.829;SelfService;20250301
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Diesel;1.877;Servito;20250301
