@@ -111,8 +111,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.689;SelfService;20250226;07
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.789;Servito;20250226;07
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Gasolio;1.749;SelfService;20250227;07
-24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.759;Servito;20250222;07
-24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.759;SelfService;20250222;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.699;SelfService;20250301;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;2.397;Servito;20250301;10
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Gasolio;1.739;Servito;20250227;07
