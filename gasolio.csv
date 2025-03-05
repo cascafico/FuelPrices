@@ -37,7 +37,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20250228;07
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.718;Servito;20250226;07
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.739;SelfService;20250301;07
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.709;SelfService;20250224;07
+13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Gasolio;1.709;SelfService;20250224;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.754;SelfService;20250303;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.954;Servito;20250303;08
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Gasolio;1.759;SelfService;20250228;07

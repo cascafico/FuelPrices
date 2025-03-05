@@ -98,9 +98,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.699;Servito;20250301
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.739;SelfService;20250301
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Hi-Q Diesel;2.079;SelfService;20250301
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Benzina;1.799;SelfService;20250224
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;GP DIESEL;1.869;SelfService;20250224
-13020;;46.1146394;12.9575587;;;Bezzutti Paolo;Gasolio;1.709;SelfService;20250224
+13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Benzina;1.799;SelfService;20250224
+13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;GP DIESEL;1.869;SelfService;20250224
+13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Gasolio;1.709;SelfService;20250224
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.834;SelfService;20250303
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20250303
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Blue Diesel;1.854;SelfService;20250303
