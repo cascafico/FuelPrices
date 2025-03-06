@@ -131,7 +131,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Benzina;1.789;SelfService;20250303;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;1.879;SelfService;20250303;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Benzina;2.101;Servito;20250303;08
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.869;SelfService;20250224;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.798;Servito;20250304;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.798;SelfService;20250304;07
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Benzina;1.748;SelfService;20250303;07
@@ -172,7 +171,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.769;SelfService;20250303;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.799;SelfService;20250303;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.969;Servito;20250303;07
-30719;;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.779;Servito;20250303;07
+30719;IP;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.779;Servito;20250303;07
 30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.859;SelfService;20250303;07
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.819;SelfService;20250228;07
 30937;IP;46.2029170;13.1177990;;;;Benzina;2.009;Servito;20250228;08
@@ -182,8 +181,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Benzina;1.799;SelfService;20250304;07
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina;1.868;SelfService;20250304;07
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.;Benzina;2.068;Servito;20250304;08
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.789;SelfService;20250224;07
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.989;Servito;20250224;07
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Benzina;1.789;Servito;20250302;07
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.819;Servito;20250228;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.849;SelfService;20250304;07
@@ -319,8 +316,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.779;SelfService;20250301;07
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.799;SelfService;20250228;07
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;2.009;Servito;20250228;08
-49016;IP;46.0084830;13.4367940;;;V&C Carburanti S.N.C. di Mahmood Asad & C.;Benzina;1.799;Servito;20250224;07
-49018;IP;46.0586332;13.3828228;;;V & C Carburanti S.N.C.;Benzina;1.799;Servito;20250224;07
 49248;Eni;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;1.864;SelfService;20250304;07
 49248;Eni;46.0331350;13.3017180;;;Sachdeva Ashok;Benzina;2.004;Servito;20250304;08
 49270;Eni;45.8378802;13.2114657;;;Eni Station;Benzina;1.839;SelfService;20250304;07
@@ -406,8 +401,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Benzina;1.804;SelfService;20250301;07
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.799;Servito;20250304;07
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.799;SelfService;20250304;07
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Benzina;1.869;Servito;20250224;07
-9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Benzina;1.869;SelfService;20250224;07
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Benzina;1.879;Servito;20250228;07
 9834;Esso;46.1606724;13.0032206;;;Fioretto Mario;Benzina;1.879;SelfService;20250228;07
 9917;IP;46.0705516;13.1966348;;;Stazione di Servizio Ip di Bacinello Alfio e Mauro S.N.C.;Benzina;1.779;Servito;20250303;07
