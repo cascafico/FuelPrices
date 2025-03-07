@@ -245,8 +245,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.849;SelfService;20250305;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;2.069;Servito;20250305;08
 38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Benzina;1.899;Servito;20250303;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.809;SelfService;20250225;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.979;Servito;20250225;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.879;SelfService;20250305;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.089;Servito;20250305;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;1.919;SelfService;20250303;07
@@ -259,8 +257,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Benzina;2.044;Servito;20250305;08
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;1.899;SelfService;20250303;07
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;2.099;Servito;20250303;08
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.809;SelfService;20250225;07
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.935;Servito;20250225;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;1.929;SelfService;20250304;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;2.139;Servito;20250304;08
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.869;SelfService;20250303;07
@@ -361,8 +357,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 52387;IP;46.0088700;13.3308100;;;Fuel Service S.A.S. di Valenti Mario & C.;Benzina;2.049;Servito;20250304;08
 52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.789;Servito;20250305;07
 52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.789;SelfService;20250305;07
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.789;SelfService;20250225;07
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.959;Servito;20250225;07
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.788;Servito;20250304;07
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.788;SelfService;20250304;07
 53066;Tamoil;45.7179069;13.0497980;;;T.D.M. S.R.L.;Benzina;1.799;SelfService;20250305;07
