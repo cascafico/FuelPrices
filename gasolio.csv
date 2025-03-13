@@ -195,8 +195,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Gasolio;1.689;SelfService;20250308;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.685;Servito;20250310;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.685;SelfService;20250310;07
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.719;Servito;20250303;07
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.719;SelfService;20250303;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.739;SelfService;20250311;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.829;Servito;20250311;07
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.719;SelfService;20250311;07
@@ -241,7 +239,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;2.049;Servito;20250310;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.777;SelfService;20250311;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.997;Servito;20250311;08
-38686;IP;46.0551944;13.2346646;;;Rafikul Islam;Gasolio;1.799;Servito;20250303;07
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.739;SelfService;20250305;07
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.909;Servito;20250305;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Gasolio;1.799;SelfService;20250311;07
