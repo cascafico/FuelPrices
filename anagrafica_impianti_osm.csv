@@ -121,7 +121,6 @@
 4595;Agip;46.4155380;12.9280110;;;Gesticarb S.N.C. di Lucchini Gian Pietro e Luca Sonia
 44817;IP;45.8162259;13.5113628;;;M 2 S.A.S. di Savino Aldrigo & C.
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.
-53483;Eni;45.8112130;13.5217240;;;Eni
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano
 48406;IP;45.9365570;13.5845520;;;M 2 S.A.S. di Savino Aldrigo & C.
 47015;Esso;45.9250087;13.6128494;;;Geff S.R.L.
@@ -518,4 +517,5 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo
 ;;46.1006797;13.1727153;;;
 ;Metano;46.1004662;13.1728971;;;
+53483;Eni;45.8112749;13.5218318;;;Eni
 50952;;46.0645392;13.2120296;;;Favaro Giulio

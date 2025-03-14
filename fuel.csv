@@ -290,8 +290,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Benzina;1.789;SelfService;20250310
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio Premium;1.889;SelfService;20250310
 22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele;Gasolio;1.769;SelfService;20250310
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Benzina;1.779;Servito;20250304
-22903;Tamoil;45.9973340;12.9681160;;;Porfido S.N.C. di Porfido Claudio & C.;Gasolio;1.699;Servito;20250304
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.789;Servito;20250307
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.789;SelfService;20250307
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.709;Servito;20250307
@@ -454,8 +452,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio speciale;2.049;Servito;20250306
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.759;SelfService;20250306
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;1.859;Servito;20250306
-29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Benzina;1.984;SelfService;20250304
-29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano;Gasolio;1.954;SelfService;20250304
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.850;Servito;20250309
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.850;SelfService;20250309
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;1.795;Servito;20250309
@@ -1041,14 +1037,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53345;Eni;45.8951665;13.3092124;;;Eni Palmanova;Blue Diesel;2.069;Servito;20250312
 53345;Eni;45.8951665;13.3092124;;;Eni Palmanova;Gasolio;1.749;SelfService;20250312
 53345;Eni;45.8951665;13.3092124;;;Eni Palmanova;Gasolio;1.969;Servito;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Benzina;1.819;SelfService;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Benzina;2.039;Servito;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Blue Diesel;1.849;SelfService;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Blue Diesel;2.069;Servito;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Blue Super;1.969;SelfService;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Blue Super;2.189;Servito;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Gasolio;1.749;SelfService;20250312
-53483;Eni;45.8112130;13.5217240;;;Eni;Gasolio;1.969;Servito;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Benzina;1.819;SelfService;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Benzina;2.039;Servito;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Blue Diesel;1.849;SelfService;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Blue Diesel;2.069;Servito;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Blue Super;1.969;SelfService;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Blue Super;2.189;Servito;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Gasolio;1.749;SelfService;20250312
+53483;Eni;45.8112749;13.5218318;;;Eni;Gasolio;1.969;Servito;20250312
 53525;IP;46.1497874;13.3440433;;;Cg Service di Cattarossi Gianluca;Benzina;1.779;Servito;20250307
 53525;IP;46.1497874;13.3440433;;;Cg Service di Cattarossi Gianluca;Gasolio;1.699;Servito;20250307
 53643;;46.1535669;13.2186863;;;Impianto Ip Tricesimo - Fuel Service S.A.S.;Benzina;1.779;SelfService;20250310
