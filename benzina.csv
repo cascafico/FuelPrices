@@ -279,8 +279,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.738;Servito;20250310;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.759;Servito;20250309;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.799;SelfService;20250313;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.779;SelfService;20250305;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.949;Servito;20250305;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.749;SelfService;20250313;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.749;Servito;20250312;07
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.749;SelfService;20250313;07
