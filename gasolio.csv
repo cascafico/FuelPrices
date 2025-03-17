@@ -233,7 +233,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.763;Servito;20250313;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.763;SelfService;20250313;07
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.619;SelfService;20250315;06
-37779;Esso;46.2102200;13.1027200;;;Kan S.A.S. di Franco Nicola & C.;Gasolio;1.709;Servito;20250307;07
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti;Gasolio;1.689;SelfService;20250315;07
 38392;Costantin;45.9841107;12.6434827;;;Commercio Petroli S.R.L.;Gasolio;1.619;SelfService;20250313;06
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.799;SelfService;20250313;07
@@ -389,8 +388,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.969;Servito;20250315;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.729;SelfService;20250315;07
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.939;Servito;20250315;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.799;SelfService;20250307;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.009;Servito;20250307;08
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.729;SelfService;20250315;07
 8854;Agip;46.1398348;13.2216678;;;Polli Cristian;Gasolio;1.949;Servito;20250315;08
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20250315;07
