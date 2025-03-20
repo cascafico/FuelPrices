@@ -47,7 +47,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;2.019;Servito;20250318;08
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.749;Servito;20250317;07
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.749;SelfService;20250317;07
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.829;SelfService;20250310;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.749;SelfService;20250311;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.789;Servito;20250317;07
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.759;Servito;20250318;07

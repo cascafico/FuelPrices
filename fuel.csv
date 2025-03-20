@@ -122,10 +122,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.749;SelfService;20250317
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.679;Servito;20250317
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.679;SelfService;20250317
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.829;SelfService;20250310
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.869;SelfService;20250310
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;2.009;SelfService;20250310
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.739;SelfService;20250310
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.749;SelfService;20250311
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.799;SelfService;20250311
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.796;Servito;20250311
