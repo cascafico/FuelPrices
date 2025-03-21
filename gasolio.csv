@@ -80,7 +80,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.679;SelfService;20250318;07
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.929;Servito;20250318;08
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.719;Servito;20250317;07
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.759;SelfService;20250311;07
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.689;SelfService;20250317;07
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio;1.709;SelfService;20250314;07
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Gasolio;1.679;SelfService;20250317;07
@@ -131,7 +130,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 25829;IP;46.0788874;13.2348679;;;Ip Services S.R.L.;Gasolio;1.658;SelfService;20250318;06
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.729;SelfService;20250314;07
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.951;Servito;20250314;08
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.829;SelfService;20250311;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.686;Servito;20250318;07
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.686;SelfService;20250318;07
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.608;SelfService;20250315;06
@@ -194,8 +192,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Gasolio;1.689;SelfService;20250318;07
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.655;Servito;20250317;06
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.655;SelfService;20250317;06
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.689;Servito;20250311;07
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.689;SelfService;20250311;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.739;SelfService;20250319;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.829;Servito;20250319;07
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.719;SelfService;20250319;07

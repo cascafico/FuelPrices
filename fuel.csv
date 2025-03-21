@@ -226,10 +226,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio Premium;1.869;Servito;20250317
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio artico;1.869;Servito;20250317
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.719;Servito;20250317
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.849;SelfService;20250311
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.859;SelfService;20250311
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.759;SelfService;20250311
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;HVOlution;1.759;SelfService;20250311
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.769;SelfService;20250317
 17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.689;SelfService;20250317
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.599;Servito;20250317
@@ -364,9 +360,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;GPL;0.738;Servito;20250314
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.729;SelfService;20250314
 25885;Agip;45.8413420;13.0970550;;;Zanini Milvia;Gasolio;1.951;Servito;20250314
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Benzina;1.869;SelfService;20250311
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Gasolio;1.829;SelfService;20250311
-26099;Esso;45.6115992;13.8193811;;;Grs di Samuel Chiaruttini & C. S.A.S.;Supreme Diesel;2.019;SelfService;20250311
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.753;Servito;20250318
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Benzina;1.753;SelfService;20250318
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.686;Servito;20250318
@@ -540,10 +533,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.655;SelfService;20250317
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.755;Servito;20250317
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;S-Diesel;1.755;SelfService;20250317
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.789;Servito;20250311
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Benzina;1.789;SelfService;20250311
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.689;Servito;20250311
-34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.;Gasolio;1.689;SelfService;20250311
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.799;SelfService;20250319
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.889;Servito;20250319
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.739;SelfService;20250319
