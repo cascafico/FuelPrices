@@ -255,8 +255,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Benzina;2.004;Servito;20250322;08
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;1.879;SelfService;20250317;07
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Benzina;2.099;Servito;20250317;08
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.759;SelfService;20250314;07
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.885;Servito;20250314;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;1.899;SelfService;20250321;07
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;2.109;Servito;20250321;08
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Benzina;1.859;SelfService;20250317;07
