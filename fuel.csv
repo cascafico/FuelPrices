@@ -841,8 +841,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.851;Servito;20250321
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.819;SelfService;20250321
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.979;Servito;20250321
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.797;SelfService;20250315
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.727;SelfService;20250315
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.779;Servito;20250322
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.779;SelfService;20250322
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.749;Servito;20250322
