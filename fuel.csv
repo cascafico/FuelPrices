@@ -36,10 +36,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.799;SelfService;20250324
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.749;Servito;20250324
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.749;SelfService;20250324
-11329;Macorigh;46.0917787;13.2224475;;;;Benzina;1.743;Servito;20250317
-11329;Macorigh;46.0917787;13.2224475;;;;Benzina;1.743;SelfService;20250317
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.656;Servito;20250317
-11329;Macorigh;46.0917787;13.2224475;;;;Gasolio;1.656;SelfService;20250317
 11606;Q8;45.8060980;13.5386540;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.759;SelfService;20250325
 11606;Q8;45.8060980;13.5386540;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.719;SelfService;20250325
 11607;Q8 Easy;45.8303280;13.5003754;;;;Benzina;1.759;SelfService;20250321
@@ -122,10 +118,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Blue Diesel;2.047;Servito;20250325
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.737;SelfService;20250325
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.947;Servito;20250325
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.749;Servito;20250317
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.749;SelfService;20250317
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.679;Servito;20250317
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.679;SelfService;20250317
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.809;SelfService;20250325
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.869;SelfService;20250325
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;2.009;SelfService;20250325
@@ -171,8 +163,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Hi-Q Diesel;2.069;SelfService;20250321
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.149;Servito;20250321
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.149;SelfService;20250321
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20250317
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Gasolio;1.819;Servito;20250317
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.739;Servito;20250322
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.718;Servito;20250322
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.649;Servito;20250322
@@ -759,9 +749,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;1.919;SelfService;20250325
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.707;Servito;20250325
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.707;SelfService;20250325
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.738;Servito;20250317
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;GPL;0.698;Servito;20250317
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Gasolio;1.648;Servito;20250317
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20250321
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.820;Servito;20250321
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.739;Servito;20250320

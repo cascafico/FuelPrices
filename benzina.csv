@@ -10,8 +10,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.999;Servito;20250321;08
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.799;Servito;20250324;07
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.799;SelfService;20250324;07
-11329;Macorigh;46.0917787;13.2224475;;;;Benzina;1.743;Servito;20250317;06
-11329;Macorigh;46.0917787;13.2224475;;;;Benzina;1.743;SelfService;20250317;06
 11606;Q8;45.8060980;13.5386540;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.759;SelfService;20250325;07
 11607;Q8 Easy;45.8303280;13.5003754;;;;Benzina;1.759;SelfService;20250321;07
 11608;Q8;45.8860765;13.4962677;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.829;SelfService;20250322;07
@@ -47,8 +45,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;2.009;Servito;20250322;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;1.809;SelfService;20250325;07
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;2.019;Servito;20250325;08
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.749;Servito;20250317;07
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.749;SelfService;20250317;07
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.809;SelfService;20250325;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.729;SelfService;20250321;06
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.789;Servito;20250325;07
@@ -63,7 +59,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.809;SelfService;20250324;07
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.799;Servito;20250321;07
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.799;SelfService;20250321;07
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20250317;07
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.739;Servito;20250322;06
 15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.767;SelfService;20250324;07
 15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.937;Servito;20250324;07
@@ -269,7 +264,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41204;IP;45.9696650;13.1138670;;;Oberai Kapil;Benzina;1.739;SelfService;20250325;06
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.769;Servito;20250325;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.769;SelfService;20250325;07
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL;Benzina;1.738;Servito;20250317;06
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20250321;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.739;Servito;20250320;06
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.779;SelfService;20250325;07
