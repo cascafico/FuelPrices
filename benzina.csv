@@ -40,7 +40,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20250325;06
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.738;Servito;20250321;06
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.779;SelfService;20250324;07
-13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Benzina;1.739;SelfService;20250318;06
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.774;SelfService;20250326;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20250326;08
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.799;SelfService;20250322;07
@@ -87,8 +86,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.749;SelfService;20250324;07
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Benzina;1.749;SelfService;20250322;07
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.759;Servito;20250324;07
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.799;SelfService;20250318;07
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.999;Servito;20250318;08
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.869;SelfService;20250326;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.789;SelfService;20250326;07
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.999;Servito;20250326;08
@@ -275,8 +272,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20250321;07
 42794;IP;45.8915950;13.2514279;;;Savchuk Tetyana;Benzina;1.739;Servito;20250320;06
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.779;SelfService;20250326;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.749;SelfService;20250318;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.919;Servito;20250318;07
 43385;IP;46.0711482;13.2278379;;;Q8 Udine - Via Martignacco;Benzina;1.749;SelfService;20250326;07
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.739;Servito;20250320;06
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.749;SelfService;20250325;07
