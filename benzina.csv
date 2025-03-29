@@ -182,7 +182,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.739;SelfService;20250326;06
 32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.939;Servito;20250326;07
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Benzina;1.739;Servito;20250324;06
-33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.779;Servito;20250319;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.809;SelfService;20250327;07
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;2.029;Servito;20250327;08
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20250326;06
@@ -237,8 +236,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;2.068;Servito;20250326;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.799;SelfService;20250327;07
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;2.019;Servito;20250327;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.769;SelfService;20250319;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.939;Servito;20250319;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.819;SelfService;20250327;07
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.029;Servito;20250327;08
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran;Benzina;1.899;SelfService;20250327;07

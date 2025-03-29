@@ -500,9 +500,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio Oro Diesel;1.639;Servito;20250324
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.649;Servito;20250324
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Metano;1.499;Servito;20250324
-33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Benzina;1.779;Servito;20250319
-33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.689;Servito;20250319
-33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Supreme Diesel;1.859;Servito;20250319
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.809;SelfService;20250327
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;2.029;Servito;20250327
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Blue Diesel;1.837;SelfService;20250327
@@ -660,15 +657,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Blue Super;1.000;SelfService;20250327
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.757;SelfService;20250327
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.977;Servito;20250327
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.769;SelfService;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.939;Servito;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.699;SelfService;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.869;Servito;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HVO;1.579;SelfService;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.049;SelfService;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.169;Servito;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.099;SelfService;20250319
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.219;Servito;20250319
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;1.819;SelfService;20250327
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Benzina;2.029;Servito;20250327
 38733;Eni;45.6285979;13.7815055;;;Radin Davide;Blue Diesel;1.829;SelfService;20250327
