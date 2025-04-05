@@ -24,14 +24,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.;Gasolio;1.659;SelfService;20250403
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Benzina;1.799;Servito;20250402
 10977;;45.9887044;13.3760320;;;Maurizio Mauri;Gasolio;1.719;Servito;20250402
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.789;SelfService;20250326
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Benzina;1.999;Servito;20250326
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Diesel;1.794;SelfService;20250326
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Diesel;2.004;Servito;20250326
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Super;2.039;SelfService;20250326
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Blue Super;2.249;Servito;20250326
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.694;SelfService;20250326
-11076;;46.1048317;13.0935962;;;Stazione Eni di Mazza Giovanni;Gasolio;1.904;Servito;20250326
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.787;Servito;20250329
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Benzina;1.787;SelfService;20250329
 11271;COSTANTIN;46.5837750;12.7817560;;;Enertop S.R.L.;Gasolio;1.727;Servito;20250329
@@ -320,10 +312,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Benzina;1.759;SelfService;20250401
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Gasolio Premium;1.869;SelfService;20250401
 24846;Esso;45.9734988;13.3961129;;;B & T S.N.C. di Bonessi M. & C.;Gasolio;1.669;SelfService;20250401
-24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.759;Servito;20250326
-24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.759;SelfService;20250326
-24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.659;Servito;20250326
-24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.659;SelfService;20250326
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;1.799;SelfService;20250402
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.490;Servito;20250402
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.679;SelfService;20250402
@@ -562,12 +550,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;GPL;0.754;Servito;20250403
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.699;SelfService;20250403
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.919;Servito;20250403
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Benzina;1.759;SelfService;20250326
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Benzina;1.919;Servito;20250326
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio Premium;1.869;SelfService;20250326
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio Premium;2.029;Servito;20250326
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio;1.669;SelfService;20250326
-35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni;Gasolio;1.829;Servito;20250326
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Benzina;1.759;SelfService;20250403
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Benzina;1.919;Servito;20250403
 35355;Esso;46.0165821;13.2569841;;;Rigotto Nerio;Gasolio;1.669;SelfService;20250403
