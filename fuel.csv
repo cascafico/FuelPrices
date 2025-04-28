@@ -578,9 +578,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.698;Servito;20250424
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.599;Servito;20250424
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.599;SelfService;20250424
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.699;Servito;20250418
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;GPL;0.694;Servito;20250418
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.599;Servito;20250418
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.659;Servito;20250426
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.659;SelfService;20250426
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.559;Servito;20250426
@@ -607,9 +604,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio speciale;2.099;Servito;20250423
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.599;SelfService;20250423
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.798;Servito;20250423
-36502;IP;46.0302138;13.1028162;;;;Benzina;1.699;Servito;20250418
-36502;IP;46.0302138;13.1028162;;;;GPL;0.699;Servito;20250418
-36502;IP;46.0302138;13.1028162;;;;Gasolio;1.599;Servito;20250418
 36503;;46.0853205;13.0299877;;;Singh Nirmal;Benzina;1.689;Servito;20250424
 36503;;46.0853205;13.0299877;;;Singh Nirmal;GPL;0.694;Servito;20250424
 36503;;46.0853205;13.0299877;;;Singh Nirmal;Gasolio;1.589;Servito;20250424
@@ -1085,14 +1079,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.644;SelfService;20250426
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.854;Servito;20250426
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.644;SelfService;20250426
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.799;SelfService;20250418
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.009;Servito;20250418
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;1.939;SelfService;20250418
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.149;Servito;20250418
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.149;SelfService;20250418
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.359;Servito;20250418
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.699;SelfService;20250418
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.909;Servito;20250418
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.704;SelfService;20250426
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.924;Servito;20250426
 8854;Eni;46.1398348;13.2216678;;;;Blue Diesel;1.714;SelfService;20250426
@@ -1109,10 +1095,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 9038;Eni;46.3267802;13.1341130;;;Di Bernardo Delia & Alba S.N.C.;Blue Diesel;2.069;Servito;20250426
 9038;Eni;46.3267802;13.1341130;;;Di Bernardo Delia & Alba S.N.C.;Gasolio;1.629;SelfService;20250426
 9038;Eni;46.3267802;13.1341130;;;Di Bernardo Delia & Alba S.N.C.;Gasolio;1.969;Servito;20250426
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Benzina;1.719;Servito;20250418
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Benzina;1.719;SelfService;20250418
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Gasolio;1.619;Servito;20250418
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Gasolio;1.619;SelfService;20250418
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.689;Servito;20250426
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Benzina;1.689;SelfService;20250426
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.599;Servito;20250426

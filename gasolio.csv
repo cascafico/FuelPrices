@@ -207,7 +207,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.;Gasolio;1.619;SelfService;20250425;06
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.599;Servito;20250424;06
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.599;SelfService;20250424;06
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.599;Servito;20250418;06
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.559;Servito;20250426;06
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.559;SelfService;20250426;06
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.579;Servito;20250422;06
@@ -217,7 +216,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36400;Esso;46.4986252;13.3766814;;;Nuova Sidap S.R.L.;Gasolio;1.969;Servito;20250423;08
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.599;SelfService;20250423;06
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.;Gasolio;1.798;Servito;20250423;07
-36502;IP;46.0302138;13.1028162;;;;Gasolio;1.599;Servito;20250418;06
 36503;;46.0853205;13.0299877;;;Singh Nirmal;Gasolio;1.589;Servito;20250424;06
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.589;SelfService;20250426;06
 36989;IP;45.9770955;13.1983666;;;;Gasolio;1.585;SelfService;20250425;06
@@ -381,16 +379,12 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.871;Servito;20250426;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.644;SelfService;20250426;07
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.854;Servito;20250426;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.699;SelfService;20250418;07
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.909;Servito;20250418;08
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;1.614;SelfService;20250426;06
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;1.834;Servito;20250426;07
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.599;SelfService;20250424;06
 9002;Presani Marco;46.1000861;13.4423999;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.589;SelfService;20250424;06
 9038;Eni;46.3267802;13.1341130;;;Di Bernardo Delia & Alba S.N.C.;Gasolio;1.629;SelfService;20250426;07
 9038;Eni;46.3267802;13.1341130;;;Di Bernardo Delia & Alba S.N.C.;Gasolio;1.969;Servito;20250426;08
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Gasolio;1.619;Servito;20250418;06
-9179;Fly;46.0926934;13.0730984;;;Lb di Lauzzana Rita;Gasolio;1.619;SelfService;20250418;06
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.599;Servito;20250426;06
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.;Gasolio;1.599;SelfService;20250426;06
 9737;Esso;45.6253684;13.7953265;;;Riva Stefano;Gasolio;1.729;Servito;20250422;07
