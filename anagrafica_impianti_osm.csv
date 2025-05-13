@@ -7,7 +7,6 @@
 14823;Eni;45.8403241;13.4934855;;;Ricciardi Antonio
 19689;Agip;45.8054850;13.5091920;;;Bernardi di Bernardi G. & C. S.N.C.
 50484;Agip;45.9279270;13.6132190;;;04130
-22395;Esso;45.8021772;13.5472621;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio
 4569;Agip;45.9759231;12.6883812;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
@@ -254,7 +253,6 @@
 10355;Eni Station;46.1092319;12.8885239;;;
 19082;Erg;46.1324621;12.8687331;;;Zanet Marietto & C. S.N.C.
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.
-18877;Eni;45.8017151;13.5494263;;;Bidut Roberto - Impianto Agip Monfalcone
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio
 13665;IP;46.3683142;13.0392150;;;Distributore Ip Billiani Lilia
 35393;Costantin;45.9677192;12.6236270;;;Commercio Petroli S.R.L.
@@ -421,7 +419,7 @@
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
 45703;IP;46.0334327;13.2459915;;;Kumar Mohit
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti
-49701;Eni;46.0875044;13.2331962;;;P.R.M. S.N.C. di Buffa Paolo & C.
+49701;Eni;46.0875018;13.2331962;;;P.R.M. S.N.C. di Buffa Paolo & C.
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.
 35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.
 38618;Area Eni;45.6648569;13.7675452;;;Zol Franco - Carburanti
@@ -520,4 +518,6 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 ;;45.9838402;13.4052555;;;
 ;;45.9905592;13.3651617;;;
 ;;46.1486390;12.9891734;;;
+22395;Esso;45.8022884;13.5474056;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele
+18877;Eni;45.8015824;13.5493015;;;Bidut Roberto - Impianto Agip Monfalcone
 50952;;46.0645392;13.2120296;;;Favaro Giulio
