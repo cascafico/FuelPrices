@@ -377,7 +377,6 @@
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.
 13195;Benzina-Stazione di servizio;45.8881576;12.5530521;;;Bertolo S.A.S. di Bertolo Nello & C.
 33531;;46.0460769;13.1962535;;;Rodaro Enzo & C. S.N.C.
-38686;IP;46.0551944;13.2346646;;;Rafikul Islam
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna
 35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni
@@ -484,7 +483,6 @@
 ;;46.3726336;13.0648238;;;
 ;IP;45.7728203;12.9972406;;;
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine
-;;46.0552073;13.2347811;;;
 ;;46.1000674;13.2064688;;;
 22031;IP;45.8052916;13.0860529;;;Movio Fiorenzo
 7293;Q8 Easy;46.0230701;13.2724298;;;Servizi & Gestioni Italia S.R.L.
@@ -522,3 +520,4 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 18877;Eni;45.8015824;13.5493015;;;Bidut Roberto - Impianto Agip Monfalcone
 ;;45.9594910;12.5024727;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio
+38686;IP;46.0552073;13.2347811;;;Rafikul Islam
