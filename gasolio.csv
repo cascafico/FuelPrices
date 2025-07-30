@@ -144,8 +144,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.679;SelfService;20250728;08
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Gasolio;1.689;SelfService;20250729;08
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.729;SelfService;20250728;08
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.679;SelfService;20250725;08
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.849;Servito;20250725;09
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.679;SelfService;20250725;08
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.849;Servito;20250725;09
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.669;SelfService;20250729;08
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.849;Servito;20250729;09
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;1.659;Servito;20250725;08

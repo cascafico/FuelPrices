@@ -394,13 +394,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.819;SelfService;20250728
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.829;SelfService;20250728
 26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.729;SelfService;20250728
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.699;SelfService;20250725
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.869;Servito;20250725
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.979;Servito;20250725
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.979;SelfService;20250725
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.657;Servito;20250725
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.679;SelfService;20250725
-26915;Eni;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.849;Servito;20250725
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.699;SelfService;20250725
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.869;Servito;20250725
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.979;Servito;20250725
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.979;SelfService;20250725
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.657;Servito;20250725
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.679;SelfService;20250725
+26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.849;Servito;20250725
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.719;SelfService;20250729
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.899;Servito;20250729
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.669;SelfService;20250729
