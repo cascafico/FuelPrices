@@ -1018,6 +1018,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Benzina;1.779;SelfService;20250819
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.729;Servito;20250819
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.729;SelfService;20250819
+56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.689;SelfService;20250816
+56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Gasolio;1.629;SelfService;20250816
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.729;Servito;20250813
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;GPL;0.669;Servito;20250813
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Gasolio;1.649;Servito;20250813

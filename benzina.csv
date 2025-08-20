@@ -362,6 +362,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 53727;Esso Sgonico;45.7185651;13.7299462;;;Alfamax S.a.s. di Ghiretti Andrea & Zorzin F.;Benzina;1.909;Servito;20250819;08
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Benzina;1.779;Servito;20250819;08
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Benzina;1.779;SelfService;20250819;08
+56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.689;SelfService;20250816;07
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.729;Servito;20250813;08
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.634;Servito;20250819;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.634;SelfService;20250819;07
