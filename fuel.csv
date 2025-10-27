@@ -1,10 +1,4 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Benzina;1.769;Servito;20251017
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Benzina;1.769;SelfService;20251017
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.709;Servito;20251017
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.709;SelfService;20251017
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Supreme Diesel;1.829;Servito;20251017
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Supreme Diesel;1.829;SelfService;20251017
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.699;SelfService;20251025
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.909;Servito;20251025
 10355;Eni Station;46.1092319;12.8885239;;;;Blue Diesel;1.729;SelfService;20251025
@@ -420,12 +414,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.689;SelfService;20251024
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.679;Servito;20251024
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.629;SelfService;20251024
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.709;SelfService;20251017
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.919;Servito;20251017
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.729;SelfService;20251017
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.939;Servito;20251017
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.629;SelfService;20251017
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.839;Servito;20251017
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.729;SelfService;20251024
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.649;SelfService;20251024
 29551;Shell;45.9476440;12.6831790;;;Zanetti S.N.C. di Zanetti Nicola e C.;Benzina;1.699;SelfService;20251024
