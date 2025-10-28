@@ -321,8 +321,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.069;Servito;20251025
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.659;SelfService;20251025
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;2.009;Servito;20251025
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.669;Servito;20251018
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Gasolio;1.619;Servito;20251018
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.689;SelfService;20251025
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Blue Diesel;1.719;SelfService;20251025
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Gasolio;1.619;SelfService;20251025
@@ -374,9 +372,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Benzina;1.689;SelfService;20251025
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Gasolio;1.629;SelfService;20251025
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Supreme Diesel;1.749;SelfService;20251025
-26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.819;SelfService;20251025
-26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.829;SelfService;20251025
-26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.729;SelfService;20251025
+26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.819;SelfService;20251025
+26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.829;SelfService;20251025
+26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.729;SelfService;20251025
 26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.657;SelfService;20251025
 26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.827;Servito;20251025
 26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.927;Servito;20251025

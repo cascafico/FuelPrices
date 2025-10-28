@@ -117,7 +117,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.689;SelfService;20251023;08
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;1.719;SelfService;20251025;08
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.069;Servito;20251025;09
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.669;Servito;20251018;08
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.689;SelfService;20251025;08
 25383;Esso;46.0392210;12.8350780;;;Fratelli Cristofoli di Cristofoli Rinaldo & C. S.N.C.;Benzina;1.709;Servito;20251024;08
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Benzina;1.699;Servito;20251024;08
@@ -137,7 +136,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.699;Servito;20251025;08
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.699;SelfService;20251025;08
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Benzina;1.689;SelfService;20251025;08
-26817;Agip;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.819;SelfService;20251025;08
+26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.819;SelfService;20251025;08
 26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.657;SelfService;20251025;07
 26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.827;Servito;20251025;08
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.699;SelfService;20251025;08
