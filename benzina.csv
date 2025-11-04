@@ -40,7 +40,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11914;Q8;46.0375611;13.2468934;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20251031;08
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20251101;08
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.688;Servito;20251031;08
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.729;SelfService;20251025;08
 13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Benzina;1.669;SelfService;20251030;08
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.719;SelfService;20251101;08
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20251101;09
@@ -374,8 +373,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;1.951;Servito;20251101;09
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.689;SelfService;20251102;08
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.899;Servito;20251102;09
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.789;SelfService;20251025;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.999;Servito;20251025;09
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.699;SelfService;20251102;08
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.919;Servito;20251102;09
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.689;SelfService;20251101;08

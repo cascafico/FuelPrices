@@ -98,10 +98,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.667;SelfService;20251101
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.688;Servito;20251031
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.628;Servito;20251031
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.729;SelfService;20251025
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;GPL;0.688;Servito;20251025
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.639;SelfService;20251025
-12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Hi-Q Diesel;2.079;SelfService;20251025
 13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Benzina;1.669;SelfService;20251030
 13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;GP DIESEL;1.789;SelfService;20251030
 13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Gasolio;1.649;SelfService;20251030
@@ -1060,14 +1056,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.649;SelfService;20251102
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.859;Servito;20251102
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.649;SelfService;20251102
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.789;SelfService;20251025
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.999;Servito;20251025
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;1.909;SelfService;20251025
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.119;Servito;20251025
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;1.999;SelfService;20251025
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.209;Servito;20251025
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.699;SelfService;20251025
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.999;Servito;20251025
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.699;SelfService;20251102
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.919;Servito;20251102
 8854;Eni;46.1398348;13.2216678;;;;Blue Diesel;1.749;SelfService;20251102
