@@ -950,11 +950,11 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 52438;Tamoil;46.0283439;13.2588105;;;6979;Gasolio;1.639;SelfService;20251108
 52438;Tamoil;46.0283439;13.2588105;;;6979;HVO;1.609;Servito;20251108
 52438;Tamoil;46.0283439;13.2588105;;;6979;HVO;1.609;SelfService;20251108
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.657;SelfService;20251107
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.827;Servito;20251107
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;GPL;0.627;Servito;20251107
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.637;SelfService;20251107
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.807;Servito;20251107
+52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.657;SelfService;20251107
+52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.827;Servito;20251107
+52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;GPL;0.627;Servito;20251107
+52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.637;SelfService;20251107
+52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.807;Servito;20251107
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.699;Servito;20251107
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.699;SelfService;20251107
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Gasolio;1.619;Servito;20251107

@@ -336,8 +336,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 52387;IP;46.0088700;13.3308100;;;Fuel Service S.A.S. di Valenti Mario & C.;Gasolio;1.899;Servito;20251106;09
 52438;Tamoil;46.0283439;13.2588105;;;6979;Gasolio;1.639;Servito;20251108;08
 52438;Tamoil;46.0283439;13.2588105;;;6979;Gasolio;1.639;SelfService;20251108;08
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.637;SelfService;20251107;08
-52553;Agip Eni;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.807;Servito;20251107;08
+52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.637;SelfService;20251107;08
+52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Gasolio;1.807;Servito;20251107;08
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Gasolio;1.619;Servito;20251107;07
 52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Gasolio;1.619;SelfService;20251107;07
 53066;Tamoil;45.7179069;13.0497980;;;T.D.M. S.R.L.;Gasolio;1.649;SelfService;20251108;08
