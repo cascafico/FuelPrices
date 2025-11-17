@@ -212,7 +212,6 @@
 ;IP;46.2848260;12.7958050;;;IP
 56294;Costantin;46.0489079;12.6580690;;;Martinel Franco
 22509;Agip;46.0339648;12.6764359;;;Z.M. Service Snc di Zanusso Alessandro e C.
-38628;Esso;45.9814474;12.6457034;;;La Perla S.N.C. di Iqbal Farzana & C.
 14191;IP;46.0961774;12.6807068;;;F.lli Corba S.A.S. di Corba Massimo e Stefano
 13485;IP;45.9636840;12.4336910;;;Santin Aldo
 22709;IP;46.1159020;12.8991611;;;Distributore Mamusa di Cominotto Giovanni e C. Snc
@@ -303,7 +302,7 @@
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian
 33487;;46.4034439;12.8238704;;;Bar Alla Posta di Pacelli Giovanni
 29740;;45.9668497;12.9684758;;;Big S.R.L.
-29375;;46.0169651;12.6506195;;;Querenghi S.N.C. di Querenghi Antonio & Federico
+29375;IP;46.0169651;12.6506195;;;Querenghi S.N.C. di Querenghi Antonio & Federico
 27777;;45.9420909;12.5956306;;;Pignat Manuele
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.
 22639;;46.0576759;12.6004949;;;Posocco Angelo
@@ -330,6 +329,7 @@
 9002;Presani Marco;46.1000861;13.4423999;;;Servizi & Gestioni Italia S.R.L.
 53643;;46.1535669;13.2186863;;;Impianto Ip Tricesimo - Fuel Service S.A.S.
 ;Eni;45.9599951;12.5121236;;;Celotto Alejandra & C. S.A.S.
+;Esso;45.9814650;12.6456981;;;
 ;;45.9705740;12.9884186;;;
 36519;ENI;45.9968815;12.6315413;;;Cki.Ara S.N.C. di Mazzon Maurizio
 34172;Drusian;45.8881689;13.3536673;;;S.I.A. Engineering Construction S.R.L.
