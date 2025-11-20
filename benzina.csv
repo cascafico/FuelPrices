@@ -149,7 +149,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Benzina;1.699;SelfService;20251113;08
 28059;Esso;45.8063839;13.3907479;;;A. & B. S.A.S. di Alvaro Alessandro & C.;Benzina;1.719;SelfService;20251117;08
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.699;Servito;20251117;08
-28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.798;Servito;20251110;08
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.729;SelfService;20251117;08
 28866;Eni;45.9019553;13.2576266;;;;Benzina;1.739;SelfService;20251112;08
 28866;Eni;45.9019553;13.2576266;;;;Benzina;1.949;Servito;20251112;09
@@ -233,8 +232,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Benzina;1.998;Servito;20251117;09
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;1.789;SelfService;20251118;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Benzina;2.009;Servito;20251118;09
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.689;SelfService;20251110;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.859;Servito;20251110;08
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.699;SelfService;20251117;08
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Benzina;1.919;Servito;20251117;09
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Benzina;1.729;SelfService;20251115;08

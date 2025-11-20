@@ -408,11 +408,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.699;Servito;20251117
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio speciale;1.789;Servito;20251117
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Gasolio;1.689;Servito;20251117
-28291;Tamoil;45.6379173;13.8149834;;;;Benzina Shell V Power;1.958;Servito;20251110
-28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.798;Servito;20251110
-28291;Tamoil;45.6379173;13.8149834;;;;Diesel Shell V Power;1.958;Servito;20251110
-28291;Tamoil;45.6379173;13.8149834;;;;GPL;0.999;Servito;20251110
-28291;Tamoil;45.6379173;13.8149834;;;;Gasolio;1.798;Servito;20251110
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.729;SelfService;20251117
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.679;Servito;20251117
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.719;SelfService;20251117
@@ -648,15 +643,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Blue Super;1.000;SelfService;20251118
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.777;SelfService;20251118
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.997;Servito;20251118
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.689;SelfService;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Benzina;1.859;Servito;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.679;SelfService;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.849;Servito;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HVO;1.649;SelfService;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.049;SelfService;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Hi-Q Diesel;2.169;Servito;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.019;SelfService;20251110
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HiQ Perform+;2.139;Servito;20251110
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.699;SelfService;20251117
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;GPL;0.634;Servito;20251117
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.679;SelfService;20251117
