@@ -109,7 +109,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.749;Servito;20251124;08
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.749;SelfService;20251124;08
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20251121;08
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.699;Servito;20251117;08
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20251122;08
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;1.894;Servito;20251124;08
 24421;KV;46.1181509;13.2173907;;;Vanello Eugenio & Figli S.P.A;Benzina;1.699;SelfService;20251121;08
@@ -262,7 +261,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.809;SelfService;20251120;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.739;Servito;20251124;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.739;SelfService;20251124;08
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20251117;08
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.739;SelfService;20251125;08
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.729;SelfService;20251120;08
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.899;Servito;20251120;08

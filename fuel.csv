@@ -302,9 +302,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.739;SelfService;20251124
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20251121
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.659;SelfService;20251121
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Benzina;1.699;Servito;20251117
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio artico;1.689;Servito;20251117
-23802;;45.8479490;13.2128620;;;Stazione di Servizio di Tavaris Stefano;Gasolio;1.689;Servito;20251117
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.739;SelfService;20251122
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.729;SelfService;20251122
 24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel;Benzina;1.894;Servito;20251124
@@ -738,8 +735,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;1.889;SelfService;20251124
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.727;Servito;20251124
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.727;SelfService;20251124
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20251117
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.795;Servito;20251117
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.739;SelfService;20251125
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.829;SelfService;20251125
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.729;SelfService;20251125
