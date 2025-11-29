@@ -185,8 +185,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.749;SelfService;20251127;08
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.969;Servito;20251127;09
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20251126;08
-34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.709;SelfService;20251119;08
-34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.829;Servito;20251119;08
 34264;IP;45.7600752;13.1656390;;;A.F. Petroli S.p.A.;Benzina;1.899;SelfService;20251123;08
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Benzina;1.729;SelfService;20251126;08
 34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.709;Servito;20251120;08
