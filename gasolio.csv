@@ -49,7 +49,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;Servito;20251124;07
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;SelfService;20251124;07
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.749;SelfService;20251127;08
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.699;SelfService;20251121;08
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.719;Servito;20251129;08
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.729;Servito;20251126;08
 13942;Esso;45.6383374;13.8156217;;;De Cleva e Bernardini di De Cleva Paolo & C. S.A.S.;Gasolio;1.779;Servito;20251124;08
@@ -58,8 +57,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.768;SelfService;20251125;08
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.978;Servito;20251125;09
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.699;SelfService;20251129;08
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.751;Servito;20251121;08
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.751;SelfService;20251121;08
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Gasolio;1.747;Servito;20251128;08
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Gasolio;1.747;SelfService;20251128;08
 15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Gasolio;1.799;Servito;20251127;08

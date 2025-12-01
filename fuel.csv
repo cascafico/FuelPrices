@@ -126,10 +126,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.849;SelfService;20251127
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.949;SelfService;20251127
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.749;SelfService;20251127
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.729;SelfService;20251121
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.799;SelfService;20251121
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.796;Servito;20251121
-13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.699;SelfService;20251121
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.729;Servito;20251129
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.719;Servito;20251129
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.719;Servito;20251126
@@ -152,12 +148,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.729;SelfService;20251129
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Blue Diesel;1.799;SelfService;20251129
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.699;SelfService;20251129
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.759;Servito;20251121
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.759;SelfService;20251121
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio artico;1.751;Servito;20251121
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio artico;1.751;SelfService;20251121
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.751;Servito;20251121
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.751;SelfService;20251121
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.727;Servito;20251128
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.727;SelfService;20251128
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;GPL;0.677;Servito;20251128
