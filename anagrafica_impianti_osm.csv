@@ -2,7 +2,6 @@
 6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.
 49589;Agip;45.9376065;13.6166629;;;Diana Massimiliano
-30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.
 25804;Agip;45.8083860;13.4428020;;;Area Pieris di Ponzalli Roberto & Sellan Matteo S.N.C.
 14823;Eni;45.8403241;13.4934855;;;Ricciardi Antonio
 19689;Agip;45.8054850;13.5091920;;;Bernardi di Bernardi G. & C. S.N.C.
@@ -121,7 +120,6 @@
 29775;Agip;45.9428001;13.6230662;;;Diana Massimiliano
 48406;IP;45.9365570;13.5845520;;;M 2 S.A.S. di Savino Aldrigo & C.
 23873;Q8;45.6816568;13.4170650;;;Servizi & Gestioni Italia S.R.L.
-30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.
 51813;Q8;46.0080400;13.1214500;;;Q8
 37479;Eni;45.9500769;13.0510956;;;Pasutti Marco
@@ -500,7 +498,7 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 ;Hera;46.0218272;13.2398279;;;HERA
 ;;46.0824451;13.1738044;;;
 ;Metano;46.0823935;13.1739843;;;
-;;45.9344822;13.5257412;;;
+30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.
 ;;45.8503157;12.8819270;;;
 13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo
 ;;46.1006797;13.1727153;;;
@@ -515,4 +513,6 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 ;;46.0928690;13.1918596;;;
 ;;46.2125996;13.2127182;;;
 26366;Tamoil;45.9530872;13.4361550;;;Autoservice 2000 di Cara Stefano & C. S.N.C.
+30744;IP;45.9044736;13.5371580;;;Ip Services S.R.L.
+;;45.8114404;13.0053647;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio

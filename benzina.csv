@@ -155,14 +155,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.805;SelfService;20251129;08
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.739;Servito;20251129;08
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.739;SelfService;20251129;08
-30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.779;SelfService;20251130;08
-30071;Eni;45.9343770;13.5259544;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.989;Servito;20251130;09
+30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.779;SelfService;20251130;08
+30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.989;Servito;20251130;09
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.667;Servito;20251128;07
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.667;SelfService;20251128;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.709;SelfService;20251128;08
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.879;Servito;20251128;08
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.689;Servito;20251129;07
-30744;IP;45.9044448;13.5371576;;;Ip Services S.R.L.;Benzina;1.779;SelfService;20251129;08
+30744;IP;45.9044736;13.5371580;;;Ip Services S.R.L.;Benzina;1.779;SelfService;20251129;08
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.729;SelfService;20251128;08
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.919;Servito;20251128;09
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.789;SelfService;20251129;08
@@ -215,7 +215,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36989;IP;45.9770955;13.1983666;;;;Benzina;1.759;SelfService;20251129;08
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.739;SelfService;20251130;08
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.709;SelfService;20251128;08
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Benzina;1.650;SelfService;20251122;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.759;Servito;20251128;08
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.759;SelfService;20251128;08
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.699;SelfService;20251129;08
