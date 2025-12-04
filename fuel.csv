@@ -126,10 +126,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Blue Diesel;2.077;Servito;20251202
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.767;SelfService;20251202
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.977;Servito;20251202
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.669;Servito;20251124
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.669;SelfService;20251124
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;Servito;20251124
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;SelfService;20251124
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.789;SelfService;20251127
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.849;SelfService;20251127
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.949;SelfService;20251127

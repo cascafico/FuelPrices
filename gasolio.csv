@@ -48,8 +48,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Gasolio;1.929;Servito;20251128;09
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.767;SelfService;20251202;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.977;Servito;20251202;09
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;Servito;20251124;07
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;SelfService;20251124;07
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.749;SelfService;20251127;08
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.689;SelfService;20251201;08
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.719;Servito;20251202;08
