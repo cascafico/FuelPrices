@@ -50,7 +50,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Benzina;1.979;Servito;20251205;09
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.669;Servito;20251202;07
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.669;SelfService;20251202;07
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.789;SelfService;20251127;08
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.709;SelfService;20251201;08
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.729;Servito;20251205;08
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.719;Servito;20251204;08
@@ -64,7 +63,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.759;SelfService;20251129;08
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.727;Servito;20251204;08
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.727;SelfService;20251204;08
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20251127;09
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.699;Servito;20251205;08
 15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.717;SelfService;20251203;08
 15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Benzina;1.887;Servito;20251203;08
@@ -350,7 +348,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Benzina;1.789;Servito;20251204;08
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Benzina;1.789;SelfService;20251204;08
 56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.687;SelfService;20251204;08
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.739;Servito;20251127;08
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.674;Servito;20251205;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.674;SelfService;20251205;07
 6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Benzina;1.688;SelfService;20251205;08

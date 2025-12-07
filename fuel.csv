@@ -130,10 +130,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Benzina;1.669;SelfService;20251202
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;Servito;20251202
 13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.619;SelfService;20251202
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Benzina;1.789;SelfService;20251127
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Diesel;1.849;SelfService;20251127
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Blue Super;1.949;SelfService;20251127
-13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.749;SelfService;20251127
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Benzina;1.709;SelfService;20251201
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Blue Diesel;1.799;SelfService;20251201
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;GPL;0.796;Servito;20251201
@@ -175,8 +171,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Hi-Q Diesel;2.027;SelfService;20251204
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.029;Servito;20251204
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.029;SelfService;20251204
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20251127
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Gasolio;1.799;Servito;20251127
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.699;Servito;20251205
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.659;Servito;20251205
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.679;Servito;20251205
@@ -985,11 +979,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.783;SelfService;20251204
 56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.687;SelfService;20251204
 56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Gasolio;1.687;SelfService;20251204
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.739;Servito;20251127
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;GPL;0.649;Servito;20251127
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Gasolio;1.719;Servito;20251127
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Hi-Q Diesel;1.969;Servito;20251127
-6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;HiQ Perform+;1.989;Servito;20251127
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.674;Servito;20251205
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.674;SelfService;20251205
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio artico;1.758;Servito;20251205
