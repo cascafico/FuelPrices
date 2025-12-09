@@ -154,12 +154,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Benzina;1.729;SelfService;20251207
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Blue Diesel;1.799;SelfService;20251207
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.699;SelfService;20251207
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.759;Servito;20251129
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Benzina;1.759;SelfService;20251129
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio artico;1.751;Servito;20251129
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio artico;1.751;SelfService;20251129
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.751;Servito;20251129
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.751;SelfService;20251129
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.727;Servito;20251205
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Benzina;1.727;SelfService;20251205
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;GPL;0.677;Servito;20251205
@@ -572,9 +566,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.619;Servito;20251206
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.679;Servito;20251206
 35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.679;SelfService;20251206
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.699;Servito;20251129
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;GPL;0.628;Servito;20251129
-35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.689;Servito;20251129
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.687;Servito;20251202
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.687;SelfService;20251202
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Gasolio;1.677;Servito;20251202
