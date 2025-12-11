@@ -149,8 +149,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.709;Servito;20251209;08
 28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.798;Servito;20251209;08
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.729;SelfService;20251202;08
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.749;SelfService;20251201;08
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.959;Servito;20251201;09
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.739;SelfService;20251208;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.789;SelfService;20251203;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.889;Servito;20251203;08
@@ -256,7 +254,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.799;SelfService;20251206;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.729;Servito;20251206;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.729;SelfService;20251206;08
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20251201;09
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.719;SelfService;20251209;08
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.689;Servito;20251204;08
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.729;SelfService;20251203;08

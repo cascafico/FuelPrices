@@ -412,12 +412,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.729;SelfService;20251202
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.679;Servito;20251202
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.699;SelfService;20251202
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.749;SelfService;20251201
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.959;Servito;20251201
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.799;SelfService;20251201
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;2.009;Servito;20251201
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.699;SelfService;20251201
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.909;Servito;20251201
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.739;SelfService;20251208
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.699;SelfService;20251208
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina speciale;2.229;Servito;20251203
@@ -718,8 +712,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;1.879;SelfService;20251206
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.707;Servito;20251206
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.707;SelfService;20251206
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20251201
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.795;Servito;20251201
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.719;SelfService;20251209
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.779;SelfService;20251209
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.679;SelfService;20251209
