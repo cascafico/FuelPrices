@@ -1,10 +1,4 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Benzina;1.799;Servito;20251205
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Benzina;1.799;SelfService;20251205
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.759;Servito;20251205
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.759;SelfService;20251205
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Supreme Diesel;1.879;Servito;20251205
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Supreme Diesel;1.879;SelfService;20251205
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.739;SelfService;20251213
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.949;Servito;20251213
 10355;Eni Station;46.1092319;12.8885239;;;;Blue Diesel;1.779;SelfService;20251213
@@ -56,8 +50,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11610;Q8;45.9344680;13.6069700;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20251212
 11611;Q8;45.9567353;13.4662431;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.798;SelfService;20251212
 11611;Q8;45.9567353;13.4662431;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.778;SelfService;20251212
-11771;Shell;45.9595317;12.5024528;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.719;SelfService;20251213
-11771;Shell;45.9595317;12.5024528;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20251213
+11771;;45.9595317;12.5024528;;;;Benzina;1.719;SelfService;20251213
+11771;;45.9595317;12.5024528;;;;Gasolio;1.689;SelfService;20251213
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.689;SelfService;20251212
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.659;SelfService;20251212
 11773;Q8 Easy;45.9661302;12.6399320;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20251210
@@ -470,8 +464,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.919;Servito;20251212
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.689;SelfService;20251212
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.879;Servito;20251212
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.669;Servito;20251205
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.659;Servito;20251205
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20251212
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.659;SelfService;20251212
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Benzina;1.699;SelfService;20251212
@@ -1057,14 +1049,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.669;SelfService;20251213
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.879;Servito;20251213
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;1.669;SelfService;20251213
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.809;SelfService;20251205
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.019;Servito;20251205
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;1.949;SelfService;20251205
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.159;Servito;20251205
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;1.999;SelfService;20251205
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.209;Servito;20251205
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.739;SelfService;20251205
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.949;Servito;20251205
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.719;SelfService;20251213
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.939;Servito;20251213
 8854;Eni;46.1398348;13.2216678;;;;Blue Diesel;1.769;SelfService;20251213

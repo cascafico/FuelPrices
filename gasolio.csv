@@ -1,6 +1,4 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.759;Servito;20251205;08
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.759;SelfService;20251205;08
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.669;SelfService;20251213;08
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.879;Servito;20251213;09
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.669;SelfService;20251213;08
@@ -19,7 +17,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11609;Q8 Easy;45.8021895;13.5415789;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.659;SelfService;20251212;08
 11610;Q8;45.9344680;13.6069700;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20251212;08
 11611;Q8;45.9567353;13.4662431;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.778;SelfService;20251212;08
-11771;Shell;45.9595317;12.5024528;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20251213;08
+11771;;45.9595317;12.5024528;;;;Gasolio;1.689;SelfService;20251213;08
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.659;SelfService;20251212;08
 11773;Q8 Easy;45.9661302;12.6399320;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.679;SelfService;20251210;08
 11776;Q8 Easy;45.9691252;12.6723955;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.734;SelfService;20251213;08
@@ -169,7 +167,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30744;IP;45.9044736;13.5371580;;;Ip Services S.R.L.;Gasolio;1.679;SelfService;20251212;08
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.689;SelfService;20251212;08
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.879;Servito;20251212;09
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.659;Servito;20251205;08
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.659;SelfService;20251212;08
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Gasolio;1.659;SelfService;20251212;08
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Gasolio;1.699;SelfService;20251210;08
@@ -371,8 +368,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.949;Servito;20251213;09
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.669;SelfService;20251213;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.879;Servito;20251213;09
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.739;SelfService;20251205;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.949;Servito;20251205;09
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;1.669;SelfService;20251213;08
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;1.889;Servito;20251213;09
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.669;SelfService;20251213;08
