@@ -50,8 +50,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11610;Q8;45.9344680;13.6069700;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.699;SelfService;20251212
 11611;Q8;45.9567353;13.4662431;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.798;SelfService;20251212
 11611;Q8;45.9567353;13.4662431;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.778;SelfService;20251212
-11771;;45.9595317;12.5024528;;;;Benzina;1.719;SelfService;20251213
-11771;;45.9595317;12.5024528;;;;Gasolio;1.689;SelfService;20251213
+11771;Q8 Easy;45.9595317;12.5024528;;;;Benzina;1.719;SelfService;20251213
+11771;Q8 Easy;45.9595317;12.5024528;;;;Gasolio;1.689;SelfService;20251213
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.689;SelfService;20251212
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.659;SelfService;20251212
 11773;Q8 Easy;45.9661302;12.6399320;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20251210
