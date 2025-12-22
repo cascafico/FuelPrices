@@ -256,8 +256,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.894;SelfService;20251218;09
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.689;SelfService;20251220;08
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.909;Servito;20251220;09
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.729;Servito;20251212;08
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.729;SelfService;20251212;08
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.779;SelfService;20251219;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.709;Servito;20251219;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.709;SelfService;20251219;08
