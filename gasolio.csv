@@ -132,8 +132,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.629;Servito;20251220;08
 26161;;45.9297759;12.7347170;;;Autolavaggi B.M. di Borean Tiberio & C. S.N.C.;Gasolio;1.629;SelfService;20251220;08
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.578;SelfService;20251220;07
-26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.699;Servito;20251213;08
-26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.699;SelfService;20251213;08
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.647;Servito;20251220;08
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.647;SelfService;20251220;08
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano;Gasolio;1.639;SelfService;20251220;08
@@ -221,7 +219,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.609;SelfService;20251220;07
 36989;IP;45.9770955;13.1983666;;;;Gasolio;1.639;SelfService;20251220;08
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio;1.659;SelfService;20251218;08
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Gasolio;1.600;SelfService;20251213;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.723;Servito;20251217;08
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.723;SelfService;20251217;08
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.619;SelfService;20251220;07
@@ -241,8 +238,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Gasolio;1.909;Servito;20251221;09
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.759;SelfService;20251218;08
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.979;Servito;20251218;09
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.669;SelfService;20251213;08
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.789;Servito;20251213;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.707;SelfService;20251220;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.917;Servito;20251220;09
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.699;SelfService;20251218;08

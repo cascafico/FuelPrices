@@ -369,11 +369,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Benzina;1.628;SelfService;20251220
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;GPL;0.598;Servito;20251220
 26173;;45.9729703;12.6136243;;;S.G.S. S.R.L.;Gasolio;1.578;SelfService;20251220
-26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.699;Servito;20251213
-26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Benzina;1.699;SelfService;20251213
-26319;;46.2700321;12.3447215;;;Eugas S.R.L.;GPL;0.740;Servito;20251213
-26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.699;Servito;20251213
-26319;;46.2700321;12.3447215;;;Eugas S.R.L.;Gasolio;1.699;SelfService;20251213
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.689;Servito;20251220
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Benzina;1.689;SelfService;20251220
 26568;Oil Italia;46.3629018;13.1354547;;;Oil Italia S.R.L.;Gasolio;1.647;Servito;20251220
@@ -623,8 +618,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.669;SelfService;20251218
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio;1.659;SelfService;20251218
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Supreme Diesel;1.839;SelfService;20251218
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Benzina;1.650;SelfService;20251213
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Gasolio;1.600;SelfService;20251213
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.749;Servito;20251217
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.749;SelfService;20251217
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.723;Servito;20251217
@@ -685,12 +678,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;GPL;0.799;Servito;20251218
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.759;SelfService;20251218
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.979;Servito;20251218
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.699;SelfService;20251213
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Benzina;1.825;Servito;20251213
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio Premium;1.849;SelfService;20251213
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio Premium;1.969;Servito;20251213
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.669;SelfService;20251213
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.789;Servito;20251213
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;1.799;SelfService;20251220
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Benzina;2.009;Servito;20251220
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Blue Diesel;1.807;SelfService;20251220
