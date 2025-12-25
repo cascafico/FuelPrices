@@ -702,8 +702,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;1.969;Servito;20251218
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.759;SelfService;20251218
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.959;Servito;20251218
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.689;Servito;20251215
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.659;Servito;20251215
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.894;SelfService;20251218
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.868;SelfService;20251218
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.689;SelfService;20251223
@@ -783,8 +781,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.841;Servito;20251222
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.789;SelfService;20251222
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Supreme Diesel;1.949;Servito;20251222
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Benzina;1.727;SelfService;20251215
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.717;SelfService;20251215
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.739;Servito;20251223
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Benzina;1.739;SelfService;20251223
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.729;Servito;20251223
