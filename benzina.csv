@@ -98,8 +98,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar;Benzina;1.679;SelfService;20251224;08
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.739;SelfService;20251224;08
 21433;Ip;45.9501650;13.4752040;;;Zorgniotti & Piu di Zorgniotti Oscar & C. S.A.S.;Benzina;1.939;Servito;20251224;09
-21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.739;Servito;20251216;08
-21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele;Benzina;1.739;SelfService;20251216;08
 21544;Delle Vedove;45.9503343;12.6957369;;;Val.Gre.Ca. S.R.L.;Benzina;1.659;SelfService;20251223;07
 22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio;Benzina;1.724;SelfService;20251224;08
 22355;Q8;45.8942165;12.5564490;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.669;SelfService;20251223;08
@@ -150,8 +148,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.679;Servito;20251224;08
 28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.798;Servito;20251223;08
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.689;SelfService;20251224;08
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.729;SelfService;20251216;08
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.939;Servito;20251216;09
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20251223;08
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.805;Servito;20251220;08
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;1.805;SelfService;20251220;08
@@ -335,8 +331,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 52438;Tamoil;46.0283439;13.2588105;;;6979;Benzina;1.669;SelfService;20251224;08
 52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.657;SelfService;20251224;07
 52553;Q8;46.0930140;13.1919520;;;Muharremi Altin;Benzina;1.827;Servito;20251224;08
-52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.649;Servito;20251216;07
-52765;2P Carburanti;46.0933297;13.2318825;;;2p Udine;Benzina;1.649;SelfService;20251216;07
 53066;Tamoil;45.7179015;13.0498053;;;T.D.M. S.R.L.;Benzina;1.689;SelfService;20251224;08
 53341;IP;45.6393200;13.7603681;;;Geff S.r.l.;Benzina;1.719;SelfService;20251223;08
 53345;Eni;45.8951665;13.3092124;;;Eni Palmanova;Benzina;1.729;SelfService;20251224;08
