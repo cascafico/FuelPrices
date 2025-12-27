@@ -317,10 +317,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Benzina;1.679;SelfService;20251224
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.639;Servito;20251224
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.639;SelfService;20251224
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;1.689;SelfService;20251217
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Benzina;2.039;Servito;20251217
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.639;SelfService;20251217
-24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.989;Servito;20251217
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Benzina;1.649;Servito;20251224
 25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Gasolio;1.609;Servito;20251224
 25251;Agip;45.9366383;12.6487104;;;Basso Antonio;Benzina;1.679;SelfService;20251225
