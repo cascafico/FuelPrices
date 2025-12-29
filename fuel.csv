@@ -173,8 +173,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Hi-Q Diesel;1.997;SelfService;20251224
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.029;Servito;20251224
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;HiQ Perform+;2.029;SelfService;20251224
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Benzina;1.899;Servito;20251219
-15502;IP;45.6959140;13.0688270;;;Aprilia Marittima 2000 S.p.A.;Gasolio;1.799;Servito;20251219
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Benzina;1.679;Servito;20251222
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;GPL;0.659;Servito;20251222
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.629;Servito;20251222
@@ -371,13 +369,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Benzina;1.819;SelfService;20251226
 26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Blue Diesel;1.829;SelfService;20251226
 26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;1.729;SelfService;20251226
-26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.657;SelfService;20251219
-26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Benzina;1.827;Servito;20251219
-26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.987;Servito;20251219
-26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Excellium diesel;1.987;SelfService;20251219
-26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;GPL;0.637;Servito;20251219
-26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.627;SelfService;20251219
-26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;1.797;Servito;20251219
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.679;SelfService;20251227
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Benzina;1.859;Servito;20251227
 27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;1.649;SelfService;20251227
@@ -440,14 +431,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.587;SelfService;20251224
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;1.877;Servito;20251224
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;1.877;SelfService;20251224
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.679;SelfService;20251219
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.849;Servito;20251219
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.637;Servito;20251219
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.649;SelfService;20251219
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.819;Servito;20251219
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;HVO;1.619;SelfService;20251219
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;HiQ Perform+;1.979;SelfService;20251219
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;HiQ Perform+;2.149;Servito;20251219
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.659;Servito;20251224
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;GPL;0.634;Servito;20251224
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.609;Servito;20251224
@@ -710,8 +693,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.679;SelfService;20251223
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;Servito;20251223
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;SelfService;20251223
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.779;SelfService;20251219
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.739;SelfService;20251219
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.689;Servito;20251226
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.689;SelfService;20251226
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Diesel;1.757;Servito;20251226
@@ -726,12 +707,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.749;SelfService;20251227
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.649;SelfService;20251227
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;HVOlution;1.649;SelfService;20251227
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.679;SelfService;20251219
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.849;Servito;20251219
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.749;SelfService;20251219
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.919;Servito;20251219
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.629;SelfService;20251219
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.799;Servito;20251219
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.659;Servito;20251224
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;GPL;0.624;Servito;20251224
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.629;Servito;20251224
@@ -750,10 +725,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Gasolio;1.579;SelfService;20251227
 45355;IP;45.8892316;13.3092598;;;Geff S.R.L.;Benzina;1.639;SelfService;20251226
 45355;IP;45.8892316;13.3092598;;;Geff S.R.L.;Gasolio;1.599;SelfService;20251226
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Benzina;1.679;Servito;20251223
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;GPL;0.634;Servito;20251223
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Gasolio;1.639;Servito;20251223
-45703;IP;46.0334327;13.2459915;;;Kumar Mohit;Metano;1.349;Servito;20251223
+45703;IP;46.0334327;13.2459891;;;Kumar Mohit;Benzina;1.679;Servito;20251223
+45703;IP;46.0334327;13.2459891;;;Kumar Mohit;GPL;0.634;Servito;20251223
+45703;IP;46.0334327;13.2459891;;;Kumar Mohit;Gasolio;1.639;Servito;20251223
+45703;IP;46.0334327;13.2459891;;;Kumar Mohit;Metano;1.349;Servito;20251223
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;1.779;SelfService;20251227
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;1.989;Servito;20251227
 46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Blue Diesel;1.859;SelfService;20251227
