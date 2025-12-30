@@ -1,6 +1,4 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.699;Servito;20251220;08
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;1.699;SelfService;20251220;08
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.639;SelfService;20251227;08
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;1.849;Servito;20251227;09
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;1.639;SelfService;20251228;08
@@ -326,7 +324,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 53345;Eni;45.8951665;13.3092124;;;Eni Palmanova;Gasolio;1.869;Servito;20251228;09
 53483;Eni;45.8112749;13.5218318;;;Eni;Gasolio;1.669;SelfService;20251228;08
 53483;Eni;45.8112749;13.5218318;;;Eni;Gasolio;1.889;Servito;20251228;09
-53525;IP;46.1497874;13.3440433;;;Cg Service di Cattarossi Gianluca;Gasolio;1.659;Servito;20251220;08
 53643;;46.1535669;13.2186863;;;Impianto Ip Tricesimo - Fuel Service S.A.S.;Gasolio;1.629;SelfService;20251224;07
 53727;Esso Sgonico;45.7185651;13.7299462;;;Alfamax S.a.s. di Ghiretti Andrea & Zorzin F.;Gasolio;1.677;SelfService;20251227;08
 53727;Esso Sgonico;45.7185651;13.7299462;;;Alfamax S.a.s. di Ghiretti Andrea & Zorzin F.;Gasolio;1.857;Servito;20251227;09
@@ -352,8 +349,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;1.869;Servito;20251228;09
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.639;SelfService;20251228;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;1.849;Servito;20251228;09
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.709;SelfService;20251220;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;1.919;Servito;20251220;09
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;1.639;SelfService;20251228;08
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;1.859;Servito;20251228;09
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.669;SelfService;20251224;08
