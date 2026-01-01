@@ -85,8 +85,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.659;SelfService;20251229;07
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Benzina;1.659;SelfService;20251229;07
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.669;Servito;20251229;08
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.689;SelfService;20251222;08
-20487;Api;46.2594462;13.1022099;;;Mi.Xo. di Xotto Michele;Benzina;1.889;Servito;20251222;09
 20739;Agip;45.9418170;12.6176260;;;Agip Alla Crose - Rotundo Giorgio;Benzina;1.769;SelfService;20251230;08
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.689;SelfService;20251230;08
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto;Benzina;1.899;Servito;20251230;09
@@ -176,12 +174,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.699;SelfService;20251230;08
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Benzina;1.919;Servito;20251230;09
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Benzina;1.639;SelfService;20251229;07
-34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.649;SelfService;20251222;07
-34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.769;Servito;20251222;08
 34264;IP;45.7600752;13.1656390;;;A.F. Petroli S.p.A.;Benzina;1.899;SelfService;20251224;09
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Benzina;1.699;SelfService;20251229;08
-34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.669;Servito;20251222;08
-34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Benzina;1.669;SelfService;20251222;08
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.709;SelfService;20251229;08
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.799;Servito;20251229;08
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Benzina;1.694;SelfService;20251230;08
@@ -281,8 +275,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.699;Servito;20251229;08
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.699;SelfService;20251229;08
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.699;SelfService;20251230;08
-48516;Esso;45.7712330;13.6371781;;;;Benzina;1.759;Servito;20251222;08
-48516;Esso;45.7712330;13.6371781;;;;Benzina;1.759;SelfService;20251222;08
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.619;SelfService;20251230;07
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.669;SelfService;20251227;08
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.879;Servito;20251227;09
