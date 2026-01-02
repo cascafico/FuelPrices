@@ -57,23 +57,18 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.728;SelfService;20251229;08
 14504;Agip;46.0165010;12.5142850;;;Menegoz Alessandro;Gasolio;1.938;Servito;20251229;09
 14643;Agip;46.0268256;12.9372198;;;Da Angela di Fabris Giacomino & C. - S.A.S.;Gasolio;1.619;SelfService;20251230;07
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.691;Servito;20251223;08
-14798;Esso;46.4162521;12.9191631;;;Centro Auto di Polonia Valerio;Gasolio;1.691;SelfService;20251223;08
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Gasolio;1.657;Servito;20251229;08
 14884;Q8;46.3726235;13.0648358;;;Area di Servizio Shell di Marta Ivan & C. S.A.S.;Gasolio;1.657;SelfService;20251229;08
 15517;IP;45.8277200;13.4012111;;;Singh Gurdial;Gasolio;1.629;Servito;20251227;07
 15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.637;SelfService;20251230;08
 15815;IP;46.0521830;13.2382950;;;Covacich Luciano S.N.C. di Covacich L. & C.;Gasolio;1.797;Servito;20251230;08
 15835;IP;45.9062284;12.8654772;;;Gazziola Celio Diego;Gasolio;1.609;Servito;20251229;07
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.639;Servito;20251223;08
-16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo;Gasolio;1.639;SelfService;20251223;08
 16463;Eni;46.0594665;13.2486093;;;;Gasolio;1.649;SelfService;20251230;08
 16463;Eni;46.0594665;13.2486093;;;;Gasolio;1.879;Servito;20251230;09
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Gasolio;1.644;SelfService;20251230;08
 16630;Eni;46.1947289;13.2569283;;;Meneghin Federico e C. S.N.C.;Gasolio;1.864;Servito;20251230;09
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.699;SelfService;20251230;08
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.919;Servito;20251230;09
-16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.649;Servito;20251223;08
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.639;SelfService;20251229;08
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.809;Servito;20251229;08
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.679;SelfService;20251229;08
@@ -158,7 +153,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30744;IP;45.9044736;13.5371580;;;Ip Services S.R.L.;Gasolio;1.619;SelfService;20251229;07
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.649;SelfService;20251229;08
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.839;Servito;20251229;09
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.649;Servito;20251223;08
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.629;SelfService;20251229;07
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Gasolio;1.599;SelfService;20251229;07
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Gasolio;1.669;SelfService;20251229;08
@@ -214,8 +208,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.899;Servito;20251229;09
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.747;SelfService;20251230;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.967;Servito;20251230;09
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.659;SelfService;20251223;08
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.829;Servito;20251223;08
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.629;SelfService;20251229;07
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;1.827;Servito;20251229;08
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Gasolio;1.649;SelfService;20251229;08
@@ -236,8 +228,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.843;SelfService;20251229;09
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.649;SelfService;20251230;08
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.869;Servito;20251230;09
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;Servito;20251223;08
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.689;SelfService;20251223;08
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;1.739;SelfService;20251229;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.637;Servito;20251229;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.637;SelfService;20251229;08
@@ -259,7 +249,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;1.691;Servito;20251227;08
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.661;SelfService;20251229;08
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;1.821;Servito;20251229;08
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;1.687;SelfService;20251223;08
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.719;Servito;20251230;08
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;1.719;SelfService;20251230;08
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;1.609;SelfService;20251230;07
