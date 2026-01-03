@@ -224,8 +224,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.769;SelfService;20251231
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.659;SelfService;20251231
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;HVOlution;1.659;SelfService;20251231
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.699;SelfService;20251224
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.659;SelfService;20251224
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.399;Servito;20251229
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.659;SelfService;20251229
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio Premium;1.829;SelfService;20251229
@@ -390,12 +388,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.689;SelfService;20251229
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.679;Servito;20251229
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.639;SelfService;20251229
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.689;SelfService;20251224
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.899;Servito;20251224
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.719;SelfService;20251224
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.929;Servito;20251224
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.619;SelfService;20251224
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.829;Servito;20251224
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20251231
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.649;SelfService;20251231
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina speciale;2.229;Servito;20251231
@@ -543,11 +535,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Gasolio;1.791;Servito;20251231
 35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.;Benzina;1.679;SelfService;20251231
 35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.;Gasolio;1.629;SelfService;20251231
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.659;Servito;20251224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.659;SelfService;20251224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;GPL;0.619;Servito;20251224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.639;Servito;20251224
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Gasolio;1.639;SelfService;20251224
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.669;Servito;20251230
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;GPL;0.634;Servito;20251230
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;Gasolio;1.639;Servito;20251230

@@ -80,7 +80,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 17483;IP;46.0015368;13.2066810;;;;Benzina;1.929;Servito;20251231;09
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Benzina;1.689;Servito;20251230;08
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.739;SelfService;20251231;08
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.699;SelfService;20251224;08
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.659;SelfService;20251229;07
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.;Benzina;1.659;SelfService;20251229;07
 20182;IP;45.9791600;12.8011970;;;Sellan Pietro;Benzina;1.669;Servito;20251229;08
@@ -140,8 +139,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.679;Servito;20251230;08
 28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.748;Servito;20251230;08
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.689;SelfService;20251229;08
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.689;SelfService;20251224;08
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.899;Servito;20251224;09
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.719;SelfService;20251231;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.799;SelfService;20251231;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.899;Servito;20251231;09
@@ -194,8 +191,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Benzina;1.669;SelfService;20251231;08
 35566;Esso;46.2405648;13.0933806;;;Esso - Via Lavio;Benzina;1.829;Servito;20251231;08
 35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.;Benzina;1.679;SelfService;20251231;08
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.659;Servito;20251224;07
-35710;;45.9320726;13.1464827;;;Coppino Mattia;Benzina;1.659;SelfService;20251224;07
 35819;IP;46.1210521;13.0008388;;;Singh Manjit;Benzina;1.669;Servito;20251230;08
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.649;Servito;20251230;07
 36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl;Benzina;1.649;SelfService;20251230;07
