@@ -40,7 +40,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.579;SelfService;20260101;07
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Benzina;1.658;Servito;20251229;08
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Benzina;1.669;SelfService;20260103;08
-13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Benzina;1.629;SelfService;20251228;08
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;1.650;SelfService;20260105;08
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Benzina;2.004;Servito;20260105;09
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Benzina;1.659;SelfService;20260101;08
@@ -210,7 +209,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36989;IP;45.9770955;13.1983666;;;;Benzina;1.669;SelfService;20260104;08
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.729;SelfService;20260105;08
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.609;SelfService;20260102;08
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Benzina;1.630;SelfService;20251228;08
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.679;Servito;20260102;08
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.679;SelfService;20260102;08
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.589;SelfService;20260105;07

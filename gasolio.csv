@@ -40,7 +40,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11915;Q8 Easy;45.8086001;13.3567055;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.698;SelfService;20260101;08
 12047;;45.8669511;12.6243041;;;Cima Servizi S.R.L.;Gasolio;1.608;Servito;20251229;07
 12383;Q8;46.1118909;13.0310080;;;D'Angelo Ivan;Gasolio;1.679;SelfService;20260103;08
-13020;San Marco Petroli;46.1146413;12.9575166;;;Bezzutti Paolo;Gasolio;1.599;SelfService;20251228;07
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.699;SelfService;20260105;08
 13037;;46.1153888;13.5053418;;;Terlicher Antonio & C. S.N.C.;Gasolio;1.954;Servito;20260105;09
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Gasolio;1.669;SelfService;20260101;08
@@ -207,7 +206,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.639;SelfService;20260101;07
 36989;IP;45.9770955;13.1983666;;;;Gasolio;1.649;SelfService;20260104;08
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio;1.679;SelfService;20260102;08
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Gasolio;1.580;SelfService;20251228;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.753;Servito;20260102;08
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.753;SelfService;20260102;08
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Gasolio;1.638;SelfService;20260105;07
