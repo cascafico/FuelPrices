@@ -217,10 +217,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Hi-Q Diesel;2.169;Servito;20260101
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;HiQ Perform+;1.999;SelfService;20260101
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;HiQ Perform+;2.169;Servito;20260101
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.729;SelfService;20251229
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;F-101;1.999;SelfService;20251229
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio speciale;1.829;SelfService;20251229
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.679;SelfService;20251229
 17483;IP;46.0015368;13.2066810;;;;Benzina;1.629;SelfService;20260104
 17483;IP;46.0015368;13.2066810;;;;Benzina;1.879;Servito;20260104
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.709;SelfService;20260104
@@ -689,8 +685,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Benzina;1.949;Servito;20260103
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.789;SelfService;20260103
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.989;Servito;20260103
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Benzina;1.659;Servito;20251229
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.619;Servito;20251229
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Benzina;1.866;SelfService;20260105
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.843;SelfService;20260105
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.689;SelfService;20260106

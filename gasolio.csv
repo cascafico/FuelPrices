@@ -78,7 +78,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.649;Servito;20251230;08
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.689;SelfService;20260101;08
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.859;Servito;20260101;09
-16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.679;SelfService;20251229;08
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.709;SelfService;20260104;08
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.959;Servito;20260104;09
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.689;Servito;20260103;08
@@ -242,7 +241,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.899;Servito;20260102;09
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.789;SelfService;20260103;08
 40344;Sarni Oil;46.0157300;13.2190373;;;Sarni S.R.L.;Gasolio;1.989;Servito;20260103;09
-40503;IP;46.0736575;13.2218124;;;Singh Jasbir;Gasolio;1.619;Servito;20251229;07
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.;Gasolio;1.843;SelfService;20260105;08
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.689;SelfService;20260106;08
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.909;Servito;20260106;09
