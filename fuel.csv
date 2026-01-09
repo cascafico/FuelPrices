@@ -641,9 +641,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.589;SelfService;20260107
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;GPL;0.634;Servito;20260107
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.679;SelfService;20260107
-39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Benzina;1.879;Servito;20251230
-39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Blue Diesel;1.927;Servito;20251230
-39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;1.827;Servito;20251230
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Benzina;1.679;SelfService;20260103
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Benzina;1.829;Servito;20260103
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Gasolio Premium;1.789;SelfService;20260103
