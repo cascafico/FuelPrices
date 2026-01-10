@@ -164,7 +164,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30744;IP;45.9044736;13.5371580;;;Ip Services S.R.L.;Gasolio;1.679;SelfService;20260107;08
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.649;SelfService;20260107;08
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.839;Servito;20260107;08
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.619;Servito;20251231;07
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.689;SelfService;20260107;08
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Gasolio;1.669;SelfService;20260107;08
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Gasolio;1.689;SelfService;20260107;08
@@ -318,8 +317,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 51809;Eni;46.2035220;13.1204010;;;;Gasolio;1.907;Servito;20260108;09
 51967;Azzalini energie;45.6056812;13.8075232;;;Azzalini energie;Gasolio;1.697;Servito;20260107;08
 51967;Azzalini energie;45.6056812;13.8075232;;;Azzalini energie;Gasolio;1.697;SelfService;20260107;08
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.659;SelfService;20260108;08
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.869;Servito;20260108;09
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.659;SelfService;20260108;08
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.869;Servito;20260108;09
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Gasolio;1.779;SelfService;20260108;08
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Gasolio;2.019;Servito;20260108;09
 52240;Agip;46.1539002;13.2912666;;;Carrozzeria La Motta di Pecile Maurizio;Gasolio;1.599;SelfService;20260108;07
@@ -347,8 +346,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Gasolio;1.639;Servito;20260108;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio;1.619;Servito;20260108;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio;1.619;SelfService;20260108;07
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Gasolio;1.627;SelfService;20251231;07
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Gasolio;1.697;Servito;20251231;08
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.;Gasolio;1.668;SelfService;20260104;08
 7261;Q8 Easy;45.9643929;12.6728282;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.689;SelfService;20260108;08
 7262;Q8;45.9313921;12.8714185;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.649;SelfService;20260106;08

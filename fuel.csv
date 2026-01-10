@@ -458,8 +458,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.879;Servito;20260107
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.649;SelfService;20260107
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.839;Servito;20260107
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.649;Servito;20251231
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.619;Servito;20251231
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.639;SelfService;20260107
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.689;SelfService;20260107
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Benzina;1.619;SelfService;20260107
@@ -898,13 +896,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 51967;Azzalini energie;45.6056812;13.8075232;;;Azzalini energie;Benzina;1.687;SelfService;20260107
 51967;Azzalini energie;45.6056812;13.8075232;;;Azzalini energie;Gasolio;1.697;Servito;20260107
 51967;Azzalini energie;45.6056812;13.8075232;;;Azzalini energie;Gasolio;1.697;SelfService;20260107
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Benzina;1.629;SelfService;20260108
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Benzina;1.839;Servito;20260108
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Blue Diesel;1.759;SelfService;20260108
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Blue Diesel;1.969;Servito;20260108
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;GPL;0.676;Servito;20260108
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.659;SelfService;20260108
-52015;Agip;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.869;Servito;20260108
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Benzina;1.629;SelfService;20260108
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Benzina;1.839;Servito;20260108
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Blue Diesel;1.759;SelfService;20260108
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Blue Diesel;1.969;Servito;20260108
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;GPL;0.676;Servito;20260108
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.659;SelfService;20260108
+52015;Eni;46.2060920;13.1883470;;;Astolfi Marco;Gasolio;1.869;Servito;20260108
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;1.749;SelfService;20260108
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Benzina;1.949;Servito;20260108
 52227;;45.8824578;13.2582772;;;Eni Fuel S.P.A.;Blue Diesel;1.879;SelfService;20260108
@@ -987,11 +985,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio artico;1.728;SelfService;20260108
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio;1.619;Servito;20260108
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Gasolio;1.619;SelfService;20260108
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Benzina;1.667;SelfService;20251231
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Benzina;1.737;Servito;20251231
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;GPL;0.639;Servito;20251231
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Gasolio;1.627;SelfService;20251231
-6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.;Gasolio;1.697;Servito;20251231
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.;Benzina;1.618;SelfService;20260104
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.;GPL;0.639;Servito;20260104
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.;Gasolio;1.668;SelfService;20260104
