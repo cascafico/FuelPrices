@@ -76,8 +76,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.739;SelfService;20260109;08
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz;Gasolio;1.959;Servito;20260109;09
 16868;IP;45.6821055;13.4053797;;;S.G. di Salmeri Dario & C. S.A.S.;Gasolio;1.689;Servito;20260106;07
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.689;SelfService;20260101;07
-16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Gasolio;1.859;Servito;20260101;08
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.659;SelfService;20260108;07
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.679;SelfService;20260108;07
 17483;IP;46.0015368;13.2066810;;;;Gasolio;1.929;Servito;20260108;09
