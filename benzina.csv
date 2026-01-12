@@ -1,6 +1,4 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Benzina;1.709;Servito;20260102;08
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Benzina;1.709;SelfService;20260102;08
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.649;SelfService;20260110;08
 10355;Eni Station;46.1092319;12.8885239;;;;Benzina;1.859;Servito;20260110;09
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Benzina;1.610;SelfService;20260110;07
@@ -254,7 +252,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Benzina;1.849;Servito;20260110;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.679;Servito;20260103;08
 40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.679;SelfService;20260103;08
-41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.739;SelfService;20260102;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.629;Servito;20260109;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.629;SelfService;20260109;07
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20260106;09
@@ -368,8 +365,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Benzina;1.881;Servito;20260110;09
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.620;SelfService;20260110;07
 8684;Eni;45.9600500;12.5121000;;;;Benzina;1.830;Servito;20260110;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.779;SelfService;20260102;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.989;Servito;20260102;09
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.630;SelfService;20260110;07
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.850;Servito;20260110;08
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.619;SelfService;20260109;07
