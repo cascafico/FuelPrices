@@ -227,8 +227,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.799;SelfService;20260108
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.699;SelfService;20260108
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;HVOlution;1.699;SelfService;20260108
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Benzina;1.699;SelfService;20260103
-17693;Tamoil;45.7933862;13.4060263;;;C.M. S.N.C. di Cosolo Giorgio & C.;Gasolio;1.659;SelfService;20260103
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.399;Servito;20260105
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.619;SelfService;20260108
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio Premium;1.829;SelfService;20260108
@@ -699,12 +697,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Blue Diesel;2.009;Servito;20260111
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.689;SelfService;20260111
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.;Gasolio;1.909;Servito;20260111
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.679;Servito;20260103
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Benzina;1.679;SelfService;20260103
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.699;Servito;20260103
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio Gelo;1.699;SelfService;20260103
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.709;Servito;20260103
-40931;Tamoil;46.4171650;12.7900390;;;Martinis Maria Dora;Gasolio;1.709;SelfService;20260103
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.629;Servito;20260110
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.629;SelfService;20260110
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Diesel;1.777;Servito;20260110
