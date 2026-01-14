@@ -167,8 +167,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.689;SelfService;20260111;07
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Gasolio;1.659;SelfService;20260111;07
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Gasolio;1.679;SelfService;20260111;07
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.718;SelfService;20260112;08
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.918;Servito;20260112;08
+32118;IP;45.9260305;12.7086022;;;;Gasolio;1.718;SelfService;20260112;08
+32118;IP;45.9260305;12.7086022;;;;Gasolio;1.918;Servito;20260112;08
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio;1.619;Servito;20260111;07
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.679;Servito;20260112;07
 33105;Esso;46.0680120;13.2444420;;;Formaggio Fulvio;Gasolio;1.679;SelfService;20260112;07

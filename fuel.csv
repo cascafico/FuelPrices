@@ -464,10 +464,10 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;GPL;0.669;Servito;20260111
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;Gasolio;1.679;SelfService;20260111
 31521;Vianello Luigi Gas;45.7693460;13.6467583;;;Vega Carburanti S.P.A.;HVOlution;1.659;SelfService;20260111
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.668;SelfService;20260112
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Benzina;1.868;Servito;20260112
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.718;SelfService;20260112
-32118;;45.9260305;12.7086022;;;Mema Xhevahir;Gasolio;1.918;Servito;20260112
+32118;IP;45.9260305;12.7086022;;;;Benzina;1.668;SelfService;20260112
+32118;IP;45.9260305;12.7086022;;;;Benzina;1.868;Servito;20260112
+32118;IP;45.9260305;12.7086022;;;;Gasolio;1.718;SelfService;20260112
+32118;IP;45.9260305;12.7086022;;;;Gasolio;1.918;Servito;20260112
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Benzina;1.609;Servito;20260111
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;GPL;0.634;Servito;20260111
 32420;IP;46.1072198;13.2647922;;;Aurora S.N.C. di Shahu Renato & C.;Gasolio Oro Diesel;1.639;Servito;20260111
