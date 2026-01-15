@@ -44,8 +44,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 13109;Agip;45.8985020;12.5768410;;;Bertolo Mauro & C. S.N.C.;Gasolio;1.879;Servito;20260111;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.727;SelfService;20260113;08
 13135;Agip;46.1605480;12.6858900;;;Del Mistro Giannina In Cristofoli;Gasolio;1.937;Servito;20260113;09
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.699;Servito;20260105;07
-13485;IP;45.9636840;12.4336910;;;Santin Aldo;Gasolio;1.699;SelfService;20260105;07
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.;Gasolio;1.689;SelfService;20260109;07
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano;Gasolio;1.639;SelfService;20260107;07
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Gasolio;1.699;Servito;20260113;07
@@ -114,7 +112,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro;Gasolio;1.689;SelfService;20260112;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;1.689;SelfService;20260112;07
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano;Gasolio;2.139;Servito;20260112;10
-25027;IP;46.0859271;13.2169778;;;Pallini Maurizio;Gasolio;1.649;Servito;20260105;07
 25383;Esso;46.0392210;12.8350780;;;Fratelli Cristofoli di Cristofoli Rinaldo & C. S.N.C.;Gasolio;1.669;Servito;20260109;07
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Gasolio;1.679;Servito;20260112;07
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.;Gasolio;1.679;SelfService;20260112;07
@@ -222,8 +219,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 38527;Tamoil;46.3984188;13.1671584;;;Sarni S.R.L.;Gasolio;1.969;Servito;20260112;09
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.747;SelfService;20260113;08
 38619;Eni;45.6691853;13.7644177;;;Zol Franco - Carburanti;Gasolio;1.967;Servito;20260113;09
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.689;SelfService;20260105;07
-38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;1.859;Servito;20260105;08
 39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;1.599;SelfService;20260113;07
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;1.847;Servito;20260112;08
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.;Gasolio;1.669;SelfService;20260108;07
