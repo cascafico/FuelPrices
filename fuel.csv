@@ -460,8 +460,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30937;IP;46.2029170;13.1177990;;;;Benzina;1.819;Servito;20260114
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.689;SelfService;20260114
 30937;IP;46.2029170;13.1177990;;;;Gasolio;1.879;Servito;20260114
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Benzina;1.599;Servito;20260108
-31152;Retitalia;45.9444730;13.1770170;;;Gattesco f.lli di Gattesco Ferruccio e Fiorenzo S.N.C.;Gasolio;1.649;Servito;20260108
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Benzina;1.669;SelfService;20260115
 31170;IP;46.1858366;13.0591611;;;Ip Services S.R.L.;Gasolio;1.699;SelfService;20260115
 31331;IP;45.8018928;13.5461242;;;Ip Services S.R.L.;Benzina;1.649;SelfService;20260115
