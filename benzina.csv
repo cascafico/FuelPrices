@@ -146,8 +146,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28207;Tiemme Service;45.8920752;13.3780593;;;Tiemme Service S.A.S.;Benzina;1.609;Servito;20260120;07
 28291;Tamoil;45.6379173;13.8149834;;;;Benzina;1.698;Servito;20260119;08
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.649;SelfService;20260115;07
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.659;SelfService;20260114;08
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.869;Servito;20260114;09
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20260121;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.669;SelfService;20260117;08
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;1.769;Servito;20260117;08
@@ -348,6 +346,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Benzina;1.699;Servito;20260122;08
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Benzina;1.699;SelfService;20260122;08
 56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.609;SelfService;20260117;07
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Benzina;1.689;SelfService;20260122;08
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Benzina;1.924;Servito;20260122;09
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.639;Servito;20260122;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.564;Servito;20260122;07
 6871;Total;45.9300940;12.6447240;;;Welna S.N.C. di Natale Santarossa & C.;Benzina;1.564;SelfService;20260122;07

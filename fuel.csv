@@ -405,12 +405,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Benzina;1.649;SelfService;20260115
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;GPL;0.679;Servito;20260115
 28424;Esso;45.8991097;12.7330515;;;Del Col S.R.L.;Gasolio;1.669;SelfService;20260115
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.659;SelfService;20260114
-28866;Eni;45.9019553;13.2576266;;;;Benzina;1.869;Servito;20260114
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.769;SelfService;20260114
-28866;Eni;45.9019553;13.2576266;;;;Blue Diesel;1.979;Servito;20260114
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.669;SelfService;20260114
-28866;Eni;45.9019553;13.2576266;;;;Gasolio;1.879;Servito;20260114
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;1.709;SelfService;20260121
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;1.729;SelfService;20260121
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina speciale;2.109;Servito;20260117
@@ -976,6 +970,13 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 53730;Retitalia;46.4152831;12.7967519;;;Leonardo Frare;Gasolio;1.753;SelfService;20260122
 56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Benzina;1.609;SelfService;20260117
 56294;Costantin;46.0489079;12.6580690;;;Martinel Franco;Gasolio;1.649;SelfService;20260117
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Benzina;1.689;SelfService;20260122
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Benzina;1.924;Servito;20260122
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Blue Diesel;1.739;SelfService;20260122
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Blue Diesel;1.959;Servito;20260122
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Gasolio;1.639;SelfService;20260122
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;Gasolio;1.859;Servito;20260122
+58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.;HVOlution;1.639;SelfService;20260122
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Benzina;1.639;Servito;20260122
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;GPL;0.649;Servito;20260122
 6856;Q8;46.0595279;13.2200005;;;Sclippa Lino;Gasolio;1.669;Servito;20260122
