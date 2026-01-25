@@ -211,7 +211,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 36921;Distributore ESSO;46.2358745;13.0750952;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.619;SelfService;20260121;07
 36989;IP;45.9770955;13.1983666;;;;Benzina;1.659;SelfService;20260122;08
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.729;SelfService;20260123;08
-37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.619;SelfService;20260115;07
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.659;Servito;20260123;08
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.659;SelfService;20260123;08
 37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.;Benzina;1.609;SelfService;20260123;07
@@ -248,7 +247,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Benzina;1.699;SelfService;20260121;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.639;Servito;20260123;07
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.639;SelfService;20260123;07
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20260115;09
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.629;SelfService;20260123;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.629;SelfService;20260123;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.799;Servito;20260123;08

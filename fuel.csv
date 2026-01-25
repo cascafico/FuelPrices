@@ -589,9 +589,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 36989;IP;45.9770955;13.1983666;;;;Benzina;1.659;SelfService;20260122
 36989;IP;45.9770955;13.1983666;;;;Gasolio;1.689;SelfService;20260122
 37002;;46.1220861;13.1887596;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.;Benzina;1.729;SelfService;20260123
-37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.619;SelfService;20260115
-37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio;1.689;SelfService;20260115
-37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Supreme Diesel;1.849;SelfService;20260115
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.659;Servito;20260123
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.659;SelfService;20260123
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.743;Servito;20260123
@@ -696,8 +693,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Blue Super;1.789;SelfService;20260123
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.687;Servito;20260123
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.687;SelfService;20260123
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.900;Servito;20260115
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.795;Servito;20260115
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.629;SelfService;20260123
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.799;SelfService;20260123
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.699;SelfService;20260123
