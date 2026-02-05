@@ -177,11 +177,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;1.737;SelfService;20260203;08
 33192;Agip;46.4010866;13.0223111;;;Carboil S.A.S. di Romanini Ivan & C.;Gasolio;1.957;Servito;20260203;09
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.;Gasolio;1.659;SelfService;20260203;07
-34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.669;SelfService;20260126;07
-34171;Sia Fuel;45.6794586;13.3967913;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.789;Servito;20260126;08
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio;Gasolio;1.689;SelfService;20260202;07
-34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.659;Servito;20260126;07
-34562;IP;45.9557300;12.8141360;;;S.I.A. Engineering Construction S.R.L.;Gasolio;1.659;SelfService;20260126;07
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.739;SelfService;20260201;08
 35107;TotalErg;46.2680481;13.1190521;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.829;Servito;20260201;08
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.;Gasolio;1.714;SelfService;20260203;08
@@ -232,8 +228,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno;Gasolio;1.979;Servito;20260203;09
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.799;SelfService;20260202;08
 39804;Sarni Oil;45.8817480;13.2594680;;;Sarni S.R.L.;Gasolio;1.999;Servito;20260202;09
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.689;SelfService;20260126;07
-3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella;Gasolio;1.809;Servito;20260126;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.777;SelfService;20260203;08
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna;Gasolio;1.987;Servito;20260203;09
 40343;;46.0147418;13.2184125;;;Sarni S.R.L.;Gasolio;1.789;SelfService;20260130;08
