@@ -867,9 +867,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Benzina;1.599;Servito;20260131
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;GPL;0.639;Servito;20260131
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Gasolio;1.659;Servito;20260131
-51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Benzina;1.679;SelfService;20260127
-51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Gasolio;1.739;SelfService;20260127
-51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Supreme Diesel;1.849;SelfService;20260127
 51809;Eni;46.2035220;13.1204010;;;;Benzina;1.649;SelfService;20260204
 51809;Eni;46.2035220;13.1204010;;;;Benzina;1.869;Servito;20260204
 51809;Eni;46.2035220;13.1204010;;;;Blue Super;1.799;SelfService;20260204

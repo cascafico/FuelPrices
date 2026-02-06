@@ -309,7 +309,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.709;SelfService;20260204;08
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Gasolio;1.929;Servito;20260204;09
 51155;IP;46.0970422;13.1974741;;;Virk Petrolio di Waseem Hayat;Gasolio;1.659;Servito;20260131;07
-51341;Esso Trieste;45.6400267;13.7889179;;;Mian S.N.C.di Davide e Francesco Mian;Gasolio;1.739;SelfService;20260127;08
 51809;Eni;46.2035220;13.1204010;;;;Gasolio;1.727;SelfService;20260204;08
 51809;Eni;46.2035220;13.1204010;;;;Gasolio;1.947;Servito;20260204;09
 51967;Azzalini energie;45.6056812;13.8075232;;;Azzalini energie;Gasolio;1.739;Servito;20260203;08
