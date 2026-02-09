@@ -70,8 +70,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 11892;Shell Aico Uno S.r.l.;45.6994512;13.8299716;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20260204
 11893;Q8;45.6418319;13.7572249;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.679;SelfService;20260204
 11893;Q8;45.6418319;13.7572249;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20260204
-11894;Q8;45.6556111;13.8040375;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20260207
-11894;Q8;45.6556111;13.8040375;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20260207
+11894;Q8;45.6555950;13.8040444;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20260207
+11894;Q8;45.6555950;13.8040444;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.759;SelfService;20260207
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20260207
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.;Gasolio;1.779;SelfService;20260207
 11906;Q8;46.4148157;12.9313779;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.669;SelfService;20260206
@@ -215,10 +215,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;F-101;1.929;SelfService;20260207
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio speciale;1.789;SelfService;20260207
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Gasolio;1.689;SelfService;20260207
-17483;IP;46.0015368;13.2066810;;;;Benzina;1.679;SelfService;20260130
-17483;IP;46.0015368;13.2066810;;;;Benzina;1.929;Servito;20260130
-17483;IP;46.0015368;13.2066810;;;;Gasolio;1.679;SelfService;20260130
-17483;IP;46.0015368;13.2066810;;;;Gasolio;1.929;Servito;20260130
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Benzina;1.659;Servito;20260207
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio Premium;1.849;Servito;20260207
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio artico;1.849;Servito;20260207
@@ -721,12 +717,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;1.819;SelfService;20260207
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.719;SelfService;20260207
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;HVOlution;1.719;SelfService;20260207
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.629;SelfService;20260130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.799;Servito;20260130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.809;SelfService;20260130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio Premium;1.979;Servito;20260130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.689;SelfService;20260130
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;1.859;Servito;20260130
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.599;Servito;20260205
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;GPL;0.629;Servito;20260205
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Gasolio;1.669;Servito;20260205

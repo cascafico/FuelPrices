@@ -26,7 +26,7 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 11891;Servizi & Gestioni Italia S.R.L.;45.6382831;13.7653400;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20260206;08
 11892;Shell Aico Uno S.r.l.;45.6994512;13.8299716;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.659;SelfService;20260204;08
 11893;Q8;45.6418319;13.7572249;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.679;SelfService;20260204;08
-11894;Q8;45.6556111;13.8040375;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20260207;08
+11894;Q8;45.6555950;13.8040444;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20260207;08
 11905;Q8;46.2632379;13.1079200;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.699;SelfService;20260207;08
 11906;Q8;46.4148157;12.9313779;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.669;SelfService;20260206;08
 11907;Q8Easy;46.0433094;13.1924837;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.639;SelfService;20260204;07
@@ -77,8 +77,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.609;SelfService;20260206;07
 16952;TotalErg;45.9418400;13.1678220;;;Pascut Gabriele;Benzina;1.779;Servito;20260206;08
 16980;AdriaEnergy;45.7086891;13.7443018;;;Adriaenergy S.R.L.;Benzina;1.649;SelfService;20260207;07
-17483;IP;46.0015368;13.2066810;;;;Benzina;1.679;SelfService;20260130;08
-17483;IP;46.0015368;13.2066810;;;;Benzina;1.929;Servito;20260130;09
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Benzina;1.659;Servito;20260207;08
 17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.699;SelfService;20260206;08
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.629;SelfService;20260206;07
@@ -257,8 +255,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Benzina;1.639;SelfService;20260206;07
 42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Benzina;1.770;Servito;20260205;08
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.639;SelfService;20260207;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.629;SelfService;20260130;07
-43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Benzina;1.799;Servito;20260130;08
 43804;;45.9430704;13.1004506;;;Kumar Sanjeev & Tirath Ram S.N.C.;Benzina;1.599;Servito;20260205;07
 44979;Esso;46.0755782;13.2376272;;;Geff S.R.L.;Benzina;1.629;SelfService;20260207;07
 45246;Agip;45.8342947;13.1939850;;;Geff S.R.L.;Benzina;1.659;SelfService;20260207;08
