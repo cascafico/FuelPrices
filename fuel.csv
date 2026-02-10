@@ -437,14 +437,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;1.687;SelfService;20260207
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;1.947;Servito;20260207
 30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;1.947;SelfService;20260207
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.639;SelfService;20260131
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.809;Servito;20260131
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.637;Servito;20260131
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.709;SelfService;20260131
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Gasolio;1.879;Servito;20260131
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;HVO;1.639;SelfService;20260131
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;HiQ Perform+;1.889;SelfService;20260131
-30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;HiQ Perform+;2.059;Servito;20260131
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.599;Servito;20260207
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;GPL;0.639;Servito;20260207
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;Gasolio;1.669;Servito;20260207
