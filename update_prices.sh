@@ -17,6 +17,9 @@ STARTDATE=`date --date="10 days ago" +'%Y%m%d'`
 
 sed -i -r "s/ [0-9]+:[0-9]+:[0-9]+$//g" prezzo_alle_8.csv
 
+# dal 2026 cambiato separatore
+sed -i "s/|/;/g" prezzo_alle_8.csv
+
 # 31782;Benzina;1.299;0;22/02/2022
 # 38188;Benzina;1.599;1;04/06/2022
 # 4726;Benzina;1.879;0;16/11/2021 
