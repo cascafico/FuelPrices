@@ -216,10 +216,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio Premium;1.909;Servito;20260302
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio artico;1.909;Servito;20260302
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.;Gasolio;1.789;Servito;20260302
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Benzina;1.719;SelfService;20260223
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Blue Diesel;1.859;SelfService;20260223
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;Gasolio;1.759;SelfService;20260223
-17626;Agip;46.0092430;13.2533310;;;Moschione Loris;HVOlution;1.759;SelfService;20260223
 18569;Metano;45.9742819;12.6296701;;;Medunagas - S.R.L.;Metano;1.399;Servito;20260302
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Benzina;1.689;SelfService;20260302
 18571;Esso;45.8138160;13.5131410;;;Stazione di Servizio Esso F.lli Mininel di Mininel Andrea e C. S.N.C.;Gasolio Premium;1.919;SelfService;20260302
