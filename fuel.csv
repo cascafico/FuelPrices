@@ -599,8 +599,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Benzina;1.749;SelfService;20260305
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Gasolio;1.959;SelfService;20260305
 37269;Esso;45.9380570;13.6027910;;;Lovisini Fulvio;Supreme Diesel;2.119;SelfService;20260305
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Benzina;1.590;SelfService;20260228
-37480;San Marco Petroli;45.9036873;13.1818526;;;;Gasolio;1.630;SelfService;20260228
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.769;Servito;20260305
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Benzina;1.769;SelfService;20260305
 37517;Api-Ip;46.4174600;12.5847248;;;D'Andrea Stefano;Gasolio;1.963;Servito;20260305
