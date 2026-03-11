@@ -250,7 +250,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 41030;;46.2246863;13.0109245;;;Vr Group di Vincenti Christian;Gasolio;2.079;SelfService;20260309;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.947;Servito;20260308;08
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.;Gasolio;1.947;SelfService;20260308;08
-42415;;45.8028100;13.2276200;;;Cantieri Marina San Giorgio S.p.A.;Gasolio;1.795;Servito;20260301;07
 43098;Eni;46.0505784;13.2478580;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;1.924;SelfService;20260309;07
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;2.009;SelfService;20260307;08
 43179;Esso;45.8835512;13.3084982;;;A.T.G S.A.S.di Marinig Andrea & C.;Gasolio;2.179;Servito;20260307;09
