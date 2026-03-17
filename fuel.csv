@@ -637,9 +637,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;2.119;SelfService;20260315
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;Gasolio;2.289;Servito;20260315
 38728;Q8;46.0158648;13.2694275;;;Fabro Michele;HVO;1.639;SelfService;20260315
-39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.849;SelfService;20260314
-39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;GPL;0.658;Servito;20260313
-39018;IP;46.1366370;13.2221614;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;2.059;SelfService;20260309
+39018;IP;46.1366161;13.2221497;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Benzina;1.849;SelfService;20260314
+39018;IP;46.1366161;13.2221497;;;Ghulam Kharian di Ahmed Waqas S.A.S.;GPL;0.658;Servito;20260313
+39018;IP;46.1366161;13.2221497;;;Ghulam Kharian di Ahmed Waqas S.A.S.;Gasolio;2.059;SelfService;20260309
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Benzina;2.069;Servito;20260310
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Blue Diesel;2.407;Servito;20260310
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro;Gasolio;2.307;Servito;20260310
