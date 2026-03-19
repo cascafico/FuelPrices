@@ -362,8 +362,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 8420;Eni;46.1517115;12.6614450;;;Chiaranda Walter;Gasolio;2.349;Servito;20260317;09
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;2.064;SelfService;20260317;08
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;2.274;Servito;20260317;09
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.189;SelfService;20260309;08
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.399;Servito;20260309;09
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;2.064;SelfService;20260317;08
 8854;Eni;46.1398348;13.2216678;;;;Gasolio;2.284;Servito;20260317;09
 9001;Q8;46.0630539;12.5977319;;;Servizi & Gestioni Italia S.R.L.;Gasolio;2.199;SelfService;20260317;08

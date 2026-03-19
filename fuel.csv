@@ -1025,14 +1025,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;2.064;SelfService;20260317
 8684;Eni;45.9600500;12.5121000;;;;Gasolio;2.274;Servito;20260317
 8684;Eni;45.9600500;12.5121000;;;;HVOlution;2.064;SelfService;20260317
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;1.969;SelfService;20260309
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Benzina;2.179;Servito;20260309
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.329;SelfService;20260309
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Diesel;2.539;Servito;20260309
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;1.999;SelfService;20260309
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Blue Super;2.209;Servito;20260309
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.189;SelfService;20260309
-8688;Agip;46.0406755;12.5418313;;;Ema.Tom di Quaia Elio e C. S.A.S.;Gasolio;2.399;Servito;20260309
 8854;Eni;46.1398348;13.2216678;;;;Benzina;1.804;SelfService;20260317
 8854;Eni;46.1398348;13.2216678;;;;Benzina;2.024;Servito;20260317
 8854;Eni;46.1398348;13.2216678;;;;Blue Diesel;2.164;SelfService;20260317
