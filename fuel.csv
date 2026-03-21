@@ -423,12 +423,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;2.039;Servito;20260319
 30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Gasolio;2.112;SelfService;20260319
 30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Gasolio;2.322;Servito;20260319
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.837;Servito;20260311
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.837;SelfService;20260311
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;2.097;Servito;20260311
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Gasolio;2.097;SelfService;20260311
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;2.117;Servito;20260311
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Hi-Q Diesel;2.117;SelfService;20260311
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.889;SelfService;20260318
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;2.059;Servito;20260318
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;GPL;0.667;Servito;20260318
@@ -796,10 +790,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.854;SelfService;20260319
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Blue Diesel;2.214;SelfService;20260319
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Gasolio;2.114;SelfService;20260319
-48516;Esso;45.7712330;13.6371781;;;;Benzina;1.899;Servito;20260311
-48516;Esso;45.7712330;13.6371781;;;;Benzina;1.899;SelfService;20260311
-48516;Esso;45.7712330;13.6371781;;;;Gasolio;2.189;Servito;20260311
-48516;Esso;45.7712330;13.6371781;;;;Gasolio;2.189;SelfService;20260311
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.949;SelfService;20260319
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Gasolio;2.129;SelfService;20260319
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.899;SelfService;20260318

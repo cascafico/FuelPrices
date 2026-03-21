@@ -156,8 +156,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;1.841;SelfService;20260318;08
 30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;1.829;SelfService;20260319;07
 30071;Eni;45.9344822;13.5257412;;;Scolaris Vini - Società a Responsabilità Limitata Detta Altrimenti Cantina Borgo Boschetto, Cantina San Lorenzo, Villa Folini, Bosco Del Tiglio, Cantina Le Magnolie Oppure Ma.Sco.;Benzina;2.039;Servito;20260319;08
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.837;Servito;20260311;07
-30161;Q8;45.9390190;12.6506280;;;Dinicola Fabrizio;Benzina;1.837;SelfService;20260311;07
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;1.889;SelfService;20260318;08
 30690;Q8;46.0969240;13.2886930;;;Duegi S.A.S. di Gattesco Luca e C.;Benzina;2.059;Servito;20260318;08
 30719;IP;46.1007380;13.1728220;;;Singh Kulvir;Benzina;1.899;Servito;20260318;08
@@ -287,8 +285,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.897;Servito;20260318;08
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh;Benzina;1.897;SelfService;20260318;08
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.;Benzina;1.854;SelfService;20260319;08
-48516;Esso;45.7712330;13.6371781;;;;Benzina;1.899;Servito;20260311;08
-48516;Esso;45.7712330;13.6371781;;;;Benzina;1.899;SelfService;20260311;08
 48573;Q8 Easy;46.1165616;13.2239162;;;Servizi & Gestioni Italia S.R.L.;Benzina;1.949;SelfService;20260319;08
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;1.899;SelfService;20260318;08
 48900;IP;46.0322340;13.2170950;;;Singh Inder Deep;Benzina;2.109;Servito;20260318;09
