@@ -185,7 +185,7 @@
 52015;Eni;46.2060920;13.1883470;;;Astolfi Marco
 39125;Agip;46.5062280;13.5652510;;;Collini Mauro
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi
+50900;Esso;46.1044922;13.2296300;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.
 46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.
@@ -524,4 +524,5 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 ;;46.1095458;13.0902132;;;
 ;;46.4229081;12.5812454;;;
 ;Tamoil;46.1220572;13.1887398;;;
+;;46.1046854;13.2294846;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio

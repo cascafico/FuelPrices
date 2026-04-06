@@ -855,9 +855,9 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Blue Diesel;2.469;Servito;20260404
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;2.159;SelfService;20260404
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi;Gasolio;2.369;Servito;20260404
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.789;SelfService;20260404
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;2.189;SelfService;20260404
-50900;Esso;46.1046301;13.2294887;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Supreme Diesel;2.339;SelfService;20260404
+50900;Esso;46.1044922;13.2296300;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Benzina;1.789;SelfService;20260404
+50900;Esso;46.1044922;13.2296300;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Gasolio;2.189;SelfService;20260404
+50900;Esso;46.1044922;13.2296300;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi;Supreme Diesel;2.339;SelfService;20260404
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.747;SelfService;20260404
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Benzina;1.967;Servito;20260404
 50952;;46.0645392;13.2120296;;;Favaro Giulio;Blue Diesel;2.099;SelfService;20260404
