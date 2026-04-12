@@ -187,7 +187,7 @@
 40572;Esso;46.5055053;13.5693900;;;Autostazione Rifornimenti S.N.C. di Del Ross Alberto & C.
 50900;Esso;46.1044922;13.2296300;;;F.Lli Rinaldi S.N.C.di Matteo e Paolo Rinaldi
 25044;SMP;46.1001642;13.2220638;;;San Marco Petroli Distribuzione S.R.L.
-46396;Esso;46.4030844;13.0188014;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.
+46396;Esso;46.4030586;13.0188957;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.
 39261;Esso;45.8286814;13.2809270;;;Gasoline S.A.S. di Maccagnan Gian Luca & C.
 7000;TotalErg;46.1887850;13.1585310;;;Agrofriul S.R.L.
 47009;IP;46.1500269;13.2200370;;;Virk Petrolio di Waseem Hayat
@@ -257,7 +257,7 @@
 34054;Eni;45.8961524;13.4110052;;;
 44945;Esso;45.9541103;13.3949501;;;Set Società a Responsabilità Limitata
 44488;;46.0860227;13.3628876;;;Casella Lucia
-10567;Agip;46.2125925;13.2127712;;;Astolfi Marco
+10567;Eni;46.2125933;13.2127459;;;Astolfi Marco
 50718;Esso;46.1441190;12.9788230;;;Geff S.R.L.
 49322;Esso;46.0607119;13.3111516;;;Censani Fabrizio
 13865;;46.1581040;13.2437564;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
@@ -509,7 +509,6 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 18877;Eni;45.8015824;13.5493015;;;Bidut Roberto - Impianto Agip Monfalcone
 ;;45.9594910;12.5024691;;;
 ;;46.0928690;13.1918718;;;
-;;46.2125996;13.2127182;;;
 26366;Tamoil;45.9530872;13.4361550;;;Autoservice 2000 di Cara Stefano & C. S.N.C.
 30744;IP;45.9044736;13.5371580;;;Ip Services S.R.L.
 ;;45.8114404;13.0053647;;;
