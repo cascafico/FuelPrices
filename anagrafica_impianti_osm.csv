@@ -5,7 +5,6 @@
 19689;Agip;45.8054850;13.5091920;;;Bernardi di Bernardi G. & C. S.N.C.
 50484;Agip;45.9279270;13.6132190;;;04130
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz
-25251;Agip;45.9366383;12.6487104;;;Basso Antonio
 4569;Agip;45.9759231;12.6883812;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
 3569;Agip;45.8825009;13.2582886;;;Buldo Orlando
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar
@@ -429,7 +428,7 @@
 10954;Esso;46.0491787;13.2484968;;;Bn di Bressan Gianni & C. S.A.S.
 11910;Q8 easy;46.0534121;13.2464693;;;Servizi & Gestioni Italia S.R.L.
 6987;IP;46.0396718;13.2529196;;;Jetrent S.R.L.
-;Eni;45.9223336;12.6376179;;;
+;Eni;45.9223411;12.6376306;;;
 53341;IP;45.6393200;13.7603681;;;Geff S.r.l.
 9331;Self Area 4004;45.6185557;13.8185004;;;Self Area 4004 di Riccobon Mauro
 50445;Eni;46.0728368;13.2138243;;;Poci Kloris
@@ -523,4 +522,5 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 ;;46.4229081;12.5812454;;;
 ;Tamoil;46.1220572;13.1887398;;;
 ;;46.1046854;13.2294846;;;
+25251;Eni;45.9366354;12.6486875;;;Basso Antonio
 50952;;46.0645392;13.2120296;;;Favaro Giulio
