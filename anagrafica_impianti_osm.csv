@@ -128,7 +128,7 @@
 45247;IP;45.9649180;12.9548340;;;Geff S.R.L.
 45405;Eni;46.1625490;13.1331470;;;Servizi Innovativi Nord Est S.R.L.
 36416;Sarni Oil;46.1857730;13.1193710;;;Sarni S.R.L.
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria
+46034;Eni Live;46.5150033;12.8657891;;;
 53525;IP;46.1497874;13.3440433;;;Cg Service di Cattarossi Gianluca
 3981;Esso;46.0971470;13.0908110;;;Lizzi & C. S.A.S. di Bertuzzi Graziella
 23426;Esso;46.1095345;13.0901780;;;Lizzi & C. S.A.S. di Bertuzzi Graziella
@@ -523,4 +523,5 @@ ref:mise;Esso;45.8287806;13.3299504;;;Geff S.R.L.
 25251;Eni;45.9366354;12.6486875;;;Basso Antonio
 ;;45.8478542;13.2128317;;;
 ;;46.0001260;13.2740277;;;
+;;46.5149806;12.8658791;;;
 50952;;46.0645392;13.2120296;;;Favaro Giulio

@@ -703,14 +703,14 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 45703;IP;46.0334327;13.2459891;;;Kumar Mohit;GPL;0.698;Servito;20260807
 45703;IP;46.0334327;13.2459891;;;Kumar Mohit;Gasolio;2.129;Servito;20260807
 45703;IP;46.0334327;13.2459891;;;Kumar Mohit;Metano;1.799;Servito;20260807
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;2.099;SelfService;20260808
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;2.309;Servito;20260808
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Blue Diesel;2.289;SelfService;20260807
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Blue Diesel;2.499;Servito;20260808
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Blue Super;2.249;SelfService;20260808
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Blue Super;2.459;Servito;20260808
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Gasolio;2.189;SelfService;20260807
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Gasolio;2.399;Servito;20260808
+46034;Eni Live;46.5150033;12.8657891;;;;Benzina;2.099;SelfService;20260808
+46034;Eni Live;46.5150033;12.8657891;;;;Benzina;2.309;Servito;20260808
+46034;Eni Live;46.5150033;12.8657891;;;;Blue Diesel;2.289;SelfService;20260807
+46034;Eni Live;46.5150033;12.8657891;;;;Blue Diesel;2.499;Servito;20260808
+46034;Eni Live;46.5150033;12.8657891;;;;Blue Super;2.249;SelfService;20260808
+46034;Eni Live;46.5150033;12.8657891;;;;Blue Super;2.459;Servito;20260808
+46034;Eni Live;46.5150033;12.8657891;;;;Gasolio;2.189;SelfService;20260807
+46034;Eni Live;46.5150033;12.8657891;;;;Gasolio;2.399;Servito;20260808
 46189;Esso;45.6817891;13.4047546;;;Geff S.R.L.;Benzina;1.999;SelfService;20260807
 46189;Esso;45.6817891;13.4047546;;;Geff S.R.L.;Gasolio;2.099;SelfService;20260807
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Benzina;1.989;SelfService;20260808

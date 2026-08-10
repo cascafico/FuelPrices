@@ -251,8 +251,8 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 45262;IP;46.0519398;13.0500299;;;Geff S.R.L.;Benzina;1.959;SelfService;20260807;08
 45355;IP;45.8892316;13.3092598;;;Geff S.R.L.;Benzina;1.969;SelfService;20260807;08
 45703;IP;46.0334327;13.2459891;;;Kumar Mohit;Benzina;1.969;Servito;20260807;08
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;2.099;SelfService;20260808;08
-46034;IP;46.5150276;12.8657683;;;G.T S.N.C. di Reputin Vittorio e Bellondi Gianmaria;Benzina;2.309;Servito;20260808;09
+46034;Eni Live;46.5150033;12.8657891;;;;Benzina;2.099;SelfService;20260808;08
+46034;Eni Live;46.5150033;12.8657891;;;;Benzina;2.309;Servito;20260808;09
 46189;Esso;45.6817891;13.4047546;;;Geff S.R.L.;Benzina;1.999;SelfService;20260807;08
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Benzina;1.989;SelfService;20260808;08
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Benzina;2.041;Servito;20260808;08
