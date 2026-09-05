@@ -147,8 +147,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 28866;Eni;45.9019553;13.2576266;;;;Benzina;2.049;SelfService;20260831;08
 28866;Eni;45.9019553;13.2576266;;;;Benzina;2.259;Servito;20260831;09
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;2.089;SelfService;20260902;08
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;2.049;SelfService;20260826;08
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;2.149;Servito;20260826;08
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;2.055;Servito;20260829;08
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;2.055;SelfService;20260829;08
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.;Benzina;2.035;Servito;20260902;08

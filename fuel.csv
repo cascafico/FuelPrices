@@ -405,12 +405,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated
 28866;Eni;45.9019553;13.2576266;;;;Gasolio;2.379;Servito;20260831
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Benzina;2.089;SelfService;20260902
 29278;IP matic;45.8610524;13.4829701;;;Ip Services S.R.L.;Gasolio;2.189;SelfService;20260902
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina speciale;2.269;Servito;20260826
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;2.049;SelfService;20260826
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Benzina;2.149;Servito;20260826
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio speciale;2.269;Servito;20260826
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;2.159;SelfService;20260826
-29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A;Gasolio;2.259;Servito;20260826
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;2.055;Servito;20260829
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Benzina;2.055;SelfService;20260829
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.;Gasolio;2.195;Servito;20260829
