@@ -1,6 +1,4 @@
 ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;2.249;Servito;20260827;08
-10193;Esso;46.1525380;13.0089230;;;Ornella Michele;Gasolio;2.249;SelfService;20260827;08
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;2.164;SelfService;20260902;08
 10355;Eni Station;46.1092319;12.8885239;;;;Gasolio;2.374;Servito;20260902;09
 10819;Agip;45.9615074;12.9890621;;;Fratelli Sambucco S.N.C.;Gasolio;2.169;SelfService;20260902;08
@@ -134,8 +132,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.;Gasolio;2.239;SelfService;20260902;08
 26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;2.147;SelfService;20260903;08
 26915;Q8;46.0855850;12.9563570;;;Gaspardo Silvano & Serafini S.N.C.;Gasolio;2.317;Servito;20260903;09
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;2.149;SelfService;20260827;08
-27646;Q8;45.8276793;13.2384890;;;Ylli Service S.N.C. di Hasramaj Ylli e C.;Gasolio;2.329;Servito;20260827;09
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;2.139;Servito;20260902;08
 27651;IP;45.8893323;13.0354500;;;Degano Cesare;Gasolio;2.139;SelfService;20260902;08
 27995;IP;45.8114000;13.0052800;;;De Paoli Silvio & C. S.N.C.;Gasolio;2.169;Servito;20260903;08
@@ -256,7 +252,6 @@ ref;brand;lat;lon;;;operator;fuel;price;isself;updated;00
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.;Gasolio;2.221;Servito;20260903;08
 46396;Esso;46.4030586;13.0188957;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;2.179;SelfService;20260901;08
 46396;Esso;46.4030586;13.0188957;;;Mb.Service di Mella Nicola e Bearzi Michele S.N.C.;Gasolio;2.339;Servito;20260901;09
-46566;;45.9240300;12.9430100;;;Zanchetta Pietro;Gasolio;2.192;SelfService;20260827;08
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;2.219;Servito;20260902;08
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.;Gasolio;2.219;SelfService;20260902;08
 47011;IP;45.9423551;13.0591413;;;Geff S.R.L.;Gasolio;2.169;SelfService;20260903;08
