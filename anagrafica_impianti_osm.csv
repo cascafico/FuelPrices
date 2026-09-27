@@ -367,7 +367,7 @@
 39865;Agip Eni;46.5062992;13.4326378;;;Sabotha Bruna
 35330;;46.1000980;13.2062988;;;Stazione Eni di Mazza Giovanni
 ;Eni;45.9555204;12.4945187;;;Eni
-39170;Eni;45.7739387;13.0027119;;;
+;Enilive;45.7739387;13.0027119;;;
 ;A.F. Petroli;45.9522490;12.6991919;;;
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl
 4490;Noal Oil;45.9496893;12.7526472;;;Noaloil S.p.A.
@@ -521,4 +521,4 @@
 ;;46.0001260;13.2740277;;;
 ;;46.5149806;12.8658791;;;
 ;Eni Live Università;45.6580395;13.7946118;;;
-50952;;46.0645392;13.2120296;;;Favaro Giulio
+50952;Eni;46.0645371;13.2120337;;;Favaro Giulio
