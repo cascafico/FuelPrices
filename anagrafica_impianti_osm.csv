@@ -298,7 +298,6 @@
 47902;Oil Italia;46.5265771;13.0127002;;;Oil Italia S.R.L. Oil Italia Gmbh
 46566;;45.9240300;12.9430100;;;Zanchetta Pietro
 45355;IP;45.8892316;13.3092598;;;Geff S.R.L.
-;Eni;45.8739909;13.0001464;;;
 ;Stazione di servizio GNP - Fontanafredda;45.9718900;12.5580812;;;
 ;Stazione di servizio GNP - Pordenone;45.9693053;12.6306947;;;Gruppo Nord Petroli S.R.L.
 45333;Agip;46.4054953;13.2960821;;;Geff S.R.L.
@@ -343,7 +342,7 @@
 25825;IP;45.9498038;12.8823024;;;Ip Services S.R.L.
 11772;Q8;45.9178119;12.8661410;;;Servizi & Gestioni Italia S.R.L.
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele
-22248;Eni;45.8595076;12.9280675;;;Pilosio Silvio
+;Enilive;45.8595076;12.9280675;;;
 ;Eni;45.8503053;12.8819763;;;
 53345;Eni;45.8951665;13.3092124;;;Eni Palmanova
 12660;Agip;45.8781722;12.7792418;;;Sottil Giovanni
@@ -522,4 +521,5 @@
 ;;46.5149806;12.8658791;;;
 ;Eni Live Università;45.6580395;13.7946118;;;
 ;Energyca;45.9437786;12.4625422;;;Cima Servizi S.R.L.
+;Eni;45.8739726;12.9998807;;;
 50952;Eni;46.0645371;13.2120337;;;Favaro Giulio
