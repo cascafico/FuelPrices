@@ -2,7 +2,7 @@
 6986;IP;46.1706773;13.2061457;;;Jetrent S.R.L.
 49589;Agip;45.9375709;13.6166099;;;Diana Massimiliano
 25804;;45.8083860;13.4428020;;;Area Pieris di Ponzalli Roberto & Sellan Matteo S.N.C.
-19689;Agip;45.8054850;13.5091920;;;Bernardi di Bernardi G. & C. S.N.C.
+57759;Agip;45.8054850;13.5091920;;;GOGOTRANSFER di Andrea Buttignon
 50484;Agip;45.9279270;13.6132190;;;04130
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz
 4569;Agip;45.9759231;12.6883812;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
@@ -63,7 +63,6 @@
 24883;SMP;45.9386935;12.4973751;;;Sanson Alessandro
 11774;Q8;46.1066786;12.8996309;;;Servizi & Gestioni Italia S.R.L.
 30014;Tamoil;45.9723160;12.6821280;;;De Carlo Carlo di De Carlo Vania & C. S.N.C.
-37731;Tamoil;45.9687840;12.6154430;;;T.D.M. S.R.L.
 34369;Esso;45.9749276;12.6505677;;;Tesolin Fabio
 31589;Tamoil;46.1881286;13.1161660;;;Nuova Sidap S.R.L.
 40623;Eni;46.0630959;13.2273044;;;Filling Station Motel S.R.L.
@@ -89,13 +88,13 @@
 48108;Agip;46.0733050;13.2677610;;;Auto Metano Udine di Rosso Cristian & C S.A.S.
 9338;Petrol;45.9674240;12.9703690;;;Armani Marta
 26668;Esso;45.9698940;13.0010620;;;Uliana Mariano
-40199;Agip;45.9681560;12.5173940;;;Altoe' Enrico & C. S.N.C.
+44609;ENI SACILE;45.9681560;12.5173940;;;GEFF S.R.L.
 ;Agip;45.9100565;12.5182616;;;Agip
 24965;Esso;45.9518746;12.4892959;;;Pignat Guido Eredi S.N.C. di Pignat Guido e C.
-36231;Costantin;45.9599282;12.5096573;;;Costantin Distribuzione e Servizi Srl
+63354;Costantin;45.9599282;12.5096573;;;COMMERCIO PETROLI S.R.L.
 25395;Total;45.9922949;12.5450867;;;Eredi Della Gaspera Graziano S.N.C. di Della Gaspera Beatrice & C.
 13681;Agip;45.9777330;12.5748810;;;Fontanagomme di Del Ben Cristian & Carpene' Marinella S.N.C.
-6347;Agip;45.9865070;12.5880560;;;Car Gold S.A.S. di Bravin Giuliano & C.
+46714;ENI FONTANAFREDDA;45.9865070;12.5880560;;;FILIPPETTO 4 S.A.S. DI BORTOLIN ROSA SANTA & C.
 50747;ENI ENIMOV;45.6152860;13.7908860;;;Eni Fuel S.P.A.
 40869;Agip;45.9636925;12.6509826;;;La Perla S.N.C. di Mohammad Sajjad & C.
 24974;IP;45.9640212;12.6494279;;;Masutti Stefano
@@ -144,7 +143,7 @@
 49549;Eni;45.9905070;13.3653190;;;Eni Fuel S.P.A.
 5238;SMP;45.9889264;13.3972899;;;Smp Manzano
 21007;Agip;46.0145705;13.3879856;;;Autofficina di Chiappo Fausto
-26817;;45.7663296;13.1679058;;;C.M. di Formentin Italo & C. S.N.C.
+;Enilive;45.7663296;13.1679058;;;
 45255;IP;46.0824695;13.1737355;;;Kaur Amandeep
 ;IP;45.8215580;13.1344500;;;
 16077;IP;46.2006007;13.2642323;;;Migueletto Raul Guillermo
@@ -371,7 +370,6 @@
 36232;Stazione di servizio Costantin;45.9485076;12.7452559;;;Costantin Distribuzione e Servizi Srl
 4490;Noal Oil;45.9496893;12.7526472;;;Noaloil S.p.A.
 ;Conad;45.9729883;12.6160589;;;Conad
-34264;IP;45.7600752;13.1656390;;;A.F. Petroli S.p.A.
 40858;IP;46.0546117;13.2311691;;;Stazione di Servizio Fp di Fabrizio Pellizzari
 38811;Agip;46.0566485;13.2288645;;;Poci Hekuran
 50136;Conad;46.0826655;13.1784457;;;Spazio Conad Martignacco
@@ -404,7 +402,7 @@
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti
 58569;56062 Udine;46.0875018;13.2331962;;;Enimoov S.p.A.
 47089;Tamoil Stazione di servizio 6234;45.6862770;13.7476441;;;T.D.M. S.r.l.
-35586;IP;45.7994490;13.5277140;;;Ip Services S.R.L.
+58033;Italiana petroli;45.7994490;13.5277140;;;E-FUEL di Aldrigo Savino
 25830;IP;46.0739356;13.2025289;;;Ip Services S.R.L.
 19094;Esso;46.0741675;13.2042946;;;Grattoni Nicola & C. S.A.S.
 33288;Eni;46.0557960;13.2013045;;;Gestioni Innovative Italia S.R.L.
@@ -499,7 +497,7 @@
 ;;46.1486390;12.9891734;;;
 ;fiorenergy;45.8609819;12.7686517;;;
 22395;Esso;45.8022884;13.5474056;;;Bm Servizi S.A.S. di Tacchetto Bryan e Brienza Michele
-18877;Eni;45.8015824;13.5493015;;;Bidut Roberto - Impianto Agip Monfalcone
+57489;Eni;45.8015824;13.5493015;;;ENIMOOV S.P.A.
 ;;45.9594910;12.5024691;;;
 ;;46.0928690;13.1918718;;;
 26366;Tamoil;45.9530872;13.4361550;;;Autoservice 2000 di Cara Stefano & C. S.N.C.
@@ -522,4 +520,5 @@
 ;Eni Live Università;45.6580395;13.7946118;;;
 ;Energyca;45.9437786;12.4625422;;;Cima Servizi S.R.L.
 ;Eni;45.8739726;12.9998807;;;
+37731;Tamoil;45.9687828;12.6155669;;;T.D.M. S.R.L.
 50952;Eni;46.0645371;13.2120337;;;Favaro Giulio
