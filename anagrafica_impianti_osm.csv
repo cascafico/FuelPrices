@@ -5,6 +5,7 @@
 57759;Agip;45.8054850;13.5091920;;;GOGOTRANSFER di Andrea Buttignon
 50484;Agip;45.9279270;13.6132190;;;04130
 16668;Agip;45.9346690;13.6010740;;;Area 4133 S.N.C. di Sabrina Ponzalli e Paolo Macuz
+62555;Cormons Azzalini Energie;45.9588317;13.4638003;;;Oil Italia SRL
 4569;Agip;45.9759231;12.6883812;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
 3569;Agip;45.8825009;13.2582886;;;Buldo Orlando
 21064;Agip;45.9091920;12.5430560;;;Hoxha Bledar
@@ -208,7 +209,7 @@
 25021;;45.8501295;12.6276624;;;Populin Alfio Franco Massimo
 22362;Agip;46.2171130;12.7843069;;;Autoservice di Sandra Zatti & C. S.N.C.
 40287;Esso;46.1594723;12.7085605;;;F.lli Pontello Srl
-36522;IP;46.0205310;12.6210810;;;Singh Sukhjinder
+44604;Carburanti Gondal di Arif Saqlain;46.0205310;12.6210810;;;Carburanti Gondal di Arif Saqlain
 33588;IP;46.0101237;12.6246698;;;Ip Services S.R.L.
 4789;Agip;46.0409362;12.5092207;;;Donadel Orfeo Valentino
 30481;Eni;45.8418321;12.8124552;;;Som S.P.A.
@@ -318,7 +319,7 @@
 ;Esso;45.9814650;12.6456981;;;
 ;;45.9903683;12.8658414;;;
 ;;45.9705740;12.9884186;;;
-36519;ENI;45.9968815;12.6315413;;;Cki.Ara S.N.C. di Mazzon Maurizio
+50014;stazione di servizio ENI di Singh Manjeet;45.9968815;12.6315413;;;Singh Manjeet
 34172;IP;45.8881689;13.3536673;;;
 38706;Agip;45.8773018;13.3485401;;;Cescutti Daniela
 14213;Eni;46.2871495;13.1223732;;;Zamolo S.A.S. di Zamolo Giulio & C.
@@ -379,7 +380,7 @@
 45658;Trivengas;45.9151532;13.4677937;;;Ricciardi Giovanni
 14695;Tamoil;46.5110311;13.0021835;;;Moro Miria
 ;Eni;45.9720682;12.6426858;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
-42082;IP;45.9684435;12.5432526;;;Felequi -Gas SRL
+61143;SIA Fuel Sacile;45.9684435;12.5432526;;;SIA Fuel SRL
 47777;ESSO;45.6178992;13.8150263;;;Meva Società a Responsabilità Limitata Semplificata
 39462;J & J Service;45.6580271;13.7946352;;;Pitacco Ermanno
 46821;Tamoil;45.6553657;13.7762410;;;T.D.M. S.R.L.
