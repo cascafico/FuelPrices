@@ -4,7 +4,7 @@
 25804;;45.8083860;13.4428020;;;Area Pieris di Ponzalli Roberto & Sellan Matteo S.N.C.
 57759;Agip;45.8054850;13.5091920;;;GOGOTRANSFER di Andrea Buttignon
 50484;Agip;45.9279270;13.6132190;;;04130
-;Eni;45.9346690;13.6010740;;;
+;Enilive;45.9346690;13.6010740;;;
 62555;Cormons Azzalini Energie;45.9588317;13.4638003;;;Oil Italia SRL
 4569;Agip;45.9759231;12.6883812;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
 3569;Agip;45.8825009;13.2582886;;;Buldo Orlando
@@ -13,7 +13,7 @@
 17047;IP;46.1659480;12.7089930;;;F.lli Pontello Srl
 22957;Tamoil;46.1711200;12.7124580;;;Butto' Maurizio & C. S.A.S.
 30256;Agip;46.1584008;12.7196619;;;Mazzoli Stefano
-17054;Agip;46.1853970;12.7665580;;;F.lli Pontello Srl
+59181;Cavasso Nuovo - Pontello;46.1853970;12.7665580;;;Pontello Andrea
 7481;Esso;45.9638050;12.6503506;;;Tesolin Fabio
 39250;Agip;46.1165431;12.8904309;;;Servizi Innovativi Nord Est S.R.L.
 34623;Fly;46.1591415;12.8870272;;;Liva Snc di Liva Federico & C.
@@ -119,7 +119,7 @@
 50899;Agip;46.0248633;13.1684443;;;fratelli Rinaldi S.N.C. di Matteo e Paolo Rinaldi
 46269;gdp;45.8143277;13.3400109;;;Gdp S.R.L.- Cervignano Del F.
 17552;Esso;46.0908191;13.4158393;;;Superfast Esso di Roiatti Roberto & C. S.A.S.
-31614;Agip;46.0826080;13.3927630;;;Servizi Innovativi Nord Est S.R.L.
+55592;Pv 53568;46.0826080;13.3927630;;;Gestioni Innovative Italia S.r.l..
 41156;Agip;46.0923845;13.4202953;;;Costaperaria Monica
 9575;Tamoil;45.9652460;12.9644680;;;Tigi S.A.S. di Tribos Giovanni & C.
 13689;Eni;45.9459880;12.9767420;;;Pituello Stefano
@@ -190,7 +190,7 @@
 10570;IP;46.5273540;13.1192850;;;Matiz Alberto
 41312;Agip;46.2812707;13.0806717;;;Be.Oil di Fabbro Edoardo & C. S.A.S.
 37480;San Marco Petroli;45.9036873;13.1818526;;;
-18967;IP;45.8193190;13.4762330;;;Schiavini Giorgio & Roberto S.N.C.
+59543;Ip;45.8193190;13.4762330;;;Alfa S.N.C. di Pilenga Lorenzo e Fabrizio
 6807;Total;45.9442569;12.8356969;;;Marinacci Renato
 48516;Esso;45.7712330;13.6371781;;;
 17950;Prealpi;45.9265430;12.5520090;;;Prealpi S.R.L.
@@ -227,9 +227,9 @@
 51155;IP;46.0970857;13.1972654;;;Virk Petrolio di Waseem Hayat
 30039;OIL;45.8177495;13.4377002;;;Azzalini Mario & C. - S.A.S.
 11607;Q8 Easy;45.8303280;13.5003754;;;
-24264;Tamoil;45.9355997;13.6003351;;;Der-W di Rizzi Manuel
+63552;Azzalini Gorizia;45.9355997;13.6003351;;;Oil Italia S.r.l.
 35273;;46.0296771;13.2843260;;;Auto Metano Udine di Rosso Cristian & C. S.A.S.
-22912;;46.0819070;13.4240359;;;Fantini Giuseppe
+59139;Ip Geff Cividale 41986;46.0819070;13.4240359;;;Geff S.r.l.
 ;Api - nautico;45.6997821;13.1443096;;;
 9342;Oil Italia;45.7512863;13.6690189;;;Viola Ettore
 29654;KV;45.8795934;13.4653178;;;Vanello Eugenio & Figli S.P.A
@@ -269,7 +269,7 @@
 ;;45.6498158;13.0929175;;;
 37517;IP;46.4174600;12.5847248;;;D'Andrea Stefano
 39070;Repsol;46.0989350;12.8540039;;;Matcu Diana
-31382;;46.1035320;12.7501877;;;Som S.P.A.
+45710;Eni Dandolo di Maniago;46.1035320;12.7501877;;;Geff S.r.l.
 33926;;45.9895436;13.0627012;;;S.I.A. Engineering Construction S.R.L.
 7283;Q8;45.8223266;13.2149654;;;Servizi & Gestioni Italia S.R.L.
 40564;;46.1824247;12.8776565;;;Zanet Marietto & C. S.N.C.
@@ -344,7 +344,7 @@
 21505;IP;46.0457107;12.8667227;;;Collaviti Gabriele
 ;Enilive;45.8595076;12.9280675;;;
 ;Eni;45.8503053;12.8819763;;;
-53345;Eni;45.8951665;13.3092124;;;Eni Palmanova
+;Enilive;45.8951665;13.3092124;;;
 12660;Agip;45.8781722;12.7792418;;;Sottil Giovanni
 6023;Tamoil;45.8609664;12.7687538;;;Fiorenergy S.R.L.
 31772;Agip;45.8087642;12.6786893;;;Kiryeyev Sergiy
@@ -377,7 +377,7 @@
 5023;Termoveneta;45.9751705;12.4858614;;;Termoveneta S.R.L.
 48159;Q8;45.8028471;13.4849344;;;Servizi & Gestioni Italia S.R.L.
 23443;Q8 Easy;46.0941596;13.2250342;;;Servizi & Gestioni Italia S.R.L.
-45658;Trivengas;45.9151532;13.4677937;;;Ricciardi Giovanni
+59670;Trivengas;45.9151532;13.4677937;;;Ricciardi Giovanni
 14695;Tamoil;46.5110311;13.0021835;;;Moro Miria
 ;Eni;45.9720682;12.6426858;;;Fratelli Favaro S.N.C. di Favaro Claudio e Favaro Marco
 61143;SIA Fuel Sacile;45.9684435;12.5432526;;;SIA Fuel SRL
@@ -397,7 +397,7 @@
 11893;Q8;45.6418319;13.7572249;;;Servizi & Gestioni Italia S.R.L.
 11891;Q8;45.6382831;13.7653400;;;Servizi & Gestioni Italia S.R.L.
 38733;Eni;45.6285979;13.7815055;;;Radin Davide
-4803;Eni;46.1636778;12.7941761;;;Da Prat Antonio
+62339;Q8 2523 - Arba;46.1636778;12.7941761;;;Geff S.r.l.
 13872;Tamoil;46.0367069;13.2462681;;;Tiemme Service S.A.S. di Tribos Daniele Sebastiano & C.
 45703;IP;46.0334327;13.2459891;;;Kumar Mohit
 38336;Esso;46.0641688;13.2125243;;;Gasoline di Andrea De Benedetti
@@ -478,7 +478,7 @@
 ;;45.9404397;13.0786805;;;
 11908;Q8;45.6693113;13.0945649;;;Servizi & Gestioni Italia S.R.L.
 ;IP;45.8888609;13.4454858;;;M 2 S.A.S. di Savino Aldrigo & C.
-26733;Eni;45.8296557;13.3315143;;;Veca S.A.S. di Caprioli Antonio & C.
+;Enilive;45.8296557;13.3315143;;;
 ;;46.1184722;13.2174634;;;
 ;;46.1500449;13.2202098;;;
 26623;IP;45.8062798;13.3559029;;;Dijust Salvore
@@ -505,7 +505,7 @@
 30744;IP;45.9044736;13.5371580;;;Ip Services S.R.L.
 ;;45.8114404;13.0053647;;;
 14823;Eni;45.8403038;13.4934857;;;Ricciardi Antonio
-48406;IP;45.9366623;13.5845301;;;M 2 S.A.S. di Savino Aldrigo & C.
+55275;Ip;45.9366623;13.5845301;;;Rompu Constantin
 ;;45.9623971;12.7679925;;;
 ;;46.0294673;13.2842212;;;
 26099;Esso;45.6116015;13.8193627;;;Grs di Samuel Chiaruttini & C. S.A.S.
